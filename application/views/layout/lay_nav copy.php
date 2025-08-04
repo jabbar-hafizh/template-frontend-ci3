@@ -26,33 +26,35 @@
     </li>
     <hr class="sidebar-divider my-0">
 
+  <?php if ($this->session->userdata('role') === 'admin'): ?>
     <!-- Menu Khusus Admin -->
      <li class="nav-item">
-      <a class="nav-link" href="<?= base_url('irwilempatadmin'); ?>">
+      <a class="nav-link" href="<?= base_url('irwilsatu'); ?>">
         <i class="fas fa-fw fa-edit"></i>
         <span>Inspektur Wilayah I</span></a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="<?= base_url('irwilempatadmin'); ?>">
+      <a class="nav-link" href="<?= base_url('irwildua'); ?>">
         <i class="fas fa-fw fa-edit"></i>
         <span>Inspektur Wilayah II</span></a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="<?= base_url('irwilempatadmin'); ?>">
+      <a class="nav-link" href="<?= base_url('irwiltiga'); ?>">
         <i class="fas fa-fw fa-edit"></i>
         <span>Inspektur Wilayah III</span></a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="<?= base_url('irwilempatadmin'); ?>">
+      <a class="nav-link" href="<?= base_url('irwilempat'); ?>">
         <i class="fas fa-fw fa-edit"></i>
         <span>Inspektur Wilayah IV</span></a>
     </li>  
-    <!-- <li class="nav-item">
+    <li class="nav-item">
       <a class="nav-link" href="<?= base_url('laporan'); ?>">
         <i class="fas fa-fw fa-file-alt"></i>
         <span>Data Laporan</span></a>
-    </li>   -->
+    </li>  
   <!-- Menu Guest -->
+  <?php else: ?>
     <li class="nav-item">
       <a class="nav-link" href="<?= base_url('irwilsatu'); ?>">
         <i class="fas fa-fw fa-chart-area"></i>
@@ -73,6 +75,7 @@
         <i class="fas fa-fw fa-chart-area"></i>
         <span>Inspektur Wilayah IV</span></a>
     </li>  
+  <?php endif; ?>
 
 
 

@@ -39,11 +39,11 @@
         </div>
       </h3>
       <div class="card-header bg-gradient-primary"; style="border-radius: calc(0.35rem - 1px) calc(0.35rem - 1px) calc(0.35rem - 1px) calc(0.35rem - 1px)">
-        <h5 style="color: white; display: flex; align-items: center; justify-content: center;">INDIKATOR KINERJA BADAN PENGAWASAN</h5>
+        <h5 style="color: white; display: flex; align-items: center; justify-content: center;">INDIKATOR KINERJA INSPEKTUR WILAYAH IV - BADAN PENGAWASAN</h5>
       </div>
     </div>
     
-    <!-- Sasaran Program 1 -->
+    <!-- Content Column -->
       <div class="col-lg-12">
         <!-- Project Card Example -->
         <div class="card shadow mb-4">
@@ -64,73 +64,78 @@
       </div>
       
       <div class="col-lg-12">
-        <!-- Sasaran Program 2 -->
+        <!-- Project Card Example -->
         <div class="card shadow mb-4">
           <a href="#collapseCardExample2" class="d-block card-header py-3 collapse collapsed" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapseCardExample2">
             <h6 class="m-0 font-weight-bold text-primary">Sasaran Program : Meningkatnya Tingkat Keyakinan Dan Kepercayaan Publik</h6>
           </a>
           <div class="collapse" id="collapseCardExample2">
             <div class="card-body text-gray-900">
-              <h7 class="large font-weight-bold">Persentase Penanganan Pengaduan Masyarakat Yang Ditindaklanjuti Tepat Waktu<span class="float-right">Target : 98%</span></h7>
-              <p class="small p-1 mb-0">Jumlah Pengaduan Yang Ditindaklanjuti Tepat Waktu : <span>1000</span> | Total Pengaduan Yang Masuk : <span>1000</span> <span class="float-right">20%</span></p>
-              <div class="progress mb-4">
-                <div class="progress-bar bg-danger" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-              <h7 class="large font-weight-bold">Persentase Rekomendasi Hasil Pengawasan Yang Ditindaklajuti<span class="float-right">Target : 93%</span></h7>
-              <p class="small p-1 mb-0">Jumlah Rekomendasi Temuan Yang Ditindaklanjuti: <span>1000</span> | Total Rekomendasi Temuan : <span>1000</span> <span class="float-right">40%</span></p>
-              <div class="progress mb-4">
-                <div class="progress-bar bg-warning" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-              <h7 class="large font-weight-bold">Persentase Ketepatan Waktu Pelaksanaan Penjatuhan Sanksi/Hukuman Disiplin Di Lingkungan Mahkamah Agung RI<span class="float-right">Target : 100%</span></h7>
-              <p class="small p-1 mb-0">Jumlah Penjatuhan Sanksi/Hukuman Disiplin Yang Tepat Waktu : <span>1000</span> | Total Laporan Hasil Pemeriksaan : <span>1000</span> <span class="float-right">60%</span></p>
-              <div class="progress mb-4">
-                <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-              <h7 class="large font-weight-bold">Persentase Unit Pengawasan Daerah/Bidang Yang Telah Melaksanakan Pengawasan Berbasis TIK<span class="float-right">Target : 2.63%</span></h7>
-              <p class="small p-1 mb-0">Jumlah Rekomendasi UPD/B Yang Selesai Ditindaklanjuti : <span>1000</span> | Total Rekomendasi UPD/B : <span>1000</span> <span class="float-right">80%</span></p>
-              <div class="progress mb-4">
-                <div class="progress-bar bg-info" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
               <h7 class="large font-weight-bold">Indeks Survei Penilaian Integritas (SPI) Mahkamah Agung RI<span class="float-right">Target : 75</span></h7>
               <p class="small p-1 mb-0">Nilai Indeks SPI Yang Diperoleh : <span>100</span> <span class="float-right">75/100</span></p>
               <div class="progress mb-4">
-                <div class="progress-bar bg-success" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar bg-danger" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
               <h7 class="large font-weight-bold">Indeks Kepatuhan Dan Pelaporan LHKPN<span class="float-right">Target : 98%</span></h7>
               <p class="small p-1 mb-0">Nilai Indeks Kepatuhan Dan Pelaporan LHKPN Yang Diperoleh : <span>100</span><span class="float-right">80%</span></p>
               <div class="progress mb-4">
-                <div class="progress-bar bg-danger" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar bg-warning" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+              <h7 class="large font-weight-bold">Persentase Penanganan Pengaduan Masyarakat Yang Ditindaklanjuti Tepat Waktu<span class="float-right">Target : 98%</span></h7>
+              <p class="small p-1 mb-0">Jumlah Pengaduan Yang Ditindaklanjuti Tepat Waktu : <span>1000</span> | Total Pengaduan Yang Masuk : <span>1000</span> <span class="float-right">20%</span></p>
+              <div class="progress mb-4">
+                <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+              <h7 class="large font-weight-bold">Persentase Rekomendasi Hasil Pengawasan Yang Ditindaklajuti<span class="float-right">Target : 93%</span></h7>
+              <p class="small p-1 mb-0">Jumlah Rekomendasi Temuan Yang Ditindaklanjuti: <span>1000</span> | Total Rekomendasi Temuan : <span>1000</span> <span class="float-right">40%</span></p>
+              <div class="progress mb-4">
+                <div class="progress-bar bg-info" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
               <h7 class="large font-weight-bold">Persentase Tindak Lanjut Rekomendasi BPK<span class="float-right">Target : 100%</span></h7>
-              <p class="small p-1 mb-0">Jumlah Rekomendasi Temuan BPK Yang Ditindaklanjuti : <span>1000</span> | Total Rekomendasi Temuan BPK : <span>1000</span> <span class="float-right">100%</span></p>
+              <p class="small p-1 mb-0">Jumlah Rekomendasi Temuan BPK Yang Ditindaklanjuti: <span>1000</span> | Total Rekomendasi Temuan BPK : <span>1000</span> <span class="float-right">100%</span></p>
               <div class="progress mb-4">
-                <div class="progress-bar bg-warning" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar bg-success" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
               <h7 class="large font-weight-bold">Nilai Evaluasi Implementasi Program Pengendalian Gratifikasi Mahkamah Agung RI<span class="float-right">Target : 75</span></h7>
               <p class="small p-1 mb-0">Nilai Evaluasi Implementasi Program Pengendalian Gratifikasi Yang Diperoleh : <span>0</span><span class="float-right">0/100</span></p>              
               <div class="progress mb-4">
+                <div class="progress-bar bg-danger" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+              <h7 class="large font-weight-bold">Indeks Kepuasan Layanan Badan Pengawasan<span class="float-right">Target : 3.84</span></h7>
+              <p class="small p-1 mb-0">Total Seluruh Nilai Persepsi : <span>1000 </span>| Total Unsur Yang Terisi : <span>1000</span> </p> 
+              <p class="small p-1 mb-0">Nilai Penimbang : <span>1000 </span><span class="float-right">4</span></p>
+              <div class="progress mb-4">
+                <div class="progress-bar bg-warning" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+              <h7 class="large font-weight-bold">Jumlah Pedoman Pengawasan<span class="float-right">Target : 3 Pedoman</span></h7>
+              <p class="small p-1 mb-0">Jumlah Pedoman Pengawasan Yang Diterbitkan : <span></span>0</span><span class="float-right">0/6</span></p>
+              <div class="progress mb-4">
                 <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
-              <h7 class="large font-weight-bold">Jumlah Inisiatif Pengawasan Berbasis Continuous Audit<span class="float-right">Target : 1 Dokumen</span></h7>
-              <p class="small p-1 mb-0">Jumlah Dokumen Roadmap CMCA Selesai Dibuat : <span>0</span><span class="float-right">1</span></p> 
+              <h7 class="large font-weight-bold">Persentase Satuan Kerja Yang Memperoleh Sertifikat SMAP<span class="float-right">Target : 60%</span></h7>
+              <p class="small p-1 mb-0">Jumlah Satuan Kerja Memperoleh Sertifikat SMAP : <span></span>0 </span>| Total Seluruh Satuan Kerja Di Indonesia: <span>1000</span><span class="float-right">60%</span></p>
               <div class="progress mb-4">
                 <div class="progress-bar bg-info" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
-              <h7 class="large font-weight-bold">Indeks Kepuasan Layanan Badan Pengawasan<span class="float-right">Target : 3.84</span></h7>
-              <p class="small p-1 mb-0">Jumlah Seluruh Nilai Persepsi : <span>1000 </span>| Total Unsur Yang Terisi : <span>1000</span> </p> 
-              <p class="small p-1 mb-0">Nilai Penimbang : <span>1000 </span><span class="float-right">4</span></p>
+              <h7 class="large font-weight-bold">Persentase Satuan Kerja Yang Memperoleh Predikat WBK Atau WBBM<span class="float-right">Target : 20%</span></h7>
+              <p class="small p-1 mb-0">Jumlah Satuan Kerja Memperoleh Predikat WBK/WBBM: <span></span>0 </span>| Total Seluruh Satuan Kerja Di Indonesia: <span>1000</span><span class="float-right">20%</span></p>
               <div class="progress mb-4">
                 <div class="progress-bar bg-success" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
-              <h7 class="large font-weight-bold">Jumlah Pedoman Pengawasan<span class="float-right">Target : 6 Pedoman</span></h7>
-              <p class="small p-1 mb-0">Jumlah Pedoman Pengawasan Yang Diterbitkan : <span></span>0</span><span class="float-right">0/6</span></p>
+              <h7 class="large font-weight-bold">Jumlah Hasil Profiling Aparatur Peradilan Melalui Mystery Shopping<span class="float-right">Target : 500 Aparatur</span></h7>
+              <p class="small p-1 mb-0">Hasil Profiling : <span></span>0</span><span class="float-right">0/500</span></p>
               <div class="progress mb-4">
                 <div class="progress-bar bg-danger" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
-              <h7 class="large font-weight-bold">Jumlah Rekomendasi Kebijakan Hasil Pengawasan<span class="float-right">Target : 1 Dokumen</span></h7>
-              <p class="small p-1 mb-0">Jumlah Rekomendasi Kebijakan Hasil Pengawasan Yang Diserahkan : <span>0</span><span class="float-right">0/1</span></p>
+              <h7 class="large font-weight-bold">Jumlah Laporan Penegakan Integritas Aparatur Di Mahkamah Agung Yang Dilakukan Tim Satgasus<span class="float-right">Target : 12 Laporan</span></h7>
+              <p class="small p-1 mb-0">Jumlah Laporan Yang Diterbitkan : <span></span>0</span><span class="float-right">0/12</span></p>
               <div class="progress mb-4">
                 <div class="progress-bar bg-warning" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+              <h7 class="large font-weight-bold">Jumlah Naskah Kebijakan<span class="float-right">Target : 1 Dokumen</span></h7>
+              <p class="small p-1 mb-0">Jumlah Naskah Kebijakan Yang Diserahkan : <span>0</span><span class="float-right">0/1</span></p>
+              <div class="progress mb-4">
+                <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
           </div> 

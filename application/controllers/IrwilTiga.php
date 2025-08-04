@@ -1,14 +1,14 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Profil extends CI_Controller {
+class IrwilTiga extends CI_Controller {
 
-    function index()
+    function index(): void
 	{
-		$data['title'] = 'Profil';
+		$data['title'] = 'E-MONEV';
 		$this->load->view('layout/lay_header', $data);
 		$this->load->view('layout/lay_nav');
-		$this->load->view('profil');
+		$this->load->view('irwil_tiga');
         $this->load->view('layout/lay_footer');
 	}
 }
