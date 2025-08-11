@@ -35,7 +35,7 @@
  * @since	Version 3.0.0
  * @filesource
  */
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
 /**
  * SessionHandlerInterface
@@ -48,12 +48,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @author	Andrey Andreev
  * @link	https://codeigniter.com/user_guide/libraries/sessions.html
  */
-interface SessionHandlerInterface {
+interface SessionHandlerInterface
+{
 
+
+	#[\ReturnTypeWillChange]
 	public function open($save_path, $name);
+	#[\ReturnTypeWillChange]
 	public function close();
+	#[\ReturnTypeWillChange]
 	public function read($session_id);
+	#[\ReturnTypeWillChange]
 	public function write($session_id, $session_data);
+	#[\ReturnTypeWillChange]
 	public function destroy($session_id);
+	#[\ReturnTypeWillChange]
 	public function gc($maxlifetime);
 }
