@@ -45,101 +45,139 @@ class Admin extends CI_Controller
     }
     public function simpan_data()
     {
-        // Load library dan helper yang dibutuhkan
         $this->load->library('upload');
-        $this->load->database();
 
-        $tahun_periode = $this->input->post('tahun_periode', true);
+        $tahun = $this->input->post('tahun_periode', true);
         $periode = $this->input->post('periode', true);
-        $user_id = $this->session->userdata('user_id'); // pastikan sudah login
+        $user_id = $this->session->userdata('user_id');
 
-        // Mulai transaksi
         $this->db->trans_start();
 
-        // 1️⃣ Upload file laporan (bisa multiple)
-        $uploaded_files = [];
-        // if (!empty($_FILES['file_pendukung']['name'][0])) {
-        //     $files = $_FILES;
-        //     $count = count($_FILES['file_pendukung']['name']);
+        $touchedIK = [];
 
-        //     for ($i = 0; $i < $count; $i++) {
-        //         $_FILES['file_pendukung']['name'] = $files['file_pendukung']['name'][$i];
-        //         $_FILES['file_pendukung']['type'] = $files['file_pendukung']['type'][$i];
-        //         $_FILES['file_pendukung']['tmp_name'] = $files['file_pendukung']['tmp_name'][$i];
-        //         $_FILES['file_pendukung']['error'] = $files['file_pendukung']['error'][$i];
-        //         $_FILES['file_pendukung']['size'] = $files['file_pendukung']['size'][$i];
-
-        //         $config['upload_path'] = './uploads/laporan/';
-        //         $config['allowed_types'] = 'jpg|jpeg|png|gif|pdf|zip|rar';
-        //         $config['max_size'] = 5120; // 5MB
-        //         $config['encrypt_name'] = true;
-
-        //         $this->upload->initialize($config);
-
-        //         if ($this->upload->do_upload('file_pendukung')) {
-        //             $data_upload = $this->upload->data();
-        //             $uploaded_files[] = $data_upload['file_name'];
-        //         } else {
-        //             // Jika gagal upload
-        //             $this->session->set_flashdata('error', $this->upload->display_errors());
-        //             redirect('dashboard'); // atau halaman form
-        //         }
-        //     }
-        // }
-
-        // 2️⃣ Simpan nilai indikator
-        foreach ($_POST as $key => $value) {
+        // === Simpan nilai indikator_data ===
+        foreach ($this->input->post() as $key => $value) {
             if (strpos($key, 'indikator_') === 0) {
-                $indikator_data_id = str_replace('indikator_', '', $key);
+                $indikator_data_template_id = str_replace('indikator_', '', $key);
+
+                if (trim((string) $value) === '') {
+                    continue;
+                }
+
                 $nilai = (float) $value;
 
-                // Log: mulai cek data indikator
-                log_message('debug', "Cek indikator_data id=$indikator_data_id, periode=$periode");
+                // Ambil indikator_kinerja_id dari template indikator_data
+                $row_template = $this->db
+                    ->get_where('indikator_data', ['id' => $indikator_data_template_id])
+                    ->row();
 
-                // Cek apakah data indikator dengan id dan periode sudah ada
+                if (!$row_template) {
+                    log_message('error', "Template indikator_data id={$indikator_data_template_id} tidak ditemukan");
+                    continue;
+                }
+
+                $indikator_kinerja_id = $row_template->indikator_kinerja_id;
+
+                // Simpan indikator_kinerja_id yang disentuh
+                $touchedIK[$indikator_kinerja_id] = true;
+
+                // Cek apakah baris periodik + nama ini sudah ada
                 $cek = $this->db
-                    ->where('id', $indikator_data_id)
+                    ->where('indikator_kinerja_id', $indikator_kinerja_id)
                     ->where('periode', $periode)
+                    ->where('tahun', $tahun)
+                    ->where('nama', $row_template->nama)
                     ->get('indikator_data')
                     ->row();
 
                 if ($cek) {
-                    // Log: update data indikator
-                    log_message('debug', "Update indikator_data id=$indikator_data_id dengan nilai=$nilai dan periode=$periode");
-
-                    // Data sudah ada, update nilai dan periode
-                    $this->db->where('id', $indikator_data_id);
-                    $this->db->update('indikator_data', [
+                    $this->db->where('id', $cek->id)->update('indikator_data', [
                         'nilai' => $nilai,
-                        'periode' => $periode
+                        'updated_at' => date('Y-m-d H:i:s'),
                     ]);
-                    $indikator_kinerja_id = $cek->indikator_kinerja_id;
                 } else {
-                    // Log: insert data indikator baru
-                    log_message('debug', "Insert indikator_data baru berdasarkan id asli $indikator_data_id dengan nilai=$nilai dan periode=$periode");
-
-                    // Data belum ada, insert baru
-                    // Ambil indikator_kinerja_id dulu dari data indikator yang asli (bukan filtered by periode)
-                    $indikator_data_asli = $this->db->get_where('indikator_data', ['id' => $indikator_data_id])->row();
-
-                    if ($indikator_data_asli) {
-                        $indikator_kinerja_id = $indikator_data_asli->indikator_kinerja_id;
-
-                        $this->db->insert('indikator_data', [
-                            'nama' => $indikator_data_asli->nama,
-                            'indikator_kinerja_id' => $indikator_kinerja_id,
-                            'nilai' => $nilai,
-                            'periode' => $periode
-                        ]);
-                    } else {
-                        log_message('error', "Data indikator_data asli dengan id $indikator_data_id tidak ditemukan");
-                    }
+                    $this->db->insert('indikator_data', [
+                        'nama' => $row_template->nama,
+                        'indikator_kinerja_id' => $indikator_kinerja_id,
+                        'periode' => $periode,
+                        'tahun' => $tahun,
+                        'nilai' => $nilai,
+                        'created_at' => date('Y-m-d H:i:s'),
+                    ]);
                 }
             }
         }
 
+        // === Hitung hasil berdasarkan formula di tabel indikator_kinerja ===
+        foreach (array_keys($touchedIK) as $ikId) {
+            $ikRow = $this->db->get_where('indikator_kinerja', ['id' => $ikId])->row();
+            if (!$ikRow)
+                continue;
 
-        // Selesaikan transaksi
+            $formula = trim((string) $ikRow->formula);
+            $hasil = null;
+
+            // Ambil semua indikator_data sesuai periode + tahun
+            $dataRows = $this->db
+                ->where('indikator_kinerja_id', $ikId)
+                ->where('periode', $periode)
+                ->where('tahun', $tahun)
+                ->order_by('id', 'ASC')
+                ->get('indikator_data')
+                ->result();
+
+            $values = [];
+            $i = 1;
+            foreach ($dataRows as $row) {
+                $values[$i] = (float) $row->nilai;
+                $i++;
+            }
+
+            if ($formula !== '') {
+                $parsed = $formula;
+                foreach ($values as $index => $val) {
+                    $parsed = str_replace('{' . $index . '}', $val, $parsed);
+                }
+
+                if (preg_match('/^[0-9\.\+\-\*\/\(\)\s]+$/', $parsed)) {
+                    try {
+                        eval ('$hasil = ' . $parsed . ';');
+                    } catch (\Throwable $e) {
+                        log_message('error', "Eval gagal untuk indikator_kinerja id={$ikId}, formula={$parsed}");
+                        $hasil = null;
+                    }
+                }
+            } else {
+                // fallback → rata-rata
+                $total = array_sum($values);
+                $count = count($values);
+                $hasil = $count > 0 ? $total / $count : null;
+            }
+
+            // === Simpan hasil ke tabel indikator_hasil ===
+            $cekHasil = $this->db
+                ->where('indikator_kinerja_id', $ikId)
+                ->where('periode', $periode)
+                ->where('tahun', $tahun)
+                ->get('indikator_hasil')
+                ->row();
+
+            if ($cekHasil) {
+                $this->db->where('id', $cekHasil->id)->update('indikator_hasil', [
+                    'hasil' => $hasil,
+                    'updated_at' => date('Y-m-d H:i:s'),
+                ]);
+            } else {
+                $this->db->insert('indikator_hasil', [
+                    'indikator_kinerja_id' => $ikId,
+                    'periode' => $periode,
+                    'tahun' => $tahun,
+                    'hasil' => $hasil,
+                    'created_at' => date('Y-m-d H:i:s'),
+                ]);
+            }
+        }
+
         $this->db->trans_complete();
 
         if ($this->db->trans_status() === false) {
@@ -148,9 +186,8 @@ class Admin extends CI_Controller
             $this->session->set_flashdata('success', 'Data berhasil disimpan.');
         }
 
-        redirect('dashboard'); // atau halaman lain sesuai
+        redirect('dashboard');
     }
-
     // Tambahkan method ini untuk memanggil model
     private function get_sasaran_program($unit_kerja = null)
     {

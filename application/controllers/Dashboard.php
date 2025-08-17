@@ -45,7 +45,7 @@ class Dashboard extends CI_Controller
 
             foreach ($indikator as $ik) {
                 $data_indikator = $this->db
-                    ->select('id, nama, nilai, hasil')
+                    ->select('id, nama, nilai')
                     ->where('indikator_kinerja_id', $ik->id)
                     ->get('indikator_data')
                     ->result();
@@ -55,7 +55,7 @@ class Dashboard extends CI_Controller
 
                 foreach ($data_indikator as $data) {
                     $total_nilai += $data->nilai;
-                    $total_hasil += $data->hasil;
+                    $total_hasil += $data->nilai;
                 }
 
                 $ik->persentase = ($total_hasil > 0)

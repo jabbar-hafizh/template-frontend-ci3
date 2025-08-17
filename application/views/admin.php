@@ -15,46 +15,31 @@
           </h5>
         </div>
       </div>
+    </div>
 
-      <!-- Upload File Laporan-->
-      <div class="col-lg-12">
-        <div class="card shadow mb-4">
-          <div class="card-header bg-gradient-primary font-weight-bold text-white">
-            Upload File Laporan
-          </div>
-          <div class="card-body">
-            <div class="form-group row">
-              <!-- Tahun Periode -->
-              <div class="col-md-6">
-                <label class="font-weight-bold m-2">Tahun Periode</label>
-                <select name="tahun_periode" class="custom-select custom-select-sm">
-                  <option value="2025">2025</option>
-                  <option value="2024">2024</option>
-                </select>
-              </div>
+    <div class="form-group row mb-4">
 
-              <!-- Periode -->
-              <div class="col-md-6">
-                <label class="font-weight-bold m-2">Periode</label>
-                <select name="periode" class="custom-select custom-select-sm">
-                  <option value="Triwulan I">Triwulan I</option>
-                  <option value="Triwulan II">Triwulan II</option>
-                  <option value="Triwulan III">Triwulan III</option>
-                  <option value="Triwulan IV">Triwulan IV</option>
-                  <option value="Semester I">Semester I</option>
-                  <option value="Semester II">Semester II</option>
-                  <option value="Tahunan">Tahunan</option>
-                </select>
-              </div>
-            </div>
-            <h8 class="m-2 font-weight-bold">File Laporan <span class="text-danger">*</span></h8>
-            <div class="form-group">
-              <input type="file" name="file_pendukung[]" multiple class="form-control form-control-user"
-                accept="image/png, image/gif, image/jpeg, application/pdf, application/zip, application/x-rar-compressed, .zip, .rar">
-              <small class="m-2 text-muted">Upload File Laporan Sesuai Periode Pengisian</small>
-            </div>
-          </div>
-        </div>
+      <!-- Tahun Periode -->
+      <div class="col-md-6">
+        <label class="font-weight-bold m-2">Tahun Periode</label>
+        <select name="tahun_periode" class="custom-select custom-select-sm">
+          <option value="2025" <?= (isset($_POST['tahun_periode']) && $_POST['tahun_periode'] == '2025') ? 'selected' : '' ?>>2025</option>
+          <option value="2024" <?= (isset($_POST['tahun_periode']) && $_POST['tahun_periode'] == '2024') ? 'selected' : '' ?>>2024</option>
+        </select>
+      </div>
+
+      <!-- Periode -->
+      <div class="col-md-6">
+        <label class="font-weight-bold m-2">Periode</label>
+        <select name="periode" id="filterPeriode" class="custom-select custom-select-sm">
+          <?php
+          $periode_options = ['Triwulan I', 'Triwulan II', 'Triwulan III', 'Triwulan IV', 'Semester I', 'Semester II', 'Tahunan'];
+          $selected_periode = $_POST['periode'] ?? $periode_options[0];
+          foreach ($periode_options as $opt):
+            ?>
+            <option value="<?= $opt ?>" <?= ($selected_periode == $opt) ? 'selected' : '' ?>><?= $opt ?></option>
+          <?php endforeach; ?>
+        </select>
       </div>
     </div>
 
@@ -66,33 +51,32 @@
             <div class="card-header bg-gradient-primary font-weight-bold text-white">
               Sasaran Program : <?= $sp->sp_nama ?>
             </div>
-
             <div class="card-body">
-              <?php $i = 1;
-              foreach ($sp->indikator as $ik): ?>
-                <a href="#collapseCard<?= $sp->sp_id ?>-<?= $ik->id ?>"
-                  class="m-2 d-block card-header py-3 collapse collapsed" data-toggle="collapse" role="button">
-                  <h6 class="m-0 font-weight-bold text-primary">
-                    Indikator Kinerja <?= $i++ ?> : <?= $ik->nama ?>
-                  </h6>
-                </a>
-
-                <div class="collapse" id="collapseCard<?= $sp->sp_id ?>-<?= $ik->id ?>">
-                  <div class="card-body">
-                    <?php foreach ($ik->data_indikator as $data): ?>
-                      <h8 class="m-2 font-weight-bold">
-                        <?= $data->nama ?> <span class="text-danger">*</span>
-                      </h8>
-                      <div class="form-group">
-                        <input type="number" name="indikator_<?= $data->id ?>" class="form-control form-control-user"
-                          placeholder="contoh : 1" required>
-                      </div>
-                    <?php endforeach; ?>
+              <?php $i = 1; ?>
+              <?php foreach ($sp->indikator as $ik): ?>
+                <div class="indikator-card mb-3" data-periode="<?= htmlspecialchars($ik->periode ?? 'unknown') ?>">
+                  <a href="#collapseCard<?= $sp->sp_id ?>-<?= $ik->id ?>"
+                    class="m-2 d-block card-header py-3 collapse collapsed" data-toggle="collapse" role="button">
+                    <h6 class="m-0 font-weight-bold text-primary">
+                      Indikator Kinerja <?= $i++ ?> : <?= $ik->nama ?>
+                    </h6>
+                  </a>
+                  <div class="collapse" id="collapseCard<?= $sp->sp_id ?>-<?= $ik->id ?>">
+                    <div class="card-body">
+                      <?php foreach ($ik->data_indikator as $data): ?>
+                        <h8 class="m-2 font-weight-bold">
+                          <?= $data->nama ?> <span class="text-danger">*</span>
+                        </h8>
+                        <div class="form-group">
+                          <input type="number" name="indikator_<?= $data->id ?>" class="form-control form-control-user"
+                            placeholder="contoh : 1" required>
+                        </div>
+                      <?php endforeach; ?>
+                    </div>
                   </div>
                 </div>
               <?php endforeach; ?>
             </div>
-
           </div>
         </div>
       <?php endforeach; ?>
@@ -100,12 +84,33 @@
 
     <!-- Tombol Submit di akhir form -->
     <div class="row">
-      <div class="col-lg-12 text-right">
-        <button type="submit" class="btn btn-success btn-lg">
+      <div class="col-lg-12 text-left">
+        <button type="submit" class="mb-4 btn btn-success btn-lg">
           <i class="fas fa-save"></i> Simpan
         </button>
       </div>
     </div>
 
   </form>
+
+  <script>
+    const filterSelect = document.getElementById('filterPeriode');
+
+    function filterCards() {
+      const selected = filterSelect.value;
+      document.querySelectorAll('.card[data-periode]').forEach(card => {
+        if (card.getAttribute('data-periode') === selected) {
+          card.style.display = '';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+    }
+
+    filterSelect.addEventListener('change', filterCards);
+
+    // Jalankan filter saat halaman load
+    document.addEventListener('DOMContentLoaded', filterCards);
+  </script>
+
 </div>

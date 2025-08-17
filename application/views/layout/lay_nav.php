@@ -19,7 +19,6 @@
       <?php
       // Daftar unit kerja
       $unit_kerja_list = [
-        'Kepala Badan',
         'Inspektur Wilayah I',
         'Inspektur Wilayah II',
         'Inspektur Wilayah III',
@@ -50,6 +49,8 @@
             <span>Dashboard</span>
           </a>
         </li>
+        <!-- Divider -->
+        <hr class="sidebar-divider my-0">
 
         <!-- Menu Admin (termasuk Kepala Badan) -->
         <?php foreach ($unit_kerja_list as $uk): ?>
@@ -60,10 +61,12 @@
             </a>
           </li>
         <?php endforeach; ?>
+        <!-- Divider -->      
+        <hr class="sidebar-divider my-0">
 
         <!-- Data Laporan -->
         <li class="nav-item">
-          <a class="nav-link" href="<?= base_url('datalaporan'); ?>">
+          <a class="nav-link" href="<?= base_url('laporan'); ?>">
             <i class="fas fa-fw fa-file-alt"></i>
             <span>Data Laporan</span>
           </a>
@@ -79,6 +82,8 @@
             <span>Dashboard</span>
           </a>
         </li>
+        <!-- Divider -->
+         <hr class="sidebar-divider my-0">
 
         <!-- Menu unit kerja (tanpa Kepala Badan) -->
         <?php foreach ($unit_kerja_dashboard as $uk): ?>

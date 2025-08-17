@@ -27,8 +27,12 @@ class Sasaran_model extends CI_Model
                 $this->db->select('di.id, di.nama');
                 $this->db->from('indikator_data di');
                 $this->db->where('di.indikator_kinerja_id', $ik->id);
+                $this->db->where('di.periode IS NULL', null, false);
+                $this->db->where('di.tahun IS NULL', null, false);
+                $this->db->where('di.nilai IS NULL', null, false); // 🔹 Filter hanya nilai NULL
                 $ik->data_indikator = $this->db->get()->result();
             }
+
 
             // Tambahkan indikator ke objek sasaran program
             $sp->indikator = $indikator;
