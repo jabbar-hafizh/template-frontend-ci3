@@ -29,7 +29,12 @@ class Dashboard extends CI_Controller
         // Ambil unit kerja dari query string, default "Kepala Badan"
         $unit_kerja = $this->input->get('unit_kerja') ?: 'Kepala Badan';
 
-        // Ambil data sasaran program
+        // === Tambahan: ambil filter tahun & periode dari query string ===
+        $tahun = $this->input->get('tahun') ?: date('Y');
+        $periode = $this->input->get('periode') ?: 'Tahunan';
+        // =================================================================
+
+        // Ambil data sasaran program sesuai unit kerja
         $sasaran_program = $this->db
             ->select('id, nama, unit_kerja')
             ->where('unit_kerja', $unit_kerja)
@@ -44,26 +49,69 @@ class Dashboard extends CI_Controller
                 ->result();
 
             foreach ($indikator as $ik) {
-                $data_indikator = $this->db
-                    ->select('id, nama, nilai')
+                // Ambil hasil indikator
+                $hasil = $this->db
+                    ->select('hasil')
                     ->where('indikator_kinerja_id', $ik->id)
+                    ->where('tahun', $tahun)
+                    ->where('periode', $periode)
+                    ->get('indikator_hasil')
+                    ->row();
+
+                // Ambil target + tipe_target dari indikator_kinerja
+                $targetData = $this->db
+                    ->select('target, tipe_target') // ganti jadi tipe_target
+                    ->where('id', $ik->id)
+                    ->get('indikator_kinerja')
+                    ->row();
+
+                $hasilValue = $hasil ? (float) $hasil->hasil : 0;
+                $targetValue = ($targetData && $targetData->target > 0) ? (float) $targetData->target : 1;
+                $tipeTarget = $targetData ? $targetData->tipe_target : 'jumlah';
+
+                // Hitung persentase tergantung tipe_target
+                if ($tipeTarget === 'persentase') {
+                    // hasil sudah berupa %
+                    $ik->persentase = $hasilValue;
+                } else {
+                    // tipe jumlah → hasil ÷ target × 100 (dibatasi max 100%)
+                    $ik->persentase = ($hasilValue / $targetValue) * 100;
+                }
+
+                // Simpan juga nilai asli & target untuk ditampilkan
+                $ik->hasil = $hasilValue;
+                $ik->target = $targetValue;
+                $ik->tipe_target = $tipeTarget;
+
+                // Ambil indikator_data
+                $master_data = $this->db
+                    ->select('id, nama')
+                    ->where('indikator_kinerja_id', $ik->id)
+                    ->group_by('nama')
                     ->get('indikator_data')
                     ->result();
 
-                $total_nilai = 0;
-                $total_hasil = 0;
+                $data_indikator = [];
+                foreach ($master_data as $md) {
+                    $nilai = $this->db
+                        ->select('nilai')
+                        ->where('indikator_kinerja_id', $ik->id)
+                        ->where('nama', $md->nama)
+                        ->where('tahun', $tahun)
+                        ->where('periode', $periode)
+                        ->get('indikator_data')
+                        ->row();
 
-                foreach ($data_indikator as $data) {
-                    $total_nilai += $data->nilai;
-                    $total_hasil += $data->nilai;
+                    $data_indikator[] = (object) [
+                        'id' => $md->id,
+                        'nama' => $md->nama,
+                        'nilai' => $nilai ? $nilai->nilai : null
+                    ];
                 }
-
-                $ik->persentase = ($total_hasil > 0)
-                    ? round(($total_nilai / $total_hasil) * 100, 2)
-                    : 0;
 
                 $ik->data_indikator = $data_indikator;
             }
+
 
             $sp->indikator = $indikator;
         }
@@ -73,7 +121,10 @@ class Dashboard extends CI_Controller
             'unit_kerja' => $unit_kerja,
             'unit_kerja_list' => $unit_kerja_list,
             'sasaran_program' => $sasaran_program,
-            'role' => $role
+            'role' => $role,
+            // kirim juga tahun & periode ke view agar dropdown bisa "selected"
+            'tahun' => $tahun,
+            'periode' => $periode
         ];
 
         // Layout

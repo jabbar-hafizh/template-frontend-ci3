@@ -1,6 +1,6 @@
 <div class="container-fluid">
 
-  <form action="<?= base_url('laporan/simpan') ?>" method="post" enctype="multipart/form-data">
+  <form action="<?= base_url('laporan/upload') ?>" method="post" enctype="multipart/form-data">
     <div class="row">
       <div class="col-lg-12">
         <h1 class="h3 mb-4 text-gray-800">
@@ -136,5 +136,32 @@
   </div>
   <!-- End of Content Wrapper -->
 
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
+
+  <!-- SweetAlert2 for delete confirmation -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      document.querySelectorAll('.btn-delete').forEach(function (button) {
+        button.addEventListener('click', function () {
+          let id = this.getAttribute('data-id');
+
+          Swal.fire({
+            title: 'Yakin ingin menghapus?',
+            text: "Data yang dihapus tidak dapat dikembalikan!",
+            icon: 'warning',
+            showCancelButton: true,
+            confirmButtonColor: '#d33',
+            cancelButtonColor: '#3085d6',
+            confirmButtonText: 'Ya, hapus!',
+            cancelButtonText: 'Batal'
+          }).then((result) => {
+            if (result.isConfirmed) {
+              window.location.href = "<?= base_url('laporan/hapus/') ?>" + id;
+            }
+          });
+        });
+      });
+    });
+  </script>
 </div>

@@ -1,0 +1,11022 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+INFO - 2025-08-19 01:48:49 --> Config Class Initialized
+INFO - 2025-08-19 01:48:49 --> Hooks Class Initialized
+DEBUG - 2025-08-19 01:48:49 --> UTF-8 Support Enabled
+INFO - 2025-08-19 01:48:49 --> Utf8 Class Initialized
+INFO - 2025-08-19 01:48:49 --> URI Class Initialized
+INFO - 2025-08-19 01:48:49 --> Router Class Initialized
+INFO - 2025-08-19 01:48:49 --> Output Class Initialized
+INFO - 2025-08-19 01:48:49 --> Security Class Initialized
+DEBUG - 2025-08-19 01:48:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 01:48:49 --> Input Class Initialized
+INFO - 2025-08-19 01:48:49 --> Language Class Initialized
+INFO - 2025-08-19 01:48:49 --> Loader Class Initialized
+INFO - 2025-08-19 01:48:49 --> Helper loaded: url_helper
+INFO - 2025-08-19 01:48:49 --> Database Driver Class Initialized
+INFO - 2025-08-19 01:48:49 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 01:48:49 --> Controller Class Initialized
+INFO - 2025-08-19 01:48:49 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 01:48:49 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 01:48:49 --> Config Class Initialized
+INFO - 2025-08-19 01:48:49 --> Hooks Class Initialized
+DEBUG - 2025-08-19 01:48:50 --> UTF-8 Support Enabled
+INFO - 2025-08-19 01:48:50 --> Utf8 Class Initialized
+INFO - 2025-08-19 01:48:50 --> URI Class Initialized
+INFO - 2025-08-19 01:48:50 --> Router Class Initialized
+INFO - 2025-08-19 01:48:50 --> Output Class Initialized
+INFO - 2025-08-19 01:48:50 --> Security Class Initialized
+DEBUG - 2025-08-19 01:48:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 01:48:50 --> Input Class Initialized
+INFO - 2025-08-19 01:48:50 --> Language Class Initialized
+INFO - 2025-08-19 01:48:50 --> Loader Class Initialized
+INFO - 2025-08-19 01:48:50 --> Helper loaded: url_helper
+INFO - 2025-08-19 01:48:50 --> Database Driver Class Initialized
+INFO - 2025-08-19 01:48:50 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 01:48:50 --> Controller Class Initialized
+INFO - 2025-08-19 01:48:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 01:48:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 01:48:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 01:48:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 01:48:50 --> Final output sent to browser
+DEBUG - 2025-08-19 01:48:50 --> Total execution time: 0.0752
+INFO - 2025-08-19 01:48:58 --> Config Class Initialized
+INFO - 2025-08-19 01:48:58 --> Hooks Class Initialized
+DEBUG - 2025-08-19 01:48:58 --> UTF-8 Support Enabled
+INFO - 2025-08-19 01:48:58 --> Utf8 Class Initialized
+INFO - 2025-08-19 01:48:58 --> URI Class Initialized
+INFO - 2025-08-19 01:48:58 --> Router Class Initialized
+INFO - 2025-08-19 01:48:58 --> Output Class Initialized
+INFO - 2025-08-19 01:48:58 --> Security Class Initialized
+DEBUG - 2025-08-19 01:48:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 01:48:58 --> Input Class Initialized
+INFO - 2025-08-19 01:48:58 --> Language Class Initialized
+INFO - 2025-08-19 01:48:58 --> Loader Class Initialized
+INFO - 2025-08-19 01:48:58 --> Helper loaded: url_helper
+INFO - 2025-08-19 01:48:58 --> Database Driver Class Initialized
+INFO - 2025-08-19 01:48:58 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 01:48:58 --> Controller Class Initialized
+INFO - 2025-08-19 01:48:58 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 01:48:58 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 01:48:58 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 01:48:58 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 01:48:58 --> Final output sent to browser
+DEBUG - 2025-08-19 01:48:58 --> Total execution time: 0.0592
+INFO - 2025-08-19 01:49:01 --> Config Class Initialized
+INFO - 2025-08-19 01:49:01 --> Hooks Class Initialized
+DEBUG - 2025-08-19 01:49:01 --> UTF-8 Support Enabled
+INFO - 2025-08-19 01:49:01 --> Utf8 Class Initialized
+INFO - 2025-08-19 01:49:01 --> URI Class Initialized
+INFO - 2025-08-19 01:49:01 --> Router Class Initialized
+INFO - 2025-08-19 01:49:01 --> Output Class Initialized
+INFO - 2025-08-19 01:49:01 --> Security Class Initialized
+DEBUG - 2025-08-19 01:49:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 01:49:01 --> Input Class Initialized
+INFO - 2025-08-19 01:49:01 --> Language Class Initialized
+INFO - 2025-08-19 01:49:01 --> Loader Class Initialized
+INFO - 2025-08-19 01:49:01 --> Helper loaded: url_helper
+INFO - 2025-08-19 01:49:01 --> Database Driver Class Initialized
+INFO - 2025-08-19 01:49:01 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 01:49:01 --> Controller Class Initialized
+INFO - 2025-08-19 01:49:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 01:49:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 01:49:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 01:49:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 01:49:01 --> Final output sent to browser
+DEBUG - 2025-08-19 01:49:01 --> Total execution time: 0.0552
+INFO - 2025-08-19 01:49:07 --> Config Class Initialized
+INFO - 2025-08-19 01:49:07 --> Hooks Class Initialized
+DEBUG - 2025-08-19 01:49:07 --> UTF-8 Support Enabled
+INFO - 2025-08-19 01:49:07 --> Utf8 Class Initialized
+INFO - 2025-08-19 01:49:07 --> URI Class Initialized
+INFO - 2025-08-19 01:49:07 --> Router Class Initialized
+INFO - 2025-08-19 01:49:07 --> Output Class Initialized
+INFO - 2025-08-19 01:49:07 --> Security Class Initialized
+DEBUG - 2025-08-19 01:49:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 01:49:07 --> Input Class Initialized
+INFO - 2025-08-19 01:49:07 --> Language Class Initialized
+INFO - 2025-08-19 01:49:07 --> Loader Class Initialized
+INFO - 2025-08-19 01:49:07 --> Helper loaded: url_helper
+INFO - 2025-08-19 01:49:07 --> Database Driver Class Initialized
+INFO - 2025-08-19 01:49:07 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 01:49:07 --> Controller Class Initialized
+INFO - 2025-08-19 01:49:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 01:49:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 01:49:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 01:49:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 01:49:07 --> Final output sent to browser
+DEBUG - 2025-08-19 01:49:07 --> Total execution time: 0.0572
+INFO - 2025-08-19 01:49:09 --> Config Class Initialized
+INFO - 2025-08-19 01:49:09 --> Hooks Class Initialized
+DEBUG - 2025-08-19 01:49:09 --> UTF-8 Support Enabled
+INFO - 2025-08-19 01:49:09 --> Utf8 Class Initialized
+INFO - 2025-08-19 01:49:09 --> URI Class Initialized
+INFO - 2025-08-19 01:49:09 --> Router Class Initialized
+INFO - 2025-08-19 01:49:09 --> Output Class Initialized
+INFO - 2025-08-19 01:49:09 --> Security Class Initialized
+DEBUG - 2025-08-19 01:49:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 01:49:09 --> Input Class Initialized
+INFO - 2025-08-19 01:49:09 --> Language Class Initialized
+INFO - 2025-08-19 01:49:09 --> Loader Class Initialized
+INFO - 2025-08-19 01:49:09 --> Helper loaded: url_helper
+INFO - 2025-08-19 01:49:09 --> Database Driver Class Initialized
+INFO - 2025-08-19 01:49:09 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 01:49:09 --> Controller Class Initialized
+INFO - 2025-08-19 01:49:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 01:49:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 01:49:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 01:49:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 01:49:09 --> Final output sent to browser
+DEBUG - 2025-08-19 01:49:09 --> Total execution time: 0.0427
+INFO - 2025-08-19 01:49:12 --> Config Class Initialized
+INFO - 2025-08-19 01:49:12 --> Hooks Class Initialized
+DEBUG - 2025-08-19 01:49:12 --> UTF-8 Support Enabled
+INFO - 2025-08-19 01:49:12 --> Utf8 Class Initialized
+INFO - 2025-08-19 01:49:12 --> URI Class Initialized
+INFO - 2025-08-19 01:49:12 --> Router Class Initialized
+INFO - 2025-08-19 01:49:12 --> Output Class Initialized
+INFO - 2025-08-19 01:49:12 --> Security Class Initialized
+DEBUG - 2025-08-19 01:49:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 01:49:12 --> Input Class Initialized
+INFO - 2025-08-19 01:49:12 --> Language Class Initialized
+INFO - 2025-08-19 01:49:12 --> Loader Class Initialized
+INFO - 2025-08-19 01:49:12 --> Helper loaded: url_helper
+INFO - 2025-08-19 01:49:12 --> Database Driver Class Initialized
+INFO - 2025-08-19 01:49:12 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 01:49:12 --> Controller Class Initialized
+INFO - 2025-08-19 01:49:12 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 01:49:12 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 01:49:12 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 01:49:12 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 01:49:12 --> Final output sent to browser
+DEBUG - 2025-08-19 01:49:12 --> Total execution time: 0.0643
+INFO - 2025-08-19 01:50:18 --> Config Class Initialized
+INFO - 2025-08-19 01:50:18 --> Hooks Class Initialized
+DEBUG - 2025-08-19 01:50:18 --> UTF-8 Support Enabled
+INFO - 2025-08-19 01:50:18 --> Utf8 Class Initialized
+INFO - 2025-08-19 01:50:18 --> URI Class Initialized
+INFO - 2025-08-19 01:50:18 --> Router Class Initialized
+INFO - 2025-08-19 01:50:18 --> Output Class Initialized
+INFO - 2025-08-19 01:50:18 --> Security Class Initialized
+DEBUG - 2025-08-19 01:50:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 01:50:18 --> Input Class Initialized
+INFO - 2025-08-19 01:50:18 --> Language Class Initialized
+INFO - 2025-08-19 01:50:18 --> Loader Class Initialized
+INFO - 2025-08-19 01:50:18 --> Helper loaded: url_helper
+INFO - 2025-08-19 01:50:18 --> Database Driver Class Initialized
+INFO - 2025-08-19 01:50:18 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 01:50:18 --> Controller Class Initialized
+INFO - 2025-08-19 01:50:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 01:50:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 01:50:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 01:50:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 01:50:18 --> Final output sent to browser
+DEBUG - 2025-08-19 01:50:18 --> Total execution time: 0.0433
+INFO - 2025-08-19 01:50:28 --> Config Class Initialized
+INFO - 2025-08-19 01:50:28 --> Hooks Class Initialized
+DEBUG - 2025-08-19 01:50:28 --> UTF-8 Support Enabled
+INFO - 2025-08-19 01:50:28 --> Utf8 Class Initialized
+INFO - 2025-08-19 01:50:28 --> URI Class Initialized
+INFO - 2025-08-19 01:50:28 --> Router Class Initialized
+INFO - 2025-08-19 01:50:28 --> Output Class Initialized
+INFO - 2025-08-19 01:50:28 --> Security Class Initialized
+DEBUG - 2025-08-19 01:50:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 01:50:28 --> Input Class Initialized
+INFO - 2025-08-19 01:50:28 --> Language Class Initialized
+INFO - 2025-08-19 01:50:28 --> Loader Class Initialized
+INFO - 2025-08-19 01:50:28 --> Helper loaded: url_helper
+INFO - 2025-08-19 01:50:28 --> Database Driver Class Initialized
+INFO - 2025-08-19 01:50:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 01:50:28 --> Controller Class Initialized
+INFO - 2025-08-19 01:50:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 01:50:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 01:50:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 01:50:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 01:50:28 --> Final output sent to browser
+DEBUG - 2025-08-19 01:50:28 --> Total execution time: 0.0618
+INFO - 2025-08-19 01:50:31 --> Config Class Initialized
+INFO - 2025-08-19 01:50:31 --> Hooks Class Initialized
+DEBUG - 2025-08-19 01:50:31 --> UTF-8 Support Enabled
+INFO - 2025-08-19 01:50:31 --> Utf8 Class Initialized
+INFO - 2025-08-19 01:50:31 --> URI Class Initialized
+INFO - 2025-08-19 01:50:31 --> Router Class Initialized
+INFO - 2025-08-19 01:50:31 --> Output Class Initialized
+INFO - 2025-08-19 01:50:31 --> Security Class Initialized
+DEBUG - 2025-08-19 01:50:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 01:50:31 --> Input Class Initialized
+INFO - 2025-08-19 01:50:31 --> Language Class Initialized
+INFO - 2025-08-19 01:50:31 --> Loader Class Initialized
+INFO - 2025-08-19 01:50:31 --> Helper loaded: url_helper
+INFO - 2025-08-19 01:50:31 --> Database Driver Class Initialized
+INFO - 2025-08-19 01:50:31 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 01:50:31 --> Controller Class Initialized
+INFO - 2025-08-19 01:50:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 01:50:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 01:50:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 01:50:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 01:50:31 --> Final output sent to browser
+DEBUG - 2025-08-19 01:50:31 --> Total execution time: 0.0499
+INFO - 2025-08-19 01:50:35 --> Config Class Initialized
+INFO - 2025-08-19 01:50:35 --> Hooks Class Initialized
+DEBUG - 2025-08-19 01:50:35 --> UTF-8 Support Enabled
+INFO - 2025-08-19 01:50:35 --> Utf8 Class Initialized
+INFO - 2025-08-19 01:50:35 --> URI Class Initialized
+INFO - 2025-08-19 01:50:35 --> Router Class Initialized
+INFO - 2025-08-19 01:50:35 --> Output Class Initialized
+INFO - 2025-08-19 01:50:35 --> Security Class Initialized
+DEBUG - 2025-08-19 01:50:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 01:50:35 --> Input Class Initialized
+INFO - 2025-08-19 01:50:35 --> Language Class Initialized
+INFO - 2025-08-19 01:50:35 --> Loader Class Initialized
+INFO - 2025-08-19 01:50:35 --> Helper loaded: url_helper
+INFO - 2025-08-19 01:50:35 --> Database Driver Class Initialized
+INFO - 2025-08-19 01:50:35 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 01:50:35 --> Controller Class Initialized
+INFO - 2025-08-19 01:50:35 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 01:50:35 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 01:50:35 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 01:50:35 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 01:50:35 --> Final output sent to browser
+DEBUG - 2025-08-19 01:50:35 --> Total execution time: 0.0845
+INFO - 2025-08-19 02:07:02 --> Config Class Initialized
+INFO - 2025-08-19 02:07:02 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:07:02 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:07:02 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:07:02 --> URI Class Initialized
+INFO - 2025-08-19 02:07:02 --> Router Class Initialized
+INFO - 2025-08-19 02:07:02 --> Output Class Initialized
+INFO - 2025-08-19 02:07:02 --> Security Class Initialized
+DEBUG - 2025-08-19 02:07:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:07:02 --> Input Class Initialized
+INFO - 2025-08-19 02:07:02 --> Language Class Initialized
+INFO - 2025-08-19 02:07:02 --> Loader Class Initialized
+INFO - 2025-08-19 02:07:02 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:07:02 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:07:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:07:02 --> Controller Class Initialized
+INFO - 2025-08-19 02:07:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 02:07:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 02:07:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 02:07:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 02:07:02 --> Final output sent to browser
+DEBUG - 2025-08-19 02:07:02 --> Total execution time: 0.0697
+INFO - 2025-08-19 02:07:08 --> Config Class Initialized
+INFO - 2025-08-19 02:07:08 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:07:08 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:07:08 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:07:08 --> URI Class Initialized
+INFO - 2025-08-19 02:07:08 --> Router Class Initialized
+INFO - 2025-08-19 02:07:08 --> Output Class Initialized
+INFO - 2025-08-19 02:07:08 --> Security Class Initialized
+DEBUG - 2025-08-19 02:07:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:07:08 --> Input Class Initialized
+INFO - 2025-08-19 02:07:09 --> Language Class Initialized
+INFO - 2025-08-19 02:07:09 --> Loader Class Initialized
+INFO - 2025-08-19 02:07:09 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:07:09 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:07:09 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:07:09 --> Controller Class Initialized
+INFO - 2025-08-19 02:07:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 02:07:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 02:07:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 02:07:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 02:07:09 --> Final output sent to browser
+DEBUG - 2025-08-19 02:07:09 --> Total execution time: 0.0576
+INFO - 2025-08-19 02:07:09 --> Config Class Initialized
+INFO - 2025-08-19 02:07:09 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:07:09 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:07:09 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:07:09 --> URI Class Initialized
+INFO - 2025-08-19 02:07:09 --> Router Class Initialized
+INFO - 2025-08-19 02:07:09 --> Output Class Initialized
+INFO - 2025-08-19 02:07:09 --> Security Class Initialized
+DEBUG - 2025-08-19 02:07:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:07:09 --> Input Class Initialized
+INFO - 2025-08-19 02:07:09 --> Language Class Initialized
+INFO - 2025-08-19 02:07:09 --> Loader Class Initialized
+INFO - 2025-08-19 02:07:09 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:07:09 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:07:09 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:07:09 --> Controller Class Initialized
+INFO - 2025-08-19 02:07:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 02:07:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 02:07:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 02:07:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 02:07:09 --> Final output sent to browser
+DEBUG - 2025-08-19 02:07:09 --> Total execution time: 0.0510
+INFO - 2025-08-19 02:07:10 --> Config Class Initialized
+INFO - 2025-08-19 02:07:10 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:07:10 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:07:10 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:07:10 --> URI Class Initialized
+INFO - 2025-08-19 02:07:10 --> Router Class Initialized
+INFO - 2025-08-19 02:07:10 --> Output Class Initialized
+INFO - 2025-08-19 02:07:10 --> Security Class Initialized
+DEBUG - 2025-08-19 02:07:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:07:10 --> Input Class Initialized
+INFO - 2025-08-19 02:07:10 --> Language Class Initialized
+INFO - 2025-08-19 02:07:10 --> Loader Class Initialized
+INFO - 2025-08-19 02:07:10 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:07:10 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:07:10 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:07:10 --> Controller Class Initialized
+INFO - 2025-08-19 02:07:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 02:07:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 02:07:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 02:07:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 02:07:10 --> Final output sent to browser
+DEBUG - 2025-08-19 02:07:10 --> Total execution time: 0.0514
+INFO - 2025-08-19 02:07:10 --> Config Class Initialized
+INFO - 2025-08-19 02:07:10 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:07:10 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:07:10 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:07:10 --> URI Class Initialized
+INFO - 2025-08-19 02:07:10 --> Router Class Initialized
+INFO - 2025-08-19 02:07:10 --> Output Class Initialized
+INFO - 2025-08-19 02:07:10 --> Security Class Initialized
+DEBUG - 2025-08-19 02:07:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:07:10 --> Input Class Initialized
+INFO - 2025-08-19 02:07:10 --> Language Class Initialized
+INFO - 2025-08-19 02:07:10 --> Loader Class Initialized
+INFO - 2025-08-19 02:07:10 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:07:10 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:07:10 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:07:10 --> Controller Class Initialized
+INFO - 2025-08-19 02:07:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 02:07:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 02:07:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 02:07:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 02:07:10 --> Final output sent to browser
+DEBUG - 2025-08-19 02:07:10 --> Total execution time: 0.0642
+INFO - 2025-08-19 02:07:19 --> Config Class Initialized
+INFO - 2025-08-19 02:07:19 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:07:19 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:07:19 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:07:19 --> URI Class Initialized
+INFO - 2025-08-19 02:07:19 --> Router Class Initialized
+INFO - 2025-08-19 02:07:19 --> Output Class Initialized
+INFO - 2025-08-19 02:07:19 --> Security Class Initialized
+DEBUG - 2025-08-19 02:07:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:07:19 --> Input Class Initialized
+INFO - 2025-08-19 02:07:19 --> Language Class Initialized
+INFO - 2025-08-19 02:07:19 --> Loader Class Initialized
+INFO - 2025-08-19 02:07:19 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:07:19 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:07:19 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:07:19 --> Controller Class Initialized
+INFO - 2025-08-19 02:07:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 02:07:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 02:07:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 02:07:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 02:07:19 --> Final output sent to browser
+DEBUG - 2025-08-19 02:07:19 --> Total execution time: 0.0860
+INFO - 2025-08-19 02:07:23 --> Config Class Initialized
+INFO - 2025-08-19 02:07:23 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:07:23 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:07:23 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:07:23 --> URI Class Initialized
+INFO - 2025-08-19 02:07:23 --> Router Class Initialized
+INFO - 2025-08-19 02:07:23 --> Output Class Initialized
+INFO - 2025-08-19 02:07:23 --> Security Class Initialized
+DEBUG - 2025-08-19 02:07:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:07:23 --> Input Class Initialized
+INFO - 2025-08-19 02:07:23 --> Language Class Initialized
+INFO - 2025-08-19 02:07:23 --> Loader Class Initialized
+INFO - 2025-08-19 02:07:23 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:07:23 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:07:23 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:07:23 --> Controller Class Initialized
+INFO - 2025-08-19 02:07:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 02:07:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 02:07:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 02:07:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 02:07:23 --> Final output sent to browser
+DEBUG - 2025-08-19 02:07:23 --> Total execution time: 0.0685
+INFO - 2025-08-19 02:07:24 --> Config Class Initialized
+INFO - 2025-08-19 02:07:24 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:07:24 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:07:24 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:07:24 --> URI Class Initialized
+INFO - 2025-08-19 02:07:24 --> Router Class Initialized
+INFO - 2025-08-19 02:07:24 --> Output Class Initialized
+INFO - 2025-08-19 02:07:24 --> Security Class Initialized
+DEBUG - 2025-08-19 02:07:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:07:24 --> Input Class Initialized
+INFO - 2025-08-19 02:07:24 --> Language Class Initialized
+INFO - 2025-08-19 02:07:24 --> Loader Class Initialized
+INFO - 2025-08-19 02:07:24 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:07:24 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:07:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:07:24 --> Controller Class Initialized
+INFO - 2025-08-19 02:07:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 02:07:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 02:07:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 02:07:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 02:07:24 --> Final output sent to browser
+DEBUG - 2025-08-19 02:07:24 --> Total execution time: 0.0559
+INFO - 2025-08-19 02:50:15 --> Config Class Initialized
+INFO - 2025-08-19 02:50:15 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:50:16 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:50:16 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:50:16 --> URI Class Initialized
+INFO - 2025-08-19 02:50:16 --> Router Class Initialized
+INFO - 2025-08-19 02:50:16 --> Output Class Initialized
+INFO - 2025-08-19 02:50:16 --> Security Class Initialized
+DEBUG - 2025-08-19 02:50:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:50:16 --> Input Class Initialized
+INFO - 2025-08-19 02:50:16 --> Language Class Initialized
+INFO - 2025-08-19 02:50:16 --> Loader Class Initialized
+INFO - 2025-08-19 02:50:16 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:50:16 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:50:16 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:50:16 --> Controller Class Initialized
+INFO - 2025-08-19 02:50:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 02:50:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 02:50:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 02:50:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 02:50:16 --> Final output sent to browser
+DEBUG - 2025-08-19 02:50:16 --> Total execution time: 1.3823
+INFO - 2025-08-19 02:50:21 --> Config Class Initialized
+INFO - 2025-08-19 02:50:21 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:50:21 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:50:21 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:50:21 --> URI Class Initialized
+INFO - 2025-08-19 02:50:21 --> Router Class Initialized
+INFO - 2025-08-19 02:50:21 --> Output Class Initialized
+INFO - 2025-08-19 02:50:21 --> Security Class Initialized
+DEBUG - 2025-08-19 02:50:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:50:21 --> Input Class Initialized
+INFO - 2025-08-19 02:50:21 --> Language Class Initialized
+INFO - 2025-08-19 02:50:21 --> Loader Class Initialized
+INFO - 2025-08-19 02:50:21 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:50:21 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:50:21 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:50:21 --> Controller Class Initialized
+INFO - 2025-08-19 02:50:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 02:50:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 02:50:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 02:50:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 02:50:21 --> Final output sent to browser
+DEBUG - 2025-08-19 02:50:21 --> Total execution time: 0.0745
+INFO - 2025-08-19 02:50:25 --> Config Class Initialized
+INFO - 2025-08-19 02:50:25 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:50:25 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:50:25 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:50:25 --> URI Class Initialized
+INFO - 2025-08-19 02:50:25 --> Router Class Initialized
+INFO - 2025-08-19 02:50:25 --> Output Class Initialized
+INFO - 2025-08-19 02:50:25 --> Security Class Initialized
+DEBUG - 2025-08-19 02:50:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:50:25 --> Input Class Initialized
+INFO - 2025-08-19 02:50:25 --> Language Class Initialized
+INFO - 2025-08-19 02:50:25 --> Loader Class Initialized
+INFO - 2025-08-19 02:50:25 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:50:25 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:50:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:50:25 --> Controller Class Initialized
+DEBUG - 2025-08-19 02:50:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 02:50:25 --> Model "User_model" initialized
+INFO - 2025-08-19 02:50:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 02:50:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 02:50:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 02:50:25 --> Final output sent to browser
+DEBUG - 2025-08-19 02:50:25 --> Total execution time: 0.2101
+INFO - 2025-08-19 02:50:30 --> Config Class Initialized
+INFO - 2025-08-19 02:50:30 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:50:30 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:50:30 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:50:30 --> URI Class Initialized
+INFO - 2025-08-19 02:50:30 --> Router Class Initialized
+INFO - 2025-08-19 02:50:30 --> Output Class Initialized
+INFO - 2025-08-19 02:50:30 --> Security Class Initialized
+DEBUG - 2025-08-19 02:50:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:50:30 --> Input Class Initialized
+INFO - 2025-08-19 02:50:30 --> Language Class Initialized
+INFO - 2025-08-19 02:50:30 --> Loader Class Initialized
+INFO - 2025-08-19 02:50:30 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:50:30 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:50:30 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:50:30 --> Controller Class Initialized
+DEBUG - 2025-08-19 02:50:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 02:50:30 --> Model "User_model" initialized
+INFO - 2025-08-19 02:50:30 --> Config Class Initialized
+INFO - 2025-08-19 02:50:30 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:50:30 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:50:30 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:50:30 --> URI Class Initialized
+INFO - 2025-08-19 02:50:30 --> Router Class Initialized
+INFO - 2025-08-19 02:50:30 --> Output Class Initialized
+INFO - 2025-08-19 02:50:30 --> Security Class Initialized
+DEBUG - 2025-08-19 02:50:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:50:30 --> Input Class Initialized
+INFO - 2025-08-19 02:50:30 --> Language Class Initialized
+INFO - 2025-08-19 02:50:30 --> Loader Class Initialized
+INFO - 2025-08-19 02:50:30 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:50:30 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:50:30 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:50:30 --> Controller Class Initialized
+INFO - 2025-08-19 02:50:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 02:50:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 02:50:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 02:50:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 02:50:30 --> Final output sent to browser
+DEBUG - 2025-08-19 02:50:30 --> Total execution time: 0.0746
+INFO - 2025-08-19 02:50:36 --> Config Class Initialized
+INFO - 2025-08-19 02:50:36 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:50:36 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:50:36 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:50:36 --> URI Class Initialized
+INFO - 2025-08-19 02:50:36 --> Router Class Initialized
+INFO - 2025-08-19 02:50:36 --> Output Class Initialized
+INFO - 2025-08-19 02:50:36 --> Security Class Initialized
+DEBUG - 2025-08-19 02:50:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:50:36 --> Input Class Initialized
+INFO - 2025-08-19 02:50:36 --> Language Class Initialized
+INFO - 2025-08-19 02:50:36 --> Loader Class Initialized
+INFO - 2025-08-19 02:50:36 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:50:36 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:50:36 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:50:36 --> Controller Class Initialized
+INFO - 2025-08-19 02:50:36 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 02:50:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 02:50:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 02:50:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 02:50:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 02:50:36 --> Final output sent to browser
+DEBUG - 2025-08-19 02:50:36 --> Total execution time: 0.2229
+INFO - 2025-08-19 02:55:24 --> Config Class Initialized
+INFO - 2025-08-19 02:55:24 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:55:24 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:55:24 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:55:24 --> URI Class Initialized
+INFO - 2025-08-19 02:55:24 --> Router Class Initialized
+INFO - 2025-08-19 02:55:24 --> Output Class Initialized
+INFO - 2025-08-19 02:55:24 --> Security Class Initialized
+DEBUG - 2025-08-19 02:55:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:55:24 --> Input Class Initialized
+INFO - 2025-08-19 02:55:24 --> Language Class Initialized
+INFO - 2025-08-19 02:55:24 --> Loader Class Initialized
+INFO - 2025-08-19 02:55:24 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:55:24 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:55:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:55:24 --> Controller Class Initialized
+INFO - 2025-08-19 02:55:24 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 02:55:25 --> Upload Class Initialized
+INFO - 2025-08-19 02:55:25 --> Config Class Initialized
+INFO - 2025-08-19 02:55:25 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:55:25 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:55:25 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:55:25 --> URI Class Initialized
+INFO - 2025-08-19 02:55:25 --> Router Class Initialized
+INFO - 2025-08-19 02:55:25 --> Output Class Initialized
+INFO - 2025-08-19 02:55:25 --> Security Class Initialized
+DEBUG - 2025-08-19 02:55:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:55:25 --> Input Class Initialized
+INFO - 2025-08-19 02:55:25 --> Language Class Initialized
+INFO - 2025-08-19 02:55:25 --> Loader Class Initialized
+INFO - 2025-08-19 02:55:25 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:55:25 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:55:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:55:25 --> Controller Class Initialized
+INFO - 2025-08-19 02:55:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 02:55:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 02:55:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 02:55:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 02:55:25 --> Final output sent to browser
+DEBUG - 2025-08-19 02:55:25 --> Total execution time: 0.0740
+INFO - 2025-08-19 02:55:29 --> Config Class Initialized
+INFO - 2025-08-19 02:55:29 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:55:29 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:55:29 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:55:29 --> URI Class Initialized
+INFO - 2025-08-19 02:55:29 --> Router Class Initialized
+INFO - 2025-08-19 02:55:29 --> Output Class Initialized
+INFO - 2025-08-19 02:55:29 --> Security Class Initialized
+DEBUG - 2025-08-19 02:55:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:55:29 --> Input Class Initialized
+INFO - 2025-08-19 02:55:29 --> Language Class Initialized
+INFO - 2025-08-19 02:55:29 --> Loader Class Initialized
+INFO - 2025-08-19 02:55:29 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:55:29 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:55:29 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:55:29 --> Controller Class Initialized
+INFO - 2025-08-19 02:55:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 02:55:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 02:55:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 02:55:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 02:55:29 --> Final output sent to browser
+DEBUG - 2025-08-19 02:55:29 --> Total execution time: 0.0629
+INFO - 2025-08-19 02:55:34 --> Config Class Initialized
+INFO - 2025-08-19 02:55:34 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:55:34 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:55:34 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:55:34 --> URI Class Initialized
+INFO - 2025-08-19 02:55:34 --> Router Class Initialized
+INFO - 2025-08-19 02:55:34 --> Output Class Initialized
+INFO - 2025-08-19 02:55:34 --> Security Class Initialized
+DEBUG - 2025-08-19 02:55:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:55:34 --> Input Class Initialized
+INFO - 2025-08-19 02:55:34 --> Language Class Initialized
+INFO - 2025-08-19 02:55:34 --> Loader Class Initialized
+INFO - 2025-08-19 02:55:34 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:55:34 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:55:34 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:55:34 --> Controller Class Initialized
+INFO - 2025-08-19 02:55:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 02:55:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 02:55:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 02:55:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 02:55:34 --> Final output sent to browser
+DEBUG - 2025-08-19 02:55:34 --> Total execution time: 0.0619
+INFO - 2025-08-19 02:56:02 --> Config Class Initialized
+INFO - 2025-08-19 02:56:02 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:56:02 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:56:02 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:56:02 --> URI Class Initialized
+INFO - 2025-08-19 02:56:02 --> Router Class Initialized
+INFO - 2025-08-19 02:56:02 --> Output Class Initialized
+INFO - 2025-08-19 02:56:02 --> Security Class Initialized
+DEBUG - 2025-08-19 02:56:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:56:02 --> Input Class Initialized
+INFO - 2025-08-19 02:56:02 --> Language Class Initialized
+INFO - 2025-08-19 02:56:02 --> Loader Class Initialized
+INFO - 2025-08-19 02:56:02 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:56:02 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:56:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:56:02 --> Controller Class Initialized
+INFO - 2025-08-19 02:56:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 02:56:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 02:56:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 02:56:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 02:56:02 --> Final output sent to browser
+DEBUG - 2025-08-19 02:56:02 --> Total execution time: 0.0666
+INFO - 2025-08-19 02:56:14 --> Config Class Initialized
+INFO - 2025-08-19 02:56:14 --> Hooks Class Initialized
+DEBUG - 2025-08-19 02:56:14 --> UTF-8 Support Enabled
+INFO - 2025-08-19 02:56:14 --> Utf8 Class Initialized
+INFO - 2025-08-19 02:56:14 --> URI Class Initialized
+INFO - 2025-08-19 02:56:14 --> Router Class Initialized
+INFO - 2025-08-19 02:56:14 --> Output Class Initialized
+INFO - 2025-08-19 02:56:14 --> Security Class Initialized
+DEBUG - 2025-08-19 02:56:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 02:56:14 --> Input Class Initialized
+INFO - 2025-08-19 02:56:14 --> Language Class Initialized
+INFO - 2025-08-19 02:56:14 --> Loader Class Initialized
+INFO - 2025-08-19 02:56:14 --> Helper loaded: url_helper
+INFO - 2025-08-19 02:56:14 --> Database Driver Class Initialized
+INFO - 2025-08-19 02:56:14 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 02:56:14 --> Controller Class Initialized
+INFO - 2025-08-19 02:56:14 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 02:56:14 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 02:56:14 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 02:56:14 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 02:56:14 --> Final output sent to browser
+DEBUG - 2025-08-19 02:56:14 --> Total execution time: 0.0639
+INFO - 2025-08-19 03:02:31 --> Config Class Initialized
+INFO - 2025-08-19 03:02:31 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:02:31 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:02:31 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:02:31 --> URI Class Initialized
+INFO - 2025-08-19 03:02:31 --> Router Class Initialized
+INFO - 2025-08-19 03:02:31 --> Output Class Initialized
+INFO - 2025-08-19 03:02:31 --> Security Class Initialized
+DEBUG - 2025-08-19 03:02:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:02:31 --> Input Class Initialized
+INFO - 2025-08-19 03:02:31 --> Language Class Initialized
+INFO - 2025-08-19 03:02:31 --> Loader Class Initialized
+INFO - 2025-08-19 03:02:31 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:02:31 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:02:31 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:02:31 --> Controller Class Initialized
+INFO - 2025-08-19 03:02:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:02:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:02:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 03:02:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:02:31 --> Final output sent to browser
+DEBUG - 2025-08-19 03:02:31 --> Total execution time: 0.0729
+INFO - 2025-08-19 03:12:02 --> Config Class Initialized
+INFO - 2025-08-19 03:12:02 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:12:02 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:12:02 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:12:02 --> URI Class Initialized
+INFO - 2025-08-19 03:12:02 --> Router Class Initialized
+INFO - 2025-08-19 03:12:02 --> Output Class Initialized
+INFO - 2025-08-19 03:12:02 --> Security Class Initialized
+DEBUG - 2025-08-19 03:12:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:12:02 --> Input Class Initialized
+INFO - 2025-08-19 03:12:02 --> Language Class Initialized
+INFO - 2025-08-19 03:12:02 --> Loader Class Initialized
+INFO - 2025-08-19 03:12:02 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:12:02 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:12:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:12:02 --> Controller Class Initialized
+INFO - 2025-08-19 03:12:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:12:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:12:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 03:12:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:12:02 --> Final output sent to browser
+DEBUG - 2025-08-19 03:12:02 --> Total execution time: 0.0654
+INFO - 2025-08-19 03:12:21 --> Config Class Initialized
+INFO - 2025-08-19 03:12:21 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:12:21 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:12:21 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:12:21 --> URI Class Initialized
+INFO - 2025-08-19 03:12:21 --> Router Class Initialized
+INFO - 2025-08-19 03:12:21 --> Output Class Initialized
+INFO - 2025-08-19 03:12:21 --> Security Class Initialized
+DEBUG - 2025-08-19 03:12:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:12:21 --> Input Class Initialized
+INFO - 2025-08-19 03:12:21 --> Language Class Initialized
+INFO - 2025-08-19 03:12:21 --> Loader Class Initialized
+INFO - 2025-08-19 03:12:21 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:12:21 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:12:21 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:12:21 --> Controller Class Initialized
+DEBUG - 2025-08-19 03:12:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 03:12:21 --> Model "User_model" initialized
+INFO - 2025-08-19 03:12:21 --> Config Class Initialized
+INFO - 2025-08-19 03:12:21 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:12:21 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:12:21 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:12:21 --> URI Class Initialized
+INFO - 2025-08-19 03:12:21 --> Router Class Initialized
+INFO - 2025-08-19 03:12:21 --> Output Class Initialized
+INFO - 2025-08-19 03:12:21 --> Security Class Initialized
+DEBUG - 2025-08-19 03:12:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:12:21 --> Input Class Initialized
+INFO - 2025-08-19 03:12:21 --> Language Class Initialized
+INFO - 2025-08-19 03:12:21 --> Loader Class Initialized
+INFO - 2025-08-19 03:12:21 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:12:21 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:12:21 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:12:21 --> Controller Class Initialized
+DEBUG - 2025-08-19 03:12:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 03:12:21 --> Model "User_model" initialized
+INFO - 2025-08-19 03:12:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:12:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 03:12:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:12:21 --> Final output sent to browser
+DEBUG - 2025-08-19 03:12:21 --> Total execution time: 0.0469
+INFO - 2025-08-19 03:12:23 --> Config Class Initialized
+INFO - 2025-08-19 03:12:23 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:12:23 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:12:23 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:12:23 --> URI Class Initialized
+INFO - 2025-08-19 03:12:23 --> Router Class Initialized
+INFO - 2025-08-19 03:12:23 --> Output Class Initialized
+INFO - 2025-08-19 03:12:23 --> Security Class Initialized
+DEBUG - 2025-08-19 03:12:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:12:23 --> Input Class Initialized
+INFO - 2025-08-19 03:12:23 --> Language Class Initialized
+INFO - 2025-08-19 03:12:23 --> Loader Class Initialized
+INFO - 2025-08-19 03:12:23 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:12:23 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:12:23 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:12:23 --> Controller Class Initialized
+INFO - 2025-08-19 03:12:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:12:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:12:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 03:12:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:12:23 --> Final output sent to browser
+DEBUG - 2025-08-19 03:12:23 --> Total execution time: 0.0557
+INFO - 2025-08-19 03:12:24 --> Config Class Initialized
+INFO - 2025-08-19 03:12:24 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:12:24 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:12:24 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:12:24 --> URI Class Initialized
+INFO - 2025-08-19 03:12:24 --> Router Class Initialized
+INFO - 2025-08-19 03:12:24 --> Output Class Initialized
+INFO - 2025-08-19 03:12:24 --> Security Class Initialized
+DEBUG - 2025-08-19 03:12:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:12:24 --> Input Class Initialized
+INFO - 2025-08-19 03:12:24 --> Language Class Initialized
+INFO - 2025-08-19 03:12:24 --> Loader Class Initialized
+INFO - 2025-08-19 03:12:24 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:12:24 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:12:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:12:24 --> Controller Class Initialized
+INFO - 2025-08-19 03:12:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:12:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:12:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 03:12:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:12:24 --> Final output sent to browser
+DEBUG - 2025-08-19 03:12:24 --> Total execution time: 0.0399
+INFO - 2025-08-19 03:12:32 --> Config Class Initialized
+INFO - 2025-08-19 03:12:32 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:12:32 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:12:32 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:12:32 --> URI Class Initialized
+INFO - 2025-08-19 03:12:32 --> Router Class Initialized
+INFO - 2025-08-19 03:12:32 --> Output Class Initialized
+INFO - 2025-08-19 03:12:32 --> Security Class Initialized
+DEBUG - 2025-08-19 03:12:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:12:32 --> Input Class Initialized
+INFO - 2025-08-19 03:12:32 --> Language Class Initialized
+INFO - 2025-08-19 03:12:32 --> Loader Class Initialized
+INFO - 2025-08-19 03:12:32 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:12:32 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:12:32 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:12:32 --> Controller Class Initialized
+INFO - 2025-08-19 03:12:32 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:12:32 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:12:32 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 03:12:32 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:12:32 --> Final output sent to browser
+DEBUG - 2025-08-19 03:12:32 --> Total execution time: 0.0968
+INFO - 2025-08-19 03:15:21 --> Config Class Initialized
+INFO - 2025-08-19 03:15:21 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:15:21 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:15:21 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:15:21 --> URI Class Initialized
+INFO - 2025-08-19 03:15:21 --> Router Class Initialized
+INFO - 2025-08-19 03:15:21 --> Output Class Initialized
+INFO - 2025-08-19 03:15:21 --> Security Class Initialized
+DEBUG - 2025-08-19 03:15:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:15:21 --> Input Class Initialized
+INFO - 2025-08-19 03:15:21 --> Language Class Initialized
+INFO - 2025-08-19 03:15:21 --> Loader Class Initialized
+INFO - 2025-08-19 03:15:21 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:15:21 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:15:21 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:15:21 --> Controller Class Initialized
+INFO - 2025-08-19 03:15:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:15:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:15:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 03:15:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:15:21 --> Final output sent to browser
+DEBUG - 2025-08-19 03:15:21 --> Total execution time: 0.0672
+INFO - 2025-08-19 03:15:25 --> Config Class Initialized
+INFO - 2025-08-19 03:15:25 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:15:25 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:15:25 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:15:25 --> URI Class Initialized
+INFO - 2025-08-19 03:15:25 --> Router Class Initialized
+INFO - 2025-08-19 03:15:25 --> Output Class Initialized
+INFO - 2025-08-19 03:15:25 --> Security Class Initialized
+DEBUG - 2025-08-19 03:15:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:15:25 --> Input Class Initialized
+INFO - 2025-08-19 03:15:25 --> Language Class Initialized
+INFO - 2025-08-19 03:15:25 --> Loader Class Initialized
+INFO - 2025-08-19 03:15:25 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:15:25 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:15:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:15:25 --> Controller Class Initialized
+INFO - 2025-08-19 03:15:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:15:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:15:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 03:15:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:15:25 --> Final output sent to browser
+DEBUG - 2025-08-19 03:15:25 --> Total execution time: 0.0810
+INFO - 2025-08-19 03:15:33 --> Config Class Initialized
+INFO - 2025-08-19 03:15:33 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:15:33 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:15:33 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:15:33 --> URI Class Initialized
+INFO - 2025-08-19 03:15:33 --> Router Class Initialized
+INFO - 2025-08-19 03:15:33 --> Output Class Initialized
+INFO - 2025-08-19 03:15:33 --> Security Class Initialized
+DEBUG - 2025-08-19 03:15:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:15:33 --> Input Class Initialized
+INFO - 2025-08-19 03:15:33 --> Language Class Initialized
+INFO - 2025-08-19 03:15:33 --> Loader Class Initialized
+INFO - 2025-08-19 03:15:33 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:15:33 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:15:33 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:15:33 --> Controller Class Initialized
+INFO - 2025-08-19 03:15:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:15:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:15:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 03:15:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:15:33 --> Final output sent to browser
+DEBUG - 2025-08-19 03:15:33 --> Total execution time: 0.0727
+INFO - 2025-08-19 03:15:37 --> Config Class Initialized
+INFO - 2025-08-19 03:15:37 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:15:37 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:15:37 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:15:37 --> URI Class Initialized
+INFO - 2025-08-19 03:15:37 --> Router Class Initialized
+INFO - 2025-08-19 03:15:37 --> Output Class Initialized
+INFO - 2025-08-19 03:15:37 --> Security Class Initialized
+DEBUG - 2025-08-19 03:15:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:15:37 --> Input Class Initialized
+INFO - 2025-08-19 03:15:37 --> Language Class Initialized
+INFO - 2025-08-19 03:15:37 --> Loader Class Initialized
+INFO - 2025-08-19 03:15:37 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:15:37 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:15:37 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:15:37 --> Controller Class Initialized
+INFO - 2025-08-19 03:15:37 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:15:37 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:15:37 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 03:15:37 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:15:37 --> Final output sent to browser
+DEBUG - 2025-08-19 03:15:37 --> Total execution time: 0.0915
+INFO - 2025-08-19 03:15:38 --> Config Class Initialized
+INFO - 2025-08-19 03:15:38 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:15:38 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:15:38 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:15:38 --> URI Class Initialized
+INFO - 2025-08-19 03:15:38 --> Router Class Initialized
+INFO - 2025-08-19 03:15:38 --> Output Class Initialized
+INFO - 2025-08-19 03:15:38 --> Security Class Initialized
+DEBUG - 2025-08-19 03:15:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:15:38 --> Input Class Initialized
+INFO - 2025-08-19 03:15:38 --> Language Class Initialized
+INFO - 2025-08-19 03:15:38 --> Loader Class Initialized
+INFO - 2025-08-19 03:15:38 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:15:38 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:15:38 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:15:38 --> Controller Class Initialized
+INFO - 2025-08-19 03:15:38 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:15:38 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:15:38 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 03:15:38 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:15:38 --> Final output sent to browser
+DEBUG - 2025-08-19 03:15:38 --> Total execution time: 0.0710
+INFO - 2025-08-19 03:16:24 --> Config Class Initialized
+INFO - 2025-08-19 03:16:24 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:16:24 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:16:24 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:16:24 --> URI Class Initialized
+INFO - 2025-08-19 03:16:24 --> Router Class Initialized
+INFO - 2025-08-19 03:16:24 --> Output Class Initialized
+INFO - 2025-08-19 03:16:24 --> Security Class Initialized
+DEBUG - 2025-08-19 03:16:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:16:24 --> Input Class Initialized
+INFO - 2025-08-19 03:16:24 --> Language Class Initialized
+INFO - 2025-08-19 03:16:24 --> Loader Class Initialized
+INFO - 2025-08-19 03:16:24 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:16:24 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:16:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:16:24 --> Controller Class Initialized
+INFO - 2025-08-19 03:16:24 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 03:16:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:16:24 --> Config Class Initialized
+INFO - 2025-08-19 03:16:24 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:16:24 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:16:24 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:16:24 --> URI Class Initialized
+INFO - 2025-08-19 03:16:24 --> Router Class Initialized
+INFO - 2025-08-19 03:16:24 --> Output Class Initialized
+INFO - 2025-08-19 03:16:24 --> Security Class Initialized
+DEBUG - 2025-08-19 03:16:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:16:24 --> Input Class Initialized
+INFO - 2025-08-19 03:16:24 --> Language Class Initialized
+INFO - 2025-08-19 03:16:24 --> Loader Class Initialized
+INFO - 2025-08-19 03:16:24 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:16:24 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:16:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:16:24 --> Controller Class Initialized
+INFO - 2025-08-19 03:16:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:16:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:16:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 03:16:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:16:24 --> Final output sent to browser
+DEBUG - 2025-08-19 03:16:24 --> Total execution time: 0.0680
+INFO - 2025-08-19 03:16:29 --> Config Class Initialized
+INFO - 2025-08-19 03:16:29 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:16:29 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:16:29 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:16:29 --> URI Class Initialized
+INFO - 2025-08-19 03:16:29 --> Router Class Initialized
+INFO - 2025-08-19 03:16:29 --> Output Class Initialized
+INFO - 2025-08-19 03:16:29 --> Security Class Initialized
+DEBUG - 2025-08-19 03:16:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:16:29 --> Input Class Initialized
+INFO - 2025-08-19 03:16:29 --> Language Class Initialized
+INFO - 2025-08-19 03:16:29 --> Loader Class Initialized
+INFO - 2025-08-19 03:16:29 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:16:29 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:16:29 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:16:29 --> Controller Class Initialized
+DEBUG - 2025-08-19 03:16:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 03:16:29 --> Model "User_model" initialized
+INFO - 2025-08-19 03:16:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:16:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 03:16:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:16:29 --> Final output sent to browser
+DEBUG - 2025-08-19 03:16:29 --> Total execution time: 0.0360
+INFO - 2025-08-19 03:16:34 --> Config Class Initialized
+INFO - 2025-08-19 03:16:34 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:16:34 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:16:34 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:16:34 --> URI Class Initialized
+INFO - 2025-08-19 03:16:34 --> Router Class Initialized
+INFO - 2025-08-19 03:16:34 --> Output Class Initialized
+INFO - 2025-08-19 03:16:34 --> Security Class Initialized
+DEBUG - 2025-08-19 03:16:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:16:34 --> Input Class Initialized
+INFO - 2025-08-19 03:16:34 --> Language Class Initialized
+INFO - 2025-08-19 03:16:34 --> Loader Class Initialized
+INFO - 2025-08-19 03:16:34 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:16:34 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:16:34 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:16:34 --> Controller Class Initialized
+DEBUG - 2025-08-19 03:16:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 03:16:34 --> Model "User_model" initialized
+INFO - 2025-08-19 03:16:34 --> Config Class Initialized
+INFO - 2025-08-19 03:16:34 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:16:34 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:16:34 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:16:34 --> URI Class Initialized
+INFO - 2025-08-19 03:16:34 --> Router Class Initialized
+INFO - 2025-08-19 03:16:34 --> Output Class Initialized
+INFO - 2025-08-19 03:16:34 --> Security Class Initialized
+DEBUG - 2025-08-19 03:16:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:16:34 --> Input Class Initialized
+INFO - 2025-08-19 03:16:34 --> Language Class Initialized
+INFO - 2025-08-19 03:16:34 --> Loader Class Initialized
+INFO - 2025-08-19 03:16:34 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:16:34 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:16:34 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:16:34 --> Controller Class Initialized
+INFO - 2025-08-19 03:16:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:16:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:16:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 03:16:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:16:34 --> Final output sent to browser
+DEBUG - 2025-08-19 03:16:34 --> Total execution time: 0.0806
+INFO - 2025-08-19 03:16:36 --> Config Class Initialized
+INFO - 2025-08-19 03:16:36 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:16:36 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:16:36 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:16:36 --> URI Class Initialized
+INFO - 2025-08-19 03:16:36 --> Router Class Initialized
+INFO - 2025-08-19 03:16:36 --> Output Class Initialized
+INFO - 2025-08-19 03:16:36 --> Security Class Initialized
+DEBUG - 2025-08-19 03:16:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:16:36 --> Input Class Initialized
+INFO - 2025-08-19 03:16:36 --> Language Class Initialized
+INFO - 2025-08-19 03:16:36 --> Loader Class Initialized
+INFO - 2025-08-19 03:16:36 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:16:36 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:16:36 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:16:36 --> Controller Class Initialized
+INFO - 2025-08-19 03:16:36 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 03:16:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:16:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:16:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 03:16:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:16:36 --> Final output sent to browser
+DEBUG - 2025-08-19 03:16:36 --> Total execution time: 0.0354
+INFO - 2025-08-19 03:16:57 --> Config Class Initialized
+INFO - 2025-08-19 03:16:57 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:16:57 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:16:57 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:16:57 --> URI Class Initialized
+INFO - 2025-08-19 03:16:57 --> Router Class Initialized
+INFO - 2025-08-19 03:16:57 --> Output Class Initialized
+INFO - 2025-08-19 03:16:57 --> Security Class Initialized
+DEBUG - 2025-08-19 03:16:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:16:57 --> Input Class Initialized
+INFO - 2025-08-19 03:16:57 --> Language Class Initialized
+INFO - 2025-08-19 03:16:57 --> Loader Class Initialized
+INFO - 2025-08-19 03:16:57 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:16:57 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:16:57 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:16:57 --> Controller Class Initialized
+INFO - 2025-08-19 03:16:57 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 03:16:57 --> Upload Class Initialized
+INFO - 2025-08-19 03:16:57 --> Config Class Initialized
+INFO - 2025-08-19 03:16:57 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:16:57 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:16:57 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:16:57 --> URI Class Initialized
+INFO - 2025-08-19 03:16:57 --> Router Class Initialized
+INFO - 2025-08-19 03:16:57 --> Output Class Initialized
+INFO - 2025-08-19 03:16:57 --> Security Class Initialized
+DEBUG - 2025-08-19 03:16:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:16:57 --> Input Class Initialized
+INFO - 2025-08-19 03:16:57 --> Language Class Initialized
+INFO - 2025-08-19 03:16:57 --> Loader Class Initialized
+INFO - 2025-08-19 03:16:57 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:16:57 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:16:57 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:16:57 --> Controller Class Initialized
+INFO - 2025-08-19 03:16:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:16:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:16:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 03:16:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:16:57 --> Final output sent to browser
+DEBUG - 2025-08-19 03:16:57 --> Total execution time: 0.0732
+INFO - 2025-08-19 03:17:01 --> Config Class Initialized
+INFO - 2025-08-19 03:17:01 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:17:01 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:17:01 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:17:01 --> URI Class Initialized
+INFO - 2025-08-19 03:17:01 --> Router Class Initialized
+INFO - 2025-08-19 03:17:01 --> Output Class Initialized
+INFO - 2025-08-19 03:17:01 --> Security Class Initialized
+DEBUG - 2025-08-19 03:17:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:17:01 --> Input Class Initialized
+INFO - 2025-08-19 03:17:01 --> Language Class Initialized
+INFO - 2025-08-19 03:17:01 --> Loader Class Initialized
+INFO - 2025-08-19 03:17:01 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:17:01 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:17:01 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:17:01 --> Controller Class Initialized
+INFO - 2025-08-19 03:17:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:17:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:17:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 03:17:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:17:01 --> Final output sent to browser
+DEBUG - 2025-08-19 03:17:01 --> Total execution time: 0.0607
+INFO - 2025-08-19 03:17:06 --> Config Class Initialized
+INFO - 2025-08-19 03:17:06 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:17:06 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:17:06 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:17:06 --> URI Class Initialized
+INFO - 2025-08-19 03:17:06 --> Router Class Initialized
+INFO - 2025-08-19 03:17:06 --> Output Class Initialized
+INFO - 2025-08-19 03:17:06 --> Security Class Initialized
+DEBUG - 2025-08-19 03:17:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:17:06 --> Input Class Initialized
+INFO - 2025-08-19 03:17:06 --> Language Class Initialized
+INFO - 2025-08-19 03:17:06 --> Loader Class Initialized
+INFO - 2025-08-19 03:17:06 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:17:06 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:17:06 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:17:06 --> Controller Class Initialized
+INFO - 2025-08-19 03:17:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:17:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:17:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 03:17:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:17:06 --> Final output sent to browser
+DEBUG - 2025-08-19 03:17:06 --> Total execution time: 0.0763
+INFO - 2025-08-19 03:17:32 --> Config Class Initialized
+INFO - 2025-08-19 03:17:32 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:17:32 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:17:32 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:17:32 --> URI Class Initialized
+INFO - 2025-08-19 03:17:32 --> Router Class Initialized
+INFO - 2025-08-19 03:17:32 --> Output Class Initialized
+INFO - 2025-08-19 03:17:32 --> Security Class Initialized
+DEBUG - 2025-08-19 03:17:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:17:32 --> Input Class Initialized
+INFO - 2025-08-19 03:17:32 --> Language Class Initialized
+INFO - 2025-08-19 03:17:32 --> Loader Class Initialized
+INFO - 2025-08-19 03:17:32 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:17:32 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:17:32 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:17:32 --> Controller Class Initialized
+INFO - 2025-08-19 03:17:32 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 03:17:32 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:17:32 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:17:32 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 03:17:32 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:17:32 --> Final output sent to browser
+DEBUG - 2025-08-19 03:17:32 --> Total execution time: 0.0774
+INFO - 2025-08-19 03:17:57 --> Config Class Initialized
+INFO - 2025-08-19 03:17:57 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:17:57 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:17:57 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:17:57 --> URI Class Initialized
+INFO - 2025-08-19 03:17:57 --> Router Class Initialized
+INFO - 2025-08-19 03:17:57 --> Output Class Initialized
+INFO - 2025-08-19 03:17:57 --> Security Class Initialized
+DEBUG - 2025-08-19 03:17:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:17:57 --> Input Class Initialized
+INFO - 2025-08-19 03:17:57 --> Language Class Initialized
+INFO - 2025-08-19 03:17:57 --> Loader Class Initialized
+INFO - 2025-08-19 03:17:57 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:17:57 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:17:57 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:17:57 --> Controller Class Initialized
+INFO - 2025-08-19 03:17:57 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 03:17:57 --> Upload Class Initialized
+INFO - 2025-08-19 03:17:57 --> Config Class Initialized
+INFO - 2025-08-19 03:17:57 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:17:57 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:17:57 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:17:57 --> URI Class Initialized
+INFO - 2025-08-19 03:17:57 --> Router Class Initialized
+INFO - 2025-08-19 03:17:57 --> Output Class Initialized
+INFO - 2025-08-19 03:17:57 --> Security Class Initialized
+DEBUG - 2025-08-19 03:17:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:17:57 --> Input Class Initialized
+INFO - 2025-08-19 03:17:57 --> Language Class Initialized
+INFO - 2025-08-19 03:17:57 --> Loader Class Initialized
+INFO - 2025-08-19 03:17:57 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:17:57 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:17:57 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:17:57 --> Controller Class Initialized
+INFO - 2025-08-19 03:17:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:17:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:17:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 03:17:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:17:58 --> Final output sent to browser
+DEBUG - 2025-08-19 03:17:58 --> Total execution time: 0.0669
+INFO - 2025-08-19 03:17:59 --> Config Class Initialized
+INFO - 2025-08-19 03:17:59 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:17:59 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:17:59 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:17:59 --> URI Class Initialized
+INFO - 2025-08-19 03:17:59 --> Router Class Initialized
+INFO - 2025-08-19 03:17:59 --> Output Class Initialized
+INFO - 2025-08-19 03:17:59 --> Security Class Initialized
+DEBUG - 2025-08-19 03:17:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:17:59 --> Input Class Initialized
+INFO - 2025-08-19 03:17:59 --> Language Class Initialized
+INFO - 2025-08-19 03:17:59 --> Loader Class Initialized
+INFO - 2025-08-19 03:17:59 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:17:59 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:18:00 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:18:00 --> Controller Class Initialized
+INFO - 2025-08-19 03:18:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:18:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:18:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 03:18:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:18:00 --> Final output sent to browser
+DEBUG - 2025-08-19 03:18:00 --> Total execution time: 0.0611
+INFO - 2025-08-19 03:18:02 --> Config Class Initialized
+INFO - 2025-08-19 03:18:02 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:18:02 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:18:02 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:18:02 --> URI Class Initialized
+INFO - 2025-08-19 03:18:02 --> Router Class Initialized
+INFO - 2025-08-19 03:18:02 --> Output Class Initialized
+INFO - 2025-08-19 03:18:02 --> Security Class Initialized
+DEBUG - 2025-08-19 03:18:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:18:02 --> Input Class Initialized
+INFO - 2025-08-19 03:18:02 --> Language Class Initialized
+INFO - 2025-08-19 03:18:02 --> Loader Class Initialized
+INFO - 2025-08-19 03:18:02 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:18:02 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:18:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:18:02 --> Controller Class Initialized
+INFO - 2025-08-19 03:18:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:18:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:18:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 03:18:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:18:02 --> Final output sent to browser
+DEBUG - 2025-08-19 03:18:02 --> Total execution time: 0.0682
+INFO - 2025-08-19 03:20:40 --> Config Class Initialized
+INFO - 2025-08-19 03:20:40 --> Hooks Class Initialized
+DEBUG - 2025-08-19 03:20:40 --> UTF-8 Support Enabled
+INFO - 2025-08-19 03:20:40 --> Utf8 Class Initialized
+INFO - 2025-08-19 03:20:40 --> URI Class Initialized
+INFO - 2025-08-19 03:20:40 --> Router Class Initialized
+INFO - 2025-08-19 03:20:40 --> Output Class Initialized
+INFO - 2025-08-19 03:20:40 --> Security Class Initialized
+DEBUG - 2025-08-19 03:20:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 03:20:40 --> Input Class Initialized
+INFO - 2025-08-19 03:20:40 --> Language Class Initialized
+INFO - 2025-08-19 03:20:40 --> Loader Class Initialized
+INFO - 2025-08-19 03:20:40 --> Helper loaded: url_helper
+INFO - 2025-08-19 03:20:40 --> Database Driver Class Initialized
+INFO - 2025-08-19 03:20:40 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 03:20:40 --> Controller Class Initialized
+INFO - 2025-08-19 03:20:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 03:20:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 03:20:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 03:20:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 03:20:40 --> Final output sent to browser
+DEBUG - 2025-08-19 03:20:40 --> Total execution time: 0.0866
+INFO - 2025-08-19 04:50:30 --> Config Class Initialized
+INFO - 2025-08-19 04:50:30 --> Hooks Class Initialized
+DEBUG - 2025-08-19 04:50:30 --> UTF-8 Support Enabled
+INFO - 2025-08-19 04:50:30 --> Utf8 Class Initialized
+INFO - 2025-08-19 04:50:30 --> URI Class Initialized
+INFO - 2025-08-19 04:50:30 --> Router Class Initialized
+INFO - 2025-08-19 04:50:30 --> Output Class Initialized
+INFO - 2025-08-19 04:50:30 --> Security Class Initialized
+DEBUG - 2025-08-19 04:50:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 04:50:30 --> Input Class Initialized
+INFO - 2025-08-19 04:50:30 --> Language Class Initialized
+INFO - 2025-08-19 04:50:30 --> Loader Class Initialized
+INFO - 2025-08-19 04:50:30 --> Helper loaded: url_helper
+INFO - 2025-08-19 04:50:30 --> Database Driver Class Initialized
+INFO - 2025-08-19 04:50:30 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 04:50:30 --> Controller Class Initialized
+INFO - 2025-08-19 04:50:30 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 04:50:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 04:50:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 04:50:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 04:50:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 04:50:30 --> Final output sent to browser
+DEBUG - 2025-08-19 04:50:30 --> Total execution time: 0.0482
+INFO - 2025-08-19 04:54:16 --> Config Class Initialized
+INFO - 2025-08-19 04:54:16 --> Hooks Class Initialized
+DEBUG - 2025-08-19 04:54:16 --> UTF-8 Support Enabled
+INFO - 2025-08-19 04:54:16 --> Utf8 Class Initialized
+INFO - 2025-08-19 04:54:16 --> URI Class Initialized
+INFO - 2025-08-19 04:54:16 --> Router Class Initialized
+INFO - 2025-08-19 04:54:16 --> Output Class Initialized
+INFO - 2025-08-19 04:54:16 --> Security Class Initialized
+DEBUG - 2025-08-19 04:54:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 04:54:16 --> Input Class Initialized
+INFO - 2025-08-19 04:54:16 --> Language Class Initialized
+INFO - 2025-08-19 04:54:16 --> Loader Class Initialized
+INFO - 2025-08-19 04:54:16 --> Helper loaded: url_helper
+INFO - 2025-08-19 04:54:16 --> Database Driver Class Initialized
+INFO - 2025-08-19 04:54:16 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 04:54:16 --> Controller Class Initialized
+INFO - 2025-08-19 04:54:16 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 04:54:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 04:54:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 04:54:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 04:54:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 04:54:16 --> Final output sent to browser
+DEBUG - 2025-08-19 04:54:16 --> Total execution time: 0.0904
+INFO - 2025-08-19 04:54:23 --> Config Class Initialized
+INFO - 2025-08-19 04:54:23 --> Hooks Class Initialized
+DEBUG - 2025-08-19 04:54:23 --> UTF-8 Support Enabled
+INFO - 2025-08-19 04:54:23 --> Utf8 Class Initialized
+INFO - 2025-08-19 04:54:23 --> URI Class Initialized
+INFO - 2025-08-19 04:54:23 --> Router Class Initialized
+INFO - 2025-08-19 04:54:23 --> Output Class Initialized
+INFO - 2025-08-19 04:54:23 --> Security Class Initialized
+DEBUG - 2025-08-19 04:54:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 04:54:23 --> Input Class Initialized
+INFO - 2025-08-19 04:54:23 --> Language Class Initialized
+INFO - 2025-08-19 04:54:23 --> Loader Class Initialized
+INFO - 2025-08-19 04:54:23 --> Helper loaded: url_helper
+INFO - 2025-08-19 04:54:23 --> Database Driver Class Initialized
+INFO - 2025-08-19 04:54:23 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 04:54:23 --> Controller Class Initialized
+INFO - 2025-08-19 04:54:23 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 04:54:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 04:54:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 04:54:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 04:54:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 04:54:23 --> Final output sent to browser
+DEBUG - 2025-08-19 04:54:23 --> Total execution time: 0.0475
+INFO - 2025-08-19 04:54:42 --> Config Class Initialized
+INFO - 2025-08-19 04:54:42 --> Hooks Class Initialized
+DEBUG - 2025-08-19 04:54:42 --> UTF-8 Support Enabled
+INFO - 2025-08-19 04:54:42 --> Utf8 Class Initialized
+INFO - 2025-08-19 04:54:42 --> URI Class Initialized
+INFO - 2025-08-19 04:54:42 --> Router Class Initialized
+INFO - 2025-08-19 04:54:42 --> Output Class Initialized
+INFO - 2025-08-19 04:54:42 --> Security Class Initialized
+DEBUG - 2025-08-19 04:54:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 04:54:42 --> Input Class Initialized
+INFO - 2025-08-19 04:54:42 --> Language Class Initialized
+INFO - 2025-08-19 04:54:42 --> Loader Class Initialized
+INFO - 2025-08-19 04:54:42 --> Helper loaded: url_helper
+INFO - 2025-08-19 04:54:42 --> Database Driver Class Initialized
+INFO - 2025-08-19 04:54:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 04:54:42 --> Controller Class Initialized
+INFO - 2025-08-19 04:54:42 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 04:54:42 --> Upload Class Initialized
+INFO - 2025-08-19 04:54:42 --> Config Class Initialized
+INFO - 2025-08-19 04:54:42 --> Hooks Class Initialized
+DEBUG - 2025-08-19 04:54:42 --> UTF-8 Support Enabled
+INFO - 2025-08-19 04:54:42 --> Utf8 Class Initialized
+INFO - 2025-08-19 04:54:42 --> URI Class Initialized
+INFO - 2025-08-19 04:54:42 --> Router Class Initialized
+INFO - 2025-08-19 04:54:42 --> Output Class Initialized
+INFO - 2025-08-19 04:54:42 --> Security Class Initialized
+DEBUG - 2025-08-19 04:54:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 04:54:42 --> Input Class Initialized
+INFO - 2025-08-19 04:54:42 --> Language Class Initialized
+INFO - 2025-08-19 04:54:42 --> Loader Class Initialized
+INFO - 2025-08-19 04:54:42 --> Helper loaded: url_helper
+INFO - 2025-08-19 04:54:42 --> Database Driver Class Initialized
+INFO - 2025-08-19 04:54:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 04:54:42 --> Controller Class Initialized
+INFO - 2025-08-19 04:54:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 04:54:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 04:54:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 04:54:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 04:54:42 --> Final output sent to browser
+DEBUG - 2025-08-19 04:54:42 --> Total execution time: 0.1607
+INFO - 2025-08-19 04:54:49 --> Config Class Initialized
+INFO - 2025-08-19 04:54:49 --> Hooks Class Initialized
+DEBUG - 2025-08-19 04:54:49 --> UTF-8 Support Enabled
+INFO - 2025-08-19 04:54:49 --> Utf8 Class Initialized
+INFO - 2025-08-19 04:54:49 --> URI Class Initialized
+INFO - 2025-08-19 04:54:49 --> Router Class Initialized
+INFO - 2025-08-19 04:54:49 --> Output Class Initialized
+INFO - 2025-08-19 04:54:49 --> Security Class Initialized
+DEBUG - 2025-08-19 04:54:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 04:54:49 --> Input Class Initialized
+INFO - 2025-08-19 04:54:49 --> Language Class Initialized
+INFO - 2025-08-19 04:54:49 --> Loader Class Initialized
+INFO - 2025-08-19 04:54:49 --> Helper loaded: url_helper
+INFO - 2025-08-19 04:54:49 --> Database Driver Class Initialized
+INFO - 2025-08-19 04:54:49 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 04:54:49 --> Controller Class Initialized
+INFO - 2025-08-19 04:54:49 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 04:54:49 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 04:54:49 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 04:54:49 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 04:54:49 --> Final output sent to browser
+DEBUG - 2025-08-19 04:54:49 --> Total execution time: 0.0576
+INFO - 2025-08-19 04:54:53 --> Config Class Initialized
+INFO - 2025-08-19 04:54:53 --> Hooks Class Initialized
+DEBUG - 2025-08-19 04:54:53 --> UTF-8 Support Enabled
+INFO - 2025-08-19 04:54:53 --> Utf8 Class Initialized
+INFO - 2025-08-19 04:54:53 --> URI Class Initialized
+INFO - 2025-08-19 04:54:53 --> Router Class Initialized
+INFO - 2025-08-19 04:54:53 --> Output Class Initialized
+INFO - 2025-08-19 04:54:53 --> Security Class Initialized
+DEBUG - 2025-08-19 04:54:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 04:54:53 --> Input Class Initialized
+INFO - 2025-08-19 04:54:53 --> Language Class Initialized
+INFO - 2025-08-19 04:54:53 --> Loader Class Initialized
+INFO - 2025-08-19 04:54:53 --> Helper loaded: url_helper
+INFO - 2025-08-19 04:54:53 --> Database Driver Class Initialized
+INFO - 2025-08-19 04:54:53 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 04:54:53 --> Controller Class Initialized
+INFO - 2025-08-19 04:54:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 04:54:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 04:54:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 04:54:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 04:54:53 --> Final output sent to browser
+DEBUG - 2025-08-19 04:54:53 --> Total execution time: 0.0701
+INFO - 2025-08-19 04:55:07 --> Config Class Initialized
+INFO - 2025-08-19 04:55:07 --> Hooks Class Initialized
+DEBUG - 2025-08-19 04:55:07 --> UTF-8 Support Enabled
+INFO - 2025-08-19 04:55:07 --> Utf8 Class Initialized
+INFO - 2025-08-19 04:55:07 --> URI Class Initialized
+INFO - 2025-08-19 04:55:07 --> Router Class Initialized
+INFO - 2025-08-19 04:55:07 --> Output Class Initialized
+INFO - 2025-08-19 04:55:07 --> Security Class Initialized
+DEBUG - 2025-08-19 04:55:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 04:55:07 --> Input Class Initialized
+INFO - 2025-08-19 04:55:07 --> Language Class Initialized
+INFO - 2025-08-19 04:55:07 --> Loader Class Initialized
+INFO - 2025-08-19 04:55:07 --> Helper loaded: url_helper
+INFO - 2025-08-19 04:55:07 --> Database Driver Class Initialized
+INFO - 2025-08-19 04:55:07 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 04:55:07 --> Controller Class Initialized
+INFO - 2025-08-19 04:55:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 04:55:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 04:55:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 04:55:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 04:55:07 --> Final output sent to browser
+DEBUG - 2025-08-19 04:55:07 --> Total execution time: 0.0575
+INFO - 2025-08-19 04:55:25 --> Config Class Initialized
+INFO - 2025-08-19 04:55:25 --> Hooks Class Initialized
+DEBUG - 2025-08-19 04:55:25 --> UTF-8 Support Enabled
+INFO - 2025-08-19 04:55:25 --> Utf8 Class Initialized
+INFO - 2025-08-19 04:55:25 --> URI Class Initialized
+INFO - 2025-08-19 04:55:25 --> Router Class Initialized
+INFO - 2025-08-19 04:55:25 --> Output Class Initialized
+INFO - 2025-08-19 04:55:25 --> Security Class Initialized
+DEBUG - 2025-08-19 04:55:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 04:55:25 --> Input Class Initialized
+INFO - 2025-08-19 04:55:25 --> Language Class Initialized
+INFO - 2025-08-19 04:55:25 --> Loader Class Initialized
+INFO - 2025-08-19 04:55:25 --> Helper loaded: url_helper
+INFO - 2025-08-19 04:55:25 --> Database Driver Class Initialized
+INFO - 2025-08-19 04:55:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 04:55:25 --> Controller Class Initialized
+INFO - 2025-08-19 04:55:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 04:55:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 04:55:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 04:55:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 04:55:25 --> Final output sent to browser
+DEBUG - 2025-08-19 04:55:25 --> Total execution time: 0.0788
+INFO - 2025-08-19 04:55:42 --> Config Class Initialized
+INFO - 2025-08-19 04:55:42 --> Hooks Class Initialized
+DEBUG - 2025-08-19 04:55:42 --> UTF-8 Support Enabled
+INFO - 2025-08-19 04:55:42 --> Utf8 Class Initialized
+INFO - 2025-08-19 04:55:42 --> URI Class Initialized
+INFO - 2025-08-19 04:55:42 --> Router Class Initialized
+INFO - 2025-08-19 04:55:42 --> Output Class Initialized
+INFO - 2025-08-19 04:55:42 --> Security Class Initialized
+DEBUG - 2025-08-19 04:55:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 04:55:42 --> Input Class Initialized
+INFO - 2025-08-19 04:55:42 --> Language Class Initialized
+INFO - 2025-08-19 04:55:42 --> Loader Class Initialized
+INFO - 2025-08-19 04:55:42 --> Helper loaded: url_helper
+INFO - 2025-08-19 04:55:42 --> Database Driver Class Initialized
+INFO - 2025-08-19 04:55:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 04:55:42 --> Controller Class Initialized
+INFO - 2025-08-19 04:55:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 04:55:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 04:55:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 04:55:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 04:55:42 --> Final output sent to browser
+DEBUG - 2025-08-19 04:55:42 --> Total execution time: 0.0712
+INFO - 2025-08-19 04:58:27 --> Config Class Initialized
+INFO - 2025-08-19 04:58:27 --> Hooks Class Initialized
+DEBUG - 2025-08-19 04:58:27 --> UTF-8 Support Enabled
+INFO - 2025-08-19 04:58:27 --> Utf8 Class Initialized
+INFO - 2025-08-19 04:58:27 --> URI Class Initialized
+INFO - 2025-08-19 04:58:27 --> Router Class Initialized
+INFO - 2025-08-19 04:58:27 --> Output Class Initialized
+INFO - 2025-08-19 04:58:27 --> Security Class Initialized
+DEBUG - 2025-08-19 04:58:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 04:58:27 --> Input Class Initialized
+INFO - 2025-08-19 04:58:27 --> Language Class Initialized
+INFO - 2025-08-19 04:58:27 --> Loader Class Initialized
+INFO - 2025-08-19 04:58:27 --> Helper loaded: url_helper
+INFO - 2025-08-19 04:58:27 --> Database Driver Class Initialized
+INFO - 2025-08-19 04:58:27 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 04:58:27 --> Controller Class Initialized
+INFO - 2025-08-19 04:58:27 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 04:58:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 04:58:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 04:58:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 04:58:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 04:58:27 --> Final output sent to browser
+DEBUG - 2025-08-19 04:58:27 --> Total execution time: 0.0461
+INFO - 2025-08-19 04:58:28 --> Config Class Initialized
+INFO - 2025-08-19 04:58:28 --> Hooks Class Initialized
+DEBUG - 2025-08-19 04:58:28 --> UTF-8 Support Enabled
+INFO - 2025-08-19 04:58:28 --> Utf8 Class Initialized
+INFO - 2025-08-19 04:58:28 --> URI Class Initialized
+INFO - 2025-08-19 04:58:28 --> Router Class Initialized
+INFO - 2025-08-19 04:58:28 --> Output Class Initialized
+INFO - 2025-08-19 04:58:28 --> Security Class Initialized
+DEBUG - 2025-08-19 04:58:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 04:58:28 --> Input Class Initialized
+INFO - 2025-08-19 04:58:28 --> Language Class Initialized
+INFO - 2025-08-19 04:58:28 --> Loader Class Initialized
+INFO - 2025-08-19 04:58:28 --> Helper loaded: url_helper
+INFO - 2025-08-19 04:58:28 --> Database Driver Class Initialized
+INFO - 2025-08-19 04:58:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 04:58:28 --> Controller Class Initialized
+INFO - 2025-08-19 04:58:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 04:58:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 04:58:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 04:58:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 04:58:28 --> Final output sent to browser
+DEBUG - 2025-08-19 04:58:28 --> Total execution time: 0.1685
+INFO - 2025-08-19 04:58:31 --> Config Class Initialized
+INFO - 2025-08-19 04:58:31 --> Hooks Class Initialized
+DEBUG - 2025-08-19 04:58:31 --> UTF-8 Support Enabled
+INFO - 2025-08-19 04:58:31 --> Utf8 Class Initialized
+INFO - 2025-08-19 04:58:31 --> URI Class Initialized
+INFO - 2025-08-19 04:58:31 --> Router Class Initialized
+INFO - 2025-08-19 04:58:31 --> Output Class Initialized
+INFO - 2025-08-19 04:58:31 --> Security Class Initialized
+DEBUG - 2025-08-19 04:58:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 04:58:31 --> Input Class Initialized
+INFO - 2025-08-19 04:58:31 --> Language Class Initialized
+INFO - 2025-08-19 04:58:31 --> Loader Class Initialized
+INFO - 2025-08-19 04:58:31 --> Helper loaded: url_helper
+INFO - 2025-08-19 04:58:31 --> Database Driver Class Initialized
+INFO - 2025-08-19 04:58:31 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 04:58:31 --> Controller Class Initialized
+INFO - 2025-08-19 04:58:31 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 04:58:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 04:58:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 04:58:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 04:58:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 04:58:31 --> Final output sent to browser
+DEBUG - 2025-08-19 04:58:31 --> Total execution time: 0.0592
+INFO - 2025-08-19 04:58:32 --> Config Class Initialized
+INFO - 2025-08-19 04:58:32 --> Hooks Class Initialized
+DEBUG - 2025-08-19 04:58:32 --> UTF-8 Support Enabled
+INFO - 2025-08-19 04:58:32 --> Utf8 Class Initialized
+INFO - 2025-08-19 04:58:32 --> URI Class Initialized
+INFO - 2025-08-19 04:58:32 --> Router Class Initialized
+INFO - 2025-08-19 04:58:32 --> Output Class Initialized
+INFO - 2025-08-19 04:58:32 --> Security Class Initialized
+DEBUG - 2025-08-19 04:58:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 04:58:32 --> Input Class Initialized
+INFO - 2025-08-19 04:58:32 --> Language Class Initialized
+INFO - 2025-08-19 04:58:32 --> Loader Class Initialized
+INFO - 2025-08-19 04:58:32 --> Helper loaded: url_helper
+INFO - 2025-08-19 04:58:32 --> Database Driver Class Initialized
+INFO - 2025-08-19 04:58:32 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 04:58:32 --> Controller Class Initialized
+INFO - 2025-08-19 04:58:32 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 04:58:32 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 04:58:32 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 04:58:32 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 04:58:32 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 04:58:32 --> Final output sent to browser
+DEBUG - 2025-08-19 04:58:32 --> Total execution time: 0.0527
+INFO - 2025-08-19 04:58:33 --> Config Class Initialized
+INFO - 2025-08-19 04:58:33 --> Hooks Class Initialized
+DEBUG - 2025-08-19 04:58:33 --> UTF-8 Support Enabled
+INFO - 2025-08-19 04:58:33 --> Utf8 Class Initialized
+INFO - 2025-08-19 04:58:33 --> URI Class Initialized
+INFO - 2025-08-19 04:58:33 --> Router Class Initialized
+INFO - 2025-08-19 04:58:33 --> Output Class Initialized
+INFO - 2025-08-19 04:58:33 --> Security Class Initialized
+DEBUG - 2025-08-19 04:58:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 04:58:33 --> Input Class Initialized
+INFO - 2025-08-19 04:58:33 --> Language Class Initialized
+INFO - 2025-08-19 04:58:33 --> Loader Class Initialized
+INFO - 2025-08-19 04:58:33 --> Helper loaded: url_helper
+INFO - 2025-08-19 04:58:33 --> Database Driver Class Initialized
+INFO - 2025-08-19 04:58:33 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 04:58:33 --> Controller Class Initialized
+INFO - 2025-08-19 04:58:33 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 04:58:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 04:58:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 04:58:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 04:58:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 04:58:33 --> Final output sent to browser
+DEBUG - 2025-08-19 04:58:33 --> Total execution time: 0.0339
+INFO - 2025-08-19 04:58:34 --> Config Class Initialized
+INFO - 2025-08-19 04:58:34 --> Hooks Class Initialized
+DEBUG - 2025-08-19 04:58:34 --> UTF-8 Support Enabled
+INFO - 2025-08-19 04:58:34 --> Utf8 Class Initialized
+INFO - 2025-08-19 04:58:34 --> URI Class Initialized
+INFO - 2025-08-19 04:58:34 --> Router Class Initialized
+INFO - 2025-08-19 04:58:34 --> Output Class Initialized
+INFO - 2025-08-19 04:58:34 --> Security Class Initialized
+DEBUG - 2025-08-19 04:58:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 04:58:34 --> Input Class Initialized
+INFO - 2025-08-19 04:58:34 --> Language Class Initialized
+INFO - 2025-08-19 04:58:34 --> Loader Class Initialized
+INFO - 2025-08-19 04:58:34 --> Helper loaded: url_helper
+INFO - 2025-08-19 04:58:34 --> Database Driver Class Initialized
+INFO - 2025-08-19 04:58:34 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 04:58:34 --> Controller Class Initialized
+INFO - 2025-08-19 04:58:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 04:58:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 04:58:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 04:58:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 04:58:34 --> Final output sent to browser
+DEBUG - 2025-08-19 04:58:34 --> Total execution time: 0.0567
+INFO - 2025-08-19 05:01:06 --> Config Class Initialized
+INFO - 2025-08-19 05:01:06 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:01:06 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:01:06 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:01:06 --> URI Class Initialized
+INFO - 2025-08-19 05:01:06 --> Router Class Initialized
+INFO - 2025-08-19 05:01:06 --> Output Class Initialized
+INFO - 2025-08-19 05:01:06 --> Security Class Initialized
+DEBUG - 2025-08-19 05:01:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:01:06 --> Input Class Initialized
+INFO - 2025-08-19 05:01:06 --> Language Class Initialized
+INFO - 2025-08-19 05:01:06 --> Loader Class Initialized
+INFO - 2025-08-19 05:01:06 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:01:06 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:01:06 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:01:06 --> Controller Class Initialized
+INFO - 2025-08-19 05:01:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:01:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:01:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:01:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:01:06 --> Final output sent to browser
+DEBUG - 2025-08-19 05:01:06 --> Total execution time: 0.0617
+INFO - 2025-08-19 05:01:09 --> Config Class Initialized
+INFO - 2025-08-19 05:01:09 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:01:09 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:01:09 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:01:09 --> URI Class Initialized
+INFO - 2025-08-19 05:01:09 --> Router Class Initialized
+INFO - 2025-08-19 05:01:09 --> Output Class Initialized
+INFO - 2025-08-19 05:01:09 --> Security Class Initialized
+DEBUG - 2025-08-19 05:01:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:01:09 --> Input Class Initialized
+INFO - 2025-08-19 05:01:09 --> Language Class Initialized
+INFO - 2025-08-19 05:01:09 --> Loader Class Initialized
+INFO - 2025-08-19 05:01:09 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:01:09 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:01:09 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:01:09 --> Controller Class Initialized
+INFO - 2025-08-19 05:01:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:01:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:01:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:01:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:01:09 --> Final output sent to browser
+DEBUG - 2025-08-19 05:01:09 --> Total execution time: 0.0844
+INFO - 2025-08-19 05:01:11 --> Config Class Initialized
+INFO - 2025-08-19 05:01:11 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:01:11 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:01:11 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:01:11 --> URI Class Initialized
+INFO - 2025-08-19 05:01:11 --> Router Class Initialized
+INFO - 2025-08-19 05:01:11 --> Output Class Initialized
+INFO - 2025-08-19 05:01:11 --> Security Class Initialized
+DEBUG - 2025-08-19 05:01:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:01:11 --> Input Class Initialized
+INFO - 2025-08-19 05:01:11 --> Language Class Initialized
+INFO - 2025-08-19 05:01:11 --> Loader Class Initialized
+INFO - 2025-08-19 05:01:11 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:01:11 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:01:11 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:01:11 --> Controller Class Initialized
+INFO - 2025-08-19 05:01:11 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:01:11 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:01:11 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:01:11 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:01:11 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:01:11 --> Final output sent to browser
+DEBUG - 2025-08-19 05:01:11 --> Total execution time: 0.1184
+INFO - 2025-08-19 05:01:13 --> Config Class Initialized
+INFO - 2025-08-19 05:01:13 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:01:13 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:01:13 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:01:13 --> URI Class Initialized
+INFO - 2025-08-19 05:01:13 --> Router Class Initialized
+INFO - 2025-08-19 05:01:13 --> Output Class Initialized
+INFO - 2025-08-19 05:01:13 --> Security Class Initialized
+DEBUG - 2025-08-19 05:01:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:01:13 --> Input Class Initialized
+INFO - 2025-08-19 05:01:13 --> Language Class Initialized
+INFO - 2025-08-19 05:01:13 --> Loader Class Initialized
+INFO - 2025-08-19 05:01:13 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:01:13 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:01:13 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:01:13 --> Controller Class Initialized
+INFO - 2025-08-19 05:01:13 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:01:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:01:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:01:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:01:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:01:13 --> Final output sent to browser
+DEBUG - 2025-08-19 05:01:13 --> Total execution time: 0.0498
+INFO - 2025-08-19 05:01:30 --> Config Class Initialized
+INFO - 2025-08-19 05:01:30 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:01:30 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:01:30 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:01:30 --> URI Class Initialized
+INFO - 2025-08-19 05:01:30 --> Router Class Initialized
+INFO - 2025-08-19 05:01:30 --> Output Class Initialized
+INFO - 2025-08-19 05:01:30 --> Security Class Initialized
+DEBUG - 2025-08-19 05:01:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:01:30 --> Input Class Initialized
+INFO - 2025-08-19 05:01:30 --> Language Class Initialized
+INFO - 2025-08-19 05:01:30 --> Loader Class Initialized
+INFO - 2025-08-19 05:01:30 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:01:30 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:01:30 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:01:30 --> Controller Class Initialized
+INFO - 2025-08-19 05:01:30 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:01:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:01:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:01:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:01:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:01:30 --> Final output sent to browser
+DEBUG - 2025-08-19 05:01:30 --> Total execution time: 0.0365
+INFO - 2025-08-19 05:01:31 --> Config Class Initialized
+INFO - 2025-08-19 05:01:31 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:01:31 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:01:31 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:01:31 --> URI Class Initialized
+INFO - 2025-08-19 05:01:31 --> Router Class Initialized
+INFO - 2025-08-19 05:01:31 --> Output Class Initialized
+INFO - 2025-08-19 05:01:31 --> Security Class Initialized
+DEBUG - 2025-08-19 05:01:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:01:31 --> Input Class Initialized
+INFO - 2025-08-19 05:01:31 --> Language Class Initialized
+INFO - 2025-08-19 05:01:31 --> Loader Class Initialized
+INFO - 2025-08-19 05:01:31 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:01:31 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:01:31 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:01:31 --> Controller Class Initialized
+INFO - 2025-08-19 05:01:31 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:01:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:01:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:01:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:01:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:01:31 --> Final output sent to browser
+DEBUG - 2025-08-19 05:01:31 --> Total execution time: 0.0526
+INFO - 2025-08-19 05:01:33 --> Config Class Initialized
+INFO - 2025-08-19 05:01:33 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:01:33 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:01:33 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:01:33 --> URI Class Initialized
+INFO - 2025-08-19 05:01:33 --> Router Class Initialized
+INFO - 2025-08-19 05:01:33 --> Output Class Initialized
+INFO - 2025-08-19 05:01:33 --> Security Class Initialized
+DEBUG - 2025-08-19 05:01:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:01:33 --> Input Class Initialized
+INFO - 2025-08-19 05:01:33 --> Language Class Initialized
+INFO - 2025-08-19 05:01:33 --> Loader Class Initialized
+INFO - 2025-08-19 05:01:33 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:01:33 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:01:33 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:01:33 --> Controller Class Initialized
+INFO - 2025-08-19 05:01:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:01:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:01:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:01:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:01:33 --> Final output sent to browser
+DEBUG - 2025-08-19 05:01:33 --> Total execution time: 0.0772
+INFO - 2025-08-19 05:01:35 --> Config Class Initialized
+INFO - 2025-08-19 05:01:35 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:01:35 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:01:35 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:01:35 --> URI Class Initialized
+INFO - 2025-08-19 05:01:35 --> Router Class Initialized
+INFO - 2025-08-19 05:01:35 --> Output Class Initialized
+INFO - 2025-08-19 05:01:35 --> Security Class Initialized
+DEBUG - 2025-08-19 05:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:01:35 --> Input Class Initialized
+INFO - 2025-08-19 05:01:35 --> Language Class Initialized
+INFO - 2025-08-19 05:01:35 --> Loader Class Initialized
+INFO - 2025-08-19 05:01:35 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:01:35 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:01:35 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:01:35 --> Controller Class Initialized
+INFO - 2025-08-19 05:01:35 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:01:35 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:01:35 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:01:35 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:01:35 --> Final output sent to browser
+DEBUG - 2025-08-19 05:01:35 --> Total execution time: 0.0526
+INFO - 2025-08-19 05:01:36 --> Config Class Initialized
+INFO - 2025-08-19 05:01:36 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:01:36 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:01:36 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:01:36 --> URI Class Initialized
+INFO - 2025-08-19 05:01:36 --> Router Class Initialized
+INFO - 2025-08-19 05:01:36 --> Output Class Initialized
+INFO - 2025-08-19 05:01:36 --> Security Class Initialized
+DEBUG - 2025-08-19 05:01:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:01:36 --> Input Class Initialized
+INFO - 2025-08-19 05:01:36 --> Language Class Initialized
+INFO - 2025-08-19 05:01:36 --> Loader Class Initialized
+INFO - 2025-08-19 05:01:36 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:01:36 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:01:36 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:01:36 --> Controller Class Initialized
+INFO - 2025-08-19 05:01:36 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:01:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:01:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:01:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:01:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:01:36 --> Final output sent to browser
+DEBUG - 2025-08-19 05:01:36 --> Total execution time: 0.0381
+INFO - 2025-08-19 05:01:38 --> Config Class Initialized
+INFO - 2025-08-19 05:01:38 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:01:38 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:01:38 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:01:38 --> URI Class Initialized
+INFO - 2025-08-19 05:01:38 --> Router Class Initialized
+INFO - 2025-08-19 05:01:38 --> Output Class Initialized
+INFO - 2025-08-19 05:01:38 --> Security Class Initialized
+DEBUG - 2025-08-19 05:01:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:01:38 --> Input Class Initialized
+INFO - 2025-08-19 05:01:38 --> Language Class Initialized
+INFO - 2025-08-19 05:01:38 --> Loader Class Initialized
+INFO - 2025-08-19 05:01:38 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:01:38 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:01:38 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:01:38 --> Controller Class Initialized
+INFO - 2025-08-19 05:01:38 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:01:38 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:01:38 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:01:38 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:01:38 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:01:38 --> Final output sent to browser
+DEBUG - 2025-08-19 05:01:38 --> Total execution time: 0.0375
+INFO - 2025-08-19 05:01:39 --> Config Class Initialized
+INFO - 2025-08-19 05:01:39 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:01:39 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:01:39 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:01:39 --> URI Class Initialized
+INFO - 2025-08-19 05:01:39 --> Router Class Initialized
+INFO - 2025-08-19 05:01:39 --> Output Class Initialized
+INFO - 2025-08-19 05:01:39 --> Security Class Initialized
+DEBUG - 2025-08-19 05:01:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:01:39 --> Input Class Initialized
+INFO - 2025-08-19 05:01:39 --> Language Class Initialized
+INFO - 2025-08-19 05:01:39 --> Loader Class Initialized
+INFO - 2025-08-19 05:01:39 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:01:39 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:01:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:01:39 --> Controller Class Initialized
+INFO - 2025-08-19 05:01:39 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:01:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:01:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:01:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:01:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:01:39 --> Final output sent to browser
+DEBUG - 2025-08-19 05:01:39 --> Total execution time: 0.0323
+INFO - 2025-08-19 05:01:41 --> Config Class Initialized
+INFO - 2025-08-19 05:01:41 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:01:41 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:01:41 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:01:41 --> URI Class Initialized
+INFO - 2025-08-19 05:01:41 --> Router Class Initialized
+INFO - 2025-08-19 05:01:41 --> Output Class Initialized
+INFO - 2025-08-19 05:01:41 --> Security Class Initialized
+DEBUG - 2025-08-19 05:01:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:01:41 --> Input Class Initialized
+INFO - 2025-08-19 05:01:41 --> Language Class Initialized
+INFO - 2025-08-19 05:01:41 --> Loader Class Initialized
+INFO - 2025-08-19 05:01:41 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:01:41 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:01:41 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:01:41 --> Controller Class Initialized
+INFO - 2025-08-19 05:01:41 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:01:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:01:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:01:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:01:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:01:41 --> Final output sent to browser
+DEBUG - 2025-08-19 05:01:41 --> Total execution time: 0.0374
+INFO - 2025-08-19 05:01:43 --> Config Class Initialized
+INFO - 2025-08-19 05:01:43 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:01:43 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:01:43 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:01:43 --> URI Class Initialized
+INFO - 2025-08-19 05:01:43 --> Router Class Initialized
+INFO - 2025-08-19 05:01:43 --> Output Class Initialized
+INFO - 2025-08-19 05:01:43 --> Security Class Initialized
+DEBUG - 2025-08-19 05:01:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:01:43 --> Input Class Initialized
+INFO - 2025-08-19 05:01:43 --> Language Class Initialized
+INFO - 2025-08-19 05:01:43 --> Loader Class Initialized
+INFO - 2025-08-19 05:01:43 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:01:43 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:01:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:01:43 --> Controller Class Initialized
+INFO - 2025-08-19 05:01:43 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:01:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:01:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:01:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:01:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:01:43 --> Final output sent to browser
+DEBUG - 2025-08-19 05:01:43 --> Total execution time: 0.0585
+INFO - 2025-08-19 05:01:55 --> Config Class Initialized
+INFO - 2025-08-19 05:01:55 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:01:55 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:01:55 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:01:55 --> URI Class Initialized
+INFO - 2025-08-19 05:01:55 --> Router Class Initialized
+INFO - 2025-08-19 05:01:55 --> Output Class Initialized
+INFO - 2025-08-19 05:01:55 --> Security Class Initialized
+DEBUG - 2025-08-19 05:01:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:01:55 --> Input Class Initialized
+INFO - 2025-08-19 05:01:55 --> Language Class Initialized
+INFO - 2025-08-19 05:01:55 --> Loader Class Initialized
+INFO - 2025-08-19 05:01:55 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:01:55 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:01:55 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:01:55 --> Controller Class Initialized
+INFO - 2025-08-19 05:01:55 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:01:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:01:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:01:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:01:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:01:55 --> Final output sent to browser
+DEBUG - 2025-08-19 05:01:55 --> Total execution time: 0.0436
+INFO - 2025-08-19 05:02:29 --> Config Class Initialized
+INFO - 2025-08-19 05:02:29 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:02:29 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:02:29 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:02:29 --> URI Class Initialized
+INFO - 2025-08-19 05:02:29 --> Router Class Initialized
+INFO - 2025-08-19 05:02:29 --> Output Class Initialized
+INFO - 2025-08-19 05:02:29 --> Security Class Initialized
+DEBUG - 2025-08-19 05:02:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:02:29 --> Input Class Initialized
+INFO - 2025-08-19 05:02:29 --> Language Class Initialized
+INFO - 2025-08-19 05:02:29 --> Loader Class Initialized
+INFO - 2025-08-19 05:02:29 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:02:29 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:02:29 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:02:29 --> Controller Class Initialized
+INFO - 2025-08-19 05:02:29 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:02:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:02:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:02:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:02:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:02:30 --> Final output sent to browser
+DEBUG - 2025-08-19 05:02:30 --> Total execution time: 0.1632
+INFO - 2025-08-19 05:02:33 --> Config Class Initialized
+INFO - 2025-08-19 05:02:33 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:02:33 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:02:33 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:02:33 --> URI Class Initialized
+INFO - 2025-08-19 05:02:33 --> Router Class Initialized
+INFO - 2025-08-19 05:02:33 --> Output Class Initialized
+INFO - 2025-08-19 05:02:33 --> Security Class Initialized
+DEBUG - 2025-08-19 05:02:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:02:33 --> Input Class Initialized
+INFO - 2025-08-19 05:02:33 --> Language Class Initialized
+INFO - 2025-08-19 05:02:33 --> Loader Class Initialized
+INFO - 2025-08-19 05:02:33 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:02:33 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:02:33 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:02:33 --> Controller Class Initialized
+INFO - 2025-08-19 05:02:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:02:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:02:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:02:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:02:33 --> Final output sent to browser
+DEBUG - 2025-08-19 05:02:33 --> Total execution time: 0.0827
+INFO - 2025-08-19 05:02:34 --> Config Class Initialized
+INFO - 2025-08-19 05:02:34 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:02:34 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:02:34 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:02:34 --> URI Class Initialized
+INFO - 2025-08-19 05:02:34 --> Router Class Initialized
+INFO - 2025-08-19 05:02:34 --> Output Class Initialized
+INFO - 2025-08-19 05:02:34 --> Security Class Initialized
+DEBUG - 2025-08-19 05:02:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:02:34 --> Input Class Initialized
+INFO - 2025-08-19 05:02:34 --> Language Class Initialized
+INFO - 2025-08-19 05:02:34 --> Loader Class Initialized
+INFO - 2025-08-19 05:02:34 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:02:34 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:02:34 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:02:34 --> Controller Class Initialized
+INFO - 2025-08-19 05:02:34 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:02:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:02:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:02:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:02:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:02:34 --> Final output sent to browser
+DEBUG - 2025-08-19 05:02:34 --> Total execution time: 0.0316
+INFO - 2025-08-19 05:02:35 --> Config Class Initialized
+INFO - 2025-08-19 05:02:35 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:02:35 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:02:35 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:02:35 --> URI Class Initialized
+INFO - 2025-08-19 05:02:35 --> Router Class Initialized
+INFO - 2025-08-19 05:02:35 --> Output Class Initialized
+INFO - 2025-08-19 05:02:35 --> Security Class Initialized
+DEBUG - 2025-08-19 05:02:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:02:35 --> Input Class Initialized
+INFO - 2025-08-19 05:02:35 --> Language Class Initialized
+INFO - 2025-08-19 05:02:35 --> Loader Class Initialized
+INFO - 2025-08-19 05:02:35 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:02:35 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:02:35 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:02:35 --> Controller Class Initialized
+INFO - 2025-08-19 05:02:35 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:02:35 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:02:35 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:02:35 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:02:35 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:02:35 --> Final output sent to browser
+DEBUG - 2025-08-19 05:02:35 --> Total execution time: 0.0447
+INFO - 2025-08-19 05:04:23 --> Config Class Initialized
+INFO - 2025-08-19 05:04:23 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:04:23 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:04:23 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:04:23 --> URI Class Initialized
+INFO - 2025-08-19 05:04:23 --> Router Class Initialized
+INFO - 2025-08-19 05:04:23 --> Output Class Initialized
+INFO - 2025-08-19 05:04:23 --> Security Class Initialized
+DEBUG - 2025-08-19 05:04:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:04:23 --> Input Class Initialized
+INFO - 2025-08-19 05:04:23 --> Language Class Initialized
+INFO - 2025-08-19 05:04:23 --> Loader Class Initialized
+INFO - 2025-08-19 05:04:23 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:04:23 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:04:23 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:04:23 --> Controller Class Initialized
+INFO - 2025-08-19 05:04:23 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:04:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:04:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:04:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:04:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:04:23 --> Final output sent to browser
+DEBUG - 2025-08-19 05:04:23 --> Total execution time: 0.0678
+INFO - 2025-08-19 05:04:25 --> Config Class Initialized
+INFO - 2025-08-19 05:04:25 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:04:25 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:04:25 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:04:25 --> URI Class Initialized
+INFO - 2025-08-19 05:04:25 --> Router Class Initialized
+INFO - 2025-08-19 05:04:25 --> Output Class Initialized
+INFO - 2025-08-19 05:04:25 --> Security Class Initialized
+DEBUG - 2025-08-19 05:04:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:04:25 --> Input Class Initialized
+INFO - 2025-08-19 05:04:25 --> Language Class Initialized
+INFO - 2025-08-19 05:04:25 --> Loader Class Initialized
+INFO - 2025-08-19 05:04:25 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:04:25 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:04:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:04:25 --> Controller Class Initialized
+INFO - 2025-08-19 05:04:25 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:04:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:04:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:04:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:04:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:04:25 --> Final output sent to browser
+DEBUG - 2025-08-19 05:04:25 --> Total execution time: 0.0323
+INFO - 2025-08-19 05:04:26 --> Config Class Initialized
+INFO - 2025-08-19 05:04:26 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:04:26 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:04:26 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:04:26 --> URI Class Initialized
+INFO - 2025-08-19 05:04:26 --> Router Class Initialized
+INFO - 2025-08-19 05:04:26 --> Output Class Initialized
+INFO - 2025-08-19 05:04:26 --> Security Class Initialized
+DEBUG - 2025-08-19 05:04:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:04:26 --> Input Class Initialized
+INFO - 2025-08-19 05:04:26 --> Language Class Initialized
+INFO - 2025-08-19 05:04:26 --> Loader Class Initialized
+INFO - 2025-08-19 05:04:26 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:04:26 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:04:26 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:04:26 --> Controller Class Initialized
+INFO - 2025-08-19 05:04:26 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:04:26 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:04:26 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:04:26 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:04:26 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:04:26 --> Final output sent to browser
+DEBUG - 2025-08-19 05:04:26 --> Total execution time: 0.0370
+INFO - 2025-08-19 05:04:41 --> Config Class Initialized
+INFO - 2025-08-19 05:04:41 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:04:41 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:04:41 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:04:41 --> URI Class Initialized
+INFO - 2025-08-19 05:04:41 --> Router Class Initialized
+INFO - 2025-08-19 05:04:41 --> Output Class Initialized
+INFO - 2025-08-19 05:04:41 --> Security Class Initialized
+DEBUG - 2025-08-19 05:04:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:04:41 --> Input Class Initialized
+INFO - 2025-08-19 05:04:41 --> Language Class Initialized
+INFO - 2025-08-19 05:04:41 --> Loader Class Initialized
+INFO - 2025-08-19 05:04:41 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:04:41 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:04:41 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:04:41 --> Controller Class Initialized
+INFO - 2025-08-19 05:04:41 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:04:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:04:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:04:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:04:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:04:41 --> Final output sent to browser
+DEBUG - 2025-08-19 05:04:41 --> Total execution time: 0.0614
+INFO - 2025-08-19 05:04:43 --> Config Class Initialized
+INFO - 2025-08-19 05:04:43 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:04:43 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:04:43 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:04:43 --> URI Class Initialized
+INFO - 2025-08-19 05:04:43 --> Router Class Initialized
+INFO - 2025-08-19 05:04:43 --> Output Class Initialized
+INFO - 2025-08-19 05:04:43 --> Security Class Initialized
+DEBUG - 2025-08-19 05:04:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:04:43 --> Input Class Initialized
+INFO - 2025-08-19 05:04:43 --> Language Class Initialized
+INFO - 2025-08-19 05:04:43 --> Loader Class Initialized
+INFO - 2025-08-19 05:04:43 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:04:43 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:04:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:04:43 --> Controller Class Initialized
+INFO - 2025-08-19 05:04:43 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:04:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:04:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:04:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:04:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:04:43 --> Final output sent to browser
+DEBUG - 2025-08-19 05:04:43 --> Total execution time: 0.0355
+INFO - 2025-08-19 05:04:44 --> Config Class Initialized
+INFO - 2025-08-19 05:04:44 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:04:44 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:04:44 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:04:44 --> URI Class Initialized
+INFO - 2025-08-19 05:04:44 --> Router Class Initialized
+INFO - 2025-08-19 05:04:44 --> Output Class Initialized
+INFO - 2025-08-19 05:04:44 --> Security Class Initialized
+DEBUG - 2025-08-19 05:04:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:04:44 --> Input Class Initialized
+INFO - 2025-08-19 05:04:44 --> Language Class Initialized
+INFO - 2025-08-19 05:04:44 --> Loader Class Initialized
+INFO - 2025-08-19 05:04:44 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:04:44 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:04:44 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:04:44 --> Controller Class Initialized
+INFO - 2025-08-19 05:04:44 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:04:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:04:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:04:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:04:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:04:44 --> Final output sent to browser
+DEBUG - 2025-08-19 05:04:44 --> Total execution time: 0.0315
+INFO - 2025-08-19 05:04:46 --> Config Class Initialized
+INFO - 2025-08-19 05:04:46 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:04:46 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:04:46 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:04:46 --> URI Class Initialized
+INFO - 2025-08-19 05:04:46 --> Router Class Initialized
+INFO - 2025-08-19 05:04:46 --> Output Class Initialized
+INFO - 2025-08-19 05:04:46 --> Security Class Initialized
+DEBUG - 2025-08-19 05:04:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:04:46 --> Input Class Initialized
+INFO - 2025-08-19 05:04:46 --> Language Class Initialized
+INFO - 2025-08-19 05:04:46 --> Loader Class Initialized
+INFO - 2025-08-19 05:04:46 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:04:46 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:04:46 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:04:46 --> Controller Class Initialized
+INFO - 2025-08-19 05:04:46 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:04:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:04:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:04:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:04:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:04:46 --> Final output sent to browser
+DEBUG - 2025-08-19 05:04:46 --> Total execution time: 0.0387
+INFO - 2025-08-19 05:04:51 --> Config Class Initialized
+INFO - 2025-08-19 05:04:51 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:04:51 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:04:51 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:04:51 --> URI Class Initialized
+INFO - 2025-08-19 05:04:51 --> Router Class Initialized
+INFO - 2025-08-19 05:04:51 --> Output Class Initialized
+INFO - 2025-08-19 05:04:51 --> Security Class Initialized
+DEBUG - 2025-08-19 05:04:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:04:51 --> Input Class Initialized
+INFO - 2025-08-19 05:04:51 --> Language Class Initialized
+INFO - 2025-08-19 05:04:51 --> Loader Class Initialized
+INFO - 2025-08-19 05:04:51 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:04:51 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:04:51 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:04:51 --> Controller Class Initialized
+INFO - 2025-08-19 05:04:51 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:04:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:04:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:04:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:04:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:04:51 --> Final output sent to browser
+DEBUG - 2025-08-19 05:04:51 --> Total execution time: 0.0495
+INFO - 2025-08-19 05:10:55 --> Config Class Initialized
+INFO - 2025-08-19 05:10:55 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:10:55 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:10:55 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:10:55 --> URI Class Initialized
+INFO - 2025-08-19 05:10:55 --> Router Class Initialized
+INFO - 2025-08-19 05:10:55 --> Output Class Initialized
+INFO - 2025-08-19 05:10:55 --> Security Class Initialized
+DEBUG - 2025-08-19 05:10:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:10:55 --> Input Class Initialized
+INFO - 2025-08-19 05:10:55 --> Language Class Initialized
+INFO - 2025-08-19 05:10:55 --> Loader Class Initialized
+INFO - 2025-08-19 05:10:55 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:10:55 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:10:55 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:10:55 --> Controller Class Initialized
+INFO - 2025-08-19 05:10:55 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:10:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:10:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:10:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:10:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:10:56 --> Final output sent to browser
+DEBUG - 2025-08-19 05:10:56 --> Total execution time: 0.2025
+INFO - 2025-08-19 05:10:56 --> Config Class Initialized
+INFO - 2025-08-19 05:10:56 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:10:56 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:10:56 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:10:56 --> URI Class Initialized
+INFO - 2025-08-19 05:10:56 --> Router Class Initialized
+INFO - 2025-08-19 05:10:56 --> Output Class Initialized
+INFO - 2025-08-19 05:10:56 --> Security Class Initialized
+DEBUG - 2025-08-19 05:10:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:10:56 --> Input Class Initialized
+INFO - 2025-08-19 05:10:56 --> Language Class Initialized
+INFO - 2025-08-19 05:10:56 --> Loader Class Initialized
+INFO - 2025-08-19 05:10:56 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:10:56 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:10:56 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:10:56 --> Controller Class Initialized
+INFO - 2025-08-19 05:10:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:10:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:10:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:10:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:10:56 --> Final output sent to browser
+DEBUG - 2025-08-19 05:10:56 --> Total execution time: 0.0803
+INFO - 2025-08-19 05:10:57 --> Config Class Initialized
+INFO - 2025-08-19 05:10:57 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:10:57 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:10:57 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:10:57 --> URI Class Initialized
+INFO - 2025-08-19 05:10:57 --> Router Class Initialized
+INFO - 2025-08-19 05:10:57 --> Output Class Initialized
+INFO - 2025-08-19 05:10:57 --> Security Class Initialized
+DEBUG - 2025-08-19 05:10:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:10:57 --> Input Class Initialized
+INFO - 2025-08-19 05:10:57 --> Language Class Initialized
+INFO - 2025-08-19 05:10:57 --> Loader Class Initialized
+INFO - 2025-08-19 05:10:57 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:10:57 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:10:57 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:10:57 --> Controller Class Initialized
+INFO - 2025-08-19 05:10:57 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:10:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:10:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:10:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:10:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:10:57 --> Final output sent to browser
+DEBUG - 2025-08-19 05:10:57 --> Total execution time: 0.0718
+INFO - 2025-08-19 05:11:15 --> Config Class Initialized
+INFO - 2025-08-19 05:11:15 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:11:15 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:11:15 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:11:15 --> URI Class Initialized
+INFO - 2025-08-19 05:11:15 --> Router Class Initialized
+INFO - 2025-08-19 05:11:15 --> Output Class Initialized
+INFO - 2025-08-19 05:11:15 --> Security Class Initialized
+DEBUG - 2025-08-19 05:11:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:11:15 --> Input Class Initialized
+INFO - 2025-08-19 05:11:15 --> Language Class Initialized
+INFO - 2025-08-19 05:11:15 --> Loader Class Initialized
+INFO - 2025-08-19 05:11:15 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:11:15 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:11:15 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:11:15 --> Controller Class Initialized
+INFO - 2025-08-19 05:11:15 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:11:15 --> Upload Class Initialized
+INFO - 2025-08-19 05:11:15 --> Config Class Initialized
+INFO - 2025-08-19 05:11:15 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:11:15 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:11:15 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:11:15 --> URI Class Initialized
+INFO - 2025-08-19 05:11:15 --> Router Class Initialized
+INFO - 2025-08-19 05:11:15 --> Output Class Initialized
+INFO - 2025-08-19 05:11:15 --> Security Class Initialized
+DEBUG - 2025-08-19 05:11:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:11:15 --> Input Class Initialized
+INFO - 2025-08-19 05:11:15 --> Language Class Initialized
+INFO - 2025-08-19 05:11:15 --> Loader Class Initialized
+INFO - 2025-08-19 05:11:15 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:11:15 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:11:15 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:11:15 --> Controller Class Initialized
+INFO - 2025-08-19 05:11:15 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:11:15 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:11:15 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:11:15 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:11:15 --> Final output sent to browser
+DEBUG - 2025-08-19 05:11:15 --> Total execution time: 0.0954
+INFO - 2025-08-19 05:12:04 --> Config Class Initialized
+INFO - 2025-08-19 05:12:04 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:12:04 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:12:04 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:12:04 --> URI Class Initialized
+INFO - 2025-08-19 05:12:04 --> Router Class Initialized
+INFO - 2025-08-19 05:12:04 --> Output Class Initialized
+INFO - 2025-08-19 05:12:04 --> Security Class Initialized
+DEBUG - 2025-08-19 05:12:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:12:04 --> Input Class Initialized
+INFO - 2025-08-19 05:12:04 --> Language Class Initialized
+INFO - 2025-08-19 05:12:04 --> Loader Class Initialized
+INFO - 2025-08-19 05:12:04 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:12:04 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:12:04 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:12:04 --> Controller Class Initialized
+INFO - 2025-08-19 05:12:04 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:12:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:12:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:12:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:12:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:12:04 --> Final output sent to browser
+DEBUG - 2025-08-19 05:12:04 --> Total execution time: 0.0259
+INFO - 2025-08-19 05:12:30 --> Config Class Initialized
+INFO - 2025-08-19 05:12:30 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:12:30 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:12:30 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:12:30 --> URI Class Initialized
+INFO - 2025-08-19 05:12:30 --> Router Class Initialized
+INFO - 2025-08-19 05:12:30 --> Output Class Initialized
+INFO - 2025-08-19 05:12:30 --> Security Class Initialized
+DEBUG - 2025-08-19 05:12:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:12:30 --> Input Class Initialized
+INFO - 2025-08-19 05:12:30 --> Language Class Initialized
+INFO - 2025-08-19 05:12:30 --> Loader Class Initialized
+INFO - 2025-08-19 05:12:30 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:12:30 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:12:30 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:12:30 --> Controller Class Initialized
+INFO - 2025-08-19 05:12:30 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:12:30 --> Upload Class Initialized
+INFO - 2025-08-19 05:12:30 --> Config Class Initialized
+INFO - 2025-08-19 05:12:30 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:12:30 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:12:30 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:12:30 --> URI Class Initialized
+INFO - 2025-08-19 05:12:30 --> Router Class Initialized
+INFO - 2025-08-19 05:12:30 --> Output Class Initialized
+INFO - 2025-08-19 05:12:30 --> Security Class Initialized
+DEBUG - 2025-08-19 05:12:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:12:30 --> Input Class Initialized
+INFO - 2025-08-19 05:12:30 --> Language Class Initialized
+INFO - 2025-08-19 05:12:30 --> Loader Class Initialized
+INFO - 2025-08-19 05:12:30 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:12:30 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:12:30 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:12:30 --> Controller Class Initialized
+INFO - 2025-08-19 05:12:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:12:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:12:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:12:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:12:30 --> Final output sent to browser
+DEBUG - 2025-08-19 05:12:30 --> Total execution time: 0.0339
+INFO - 2025-08-19 05:21:51 --> Config Class Initialized
+INFO - 2025-08-19 05:21:51 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:21:51 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:21:51 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:21:51 --> URI Class Initialized
+INFO - 2025-08-19 05:21:51 --> Router Class Initialized
+INFO - 2025-08-19 05:21:51 --> Output Class Initialized
+INFO - 2025-08-19 05:21:51 --> Security Class Initialized
+DEBUG - 2025-08-19 05:21:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:21:51 --> Input Class Initialized
+INFO - 2025-08-19 05:21:51 --> Language Class Initialized
+INFO - 2025-08-19 05:21:51 --> Loader Class Initialized
+INFO - 2025-08-19 05:21:51 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:21:51 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:21:51 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:21:51 --> Controller Class Initialized
+INFO - 2025-08-19 05:21:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:21:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:21:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:21:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:21:51 --> Final output sent to browser
+DEBUG - 2025-08-19 05:21:51 --> Total execution time: 0.0367
+INFO - 2025-08-19 05:21:52 --> Config Class Initialized
+INFO - 2025-08-19 05:21:52 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:21:52 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:21:52 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:21:52 --> URI Class Initialized
+INFO - 2025-08-19 05:21:52 --> Router Class Initialized
+INFO - 2025-08-19 05:21:52 --> Output Class Initialized
+INFO - 2025-08-19 05:21:52 --> Security Class Initialized
+DEBUG - 2025-08-19 05:21:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:21:52 --> Input Class Initialized
+INFO - 2025-08-19 05:21:52 --> Language Class Initialized
+INFO - 2025-08-19 05:21:52 --> Loader Class Initialized
+INFO - 2025-08-19 05:21:52 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:21:52 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:21:52 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:21:52 --> Controller Class Initialized
+INFO - 2025-08-19 05:21:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:21:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:21:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:21:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:21:52 --> Final output sent to browser
+DEBUG - 2025-08-19 05:21:52 --> Total execution time: 0.0347
+INFO - 2025-08-19 05:23:45 --> Config Class Initialized
+INFO - 2025-08-19 05:23:45 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:23:45 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:23:45 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:23:45 --> URI Class Initialized
+INFO - 2025-08-19 05:23:45 --> Router Class Initialized
+INFO - 2025-08-19 05:23:45 --> Output Class Initialized
+INFO - 2025-08-19 05:23:45 --> Security Class Initialized
+DEBUG - 2025-08-19 05:23:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:23:45 --> Input Class Initialized
+INFO - 2025-08-19 05:23:45 --> Language Class Initialized
+INFO - 2025-08-19 05:23:45 --> Loader Class Initialized
+INFO - 2025-08-19 05:23:45 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:23:45 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:23:45 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:23:45 --> Controller Class Initialized
+INFO - 2025-08-19 05:23:45 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:23:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:23:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:23:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:23:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:23:45 --> Final output sent to browser
+DEBUG - 2025-08-19 05:23:45 --> Total execution time: 0.1337
+INFO - 2025-08-19 05:24:00 --> Config Class Initialized
+INFO - 2025-08-19 05:24:00 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:24:00 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:24:00 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:24:00 --> URI Class Initialized
+INFO - 2025-08-19 05:24:00 --> Router Class Initialized
+INFO - 2025-08-19 05:24:00 --> Output Class Initialized
+INFO - 2025-08-19 05:24:00 --> Security Class Initialized
+DEBUG - 2025-08-19 05:24:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:24:00 --> Input Class Initialized
+INFO - 2025-08-19 05:24:00 --> Language Class Initialized
+INFO - 2025-08-19 05:24:00 --> Loader Class Initialized
+INFO - 2025-08-19 05:24:00 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:24:00 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:24:00 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:24:00 --> Controller Class Initialized
+INFO - 2025-08-19 05:24:00 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:24:00 --> Upload Class Initialized
+INFO - 2025-08-19 05:24:00 --> Config Class Initialized
+INFO - 2025-08-19 05:24:00 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:24:00 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:24:00 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:24:00 --> URI Class Initialized
+INFO - 2025-08-19 05:24:00 --> Router Class Initialized
+INFO - 2025-08-19 05:24:00 --> Output Class Initialized
+INFO - 2025-08-19 05:24:00 --> Security Class Initialized
+DEBUG - 2025-08-19 05:24:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:24:00 --> Input Class Initialized
+INFO - 2025-08-19 05:24:00 --> Language Class Initialized
+INFO - 2025-08-19 05:24:00 --> Loader Class Initialized
+INFO - 2025-08-19 05:24:00 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:24:00 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:24:00 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:24:00 --> Controller Class Initialized
+INFO - 2025-08-19 05:24:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:24:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:24:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:24:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:24:00 --> Final output sent to browser
+DEBUG - 2025-08-19 05:24:00 --> Total execution time: 0.0380
+INFO - 2025-08-19 05:24:02 --> Config Class Initialized
+INFO - 2025-08-19 05:24:02 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:24:02 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:24:02 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:24:02 --> URI Class Initialized
+INFO - 2025-08-19 05:24:02 --> Router Class Initialized
+INFO - 2025-08-19 05:24:02 --> Output Class Initialized
+INFO - 2025-08-19 05:24:02 --> Security Class Initialized
+DEBUG - 2025-08-19 05:24:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:24:02 --> Input Class Initialized
+INFO - 2025-08-19 05:24:02 --> Language Class Initialized
+INFO - 2025-08-19 05:24:02 --> Loader Class Initialized
+INFO - 2025-08-19 05:24:02 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:24:02 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:24:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:24:02 --> Controller Class Initialized
+INFO - 2025-08-19 05:24:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:24:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:24:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:24:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:24:02 --> Final output sent to browser
+DEBUG - 2025-08-19 05:24:02 --> Total execution time: 0.0350
+INFO - 2025-08-19 05:24:03 --> Config Class Initialized
+INFO - 2025-08-19 05:24:03 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:24:03 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:24:03 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:24:03 --> URI Class Initialized
+INFO - 2025-08-19 05:24:03 --> Router Class Initialized
+INFO - 2025-08-19 05:24:03 --> Output Class Initialized
+INFO - 2025-08-19 05:24:03 --> Security Class Initialized
+DEBUG - 2025-08-19 05:24:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:24:03 --> Input Class Initialized
+INFO - 2025-08-19 05:24:03 --> Language Class Initialized
+INFO - 2025-08-19 05:24:03 --> Loader Class Initialized
+INFO - 2025-08-19 05:24:03 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:24:03 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:24:03 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:24:03 --> Controller Class Initialized
+INFO - 2025-08-19 05:24:03 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:24:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:24:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:24:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:24:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:24:03 --> Final output sent to browser
+DEBUG - 2025-08-19 05:24:03 --> Total execution time: 0.0252
+INFO - 2025-08-19 05:24:27 --> Config Class Initialized
+INFO - 2025-08-19 05:24:27 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:24:27 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:24:27 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:24:27 --> URI Class Initialized
+INFO - 2025-08-19 05:24:27 --> Router Class Initialized
+INFO - 2025-08-19 05:24:27 --> Output Class Initialized
+INFO - 2025-08-19 05:24:27 --> Security Class Initialized
+DEBUG - 2025-08-19 05:24:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:24:27 --> Input Class Initialized
+INFO - 2025-08-19 05:24:27 --> Language Class Initialized
+INFO - 2025-08-19 05:24:27 --> Loader Class Initialized
+INFO - 2025-08-19 05:24:27 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:24:27 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:24:27 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:24:27 --> Controller Class Initialized
+INFO - 2025-08-19 05:24:27 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:24:27 --> Upload Class Initialized
+INFO - 2025-08-19 05:24:27 --> Config Class Initialized
+INFO - 2025-08-19 05:24:27 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:24:27 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:24:27 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:24:27 --> URI Class Initialized
+INFO - 2025-08-19 05:24:27 --> Router Class Initialized
+INFO - 2025-08-19 05:24:27 --> Output Class Initialized
+INFO - 2025-08-19 05:24:27 --> Security Class Initialized
+DEBUG - 2025-08-19 05:24:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:24:27 --> Input Class Initialized
+INFO - 2025-08-19 05:24:27 --> Language Class Initialized
+INFO - 2025-08-19 05:24:27 --> Loader Class Initialized
+INFO - 2025-08-19 05:24:27 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:24:27 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:24:27 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:24:27 --> Controller Class Initialized
+INFO - 2025-08-19 05:24:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:24:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:24:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:24:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:24:27 --> Final output sent to browser
+DEBUG - 2025-08-19 05:24:27 --> Total execution time: 0.0390
+INFO - 2025-08-19 05:30:50 --> Config Class Initialized
+INFO - 2025-08-19 05:30:50 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:30:50 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:30:50 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:30:50 --> URI Class Initialized
+INFO - 2025-08-19 05:30:50 --> Router Class Initialized
+INFO - 2025-08-19 05:30:50 --> Output Class Initialized
+INFO - 2025-08-19 05:30:50 --> Security Class Initialized
+DEBUG - 2025-08-19 05:30:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:30:50 --> Input Class Initialized
+INFO - 2025-08-19 05:30:50 --> Language Class Initialized
+INFO - 2025-08-19 05:30:50 --> Loader Class Initialized
+INFO - 2025-08-19 05:30:50 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:30:50 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:30:50 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:30:50 --> Controller Class Initialized
+INFO - 2025-08-19 05:30:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:30:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:30:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:30:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:30:50 --> Final output sent to browser
+DEBUG - 2025-08-19 05:30:50 --> Total execution time: 0.0413
+INFO - 2025-08-19 05:30:51 --> Config Class Initialized
+INFO - 2025-08-19 05:30:51 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:30:51 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:30:51 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:30:51 --> URI Class Initialized
+INFO - 2025-08-19 05:30:51 --> Router Class Initialized
+INFO - 2025-08-19 05:30:51 --> Output Class Initialized
+INFO - 2025-08-19 05:30:51 --> Security Class Initialized
+DEBUG - 2025-08-19 05:30:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:30:51 --> Input Class Initialized
+INFO - 2025-08-19 05:30:51 --> Language Class Initialized
+INFO - 2025-08-19 05:30:51 --> Loader Class Initialized
+INFO - 2025-08-19 05:30:51 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:30:51 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:30:51 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:30:51 --> Controller Class Initialized
+INFO - 2025-08-19 05:30:51 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:30:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:30:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:30:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:30:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:30:51 --> Final output sent to browser
+DEBUG - 2025-08-19 05:30:51 --> Total execution time: 0.0681
+INFO - 2025-08-19 05:31:07 --> Config Class Initialized
+INFO - 2025-08-19 05:31:07 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:31:07 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:31:07 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:31:07 --> URI Class Initialized
+INFO - 2025-08-19 05:31:07 --> Router Class Initialized
+INFO - 2025-08-19 05:31:07 --> Output Class Initialized
+INFO - 2025-08-19 05:31:07 --> Security Class Initialized
+DEBUG - 2025-08-19 05:31:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:31:07 --> Input Class Initialized
+INFO - 2025-08-19 05:31:07 --> Language Class Initialized
+INFO - 2025-08-19 05:31:07 --> Loader Class Initialized
+INFO - 2025-08-19 05:31:07 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:31:07 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:31:07 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:31:07 --> Controller Class Initialized
+INFO - 2025-08-19 05:31:07 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:31:07 --> Upload Class Initialized
+INFO - 2025-08-19 05:31:07 --> Config Class Initialized
+INFO - 2025-08-19 05:31:07 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:31:07 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:31:07 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:31:07 --> URI Class Initialized
+INFO - 2025-08-19 05:31:07 --> Router Class Initialized
+INFO - 2025-08-19 05:31:07 --> Output Class Initialized
+INFO - 2025-08-19 05:31:07 --> Security Class Initialized
+DEBUG - 2025-08-19 05:31:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:31:07 --> Input Class Initialized
+INFO - 2025-08-19 05:31:07 --> Language Class Initialized
+INFO - 2025-08-19 05:31:07 --> Loader Class Initialized
+INFO - 2025-08-19 05:31:07 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:31:07 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:31:07 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:31:07 --> Controller Class Initialized
+INFO - 2025-08-19 05:31:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:31:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:31:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:31:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:31:07 --> Final output sent to browser
+DEBUG - 2025-08-19 05:31:07 --> Total execution time: 0.0374
+INFO - 2025-08-19 05:32:24 --> Config Class Initialized
+INFO - 2025-08-19 05:32:24 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:32:24 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:32:24 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:32:24 --> URI Class Initialized
+INFO - 2025-08-19 05:32:24 --> Router Class Initialized
+INFO - 2025-08-19 05:32:24 --> Output Class Initialized
+INFO - 2025-08-19 05:32:24 --> Security Class Initialized
+DEBUG - 2025-08-19 05:32:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:32:24 --> Input Class Initialized
+INFO - 2025-08-19 05:32:24 --> Language Class Initialized
+INFO - 2025-08-19 05:32:24 --> Loader Class Initialized
+INFO - 2025-08-19 05:32:24 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:32:24 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:32:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:32:24 --> Controller Class Initialized
+INFO - 2025-08-19 05:32:24 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:32:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:32:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:32:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:32:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:32:24 --> Final output sent to browser
+DEBUG - 2025-08-19 05:32:24 --> Total execution time: 0.0707
+INFO - 2025-08-19 05:32:42 --> Config Class Initialized
+INFO - 2025-08-19 05:32:42 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:32:42 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:32:42 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:32:42 --> URI Class Initialized
+INFO - 2025-08-19 05:32:42 --> Router Class Initialized
+INFO - 2025-08-19 05:32:42 --> Output Class Initialized
+INFO - 2025-08-19 05:32:42 --> Security Class Initialized
+DEBUG - 2025-08-19 05:32:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:32:42 --> Input Class Initialized
+INFO - 2025-08-19 05:32:42 --> Language Class Initialized
+INFO - 2025-08-19 05:32:42 --> Loader Class Initialized
+INFO - 2025-08-19 05:32:42 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:32:42 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:32:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:32:42 --> Controller Class Initialized
+INFO - 2025-08-19 05:32:42 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:32:42 --> Upload Class Initialized
+INFO - 2025-08-19 05:32:42 --> Config Class Initialized
+INFO - 2025-08-19 05:32:42 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:32:42 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:32:42 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:32:42 --> URI Class Initialized
+INFO - 2025-08-19 05:32:42 --> Router Class Initialized
+INFO - 2025-08-19 05:32:42 --> Output Class Initialized
+INFO - 2025-08-19 05:32:42 --> Security Class Initialized
+DEBUG - 2025-08-19 05:32:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:32:42 --> Input Class Initialized
+INFO - 2025-08-19 05:32:42 --> Language Class Initialized
+INFO - 2025-08-19 05:32:42 --> Loader Class Initialized
+INFO - 2025-08-19 05:32:42 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:32:42 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:32:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:32:42 --> Controller Class Initialized
+INFO - 2025-08-19 05:32:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:32:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:32:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:32:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:32:42 --> Final output sent to browser
+DEBUG - 2025-08-19 05:32:42 --> Total execution time: 0.0358
+INFO - 2025-08-19 05:37:39 --> Config Class Initialized
+INFO - 2025-08-19 05:37:39 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:37:39 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:37:39 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:37:39 --> URI Class Initialized
+INFO - 2025-08-19 05:37:39 --> Router Class Initialized
+INFO - 2025-08-19 05:37:39 --> Output Class Initialized
+INFO - 2025-08-19 05:37:39 --> Security Class Initialized
+DEBUG - 2025-08-19 05:37:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:37:39 --> Input Class Initialized
+INFO - 2025-08-19 05:37:39 --> Language Class Initialized
+INFO - 2025-08-19 05:37:39 --> Loader Class Initialized
+INFO - 2025-08-19 05:37:39 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:37:39 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:37:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:37:39 --> Controller Class Initialized
+INFO - 2025-08-19 05:37:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:37:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:37:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:37:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:37:39 --> Final output sent to browser
+DEBUG - 2025-08-19 05:37:39 --> Total execution time: 0.1228
+INFO - 2025-08-19 05:37:41 --> Config Class Initialized
+INFO - 2025-08-19 05:37:41 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:37:41 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:37:41 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:37:41 --> URI Class Initialized
+INFO - 2025-08-19 05:37:41 --> Router Class Initialized
+INFO - 2025-08-19 05:37:41 --> Output Class Initialized
+INFO - 2025-08-19 05:37:41 --> Security Class Initialized
+DEBUG - 2025-08-19 05:37:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:37:41 --> Input Class Initialized
+INFO - 2025-08-19 05:37:41 --> Language Class Initialized
+INFO - 2025-08-19 05:37:41 --> Loader Class Initialized
+INFO - 2025-08-19 05:37:41 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:37:41 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:37:41 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:37:41 --> Controller Class Initialized
+INFO - 2025-08-19 05:37:41 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:37:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:37:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:37:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:37:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:37:41 --> Final output sent to browser
+DEBUG - 2025-08-19 05:37:41 --> Total execution time: 0.0743
+INFO - 2025-08-19 05:37:42 --> Config Class Initialized
+INFO - 2025-08-19 05:37:42 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:37:42 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:37:42 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:37:42 --> URI Class Initialized
+INFO - 2025-08-19 05:37:42 --> Router Class Initialized
+INFO - 2025-08-19 05:37:42 --> Output Class Initialized
+INFO - 2025-08-19 05:37:42 --> Security Class Initialized
+DEBUG - 2025-08-19 05:37:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:37:42 --> Input Class Initialized
+INFO - 2025-08-19 05:37:42 --> Language Class Initialized
+INFO - 2025-08-19 05:37:42 --> Loader Class Initialized
+INFO - 2025-08-19 05:37:42 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:37:42 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:37:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:37:42 --> Controller Class Initialized
+INFO - 2025-08-19 05:37:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:37:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:37:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:37:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:37:42 --> Final output sent to browser
+DEBUG - 2025-08-19 05:37:42 --> Total execution time: 0.0361
+INFO - 2025-08-19 05:37:44 --> Config Class Initialized
+INFO - 2025-08-19 05:37:44 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:37:44 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:37:44 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:37:44 --> URI Class Initialized
+INFO - 2025-08-19 05:37:44 --> Router Class Initialized
+INFO - 2025-08-19 05:37:44 --> Output Class Initialized
+INFO - 2025-08-19 05:37:44 --> Security Class Initialized
+DEBUG - 2025-08-19 05:37:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:37:44 --> Input Class Initialized
+INFO - 2025-08-19 05:37:44 --> Language Class Initialized
+INFO - 2025-08-19 05:37:44 --> Loader Class Initialized
+INFO - 2025-08-19 05:37:44 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:37:44 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:37:44 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:37:44 --> Controller Class Initialized
+INFO - 2025-08-19 05:37:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:37:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:37:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:37:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:37:44 --> Final output sent to browser
+DEBUG - 2025-08-19 05:37:44 --> Total execution time: 0.0348
+INFO - 2025-08-19 05:37:52 --> Config Class Initialized
+INFO - 2025-08-19 05:37:52 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:37:52 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:37:52 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:37:52 --> URI Class Initialized
+INFO - 2025-08-19 05:37:52 --> Router Class Initialized
+INFO - 2025-08-19 05:37:52 --> Output Class Initialized
+INFO - 2025-08-19 05:37:52 --> Security Class Initialized
+DEBUG - 2025-08-19 05:37:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:37:52 --> Input Class Initialized
+INFO - 2025-08-19 05:37:52 --> Language Class Initialized
+INFO - 2025-08-19 05:37:52 --> Loader Class Initialized
+INFO - 2025-08-19 05:37:52 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:37:52 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:37:52 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:37:52 --> Controller Class Initialized
+INFO - 2025-08-19 05:37:52 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:37:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:37:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:37:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:37:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:37:52 --> Final output sent to browser
+DEBUG - 2025-08-19 05:37:52 --> Total execution time: 0.0272
+INFO - 2025-08-19 05:38:09 --> Config Class Initialized
+INFO - 2025-08-19 05:38:09 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:38:09 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:38:09 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:38:09 --> URI Class Initialized
+INFO - 2025-08-19 05:38:09 --> Router Class Initialized
+INFO - 2025-08-19 05:38:09 --> Output Class Initialized
+INFO - 2025-08-19 05:38:09 --> Security Class Initialized
+DEBUG - 2025-08-19 05:38:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:38:09 --> Input Class Initialized
+INFO - 2025-08-19 05:38:09 --> Language Class Initialized
+INFO - 2025-08-19 05:38:09 --> Loader Class Initialized
+INFO - 2025-08-19 05:38:09 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:38:09 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:38:09 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:38:09 --> Controller Class Initialized
+INFO - 2025-08-19 05:38:09 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:38:09 --> Upload Class Initialized
+INFO - 2025-08-19 05:38:09 --> Config Class Initialized
+INFO - 2025-08-19 05:38:09 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:38:09 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:38:09 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:38:09 --> URI Class Initialized
+INFO - 2025-08-19 05:38:09 --> Router Class Initialized
+INFO - 2025-08-19 05:38:09 --> Output Class Initialized
+INFO - 2025-08-19 05:38:09 --> Security Class Initialized
+DEBUG - 2025-08-19 05:38:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:38:09 --> Input Class Initialized
+INFO - 2025-08-19 05:38:09 --> Language Class Initialized
+INFO - 2025-08-19 05:38:09 --> Loader Class Initialized
+INFO - 2025-08-19 05:38:09 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:38:09 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:38:09 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:38:09 --> Controller Class Initialized
+INFO - 2025-08-19 05:38:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:38:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:38:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:38:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:38:09 --> Final output sent to browser
+DEBUG - 2025-08-19 05:38:09 --> Total execution time: 0.0341
+INFO - 2025-08-19 05:38:12 --> Config Class Initialized
+INFO - 2025-08-19 05:38:12 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:38:12 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:38:12 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:38:12 --> URI Class Initialized
+INFO - 2025-08-19 05:38:12 --> Router Class Initialized
+INFO - 2025-08-19 05:38:12 --> Output Class Initialized
+INFO - 2025-08-19 05:38:12 --> Security Class Initialized
+DEBUG - 2025-08-19 05:38:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:38:12 --> Input Class Initialized
+INFO - 2025-08-19 05:38:12 --> Language Class Initialized
+INFO - 2025-08-19 05:38:12 --> Loader Class Initialized
+INFO - 2025-08-19 05:38:12 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:38:12 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:38:12 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:38:12 --> Controller Class Initialized
+INFO - 2025-08-19 05:38:12 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:38:12 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:38:12 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:38:12 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:38:12 --> Final output sent to browser
+DEBUG - 2025-08-19 05:38:12 --> Total execution time: 0.0350
+INFO - 2025-08-19 05:45:10 --> Config Class Initialized
+INFO - 2025-08-19 05:45:10 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:45:10 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:45:10 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:45:10 --> URI Class Initialized
+INFO - 2025-08-19 05:45:10 --> Router Class Initialized
+INFO - 2025-08-19 05:45:10 --> Output Class Initialized
+INFO - 2025-08-19 05:45:10 --> Security Class Initialized
+DEBUG - 2025-08-19 05:45:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:45:10 --> Input Class Initialized
+INFO - 2025-08-19 05:45:10 --> Language Class Initialized
+INFO - 2025-08-19 05:45:10 --> Loader Class Initialized
+INFO - 2025-08-19 05:45:10 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:45:10 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:45:10 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:45:10 --> Controller Class Initialized
+INFO - 2025-08-19 05:45:10 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:45:10 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:45:10 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:45:10 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:45:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:45:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:45:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:45:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 05:45:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:45:10 --> Final output sent to browser
+DEBUG - 2025-08-19 05:45:10 --> Total execution time: 0.0614
+INFO - 2025-08-19 05:45:17 --> Config Class Initialized
+INFO - 2025-08-19 05:45:17 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:45:17 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:45:17 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:45:17 --> URI Class Initialized
+INFO - 2025-08-19 05:45:17 --> Router Class Initialized
+INFO - 2025-08-19 05:45:17 --> Output Class Initialized
+INFO - 2025-08-19 05:45:17 --> Security Class Initialized
+DEBUG - 2025-08-19 05:45:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:45:17 --> Input Class Initialized
+INFO - 2025-08-19 05:45:17 --> Language Class Initialized
+INFO - 2025-08-19 05:45:17 --> Loader Class Initialized
+INFO - 2025-08-19 05:45:17 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:45:17 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:45:17 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:45:17 --> Controller Class Initialized
+INFO - 2025-08-19 05:45:17 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:45:17 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:45:17 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:45:17 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:45:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:45:17 --> Config Class Initialized
+INFO - 2025-08-19 05:45:17 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:45:17 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:45:17 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:45:17 --> URI Class Initialized
+INFO - 2025-08-19 05:45:17 --> Router Class Initialized
+INFO - 2025-08-19 05:45:17 --> Output Class Initialized
+INFO - 2025-08-19 05:45:17 --> Security Class Initialized
+DEBUG - 2025-08-19 05:45:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:45:17 --> Input Class Initialized
+INFO - 2025-08-19 05:45:17 --> Language Class Initialized
+INFO - 2025-08-19 05:45:17 --> Loader Class Initialized
+INFO - 2025-08-19 05:45:17 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:45:17 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:45:17 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:45:17 --> Controller Class Initialized
+INFO - 2025-08-19 05:45:17 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:45:17 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:45:17 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:45:17 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:45:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:45:17 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:45:17 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:45:17 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 05:45:17 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:45:17 --> Final output sent to browser
+DEBUG - 2025-08-19 05:45:17 --> Total execution time: 0.0415
+INFO - 2025-08-19 05:45:27 --> Config Class Initialized
+INFO - 2025-08-19 05:45:27 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:45:27 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:45:27 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:45:27 --> URI Class Initialized
+INFO - 2025-08-19 05:45:27 --> Router Class Initialized
+INFO - 2025-08-19 05:45:27 --> Output Class Initialized
+INFO - 2025-08-19 05:45:27 --> Security Class Initialized
+DEBUG - 2025-08-19 05:45:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:45:27 --> Input Class Initialized
+INFO - 2025-08-19 05:45:27 --> Language Class Initialized
+INFO - 2025-08-19 05:45:27 --> Loader Class Initialized
+INFO - 2025-08-19 05:45:27 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:45:27 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:45:27 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:45:27 --> Controller Class Initialized
+INFO - 2025-08-19 05:45:27 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:45:27 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:45:27 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:45:27 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:45:27 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:45:27 --> Config Class Initialized
+INFO - 2025-08-19 05:45:27 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:45:27 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:45:27 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:45:27 --> URI Class Initialized
+INFO - 2025-08-19 05:45:27 --> Router Class Initialized
+INFO - 2025-08-19 05:45:27 --> Output Class Initialized
+INFO - 2025-08-19 05:45:27 --> Security Class Initialized
+DEBUG - 2025-08-19 05:45:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:45:27 --> Input Class Initialized
+INFO - 2025-08-19 05:45:27 --> Language Class Initialized
+INFO - 2025-08-19 05:45:27 --> Loader Class Initialized
+INFO - 2025-08-19 05:45:27 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:45:27 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:45:27 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:45:27 --> Controller Class Initialized
+INFO - 2025-08-19 05:45:27 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:45:27 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:45:27 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:45:27 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:45:27 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:45:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:45:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:45:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 05:45:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:45:27 --> Final output sent to browser
+DEBUG - 2025-08-19 05:45:27 --> Total execution time: 0.0379
+INFO - 2025-08-19 05:45:50 --> Config Class Initialized
+INFO - 2025-08-19 05:45:50 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:45:50 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:45:50 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:45:50 --> URI Class Initialized
+INFO - 2025-08-19 05:45:50 --> Router Class Initialized
+INFO - 2025-08-19 05:45:50 --> Output Class Initialized
+INFO - 2025-08-19 05:45:50 --> Security Class Initialized
+DEBUG - 2025-08-19 05:45:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:45:50 --> Input Class Initialized
+INFO - 2025-08-19 05:45:50 --> Language Class Initialized
+ERROR - 2025-08-19 05:45:50 --> 404 Page Not Found: Laporan/upload_dokumen
+INFO - 2025-08-19 05:45:54 --> Config Class Initialized
+INFO - 2025-08-19 05:45:54 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:45:54 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:45:54 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:45:54 --> URI Class Initialized
+INFO - 2025-08-19 05:45:54 --> Router Class Initialized
+INFO - 2025-08-19 05:45:54 --> Output Class Initialized
+INFO - 2025-08-19 05:45:54 --> Security Class Initialized
+DEBUG - 2025-08-19 05:45:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:45:54 --> Input Class Initialized
+INFO - 2025-08-19 05:45:54 --> Language Class Initialized
+ERROR - 2025-08-19 05:45:54 --> 404 Page Not Found: Laporan/upload_dokumen
+INFO - 2025-08-19 05:46:03 --> Config Class Initialized
+INFO - 2025-08-19 05:46:03 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:46:03 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:46:03 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:46:03 --> URI Class Initialized
+INFO - 2025-08-19 05:46:03 --> Router Class Initialized
+INFO - 2025-08-19 05:46:03 --> Output Class Initialized
+INFO - 2025-08-19 05:46:03 --> Security Class Initialized
+DEBUG - 2025-08-19 05:46:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:46:03 --> Input Class Initialized
+INFO - 2025-08-19 05:46:03 --> Language Class Initialized
+INFO - 2025-08-19 05:46:03 --> Loader Class Initialized
+INFO - 2025-08-19 05:46:03 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:46:03 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:46:03 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:46:03 --> Controller Class Initialized
+INFO - 2025-08-19 05:46:03 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:46:03 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:46:03 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:46:03 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:46:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:46:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:46:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:46:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 05:46:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:46:04 --> Final output sent to browser
+DEBUG - 2025-08-19 05:46:04 --> Total execution time: 0.0537
+INFO - 2025-08-19 05:46:09 --> Config Class Initialized
+INFO - 2025-08-19 05:46:09 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:46:09 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:46:09 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:46:09 --> URI Class Initialized
+INFO - 2025-08-19 05:46:09 --> Router Class Initialized
+INFO - 2025-08-19 05:46:09 --> Output Class Initialized
+INFO - 2025-08-19 05:46:09 --> Security Class Initialized
+DEBUG - 2025-08-19 05:46:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:46:09 --> Input Class Initialized
+INFO - 2025-08-19 05:46:09 --> Language Class Initialized
+ERROR - 2025-08-19 05:46:09 --> 404 Page Not Found: Laporan/simpan
+INFO - 2025-08-19 05:46:25 --> Config Class Initialized
+INFO - 2025-08-19 05:46:25 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:46:25 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:46:25 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:46:25 --> URI Class Initialized
+INFO - 2025-08-19 05:46:25 --> Router Class Initialized
+INFO - 2025-08-19 05:46:25 --> Output Class Initialized
+INFO - 2025-08-19 05:46:25 --> Security Class Initialized
+DEBUG - 2025-08-19 05:46:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:46:25 --> Input Class Initialized
+INFO - 2025-08-19 05:46:25 --> Language Class Initialized
+INFO - 2025-08-19 05:46:25 --> Loader Class Initialized
+INFO - 2025-08-19 05:46:25 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:46:25 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:46:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:46:25 --> Controller Class Initialized
+INFO - 2025-08-19 05:46:25 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:46:25 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:46:25 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:46:25 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:46:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:46:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:46:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:46:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 05:46:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:46:25 --> Final output sent to browser
+DEBUG - 2025-08-19 05:46:25 --> Total execution time: 0.0544
+INFO - 2025-08-19 05:46:26 --> Config Class Initialized
+INFO - 2025-08-19 05:46:26 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:46:26 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:46:26 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:46:26 --> URI Class Initialized
+INFO - 2025-08-19 05:46:26 --> Router Class Initialized
+INFO - 2025-08-19 05:46:26 --> Output Class Initialized
+INFO - 2025-08-19 05:46:26 --> Security Class Initialized
+DEBUG - 2025-08-19 05:46:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:46:26 --> Input Class Initialized
+INFO - 2025-08-19 05:46:26 --> Language Class Initialized
+INFO - 2025-08-19 05:46:26 --> Loader Class Initialized
+INFO - 2025-08-19 05:46:26 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:46:26 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:46:26 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:46:26 --> Controller Class Initialized
+INFO - 2025-08-19 05:46:26 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:46:26 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:46:26 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:46:26 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:46:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:46:26 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:46:26 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:46:26 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 05:46:26 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:46:26 --> Final output sent to browser
+DEBUG - 2025-08-19 05:46:26 --> Total execution time: 0.0341
+INFO - 2025-08-19 05:46:31 --> Config Class Initialized
+INFO - 2025-08-19 05:46:31 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:46:31 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:46:31 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:46:31 --> URI Class Initialized
+INFO - 2025-08-19 05:46:31 --> Router Class Initialized
+INFO - 2025-08-19 05:46:31 --> Output Class Initialized
+INFO - 2025-08-19 05:46:31 --> Security Class Initialized
+DEBUG - 2025-08-19 05:46:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:46:31 --> Input Class Initialized
+INFO - 2025-08-19 05:46:31 --> Language Class Initialized
+INFO - 2025-08-19 05:46:31 --> Loader Class Initialized
+INFO - 2025-08-19 05:46:31 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:46:31 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:46:31 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:46:31 --> Controller Class Initialized
+INFO - 2025-08-19 05:46:31 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:46:31 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:46:31 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:46:31 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:46:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:46:31 --> Config Class Initialized
+INFO - 2025-08-19 05:46:31 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:46:31 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:46:31 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:46:31 --> URI Class Initialized
+INFO - 2025-08-19 05:46:31 --> Router Class Initialized
+INFO - 2025-08-19 05:46:31 --> Output Class Initialized
+INFO - 2025-08-19 05:46:31 --> Security Class Initialized
+DEBUG - 2025-08-19 05:46:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:46:31 --> Input Class Initialized
+INFO - 2025-08-19 05:46:31 --> Language Class Initialized
+INFO - 2025-08-19 05:46:31 --> Loader Class Initialized
+INFO - 2025-08-19 05:46:31 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:46:31 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:46:31 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:46:31 --> Controller Class Initialized
+INFO - 2025-08-19 05:46:31 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:46:31 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:46:31 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:46:31 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:46:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:46:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:46:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:46:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 05:46:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:46:31 --> Final output sent to browser
+DEBUG - 2025-08-19 05:46:31 --> Total execution time: 0.0375
+INFO - 2025-08-19 05:46:39 --> Config Class Initialized
+INFO - 2025-08-19 05:46:39 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:46:39 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:46:39 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:46:39 --> URI Class Initialized
+INFO - 2025-08-19 05:46:39 --> Router Class Initialized
+INFO - 2025-08-19 05:46:39 --> Output Class Initialized
+INFO - 2025-08-19 05:46:39 --> Security Class Initialized
+DEBUG - 2025-08-19 05:46:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:46:39 --> Input Class Initialized
+INFO - 2025-08-19 05:46:39 --> Language Class Initialized
+INFO - 2025-08-19 05:46:39 --> Loader Class Initialized
+INFO - 2025-08-19 05:46:39 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:46:39 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:46:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:46:39 --> Controller Class Initialized
+INFO - 2025-08-19 05:46:39 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:46:39 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:46:39 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:46:39 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:46:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:46:39 --> Config Class Initialized
+INFO - 2025-08-19 05:46:39 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:46:39 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:46:39 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:46:39 --> URI Class Initialized
+INFO - 2025-08-19 05:46:39 --> Router Class Initialized
+INFO - 2025-08-19 05:46:39 --> Output Class Initialized
+INFO - 2025-08-19 05:46:39 --> Security Class Initialized
+DEBUG - 2025-08-19 05:46:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:46:39 --> Input Class Initialized
+INFO - 2025-08-19 05:46:39 --> Language Class Initialized
+INFO - 2025-08-19 05:46:39 --> Loader Class Initialized
+INFO - 2025-08-19 05:46:39 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:46:39 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:46:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:46:39 --> Controller Class Initialized
+INFO - 2025-08-19 05:46:39 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:46:39 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:46:39 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:46:39 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:46:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:46:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:46:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:46:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 05:46:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:46:39 --> Final output sent to browser
+DEBUG - 2025-08-19 05:46:39 --> Total execution time: 0.0387
+INFO - 2025-08-19 05:46:46 --> Config Class Initialized
+INFO - 2025-08-19 05:46:46 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:46:46 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:46:46 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:46:46 --> URI Class Initialized
+INFO - 2025-08-19 05:46:46 --> Router Class Initialized
+INFO - 2025-08-19 05:46:46 --> Output Class Initialized
+INFO - 2025-08-19 05:46:46 --> Security Class Initialized
+DEBUG - 2025-08-19 05:46:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:46:46 --> Input Class Initialized
+INFO - 2025-08-19 05:46:46 --> Language Class Initialized
+INFO - 2025-08-19 05:46:46 --> Loader Class Initialized
+INFO - 2025-08-19 05:46:46 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:46:46 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:46:46 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:46:46 --> Controller Class Initialized
+INFO - 2025-08-19 05:46:46 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:46:46 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:46:46 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:46:46 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:46:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:46:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:46:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:46:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 05:46:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:46:46 --> Final output sent to browser
+DEBUG - 2025-08-19 05:46:46 --> Total execution time: 0.0406
+INFO - 2025-08-19 05:46:50 --> Config Class Initialized
+INFO - 2025-08-19 05:46:50 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:46:50 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:46:50 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:46:50 --> URI Class Initialized
+INFO - 2025-08-19 05:46:50 --> Router Class Initialized
+INFO - 2025-08-19 05:46:50 --> Output Class Initialized
+INFO - 2025-08-19 05:46:50 --> Security Class Initialized
+DEBUG - 2025-08-19 05:46:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:46:50 --> Input Class Initialized
+INFO - 2025-08-19 05:46:50 --> Language Class Initialized
+INFO - 2025-08-19 05:46:50 --> Loader Class Initialized
+INFO - 2025-08-19 05:46:50 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:46:50 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:46:50 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:46:50 --> Controller Class Initialized
+INFO - 2025-08-19 05:46:50 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:46:50 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:46:50 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:46:50 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:46:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:46:50 --> Config Class Initialized
+INFO - 2025-08-19 05:46:50 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:46:50 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:46:50 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:46:50 --> URI Class Initialized
+INFO - 2025-08-19 05:46:50 --> Router Class Initialized
+INFO - 2025-08-19 05:46:50 --> Output Class Initialized
+INFO - 2025-08-19 05:46:50 --> Security Class Initialized
+DEBUG - 2025-08-19 05:46:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:46:50 --> Input Class Initialized
+INFO - 2025-08-19 05:46:50 --> Language Class Initialized
+INFO - 2025-08-19 05:46:50 --> Loader Class Initialized
+INFO - 2025-08-19 05:46:50 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:46:50 --> Database Driver Class Initialized
+ERROR - 2025-08-19 05:46:50 --> Severity: Warning --> session_start(): Failed to decode session object. Session has been destroyed D:\Project\template-frontend-ci3\system\libraries\Session\Session.php 143
+INFO - 2025-08-19 05:46:50 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:46:50 --> Controller Class Initialized
+INFO - 2025-08-19 05:46:50 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:46:50 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:46:50 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:46:50 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:46:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:46:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:46:50 --> Config Class Initialized
+INFO - 2025-08-19 05:46:50 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:46:50 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:46:50 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:46:50 --> URI Class Initialized
+INFO - 2025-08-19 05:46:50 --> Router Class Initialized
+INFO - 2025-08-19 05:46:50 --> Output Class Initialized
+INFO - 2025-08-19 05:46:50 --> Security Class Initialized
+DEBUG - 2025-08-19 05:46:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:46:50 --> Input Class Initialized
+INFO - 2025-08-19 05:46:50 --> Language Class Initialized
+INFO - 2025-08-19 05:46:50 --> Loader Class Initialized
+INFO - 2025-08-19 05:46:50 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:46:50 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:46:50 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:46:50 --> Controller Class Initialized
+INFO - 2025-08-19 05:46:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:46:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:46:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:46:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:46:50 --> Final output sent to browser
+DEBUG - 2025-08-19 05:46:50 --> Total execution time: 0.0388
+INFO - 2025-08-19 05:46:56 --> Config Class Initialized
+INFO - 2025-08-19 05:46:56 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:46:56 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:46:56 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:46:56 --> URI Class Initialized
+INFO - 2025-08-19 05:46:56 --> Router Class Initialized
+INFO - 2025-08-19 05:46:56 --> Output Class Initialized
+INFO - 2025-08-19 05:46:56 --> Security Class Initialized
+DEBUG - 2025-08-19 05:46:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:46:56 --> Input Class Initialized
+INFO - 2025-08-19 05:46:56 --> Language Class Initialized
+INFO - 2025-08-19 05:46:56 --> Loader Class Initialized
+INFO - 2025-08-19 05:46:56 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:46:56 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:46:56 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:46:56 --> Controller Class Initialized
+INFO - 2025-08-19 05:46:56 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:46:56 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:46:56 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:46:56 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:46:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:46:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:46:56 --> Config Class Initialized
+INFO - 2025-08-19 05:46:56 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:46:56 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:46:56 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:46:56 --> URI Class Initialized
+INFO - 2025-08-19 05:46:56 --> Router Class Initialized
+INFO - 2025-08-19 05:46:56 --> Output Class Initialized
+INFO - 2025-08-19 05:46:56 --> Security Class Initialized
+DEBUG - 2025-08-19 05:46:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:46:56 --> Input Class Initialized
+INFO - 2025-08-19 05:46:56 --> Language Class Initialized
+INFO - 2025-08-19 05:46:56 --> Loader Class Initialized
+INFO - 2025-08-19 05:46:56 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:46:56 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:46:56 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:46:56 --> Controller Class Initialized
+INFO - 2025-08-19 05:46:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:46:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:46:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:46:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:46:56 --> Final output sent to browser
+DEBUG - 2025-08-19 05:46:56 --> Total execution time: 0.0372
+INFO - 2025-08-19 05:46:59 --> Config Class Initialized
+INFO - 2025-08-19 05:46:59 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:46:59 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:46:59 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:46:59 --> URI Class Initialized
+INFO - 2025-08-19 05:46:59 --> Router Class Initialized
+INFO - 2025-08-19 05:46:59 --> Output Class Initialized
+INFO - 2025-08-19 05:46:59 --> Security Class Initialized
+DEBUG - 2025-08-19 05:46:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:46:59 --> Input Class Initialized
+INFO - 2025-08-19 05:46:59 --> Language Class Initialized
+INFO - 2025-08-19 05:46:59 --> Loader Class Initialized
+INFO - 2025-08-19 05:46:59 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:46:59 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:46:59 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:46:59 --> Controller Class Initialized
+INFO - 2025-08-19 05:46:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:46:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:46:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:46:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:46:59 --> Final output sent to browser
+DEBUG - 2025-08-19 05:46:59 --> Total execution time: 0.0373
+INFO - 2025-08-19 05:46:59 --> Config Class Initialized
+INFO - 2025-08-19 05:46:59 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:46:59 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:46:59 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:46:59 --> URI Class Initialized
+INFO - 2025-08-19 05:46:59 --> Router Class Initialized
+INFO - 2025-08-19 05:46:59 --> Output Class Initialized
+INFO - 2025-08-19 05:46:59 --> Security Class Initialized
+DEBUG - 2025-08-19 05:46:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:46:59 --> Input Class Initialized
+INFO - 2025-08-19 05:46:59 --> Language Class Initialized
+INFO - 2025-08-19 05:46:59 --> Loader Class Initialized
+INFO - 2025-08-19 05:46:59 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:46:59 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:46:59 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:46:59 --> Controller Class Initialized
+INFO - 2025-08-19 05:46:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:46:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:46:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:46:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:46:59 --> Final output sent to browser
+DEBUG - 2025-08-19 05:46:59 --> Total execution time: 0.0334
+INFO - 2025-08-19 05:47:01 --> Config Class Initialized
+INFO - 2025-08-19 05:47:01 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:47:01 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:47:01 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:47:01 --> URI Class Initialized
+INFO - 2025-08-19 05:47:01 --> Router Class Initialized
+INFO - 2025-08-19 05:47:01 --> Output Class Initialized
+INFO - 2025-08-19 05:47:01 --> Security Class Initialized
+DEBUG - 2025-08-19 05:47:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:47:01 --> Input Class Initialized
+INFO - 2025-08-19 05:47:01 --> Language Class Initialized
+INFO - 2025-08-19 05:47:01 --> Loader Class Initialized
+INFO - 2025-08-19 05:47:01 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:47:01 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:47:01 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:47:01 --> Controller Class Initialized
+DEBUG - 2025-08-19 05:47:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:47:01 --> Model "User_model" initialized
+INFO - 2025-08-19 05:47:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:47:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 05:47:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:47:01 --> Final output sent to browser
+DEBUG - 2025-08-19 05:47:01 --> Total execution time: 0.0213
+INFO - 2025-08-19 05:47:07 --> Config Class Initialized
+INFO - 2025-08-19 05:47:07 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:47:07 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:47:07 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:47:07 --> URI Class Initialized
+INFO - 2025-08-19 05:47:07 --> Router Class Initialized
+INFO - 2025-08-19 05:47:07 --> Output Class Initialized
+INFO - 2025-08-19 05:47:07 --> Security Class Initialized
+DEBUG - 2025-08-19 05:47:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:47:07 --> Input Class Initialized
+INFO - 2025-08-19 05:47:07 --> Language Class Initialized
+INFO - 2025-08-19 05:47:07 --> Loader Class Initialized
+INFO - 2025-08-19 05:47:07 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:47:07 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:47:07 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:47:07 --> Controller Class Initialized
+DEBUG - 2025-08-19 05:47:07 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:47:07 --> Model "User_model" initialized
+INFO - 2025-08-19 05:47:07 --> Config Class Initialized
+INFO - 2025-08-19 05:47:07 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:47:07 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:47:07 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:47:07 --> URI Class Initialized
+INFO - 2025-08-19 05:47:07 --> Router Class Initialized
+INFO - 2025-08-19 05:47:07 --> Output Class Initialized
+INFO - 2025-08-19 05:47:07 --> Security Class Initialized
+DEBUG - 2025-08-19 05:47:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:47:07 --> Input Class Initialized
+INFO - 2025-08-19 05:47:07 --> Language Class Initialized
+INFO - 2025-08-19 05:47:07 --> Loader Class Initialized
+INFO - 2025-08-19 05:47:07 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:47:07 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:47:07 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:47:07 --> Controller Class Initialized
+INFO - 2025-08-19 05:47:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:47:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:47:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:47:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:47:07 --> Final output sent to browser
+DEBUG - 2025-08-19 05:47:07 --> Total execution time: 0.0480
+INFO - 2025-08-19 05:47:09 --> Config Class Initialized
+INFO - 2025-08-19 05:47:09 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:47:09 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:47:09 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:47:09 --> URI Class Initialized
+INFO - 2025-08-19 05:47:09 --> Router Class Initialized
+INFO - 2025-08-19 05:47:09 --> Output Class Initialized
+INFO - 2025-08-19 05:47:09 --> Security Class Initialized
+DEBUG - 2025-08-19 05:47:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:47:09 --> Input Class Initialized
+INFO - 2025-08-19 05:47:09 --> Language Class Initialized
+INFO - 2025-08-19 05:47:09 --> Loader Class Initialized
+INFO - 2025-08-19 05:47:09 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:47:09 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:47:09 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:47:09 --> Controller Class Initialized
+INFO - 2025-08-19 05:47:09 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:47:09 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:47:09 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:47:09 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:47:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:47:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:47:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:47:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 05:47:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:47:09 --> Final output sent to browser
+DEBUG - 2025-08-19 05:47:09 --> Total execution time: 0.0385
+INFO - 2025-08-19 05:47:14 --> Config Class Initialized
+INFO - 2025-08-19 05:47:14 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:47:14 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:47:14 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:47:14 --> URI Class Initialized
+INFO - 2025-08-19 05:47:14 --> Router Class Initialized
+INFO - 2025-08-19 05:47:14 --> Output Class Initialized
+INFO - 2025-08-19 05:47:14 --> Security Class Initialized
+DEBUG - 2025-08-19 05:47:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:47:14 --> Input Class Initialized
+INFO - 2025-08-19 05:47:14 --> Language Class Initialized
+INFO - 2025-08-19 05:47:14 --> Loader Class Initialized
+INFO - 2025-08-19 05:47:14 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:47:14 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:47:14 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:47:14 --> Controller Class Initialized
+INFO - 2025-08-19 05:47:14 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:47:14 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:47:14 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:47:14 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:47:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:47:14 --> Config Class Initialized
+INFO - 2025-08-19 05:47:14 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:47:14 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:47:14 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:47:14 --> URI Class Initialized
+INFO - 2025-08-19 05:47:14 --> Router Class Initialized
+INFO - 2025-08-19 05:47:14 --> Output Class Initialized
+INFO - 2025-08-19 05:47:14 --> Security Class Initialized
+DEBUG - 2025-08-19 05:47:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:47:14 --> Input Class Initialized
+INFO - 2025-08-19 05:47:14 --> Language Class Initialized
+INFO - 2025-08-19 05:47:14 --> Loader Class Initialized
+INFO - 2025-08-19 05:47:14 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:47:14 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:47:14 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:47:14 --> Controller Class Initialized
+INFO - 2025-08-19 05:47:14 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:47:14 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:47:14 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:47:14 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:47:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:47:14 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:47:14 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:47:14 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 05:47:14 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:47:14 --> Final output sent to browser
+DEBUG - 2025-08-19 05:47:14 --> Total execution time: 0.0409
+INFO - 2025-08-19 05:47:39 --> Config Class Initialized
+INFO - 2025-08-19 05:47:39 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:47:39 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:47:39 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:47:39 --> URI Class Initialized
+INFO - 2025-08-19 05:47:39 --> Router Class Initialized
+INFO - 2025-08-19 05:47:39 --> Output Class Initialized
+INFO - 2025-08-19 05:47:39 --> Security Class Initialized
+DEBUG - 2025-08-19 05:47:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:47:39 --> Input Class Initialized
+INFO - 2025-08-19 05:47:39 --> Language Class Initialized
+INFO - 2025-08-19 05:47:39 --> Loader Class Initialized
+INFO - 2025-08-19 05:47:39 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:47:39 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:47:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:47:39 --> Controller Class Initialized
+INFO - 2025-08-19 05:47:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:47:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:47:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 05:47:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:47:39 --> Final output sent to browser
+DEBUG - 2025-08-19 05:47:39 --> Total execution time: 0.0552
+INFO - 2025-08-19 05:47:41 --> Config Class Initialized
+INFO - 2025-08-19 05:47:41 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:47:41 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:47:41 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:47:41 --> URI Class Initialized
+INFO - 2025-08-19 05:47:41 --> Router Class Initialized
+INFO - 2025-08-19 05:47:41 --> Output Class Initialized
+INFO - 2025-08-19 05:47:41 --> Security Class Initialized
+DEBUG - 2025-08-19 05:47:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:47:41 --> Input Class Initialized
+INFO - 2025-08-19 05:47:41 --> Language Class Initialized
+INFO - 2025-08-19 05:47:41 --> Loader Class Initialized
+INFO - 2025-08-19 05:47:41 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:47:41 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:47:41 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:47:41 --> Controller Class Initialized
+INFO - 2025-08-19 05:47:41 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:47:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:47:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:47:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:47:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:47:41 --> Final output sent to browser
+DEBUG - 2025-08-19 05:47:41 --> Total execution time: 0.0229
+INFO - 2025-08-19 05:47:42 --> Config Class Initialized
+INFO - 2025-08-19 05:47:42 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:47:42 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:47:42 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:47:42 --> URI Class Initialized
+INFO - 2025-08-19 05:47:42 --> Router Class Initialized
+INFO - 2025-08-19 05:47:42 --> Output Class Initialized
+INFO - 2025-08-19 05:47:42 --> Security Class Initialized
+DEBUG - 2025-08-19 05:47:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:47:42 --> Input Class Initialized
+INFO - 2025-08-19 05:47:42 --> Language Class Initialized
+INFO - 2025-08-19 05:47:42 --> Loader Class Initialized
+INFO - 2025-08-19 05:47:42 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:47:42 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:47:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:47:42 --> Controller Class Initialized
+INFO - 2025-08-19 05:47:42 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:47:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:47:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:47:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:47:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:47:42 --> Final output sent to browser
+DEBUG - 2025-08-19 05:47:42 --> Total execution time: 0.0227
+INFO - 2025-08-19 05:47:42 --> Config Class Initialized
+INFO - 2025-08-19 05:47:42 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:47:42 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:47:42 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:47:42 --> URI Class Initialized
+INFO - 2025-08-19 05:47:42 --> Router Class Initialized
+INFO - 2025-08-19 05:47:42 --> Output Class Initialized
+INFO - 2025-08-19 05:47:42 --> Security Class Initialized
+DEBUG - 2025-08-19 05:47:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:47:42 --> Input Class Initialized
+INFO - 2025-08-19 05:47:42 --> Language Class Initialized
+INFO - 2025-08-19 05:47:42 --> Loader Class Initialized
+INFO - 2025-08-19 05:47:42 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:47:42 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:47:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:47:42 --> Controller Class Initialized
+INFO - 2025-08-19 05:47:42 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:47:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:47:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:47:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:47:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:47:42 --> Final output sent to browser
+DEBUG - 2025-08-19 05:47:42 --> Total execution time: 0.0234
+INFO - 2025-08-19 05:47:45 --> Config Class Initialized
+INFO - 2025-08-19 05:47:45 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:47:45 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:47:45 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:47:45 --> URI Class Initialized
+INFO - 2025-08-19 05:47:45 --> Router Class Initialized
+INFO - 2025-08-19 05:47:45 --> Output Class Initialized
+INFO - 2025-08-19 05:47:45 --> Security Class Initialized
+DEBUG - 2025-08-19 05:47:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:47:45 --> Input Class Initialized
+INFO - 2025-08-19 05:47:45 --> Language Class Initialized
+INFO - 2025-08-19 05:47:45 --> Loader Class Initialized
+INFO - 2025-08-19 05:47:45 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:47:45 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:47:45 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:47:45 --> Controller Class Initialized
+INFO - 2025-08-19 05:47:45 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:47:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:47:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:47:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 05:47:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:47:45 --> Final output sent to browser
+DEBUG - 2025-08-19 05:47:45 --> Total execution time: 0.0233
+INFO - 2025-08-19 05:47:48 --> Config Class Initialized
+INFO - 2025-08-19 05:47:48 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:47:48 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:47:48 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:47:48 --> URI Class Initialized
+INFO - 2025-08-19 05:47:48 --> Router Class Initialized
+INFO - 2025-08-19 05:47:48 --> Output Class Initialized
+INFO - 2025-08-19 05:47:48 --> Security Class Initialized
+DEBUG - 2025-08-19 05:47:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:47:48 --> Input Class Initialized
+INFO - 2025-08-19 05:47:48 --> Language Class Initialized
+INFO - 2025-08-19 05:47:48 --> Loader Class Initialized
+INFO - 2025-08-19 05:47:48 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:47:48 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:47:48 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:47:48 --> Controller Class Initialized
+INFO - 2025-08-19 05:47:48 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:47:48 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:47:48 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:47:48 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:47:48 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:47:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:47:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:47:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 05:47:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:47:48 --> Final output sent to browser
+DEBUG - 2025-08-19 05:47:48 --> Total execution time: 0.0330
+INFO - 2025-08-19 05:48:26 --> Config Class Initialized
+INFO - 2025-08-19 05:48:26 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:48:26 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:48:26 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:48:26 --> URI Class Initialized
+INFO - 2025-08-19 05:48:26 --> Router Class Initialized
+INFO - 2025-08-19 05:48:26 --> Output Class Initialized
+INFO - 2025-08-19 05:48:26 --> Security Class Initialized
+DEBUG - 2025-08-19 05:48:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:48:26 --> Input Class Initialized
+INFO - 2025-08-19 05:48:26 --> Language Class Initialized
+INFO - 2025-08-19 05:48:26 --> Loader Class Initialized
+INFO - 2025-08-19 05:48:26 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:48:26 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:48:26 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:48:26 --> Controller Class Initialized
+INFO - 2025-08-19 05:48:26 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:48:26 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:48:26 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:48:26 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:48:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:48:26 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:48:26 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:48:26 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 05:48:26 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:48:26 --> Final output sent to browser
+DEBUG - 2025-08-19 05:48:26 --> Total execution time: 0.0417
+INFO - 2025-08-19 05:48:32 --> Config Class Initialized
+INFO - 2025-08-19 05:48:32 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:48:32 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:48:32 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:48:32 --> URI Class Initialized
+INFO - 2025-08-19 05:48:32 --> Router Class Initialized
+INFO - 2025-08-19 05:48:32 --> Output Class Initialized
+INFO - 2025-08-19 05:48:32 --> Security Class Initialized
+DEBUG - 2025-08-19 05:48:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:48:32 --> Input Class Initialized
+INFO - 2025-08-19 05:48:32 --> Language Class Initialized
+ERROR - 2025-08-19 05:48:32 --> 404 Page Not Found: Laporan/simpan
+INFO - 2025-08-19 05:48:36 --> Config Class Initialized
+INFO - 2025-08-19 05:48:36 --> Hooks Class Initialized
+DEBUG - 2025-08-19 05:48:36 --> UTF-8 Support Enabled
+INFO - 2025-08-19 05:48:36 --> Utf8 Class Initialized
+INFO - 2025-08-19 05:48:36 --> URI Class Initialized
+INFO - 2025-08-19 05:48:36 --> Router Class Initialized
+INFO - 2025-08-19 05:48:36 --> Output Class Initialized
+INFO - 2025-08-19 05:48:36 --> Security Class Initialized
+DEBUG - 2025-08-19 05:48:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 05:48:36 --> Input Class Initialized
+INFO - 2025-08-19 05:48:36 --> Language Class Initialized
+INFO - 2025-08-19 05:48:36 --> Loader Class Initialized
+INFO - 2025-08-19 05:48:36 --> Helper loaded: url_helper
+INFO - 2025-08-19 05:48:36 --> Database Driver Class Initialized
+INFO - 2025-08-19 05:48:36 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 05:48:36 --> Controller Class Initialized
+INFO - 2025-08-19 05:48:36 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 05:48:36 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 05:48:36 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 05:48:36 --> Upload Class Initialized
+DEBUG - 2025-08-19 05:48:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 05:48:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 05:48:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 05:48:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 05:48:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 05:48:36 --> Final output sent to browser
+DEBUG - 2025-08-19 05:48:36 --> Total execution time: 0.0373
+INFO - 2025-08-19 06:07:19 --> Config Class Initialized
+INFO - 2025-08-19 06:07:19 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:07:19 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:07:19 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:07:19 --> URI Class Initialized
+INFO - 2025-08-19 06:07:19 --> Router Class Initialized
+INFO - 2025-08-19 06:07:19 --> Output Class Initialized
+INFO - 2025-08-19 06:07:19 --> Security Class Initialized
+DEBUG - 2025-08-19 06:07:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:07:19 --> Input Class Initialized
+INFO - 2025-08-19 06:07:19 --> Language Class Initialized
+INFO - 2025-08-19 06:07:19 --> Loader Class Initialized
+INFO - 2025-08-19 06:07:19 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:07:19 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:07:19 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:07:19 --> Controller Class Initialized
+INFO - 2025-08-19 06:07:19 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:07:19 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:07:19 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:07:19 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:07:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:07:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:07:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:07:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:07:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:07:19 --> Final output sent to browser
+DEBUG - 2025-08-19 06:07:19 --> Total execution time: 0.1869
+INFO - 2025-08-19 06:07:25 --> Config Class Initialized
+INFO - 2025-08-19 06:07:25 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:07:25 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:07:25 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:07:25 --> URI Class Initialized
+INFO - 2025-08-19 06:07:25 --> Router Class Initialized
+INFO - 2025-08-19 06:07:25 --> Output Class Initialized
+INFO - 2025-08-19 06:07:25 --> Security Class Initialized
+DEBUG - 2025-08-19 06:07:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:07:25 --> Input Class Initialized
+INFO - 2025-08-19 06:07:25 --> Language Class Initialized
+INFO - 2025-08-19 06:07:25 --> Loader Class Initialized
+INFO - 2025-08-19 06:07:25 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:07:25 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:07:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:07:25 --> Controller Class Initialized
+INFO - 2025-08-19 06:07:25 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:07:25 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:07:25 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:07:25 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:07:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:07:25 --> Language file loaded: language/english/upload_lang.php
+INFO - 2025-08-19 06:07:25 --> The file you are attempting to upload is larger than the permitted size.
+INFO - 2025-08-19 06:07:25 --> Config Class Initialized
+INFO - 2025-08-19 06:07:25 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:07:25 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:07:25 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:07:25 --> URI Class Initialized
+INFO - 2025-08-19 06:07:25 --> Router Class Initialized
+INFO - 2025-08-19 06:07:25 --> Output Class Initialized
+INFO - 2025-08-19 06:07:25 --> Security Class Initialized
+DEBUG - 2025-08-19 06:07:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:07:25 --> Input Class Initialized
+INFO - 2025-08-19 06:07:25 --> Language Class Initialized
+INFO - 2025-08-19 06:07:25 --> Loader Class Initialized
+INFO - 2025-08-19 06:07:25 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:07:25 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:07:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:07:25 --> Controller Class Initialized
+INFO - 2025-08-19 06:07:25 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:07:25 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:07:25 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:07:25 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:07:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:07:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:07:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:07:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:07:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:07:25 --> Final output sent to browser
+DEBUG - 2025-08-19 06:07:25 --> Total execution time: 0.0715
+INFO - 2025-08-19 06:15:59 --> Config Class Initialized
+INFO - 2025-08-19 06:15:59 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:15:59 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:15:59 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:15:59 --> URI Class Initialized
+INFO - 2025-08-19 06:15:59 --> Router Class Initialized
+INFO - 2025-08-19 06:15:59 --> Output Class Initialized
+INFO - 2025-08-19 06:15:59 --> Security Class Initialized
+DEBUG - 2025-08-19 06:15:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:15:59 --> Input Class Initialized
+INFO - 2025-08-19 06:15:59 --> Language Class Initialized
+INFO - 2025-08-19 06:15:59 --> Loader Class Initialized
+INFO - 2025-08-19 06:15:59 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:15:59 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:15:59 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:15:59 --> Controller Class Initialized
+INFO - 2025-08-19 06:15:59 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:15:59 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:15:59 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:15:59 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:15:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:15:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:15:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:15:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:15:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:15:59 --> Final output sent to browser
+DEBUG - 2025-08-19 06:15:59 --> Total execution time: 0.1526
+INFO - 2025-08-19 06:16:00 --> Config Class Initialized
+INFO - 2025-08-19 06:16:00 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:16:00 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:16:00 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:16:00 --> URI Class Initialized
+INFO - 2025-08-19 06:16:00 --> Router Class Initialized
+INFO - 2025-08-19 06:16:00 --> Output Class Initialized
+INFO - 2025-08-19 06:16:00 --> Security Class Initialized
+DEBUG - 2025-08-19 06:16:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:16:00 --> Input Class Initialized
+INFO - 2025-08-19 06:16:00 --> Language Class Initialized
+INFO - 2025-08-19 06:16:00 --> Loader Class Initialized
+INFO - 2025-08-19 06:16:00 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:16:00 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:16:00 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:16:00 --> Controller Class Initialized
+INFO - 2025-08-19 06:16:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:16:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:16:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 06:16:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:16:00 --> Final output sent to browser
+DEBUG - 2025-08-19 06:16:00 --> Total execution time: 0.0528
+INFO - 2025-08-19 06:16:04 --> Config Class Initialized
+INFO - 2025-08-19 06:16:04 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:16:04 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:16:04 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:16:04 --> URI Class Initialized
+INFO - 2025-08-19 06:16:04 --> Router Class Initialized
+INFO - 2025-08-19 06:16:04 --> Output Class Initialized
+INFO - 2025-08-19 06:16:04 --> Security Class Initialized
+DEBUG - 2025-08-19 06:16:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:16:04 --> Input Class Initialized
+INFO - 2025-08-19 06:16:04 --> Language Class Initialized
+INFO - 2025-08-19 06:16:04 --> Loader Class Initialized
+INFO - 2025-08-19 06:16:04 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:16:04 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:16:04 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:16:04 --> Controller Class Initialized
+INFO - 2025-08-19 06:16:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:16:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:16:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 06:16:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:16:04 --> Final output sent to browser
+DEBUG - 2025-08-19 06:16:04 --> Total execution time: 0.0484
+INFO - 2025-08-19 06:18:59 --> Config Class Initialized
+INFO - 2025-08-19 06:18:59 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:18:59 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:18:59 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:18:59 --> URI Class Initialized
+INFO - 2025-08-19 06:18:59 --> Router Class Initialized
+INFO - 2025-08-19 06:18:59 --> Output Class Initialized
+INFO - 2025-08-19 06:18:59 --> Security Class Initialized
+DEBUG - 2025-08-19 06:18:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:18:59 --> Input Class Initialized
+INFO - 2025-08-19 06:18:59 --> Language Class Initialized
+INFO - 2025-08-19 06:18:59 --> Loader Class Initialized
+INFO - 2025-08-19 06:18:59 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:18:59 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:18:59 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:18:59 --> Controller Class Initialized
+INFO - 2025-08-19 06:18:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:18:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:18:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 06:18:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:18:59 --> Final output sent to browser
+DEBUG - 2025-08-19 06:18:59 --> Total execution time: 0.1567
+INFO - 2025-08-19 06:19:05 --> Config Class Initialized
+INFO - 2025-08-19 06:19:05 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:19:05 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:19:05 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:19:05 --> URI Class Initialized
+INFO - 2025-08-19 06:19:05 --> Router Class Initialized
+INFO - 2025-08-19 06:19:05 --> Output Class Initialized
+INFO - 2025-08-19 06:19:05 --> Security Class Initialized
+DEBUG - 2025-08-19 06:19:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:19:05 --> Input Class Initialized
+INFO - 2025-08-19 06:19:05 --> Language Class Initialized
+INFO - 2025-08-19 06:19:05 --> Loader Class Initialized
+INFO - 2025-08-19 06:19:05 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:19:05 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:19:05 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:19:05 --> Controller Class Initialized
+INFO - 2025-08-19 06:19:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:19:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:19:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 06:19:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:19:05 --> Final output sent to browser
+DEBUG - 2025-08-19 06:19:05 --> Total execution time: 0.0671
+INFO - 2025-08-19 06:19:09 --> Config Class Initialized
+INFO - 2025-08-19 06:19:09 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:19:09 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:19:09 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:19:09 --> URI Class Initialized
+INFO - 2025-08-19 06:19:09 --> Router Class Initialized
+INFO - 2025-08-19 06:19:09 --> Output Class Initialized
+INFO - 2025-08-19 06:19:09 --> Security Class Initialized
+DEBUG - 2025-08-19 06:19:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:19:09 --> Input Class Initialized
+INFO - 2025-08-19 06:19:09 --> Language Class Initialized
+INFO - 2025-08-19 06:19:09 --> Loader Class Initialized
+INFO - 2025-08-19 06:19:09 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:19:09 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:19:09 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:19:09 --> Controller Class Initialized
+INFO - 2025-08-19 06:19:09 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:19:09 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:19:09 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:19:09 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:19:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:19:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:19:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:19:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:19:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:19:09 --> Final output sent to browser
+DEBUG - 2025-08-19 06:19:09 --> Total execution time: 0.0791
+INFO - 2025-08-19 06:19:18 --> Config Class Initialized
+INFO - 2025-08-19 06:19:18 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:19:18 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:19:18 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:19:18 --> URI Class Initialized
+INFO - 2025-08-19 06:19:18 --> Router Class Initialized
+INFO - 2025-08-19 06:19:18 --> Output Class Initialized
+INFO - 2025-08-19 06:19:18 --> Security Class Initialized
+DEBUG - 2025-08-19 06:19:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:19:18 --> Input Class Initialized
+INFO - 2025-08-19 06:19:18 --> Language Class Initialized
+INFO - 2025-08-19 06:19:18 --> Loader Class Initialized
+INFO - 2025-08-19 06:19:18 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:19:18 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:19:18 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:19:18 --> Controller Class Initialized
+INFO - 2025-08-19 06:19:18 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:19:18 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:19:18 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:19:18 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:19:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:19:18 --> Language file loaded: language/english/upload_lang.php
+INFO - 2025-08-19 06:19:18 --> The file you are attempting to upload is larger than the permitted size.
+INFO - 2025-08-19 06:19:18 --> Config Class Initialized
+INFO - 2025-08-19 06:19:18 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:19:18 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:19:18 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:19:18 --> URI Class Initialized
+INFO - 2025-08-19 06:19:18 --> Router Class Initialized
+INFO - 2025-08-19 06:19:18 --> Output Class Initialized
+INFO - 2025-08-19 06:19:18 --> Security Class Initialized
+DEBUG - 2025-08-19 06:19:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:19:18 --> Input Class Initialized
+INFO - 2025-08-19 06:19:18 --> Language Class Initialized
+INFO - 2025-08-19 06:19:18 --> Loader Class Initialized
+INFO - 2025-08-19 06:19:18 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:19:18 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:19:18 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:19:18 --> Controller Class Initialized
+INFO - 2025-08-19 06:19:18 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:19:18 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:19:18 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:19:18 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:19:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:19:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:19:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:19:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:19:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:19:18 --> Final output sent to browser
+DEBUG - 2025-08-19 06:19:18 --> Total execution time: 0.0664
+INFO - 2025-08-19 06:23:37 --> Config Class Initialized
+INFO - 2025-08-19 06:23:37 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:23:37 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:23:37 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:23:37 --> URI Class Initialized
+INFO - 2025-08-19 06:23:37 --> Router Class Initialized
+INFO - 2025-08-19 06:23:37 --> Output Class Initialized
+INFO - 2025-08-19 06:23:37 --> Security Class Initialized
+DEBUG - 2025-08-19 06:23:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:23:37 --> Input Class Initialized
+INFO - 2025-08-19 06:23:37 --> Language Class Initialized
+ERROR - 2025-08-19 06:23:37 --> Severity: error --> Exception: Unclosed '[' on line 58 does not match '}' D:\Project\template-frontend-ci3\application\controllers\Laporan.php 65
+INFO - 2025-08-19 06:25:05 --> Config Class Initialized
+INFO - 2025-08-19 06:25:05 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:25:05 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:25:05 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:25:05 --> URI Class Initialized
+INFO - 2025-08-19 06:25:05 --> Router Class Initialized
+INFO - 2025-08-19 06:25:05 --> Output Class Initialized
+INFO - 2025-08-19 06:25:05 --> Security Class Initialized
+DEBUG - 2025-08-19 06:25:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:25:05 --> Input Class Initialized
+INFO - 2025-08-19 06:25:05 --> Language Class Initialized
+INFO - 2025-08-19 06:25:05 --> Loader Class Initialized
+INFO - 2025-08-19 06:25:05 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:25:05 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:25:05 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:25:05 --> Controller Class Initialized
+INFO - 2025-08-19 06:25:05 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:25:05 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:25:05 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:25:05 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:25:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:25:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:25:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:25:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:25:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:25:05 --> Final output sent to browser
+DEBUG - 2025-08-19 06:25:05 --> Total execution time: 0.1286
+INFO - 2025-08-19 06:25:08 --> Config Class Initialized
+INFO - 2025-08-19 06:25:08 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:25:08 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:25:08 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:25:08 --> URI Class Initialized
+INFO - 2025-08-19 06:25:08 --> Router Class Initialized
+INFO - 2025-08-19 06:25:08 --> Output Class Initialized
+INFO - 2025-08-19 06:25:08 --> Security Class Initialized
+DEBUG - 2025-08-19 06:25:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:25:08 --> Input Class Initialized
+INFO - 2025-08-19 06:25:08 --> Language Class Initialized
+INFO - 2025-08-19 06:25:08 --> Loader Class Initialized
+INFO - 2025-08-19 06:25:08 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:25:08 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:25:08 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:25:08 --> Controller Class Initialized
+INFO - 2025-08-19 06:25:08 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:25:08 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:25:08 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:25:08 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:25:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:25:08 --> Language file loaded: language/english/upload_lang.php
+INFO - 2025-08-19 06:25:08 --> The file you are attempting to upload is larger than the permitted size.
+INFO - 2025-08-19 06:25:08 --> Config Class Initialized
+INFO - 2025-08-19 06:25:08 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:25:08 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:25:08 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:25:08 --> URI Class Initialized
+INFO - 2025-08-19 06:25:08 --> Router Class Initialized
+INFO - 2025-08-19 06:25:08 --> Output Class Initialized
+INFO - 2025-08-19 06:25:08 --> Security Class Initialized
+DEBUG - 2025-08-19 06:25:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:25:08 --> Input Class Initialized
+INFO - 2025-08-19 06:25:08 --> Language Class Initialized
+INFO - 2025-08-19 06:25:08 --> Loader Class Initialized
+INFO - 2025-08-19 06:25:08 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:25:08 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:25:08 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:25:08 --> Controller Class Initialized
+INFO - 2025-08-19 06:25:08 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:25:08 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:25:08 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:25:08 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:25:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:25:08 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:25:08 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:25:08 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:25:08 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:25:08 --> Final output sent to browser
+DEBUG - 2025-08-19 06:25:08 --> Total execution time: 0.0665
+INFO - 2025-08-19 06:26:51 --> Config Class Initialized
+INFO - 2025-08-19 06:26:51 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:26:51 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:26:51 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:26:51 --> URI Class Initialized
+INFO - 2025-08-19 06:26:51 --> Router Class Initialized
+INFO - 2025-08-19 06:26:51 --> Output Class Initialized
+INFO - 2025-08-19 06:26:51 --> Security Class Initialized
+DEBUG - 2025-08-19 06:26:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:26:51 --> Input Class Initialized
+INFO - 2025-08-19 06:26:51 --> Language Class Initialized
+INFO - 2025-08-19 06:26:51 --> Loader Class Initialized
+INFO - 2025-08-19 06:26:51 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:26:51 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:26:51 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:26:51 --> Controller Class Initialized
+INFO - 2025-08-19 06:26:51 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:26:51 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:26:51 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:26:51 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:26:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:26:51 --> Config Class Initialized
+INFO - 2025-08-19 06:26:51 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:26:51 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:26:51 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:26:51 --> URI Class Initialized
+INFO - 2025-08-19 06:26:51 --> Router Class Initialized
+INFO - 2025-08-19 06:26:51 --> Output Class Initialized
+INFO - 2025-08-19 06:26:51 --> Security Class Initialized
+DEBUG - 2025-08-19 06:26:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:26:51 --> Input Class Initialized
+INFO - 2025-08-19 06:26:51 --> Language Class Initialized
+INFO - 2025-08-19 06:26:51 --> Loader Class Initialized
+INFO - 2025-08-19 06:26:51 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:26:51 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:26:51 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:26:51 --> Controller Class Initialized
+INFO - 2025-08-19 06:26:51 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:26:51 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:26:51 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:26:51 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:26:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:26:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:26:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:26:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:26:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:26:51 --> Final output sent to browser
+DEBUG - 2025-08-19 06:26:51 --> Total execution time: 0.0740
+INFO - 2025-08-19 06:26:59 --> Config Class Initialized
+INFO - 2025-08-19 06:26:59 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:26:59 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:26:59 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:26:59 --> URI Class Initialized
+INFO - 2025-08-19 06:26:59 --> Router Class Initialized
+INFO - 2025-08-19 06:26:59 --> Output Class Initialized
+INFO - 2025-08-19 06:26:59 --> Security Class Initialized
+DEBUG - 2025-08-19 06:26:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:26:59 --> Input Class Initialized
+INFO - 2025-08-19 06:26:59 --> Language Class Initialized
+INFO - 2025-08-19 06:26:59 --> Loader Class Initialized
+INFO - 2025-08-19 06:26:59 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:26:59 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:26:59 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:26:59 --> Controller Class Initialized
+INFO - 2025-08-19 06:26:59 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:26:59 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:26:59 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:26:59 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:26:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:26:59 --> Language file loaded: language/english/upload_lang.php
+INFO - 2025-08-19 06:26:59 --> The file you are attempting to upload is larger than the permitted size.
+INFO - 2025-08-19 06:26:59 --> Config Class Initialized
+INFO - 2025-08-19 06:26:59 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:26:59 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:26:59 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:26:59 --> URI Class Initialized
+INFO - 2025-08-19 06:26:59 --> Router Class Initialized
+INFO - 2025-08-19 06:26:59 --> Output Class Initialized
+INFO - 2025-08-19 06:26:59 --> Security Class Initialized
+DEBUG - 2025-08-19 06:26:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:26:59 --> Input Class Initialized
+INFO - 2025-08-19 06:26:59 --> Language Class Initialized
+INFO - 2025-08-19 06:26:59 --> Loader Class Initialized
+INFO - 2025-08-19 06:26:59 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:26:59 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:26:59 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:26:59 --> Controller Class Initialized
+INFO - 2025-08-19 06:26:59 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:26:59 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:26:59 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:26:59 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:26:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:26:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:26:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:26:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:26:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:26:59 --> Final output sent to browser
+DEBUG - 2025-08-19 06:26:59 --> Total execution time: 0.0626
+INFO - 2025-08-19 06:27:46 --> Config Class Initialized
+INFO - 2025-08-19 06:27:46 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:27:46 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:27:46 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:27:46 --> URI Class Initialized
+INFO - 2025-08-19 06:27:46 --> Router Class Initialized
+INFO - 2025-08-19 06:27:46 --> Output Class Initialized
+INFO - 2025-08-19 06:27:46 --> Security Class Initialized
+DEBUG - 2025-08-19 06:27:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:27:46 --> Input Class Initialized
+INFO - 2025-08-19 06:27:46 --> Language Class Initialized
+INFO - 2025-08-19 06:27:46 --> Loader Class Initialized
+INFO - 2025-08-19 06:27:46 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:27:46 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:27:46 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:27:46 --> Controller Class Initialized
+INFO - 2025-08-19 06:27:46 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:27:46 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:27:46 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:27:46 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:27:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:27:46 --> Language file loaded: language/english/upload_lang.php
+INFO - 2025-08-19 06:27:46 --> The file you are attempting to upload is larger than the permitted size.
+INFO - 2025-08-19 06:27:46 --> Config Class Initialized
+INFO - 2025-08-19 06:27:46 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:27:46 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:27:46 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:27:46 --> URI Class Initialized
+INFO - 2025-08-19 06:27:46 --> Router Class Initialized
+INFO - 2025-08-19 06:27:46 --> Output Class Initialized
+INFO - 2025-08-19 06:27:46 --> Security Class Initialized
+DEBUG - 2025-08-19 06:27:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:27:46 --> Input Class Initialized
+INFO - 2025-08-19 06:27:46 --> Language Class Initialized
+INFO - 2025-08-19 06:27:46 --> Loader Class Initialized
+INFO - 2025-08-19 06:27:46 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:27:46 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:27:46 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:27:46 --> Controller Class Initialized
+INFO - 2025-08-19 06:27:46 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:27:46 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:27:46 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:27:46 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:27:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:27:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:27:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:27:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:27:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:27:46 --> Final output sent to browser
+DEBUG - 2025-08-19 06:27:46 --> Total execution time: 0.0646
+INFO - 2025-08-19 06:28:34 --> Config Class Initialized
+INFO - 2025-08-19 06:28:34 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:28:34 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:28:34 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:28:34 --> URI Class Initialized
+INFO - 2025-08-19 06:28:34 --> Router Class Initialized
+INFO - 2025-08-19 06:28:34 --> Output Class Initialized
+INFO - 2025-08-19 06:28:34 --> Security Class Initialized
+DEBUG - 2025-08-19 06:28:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:28:34 --> Input Class Initialized
+INFO - 2025-08-19 06:28:34 --> Language Class Initialized
+INFO - 2025-08-19 06:28:34 --> Loader Class Initialized
+INFO - 2025-08-19 06:28:34 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:28:34 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:28:34 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:28:34 --> Controller Class Initialized
+INFO - 2025-08-19 06:28:34 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:28:34 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:28:34 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:28:34 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:28:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:28:34 --> Config Class Initialized
+INFO - 2025-08-19 06:28:34 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:28:34 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:28:34 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:28:34 --> URI Class Initialized
+INFO - 2025-08-19 06:28:34 --> Router Class Initialized
+INFO - 2025-08-19 06:28:34 --> Output Class Initialized
+INFO - 2025-08-19 06:28:34 --> Security Class Initialized
+DEBUG - 2025-08-19 06:28:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:28:34 --> Input Class Initialized
+INFO - 2025-08-19 06:28:34 --> Language Class Initialized
+INFO - 2025-08-19 06:28:34 --> Loader Class Initialized
+INFO - 2025-08-19 06:28:34 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:28:34 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:28:34 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:28:34 --> Controller Class Initialized
+INFO - 2025-08-19 06:28:34 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:28:34 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:28:34 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:28:34 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:28:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:28:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:28:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:28:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:28:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:28:34 --> Final output sent to browser
+DEBUG - 2025-08-19 06:28:34 --> Total execution time: 0.0710
+INFO - 2025-08-19 06:28:43 --> Config Class Initialized
+INFO - 2025-08-19 06:28:43 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:28:43 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:28:43 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:28:43 --> URI Class Initialized
+INFO - 2025-08-19 06:28:43 --> Router Class Initialized
+INFO - 2025-08-19 06:28:43 --> Output Class Initialized
+INFO - 2025-08-19 06:28:43 --> Security Class Initialized
+DEBUG - 2025-08-19 06:28:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:28:43 --> Input Class Initialized
+INFO - 2025-08-19 06:28:43 --> Language Class Initialized
+INFO - 2025-08-19 06:28:43 --> Loader Class Initialized
+INFO - 2025-08-19 06:28:43 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:28:43 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:28:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:28:43 --> Controller Class Initialized
+INFO - 2025-08-19 06:28:43 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:28:43 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:28:43 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:28:43 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:28:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:28:43 --> Config Class Initialized
+INFO - 2025-08-19 06:28:43 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:28:43 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:28:43 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:28:43 --> URI Class Initialized
+INFO - 2025-08-19 06:28:43 --> Router Class Initialized
+INFO - 2025-08-19 06:28:43 --> Output Class Initialized
+INFO - 2025-08-19 06:28:43 --> Security Class Initialized
+DEBUG - 2025-08-19 06:28:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:28:43 --> Input Class Initialized
+INFO - 2025-08-19 06:28:43 --> Language Class Initialized
+INFO - 2025-08-19 06:28:43 --> Loader Class Initialized
+INFO - 2025-08-19 06:28:43 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:28:43 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:28:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:28:43 --> Controller Class Initialized
+INFO - 2025-08-19 06:28:43 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:28:43 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:28:43 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:28:43 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:28:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:28:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:28:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:28:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:28:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:28:43 --> Final output sent to browser
+DEBUG - 2025-08-19 06:28:43 --> Total execution time: 0.0687
+INFO - 2025-08-19 06:36:21 --> Config Class Initialized
+INFO - 2025-08-19 06:36:21 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:36:21 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:36:21 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:36:21 --> URI Class Initialized
+INFO - 2025-08-19 06:36:21 --> Router Class Initialized
+INFO - 2025-08-19 06:36:21 --> Output Class Initialized
+INFO - 2025-08-19 06:36:21 --> Security Class Initialized
+DEBUG - 2025-08-19 06:36:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:36:21 --> Input Class Initialized
+INFO - 2025-08-19 06:36:21 --> Language Class Initialized
+INFO - 2025-08-19 06:36:21 --> Loader Class Initialized
+INFO - 2025-08-19 06:36:21 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:36:21 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:36:21 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:36:21 --> Controller Class Initialized
+INFO - 2025-08-19 06:36:21 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:36:21 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:36:21 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:36:21 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:36:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:36:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:36:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:36:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:36:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:36:21 --> Final output sent to browser
+DEBUG - 2025-08-19 06:36:21 --> Total execution time: 0.0683
+INFO - 2025-08-19 06:36:28 --> Config Class Initialized
+INFO - 2025-08-19 06:36:28 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:36:28 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:36:28 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:36:28 --> URI Class Initialized
+INFO - 2025-08-19 06:36:28 --> Router Class Initialized
+INFO - 2025-08-19 06:36:28 --> Output Class Initialized
+INFO - 2025-08-19 06:36:28 --> Security Class Initialized
+DEBUG - 2025-08-19 06:36:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:36:28 --> Input Class Initialized
+INFO - 2025-08-19 06:36:28 --> Language Class Initialized
+INFO - 2025-08-19 06:36:28 --> Loader Class Initialized
+INFO - 2025-08-19 06:36:28 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:36:28 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:36:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:36:28 --> Controller Class Initialized
+INFO - 2025-08-19 06:36:28 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:36:28 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:36:28 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:36:28 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:36:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:36:28 --> Config Class Initialized
+INFO - 2025-08-19 06:36:28 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:36:28 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:36:28 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:36:28 --> URI Class Initialized
+INFO - 2025-08-19 06:36:28 --> Router Class Initialized
+INFO - 2025-08-19 06:36:28 --> Output Class Initialized
+INFO - 2025-08-19 06:36:28 --> Security Class Initialized
+DEBUG - 2025-08-19 06:36:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:36:28 --> Input Class Initialized
+INFO - 2025-08-19 06:36:28 --> Language Class Initialized
+INFO - 2025-08-19 06:36:28 --> Loader Class Initialized
+INFO - 2025-08-19 06:36:28 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:36:28 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:36:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:36:28 --> Controller Class Initialized
+INFO - 2025-08-19 06:36:28 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:36:28 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:36:28 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:36:28 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:36:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:36:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:36:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:36:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:36:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:36:28 --> Final output sent to browser
+DEBUG - 2025-08-19 06:36:28 --> Total execution time: 0.0690
+INFO - 2025-08-19 06:37:34 --> Config Class Initialized
+INFO - 2025-08-19 06:37:34 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:37:34 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:37:34 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:37:34 --> URI Class Initialized
+INFO - 2025-08-19 06:37:34 --> Router Class Initialized
+INFO - 2025-08-19 06:37:34 --> Output Class Initialized
+INFO - 2025-08-19 06:37:34 --> Security Class Initialized
+DEBUG - 2025-08-19 06:37:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:37:34 --> Input Class Initialized
+INFO - 2025-08-19 06:37:34 --> Language Class Initialized
+INFO - 2025-08-19 06:37:34 --> Loader Class Initialized
+INFO - 2025-08-19 06:37:34 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:37:34 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:37:34 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:37:34 --> Controller Class Initialized
+INFO - 2025-08-19 06:37:34 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:37:34 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:37:34 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:37:34 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:37:34 --> Session class already loaded. Second attempt ignored.
+ERROR - 2025-08-19 06:37:34 --> Severity: Warning --> Trying to access array offset on value of type null D:\Project\template-frontend-ci3\application\controllers\Laporan.php 36
+INFO - 2025-08-19 06:37:34 --> Config Class Initialized
+INFO - 2025-08-19 06:37:34 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:37:34 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:37:34 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:37:34 --> URI Class Initialized
+INFO - 2025-08-19 06:37:34 --> Router Class Initialized
+INFO - 2025-08-19 06:37:34 --> Output Class Initialized
+INFO - 2025-08-19 06:37:34 --> Security Class Initialized
+DEBUG - 2025-08-19 06:37:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:37:34 --> Input Class Initialized
+INFO - 2025-08-19 06:37:34 --> Language Class Initialized
+INFO - 2025-08-19 06:37:34 --> Loader Class Initialized
+INFO - 2025-08-19 06:37:34 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:37:34 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:37:34 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:37:34 --> Controller Class Initialized
+INFO - 2025-08-19 06:37:34 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:37:34 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:37:34 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:37:34 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:37:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:37:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:37:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:37:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:37:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:37:34 --> Final output sent to browser
+DEBUG - 2025-08-19 06:37:34 --> Total execution time: 0.0585
+INFO - 2025-08-19 06:41:24 --> Config Class Initialized
+INFO - 2025-08-19 06:41:24 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:41:24 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:41:24 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:41:24 --> URI Class Initialized
+INFO - 2025-08-19 06:41:24 --> Router Class Initialized
+INFO - 2025-08-19 06:41:24 --> Output Class Initialized
+INFO - 2025-08-19 06:41:24 --> Security Class Initialized
+DEBUG - 2025-08-19 06:41:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:41:24 --> Input Class Initialized
+INFO - 2025-08-19 06:41:24 --> Language Class Initialized
+INFO - 2025-08-19 06:41:24 --> Loader Class Initialized
+INFO - 2025-08-19 06:41:24 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:41:24 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:41:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:41:24 --> Controller Class Initialized
+DEBUG - 2025-08-19 06:41:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:41:24 --> Model "User_model" initialized
+INFO - 2025-08-19 06:41:24 --> Config Class Initialized
+INFO - 2025-08-19 06:41:24 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:41:24 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:41:24 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:41:24 --> URI Class Initialized
+INFO - 2025-08-19 06:41:24 --> Router Class Initialized
+INFO - 2025-08-19 06:41:24 --> Output Class Initialized
+INFO - 2025-08-19 06:41:24 --> Security Class Initialized
+DEBUG - 2025-08-19 06:41:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:41:24 --> Input Class Initialized
+INFO - 2025-08-19 06:41:24 --> Language Class Initialized
+INFO - 2025-08-19 06:41:24 --> Loader Class Initialized
+INFO - 2025-08-19 06:41:24 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:41:24 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:41:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:41:24 --> Controller Class Initialized
+DEBUG - 2025-08-19 06:41:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:41:24 --> Model "User_model" initialized
+INFO - 2025-08-19 06:41:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:41:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 06:41:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:41:24 --> Final output sent to browser
+DEBUG - 2025-08-19 06:41:24 --> Total execution time: 0.0358
+INFO - 2025-08-19 06:41:28 --> Config Class Initialized
+INFO - 2025-08-19 06:41:28 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:41:28 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:41:28 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:41:28 --> URI Class Initialized
+INFO - 2025-08-19 06:41:28 --> Router Class Initialized
+INFO - 2025-08-19 06:41:28 --> Output Class Initialized
+INFO - 2025-08-19 06:41:28 --> Security Class Initialized
+DEBUG - 2025-08-19 06:41:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:41:28 --> Input Class Initialized
+INFO - 2025-08-19 06:41:28 --> Language Class Initialized
+INFO - 2025-08-19 06:41:28 --> Loader Class Initialized
+INFO - 2025-08-19 06:41:28 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:41:28 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:41:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:41:28 --> Controller Class Initialized
+DEBUG - 2025-08-19 06:41:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:41:28 --> Model "User_model" initialized
+INFO - 2025-08-19 06:41:28 --> Config Class Initialized
+INFO - 2025-08-19 06:41:28 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:41:28 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:41:28 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:41:28 --> URI Class Initialized
+INFO - 2025-08-19 06:41:28 --> Router Class Initialized
+INFO - 2025-08-19 06:41:28 --> Output Class Initialized
+INFO - 2025-08-19 06:41:28 --> Security Class Initialized
+DEBUG - 2025-08-19 06:41:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:41:28 --> Input Class Initialized
+INFO - 2025-08-19 06:41:28 --> Language Class Initialized
+INFO - 2025-08-19 06:41:28 --> Loader Class Initialized
+INFO - 2025-08-19 06:41:28 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:41:28 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:41:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:41:28 --> Controller Class Initialized
+INFO - 2025-08-19 06:41:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:41:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:41:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 06:41:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:41:28 --> Final output sent to browser
+DEBUG - 2025-08-19 06:41:28 --> Total execution time: 0.0804
+INFO - 2025-08-19 06:41:30 --> Config Class Initialized
+INFO - 2025-08-19 06:41:30 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:41:30 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:41:30 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:41:30 --> URI Class Initialized
+INFO - 2025-08-19 06:41:30 --> Router Class Initialized
+INFO - 2025-08-19 06:41:30 --> Output Class Initialized
+INFO - 2025-08-19 06:41:30 --> Security Class Initialized
+DEBUG - 2025-08-19 06:41:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:41:30 --> Input Class Initialized
+INFO - 2025-08-19 06:41:30 --> Language Class Initialized
+INFO - 2025-08-19 06:41:30 --> Loader Class Initialized
+INFO - 2025-08-19 06:41:30 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:41:30 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:41:30 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:41:30 --> Controller Class Initialized
+INFO - 2025-08-19 06:41:30 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:41:30 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:41:30 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:41:30 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:41:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:41:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:41:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:41:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:41:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:41:30 --> Final output sent to browser
+DEBUG - 2025-08-19 06:41:30 --> Total execution time: 0.0556
+INFO - 2025-08-19 06:41:36 --> Config Class Initialized
+INFO - 2025-08-19 06:41:36 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:41:36 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:41:36 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:41:36 --> URI Class Initialized
+INFO - 2025-08-19 06:41:36 --> Router Class Initialized
+INFO - 2025-08-19 06:41:36 --> Output Class Initialized
+INFO - 2025-08-19 06:41:36 --> Security Class Initialized
+DEBUG - 2025-08-19 06:41:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:41:36 --> Input Class Initialized
+INFO - 2025-08-19 06:41:36 --> Language Class Initialized
+INFO - 2025-08-19 06:41:36 --> Loader Class Initialized
+INFO - 2025-08-19 06:41:36 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:41:36 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:41:36 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:41:36 --> Controller Class Initialized
+INFO - 2025-08-19 06:41:36 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:41:36 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:41:36 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:41:36 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:41:36 --> Session class already loaded. Second attempt ignored.
+ERROR - 2025-08-19 06:41:36 --> Severity: Warning --> Trying to access array offset on value of type null D:\Project\template-frontend-ci3\application\controllers\Laporan.php 36
+INFO - 2025-08-19 06:41:36 --> Config Class Initialized
+INFO - 2025-08-19 06:41:36 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:41:36 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:41:36 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:41:36 --> URI Class Initialized
+INFO - 2025-08-19 06:41:36 --> Router Class Initialized
+INFO - 2025-08-19 06:41:36 --> Output Class Initialized
+INFO - 2025-08-19 06:41:36 --> Security Class Initialized
+DEBUG - 2025-08-19 06:41:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:41:36 --> Input Class Initialized
+INFO - 2025-08-19 06:41:36 --> Language Class Initialized
+INFO - 2025-08-19 06:41:36 --> Loader Class Initialized
+INFO - 2025-08-19 06:41:36 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:41:36 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:41:36 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:41:36 --> Controller Class Initialized
+INFO - 2025-08-19 06:41:36 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:41:36 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:41:36 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:41:36 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:41:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:41:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:41:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:41:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:41:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:41:36 --> Final output sent to browser
+DEBUG - 2025-08-19 06:41:36 --> Total execution time: 0.0671
+INFO - 2025-08-19 06:41:44 --> Config Class Initialized
+INFO - 2025-08-19 06:41:44 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:41:44 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:41:44 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:41:44 --> URI Class Initialized
+INFO - 2025-08-19 06:41:44 --> Router Class Initialized
+INFO - 2025-08-19 06:41:44 --> Output Class Initialized
+INFO - 2025-08-19 06:41:44 --> Security Class Initialized
+DEBUG - 2025-08-19 06:41:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:41:44 --> Input Class Initialized
+INFO - 2025-08-19 06:41:44 --> Language Class Initialized
+INFO - 2025-08-19 06:41:44 --> Loader Class Initialized
+INFO - 2025-08-19 06:41:44 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:41:44 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:41:44 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:41:44 --> Controller Class Initialized
+INFO - 2025-08-19 06:41:44 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:41:44 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:41:44 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:41:44 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:41:44 --> Session class already loaded. Second attempt ignored.
+ERROR - 2025-08-19 06:41:44 --> Severity: Warning --> Trying to access array offset on value of type null D:\Project\template-frontend-ci3\application\controllers\Laporan.php 36
+INFO - 2025-08-19 06:41:44 --> Config Class Initialized
+INFO - 2025-08-19 06:41:44 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:41:44 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:41:44 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:41:44 --> URI Class Initialized
+INFO - 2025-08-19 06:41:44 --> Router Class Initialized
+INFO - 2025-08-19 06:41:44 --> Output Class Initialized
+INFO - 2025-08-19 06:41:44 --> Security Class Initialized
+DEBUG - 2025-08-19 06:41:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:41:44 --> Input Class Initialized
+INFO - 2025-08-19 06:41:44 --> Language Class Initialized
+INFO - 2025-08-19 06:41:44 --> Loader Class Initialized
+INFO - 2025-08-19 06:41:44 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:41:44 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:41:44 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:41:44 --> Controller Class Initialized
+INFO - 2025-08-19 06:41:44 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:41:44 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:41:44 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:41:44 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:41:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:41:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:41:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:41:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:41:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:41:44 --> Final output sent to browser
+DEBUG - 2025-08-19 06:41:44 --> Total execution time: 0.0694
+INFO - 2025-08-19 06:42:56 --> Config Class Initialized
+INFO - 2025-08-19 06:42:56 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:42:56 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:42:56 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:42:56 --> URI Class Initialized
+INFO - 2025-08-19 06:42:56 --> Router Class Initialized
+INFO - 2025-08-19 06:42:56 --> Output Class Initialized
+INFO - 2025-08-19 06:42:56 --> Security Class Initialized
+DEBUG - 2025-08-19 06:42:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:42:56 --> Input Class Initialized
+INFO - 2025-08-19 06:42:56 --> Language Class Initialized
+ERROR - 2025-08-19 06:42:56 --> Severity: error --> Exception: syntax error, unexpected identifier "var_dump", expecting "function" or "const" D:\Project\template-frontend-ci3\application\controllers\Laporan.php 30
+INFO - 2025-08-19 06:43:06 --> Config Class Initialized
+INFO - 2025-08-19 06:43:06 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:43:06 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:43:06 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:43:06 --> URI Class Initialized
+INFO - 2025-08-19 06:43:06 --> Router Class Initialized
+INFO - 2025-08-19 06:43:06 --> Output Class Initialized
+INFO - 2025-08-19 06:43:06 --> Security Class Initialized
+DEBUG - 2025-08-19 06:43:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:43:06 --> Input Class Initialized
+INFO - 2025-08-19 06:43:06 --> Language Class Initialized
+ERROR - 2025-08-19 06:43:06 --> Severity: error --> Exception: syntax error, unexpected identifier "var_dump", expecting "function" or "const" D:\Project\template-frontend-ci3\application\controllers\Laporan.php 30
+INFO - 2025-08-19 06:43:07 --> Config Class Initialized
+INFO - 2025-08-19 06:43:07 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:43:07 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:43:07 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:43:07 --> URI Class Initialized
+INFO - 2025-08-19 06:43:07 --> Router Class Initialized
+INFO - 2025-08-19 06:43:07 --> Output Class Initialized
+INFO - 2025-08-19 06:43:07 --> Security Class Initialized
+DEBUG - 2025-08-19 06:43:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:43:07 --> Input Class Initialized
+INFO - 2025-08-19 06:43:07 --> Language Class Initialized
+ERROR - 2025-08-19 06:43:07 --> Severity: error --> Exception: syntax error, unexpected identifier "var_dump", expecting "function" or "const" D:\Project\template-frontend-ci3\application\controllers\Laporan.php 30
+INFO - 2025-08-19 06:43:13 --> Config Class Initialized
+INFO - 2025-08-19 06:43:13 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:43:13 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:43:13 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:43:13 --> URI Class Initialized
+INFO - 2025-08-19 06:43:13 --> Router Class Initialized
+INFO - 2025-08-19 06:43:13 --> Output Class Initialized
+INFO - 2025-08-19 06:43:13 --> Security Class Initialized
+DEBUG - 2025-08-19 06:43:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:43:13 --> Input Class Initialized
+INFO - 2025-08-19 06:43:13 --> Language Class Initialized
+INFO - 2025-08-19 06:43:13 --> Loader Class Initialized
+INFO - 2025-08-19 06:43:13 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:43:13 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:43:13 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:43:13 --> Controller Class Initialized
+INFO - 2025-08-19 06:43:13 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:43:13 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:43:13 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:43:13 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:43:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:43:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:43:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:43:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:43:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:43:13 --> Final output sent to browser
+DEBUG - 2025-08-19 06:43:13 --> Total execution time: 0.1142
+INFO - 2025-08-19 06:44:20 --> Config Class Initialized
+INFO - 2025-08-19 06:44:20 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:44:20 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:44:20 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:44:20 --> URI Class Initialized
+INFO - 2025-08-19 06:44:20 --> Router Class Initialized
+INFO - 2025-08-19 06:44:20 --> Output Class Initialized
+INFO - 2025-08-19 06:44:20 --> Security Class Initialized
+DEBUG - 2025-08-19 06:44:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:44:20 --> Input Class Initialized
+INFO - 2025-08-19 06:44:20 --> Language Class Initialized
+INFO - 2025-08-19 06:44:20 --> Loader Class Initialized
+INFO - 2025-08-19 06:44:20 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:44:20 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:44:20 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:44:20 --> Controller Class Initialized
+INFO - 2025-08-19 06:44:20 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:44:20 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:44:20 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:44:20 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:44:20 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:44:20 --> Config Class Initialized
+INFO - 2025-08-19 06:44:20 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:44:20 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:44:20 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:44:20 --> URI Class Initialized
+INFO - 2025-08-19 06:44:20 --> Router Class Initialized
+INFO - 2025-08-19 06:44:20 --> Output Class Initialized
+INFO - 2025-08-19 06:44:20 --> Security Class Initialized
+DEBUG - 2025-08-19 06:44:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:44:20 --> Input Class Initialized
+INFO - 2025-08-19 06:44:20 --> Language Class Initialized
+INFO - 2025-08-19 06:44:20 --> Loader Class Initialized
+INFO - 2025-08-19 06:44:20 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:44:20 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:44:20 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:44:20 --> Controller Class Initialized
+INFO - 2025-08-19 06:44:20 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:44:20 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:44:20 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:44:20 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:44:20 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:44:20 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:44:20 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:44:20 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:44:20 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:44:20 --> Final output sent to browser
+DEBUG - 2025-08-19 06:44:20 --> Total execution time: 0.0635
+INFO - 2025-08-19 06:44:25 --> Config Class Initialized
+INFO - 2025-08-19 06:44:25 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:44:25 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:44:25 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:44:25 --> URI Class Initialized
+INFO - 2025-08-19 06:44:25 --> Router Class Initialized
+INFO - 2025-08-19 06:44:25 --> Output Class Initialized
+INFO - 2025-08-19 06:44:25 --> Security Class Initialized
+DEBUG - 2025-08-19 06:44:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:44:25 --> Input Class Initialized
+INFO - 2025-08-19 06:44:25 --> Language Class Initialized
+INFO - 2025-08-19 06:44:25 --> Loader Class Initialized
+INFO - 2025-08-19 06:44:25 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:44:25 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:44:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:44:25 --> Controller Class Initialized
+INFO - 2025-08-19 06:44:25 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:44:25 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:44:25 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:44:25 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:44:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:44:25 --> Config Class Initialized
+INFO - 2025-08-19 06:44:25 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:44:25 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:44:25 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:44:25 --> URI Class Initialized
+INFO - 2025-08-19 06:44:25 --> Router Class Initialized
+INFO - 2025-08-19 06:44:25 --> Output Class Initialized
+INFO - 2025-08-19 06:44:25 --> Security Class Initialized
+DEBUG - 2025-08-19 06:44:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:44:25 --> Input Class Initialized
+INFO - 2025-08-19 06:44:25 --> Language Class Initialized
+INFO - 2025-08-19 06:44:25 --> Loader Class Initialized
+INFO - 2025-08-19 06:44:25 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:44:25 --> Database Driver Class Initialized
+ERROR - 2025-08-19 06:44:25 --> Severity: Warning --> session_start(): Failed to decode session object. Session has been destroyed D:\Project\template-frontend-ci3\system\libraries\Session\Session.php 143
+INFO - 2025-08-19 06:44:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:44:25 --> Controller Class Initialized
+INFO - 2025-08-19 06:44:25 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:44:25 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:44:25 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:44:25 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:44:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:44:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:44:25 --> Config Class Initialized
+INFO - 2025-08-19 06:44:25 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:44:25 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:44:25 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:44:25 --> URI Class Initialized
+INFO - 2025-08-19 06:44:25 --> Router Class Initialized
+INFO - 2025-08-19 06:44:25 --> Output Class Initialized
+INFO - 2025-08-19 06:44:25 --> Security Class Initialized
+DEBUG - 2025-08-19 06:44:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:44:25 --> Input Class Initialized
+INFO - 2025-08-19 06:44:25 --> Language Class Initialized
+INFO - 2025-08-19 06:44:25 --> Loader Class Initialized
+INFO - 2025-08-19 06:44:25 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:44:25 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:44:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:44:25 --> Controller Class Initialized
+INFO - 2025-08-19 06:44:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:44:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:44:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 06:44:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:44:25 --> Final output sent to browser
+DEBUG - 2025-08-19 06:44:25 --> Total execution time: 0.0611
+INFO - 2025-08-19 06:44:32 --> Config Class Initialized
+INFO - 2025-08-19 06:44:32 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:44:32 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:44:32 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:44:32 --> URI Class Initialized
+INFO - 2025-08-19 06:44:32 --> Router Class Initialized
+INFO - 2025-08-19 06:44:32 --> Output Class Initialized
+INFO - 2025-08-19 06:44:32 --> Security Class Initialized
+DEBUG - 2025-08-19 06:44:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:44:32 --> Input Class Initialized
+INFO - 2025-08-19 06:44:32 --> Language Class Initialized
+INFO - 2025-08-19 06:44:32 --> Loader Class Initialized
+INFO - 2025-08-19 06:44:32 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:44:32 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:44:32 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:44:32 --> Controller Class Initialized
+DEBUG - 2025-08-19 06:44:32 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:44:32 --> Model "User_model" initialized
+INFO - 2025-08-19 06:44:32 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:44:32 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 06:44:32 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:44:32 --> Final output sent to browser
+DEBUG - 2025-08-19 06:44:32 --> Total execution time: 0.0255
+INFO - 2025-08-19 06:44:39 --> Config Class Initialized
+INFO - 2025-08-19 06:44:39 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:44:39 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:44:39 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:44:39 --> URI Class Initialized
+INFO - 2025-08-19 06:44:39 --> Router Class Initialized
+INFO - 2025-08-19 06:44:39 --> Output Class Initialized
+INFO - 2025-08-19 06:44:39 --> Security Class Initialized
+DEBUG - 2025-08-19 06:44:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:44:39 --> Input Class Initialized
+INFO - 2025-08-19 06:44:39 --> Language Class Initialized
+INFO - 2025-08-19 06:44:39 --> Loader Class Initialized
+INFO - 2025-08-19 06:44:39 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:44:39 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:44:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:44:39 --> Controller Class Initialized
+DEBUG - 2025-08-19 06:44:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:44:39 --> Model "User_model" initialized
+INFO - 2025-08-19 06:44:39 --> Config Class Initialized
+INFO - 2025-08-19 06:44:39 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:44:39 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:44:39 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:44:39 --> URI Class Initialized
+INFO - 2025-08-19 06:44:39 --> Router Class Initialized
+INFO - 2025-08-19 06:44:39 --> Output Class Initialized
+INFO - 2025-08-19 06:44:39 --> Security Class Initialized
+DEBUG - 2025-08-19 06:44:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:44:39 --> Input Class Initialized
+INFO - 2025-08-19 06:44:39 --> Language Class Initialized
+INFO - 2025-08-19 06:44:39 --> Loader Class Initialized
+INFO - 2025-08-19 06:44:39 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:44:39 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:44:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:44:39 --> Controller Class Initialized
+DEBUG - 2025-08-19 06:44:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:44:39 --> Model "User_model" initialized
+INFO - 2025-08-19 06:44:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:44:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 06:44:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:44:39 --> Final output sent to browser
+DEBUG - 2025-08-19 06:44:39 --> Total execution time: 0.0507
+INFO - 2025-08-19 06:44:44 --> Config Class Initialized
+INFO - 2025-08-19 06:44:44 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:44:44 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:44:44 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:44:44 --> URI Class Initialized
+INFO - 2025-08-19 06:44:44 --> Router Class Initialized
+INFO - 2025-08-19 06:44:44 --> Output Class Initialized
+INFO - 2025-08-19 06:44:44 --> Security Class Initialized
+DEBUG - 2025-08-19 06:44:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:44:44 --> Input Class Initialized
+INFO - 2025-08-19 06:44:44 --> Language Class Initialized
+INFO - 2025-08-19 06:44:44 --> Loader Class Initialized
+INFO - 2025-08-19 06:44:44 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:44:44 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:44:44 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:44:44 --> Controller Class Initialized
+DEBUG - 2025-08-19 06:44:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:44:44 --> Model "User_model" initialized
+INFO - 2025-08-19 06:44:44 --> Config Class Initialized
+INFO - 2025-08-19 06:44:44 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:44:44 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:44:44 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:44:44 --> URI Class Initialized
+INFO - 2025-08-19 06:44:44 --> Router Class Initialized
+INFO - 2025-08-19 06:44:44 --> Output Class Initialized
+INFO - 2025-08-19 06:44:44 --> Security Class Initialized
+DEBUG - 2025-08-19 06:44:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:44:44 --> Input Class Initialized
+INFO - 2025-08-19 06:44:44 --> Language Class Initialized
+INFO - 2025-08-19 06:44:44 --> Loader Class Initialized
+INFO - 2025-08-19 06:44:44 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:44:44 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:44:44 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:44:44 --> Controller Class Initialized
+INFO - 2025-08-19 06:44:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:44:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:44:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 06:44:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:44:44 --> Final output sent to browser
+DEBUG - 2025-08-19 06:44:44 --> Total execution time: 0.0687
+INFO - 2025-08-19 06:44:46 --> Config Class Initialized
+INFO - 2025-08-19 06:44:46 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:44:46 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:44:46 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:44:46 --> URI Class Initialized
+INFO - 2025-08-19 06:44:46 --> Router Class Initialized
+INFO - 2025-08-19 06:44:46 --> Output Class Initialized
+INFO - 2025-08-19 06:44:46 --> Security Class Initialized
+DEBUG - 2025-08-19 06:44:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:44:46 --> Input Class Initialized
+INFO - 2025-08-19 06:44:46 --> Language Class Initialized
+INFO - 2025-08-19 06:44:46 --> Loader Class Initialized
+INFO - 2025-08-19 06:44:46 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:44:46 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:44:46 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:44:46 --> Controller Class Initialized
+INFO - 2025-08-19 06:44:46 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:44:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:44:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:44:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 06:44:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:44:46 --> Final output sent to browser
+DEBUG - 2025-08-19 06:44:46 --> Total execution time: 0.0707
+INFO - 2025-08-19 06:44:48 --> Config Class Initialized
+INFO - 2025-08-19 06:44:48 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:44:48 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:44:48 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:44:48 --> URI Class Initialized
+INFO - 2025-08-19 06:44:48 --> Router Class Initialized
+INFO - 2025-08-19 06:44:48 --> Output Class Initialized
+INFO - 2025-08-19 06:44:48 --> Security Class Initialized
+DEBUG - 2025-08-19 06:44:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:44:48 --> Input Class Initialized
+INFO - 2025-08-19 06:44:48 --> Language Class Initialized
+INFO - 2025-08-19 06:44:48 --> Loader Class Initialized
+INFO - 2025-08-19 06:44:48 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:44:48 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:44:48 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:44:48 --> Controller Class Initialized
+INFO - 2025-08-19 06:44:48 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:44:48 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:44:48 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:44:48 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:44:48 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:44:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:44:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:44:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:44:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:44:48 --> Final output sent to browser
+DEBUG - 2025-08-19 06:44:48 --> Total execution time: 0.0571
+INFO - 2025-08-19 06:44:51 --> Config Class Initialized
+INFO - 2025-08-19 06:44:51 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:44:51 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:44:51 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:44:51 --> URI Class Initialized
+INFO - 2025-08-19 06:44:51 --> Router Class Initialized
+INFO - 2025-08-19 06:44:51 --> Output Class Initialized
+INFO - 2025-08-19 06:44:51 --> Security Class Initialized
+DEBUG - 2025-08-19 06:44:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:44:51 --> Input Class Initialized
+INFO - 2025-08-19 06:44:51 --> Language Class Initialized
+INFO - 2025-08-19 06:44:51 --> Loader Class Initialized
+INFO - 2025-08-19 06:44:51 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:44:51 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:44:51 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:44:51 --> Controller Class Initialized
+INFO - 2025-08-19 06:44:51 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:44:51 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:44:51 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:44:51 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:44:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:44:51 --> Config Class Initialized
+INFO - 2025-08-19 06:44:51 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:44:51 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:44:51 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:44:51 --> URI Class Initialized
+INFO - 2025-08-19 06:44:51 --> Router Class Initialized
+INFO - 2025-08-19 06:44:51 --> Output Class Initialized
+INFO - 2025-08-19 06:44:51 --> Security Class Initialized
+DEBUG - 2025-08-19 06:44:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:44:51 --> Input Class Initialized
+INFO - 2025-08-19 06:44:51 --> Language Class Initialized
+INFO - 2025-08-19 06:44:51 --> Loader Class Initialized
+INFO - 2025-08-19 06:44:51 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:44:51 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:44:51 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:44:51 --> Controller Class Initialized
+INFO - 2025-08-19 06:44:51 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:44:51 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:44:51 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:44:51 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:44:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:44:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:44:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:44:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:44:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:44:51 --> Final output sent to browser
+DEBUG - 2025-08-19 06:44:51 --> Total execution time: 0.0951
+INFO - 2025-08-19 06:44:54 --> Config Class Initialized
+INFO - 2025-08-19 06:44:54 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:44:54 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:44:54 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:44:54 --> URI Class Initialized
+INFO - 2025-08-19 06:44:54 --> Router Class Initialized
+INFO - 2025-08-19 06:44:54 --> Output Class Initialized
+INFO - 2025-08-19 06:44:54 --> Security Class Initialized
+DEBUG - 2025-08-19 06:44:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:44:54 --> Input Class Initialized
+INFO - 2025-08-19 06:44:54 --> Language Class Initialized
+INFO - 2025-08-19 06:44:54 --> Loader Class Initialized
+INFO - 2025-08-19 06:44:54 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:44:54 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:44:54 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:44:54 --> Controller Class Initialized
+INFO - 2025-08-19 06:44:54 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:44:54 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:44:54 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:44:54 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:44:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:44:55 --> Config Class Initialized
+INFO - 2025-08-19 06:44:55 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:44:55 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:44:55 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:44:55 --> URI Class Initialized
+INFO - 2025-08-19 06:44:55 --> Router Class Initialized
+INFO - 2025-08-19 06:44:55 --> Output Class Initialized
+INFO - 2025-08-19 06:44:55 --> Security Class Initialized
+DEBUG - 2025-08-19 06:44:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:44:55 --> Input Class Initialized
+INFO - 2025-08-19 06:44:55 --> Language Class Initialized
+INFO - 2025-08-19 06:44:55 --> Loader Class Initialized
+INFO - 2025-08-19 06:44:55 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:44:55 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:44:55 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:44:55 --> Controller Class Initialized
+INFO - 2025-08-19 06:44:55 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:44:55 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:44:55 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:44:55 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:44:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:44:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:44:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:44:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:44:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:44:55 --> Final output sent to browser
+DEBUG - 2025-08-19 06:44:55 --> Total execution time: 0.0698
+INFO - 2025-08-19 06:44:57 --> Config Class Initialized
+INFO - 2025-08-19 06:44:57 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:44:57 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:44:57 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:44:57 --> URI Class Initialized
+INFO - 2025-08-19 06:44:57 --> Router Class Initialized
+INFO - 2025-08-19 06:44:57 --> Output Class Initialized
+INFO - 2025-08-19 06:44:57 --> Security Class Initialized
+DEBUG - 2025-08-19 06:44:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:44:57 --> Input Class Initialized
+INFO - 2025-08-19 06:44:57 --> Language Class Initialized
+INFO - 2025-08-19 06:44:57 --> Loader Class Initialized
+INFO - 2025-08-19 06:44:57 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:44:57 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:44:58 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:44:58 --> Controller Class Initialized
+INFO - 2025-08-19 06:44:58 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:44:58 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:44:58 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:44:58 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:44:58 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:44:58 --> Config Class Initialized
+INFO - 2025-08-19 06:44:58 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:44:58 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:44:58 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:44:58 --> URI Class Initialized
+INFO - 2025-08-19 06:44:58 --> Router Class Initialized
+INFO - 2025-08-19 06:44:58 --> Output Class Initialized
+INFO - 2025-08-19 06:44:58 --> Security Class Initialized
+DEBUG - 2025-08-19 06:44:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:44:58 --> Input Class Initialized
+INFO - 2025-08-19 06:44:58 --> Language Class Initialized
+INFO - 2025-08-19 06:44:58 --> Loader Class Initialized
+INFO - 2025-08-19 06:44:58 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:44:58 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:44:58 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:44:58 --> Controller Class Initialized
+INFO - 2025-08-19 06:44:58 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:44:58 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:44:58 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:44:58 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:44:58 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:44:58 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:44:58 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:44:58 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:44:58 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:44:58 --> Final output sent to browser
+DEBUG - 2025-08-19 06:44:58 --> Total execution time: 0.0732
+INFO - 2025-08-19 06:45:02 --> Config Class Initialized
+INFO - 2025-08-19 06:45:02 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:02 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:02 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:02 --> URI Class Initialized
+INFO - 2025-08-19 06:45:02 --> Router Class Initialized
+INFO - 2025-08-19 06:45:02 --> Output Class Initialized
+INFO - 2025-08-19 06:45:02 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:02 --> Input Class Initialized
+INFO - 2025-08-19 06:45:02 --> Language Class Initialized
+INFO - 2025-08-19 06:45:02 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:02 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:02 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:02 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:02 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:45:02 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:45:02 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:45:02 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:45:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:45:02 --> Config Class Initialized
+INFO - 2025-08-19 06:45:02 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:02 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:02 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:02 --> URI Class Initialized
+INFO - 2025-08-19 06:45:02 --> Router Class Initialized
+INFO - 2025-08-19 06:45:02 --> Output Class Initialized
+INFO - 2025-08-19 06:45:02 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:02 --> Input Class Initialized
+INFO - 2025-08-19 06:45:02 --> Language Class Initialized
+INFO - 2025-08-19 06:45:02 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:02 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:02 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:02 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:02 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:45:02 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:45:02 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:45:02 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:45:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:45:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:45:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:45:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:45:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:45:02 --> Final output sent to browser
+DEBUG - 2025-08-19 06:45:02 --> Total execution time: 0.0826
+INFO - 2025-08-19 06:45:10 --> Config Class Initialized
+INFO - 2025-08-19 06:45:10 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:10 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:10 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:10 --> URI Class Initialized
+INFO - 2025-08-19 06:45:10 --> Router Class Initialized
+INFO - 2025-08-19 06:45:10 --> Output Class Initialized
+INFO - 2025-08-19 06:45:10 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:10 --> Input Class Initialized
+INFO - 2025-08-19 06:45:10 --> Language Class Initialized
+INFO - 2025-08-19 06:45:10 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:10 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:10 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:10 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:10 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:10 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:45:10 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:45:10 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:45:10 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:45:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:45:10 --> Config Class Initialized
+INFO - 2025-08-19 06:45:10 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:10 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:10 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:10 --> URI Class Initialized
+INFO - 2025-08-19 06:45:10 --> Router Class Initialized
+INFO - 2025-08-19 06:45:10 --> Output Class Initialized
+INFO - 2025-08-19 06:45:10 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:10 --> Input Class Initialized
+INFO - 2025-08-19 06:45:10 --> Language Class Initialized
+INFO - 2025-08-19 06:45:10 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:10 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:10 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:10 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:10 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:10 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:45:10 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:45:10 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:45:10 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:45:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:45:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:45:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:45:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:45:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:45:10 --> Final output sent to browser
+DEBUG - 2025-08-19 06:45:10 --> Total execution time: 0.0658
+INFO - 2025-08-19 06:45:16 --> Config Class Initialized
+INFO - 2025-08-19 06:45:16 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:16 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:16 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:16 --> URI Class Initialized
+INFO - 2025-08-19 06:45:16 --> Router Class Initialized
+INFO - 2025-08-19 06:45:16 --> Output Class Initialized
+INFO - 2025-08-19 06:45:16 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:16 --> Input Class Initialized
+INFO - 2025-08-19 06:45:16 --> Language Class Initialized
+INFO - 2025-08-19 06:45:16 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:16 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:16 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:16 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:16 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:16 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:45:16 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:45:16 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:45:16 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:45:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:45:16 --> Config Class Initialized
+INFO - 2025-08-19 06:45:16 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:16 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:16 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:16 --> URI Class Initialized
+INFO - 2025-08-19 06:45:16 --> Router Class Initialized
+INFO - 2025-08-19 06:45:16 --> Output Class Initialized
+INFO - 2025-08-19 06:45:16 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:16 --> Input Class Initialized
+INFO - 2025-08-19 06:45:16 --> Language Class Initialized
+INFO - 2025-08-19 06:45:16 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:16 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:16 --> Database Driver Class Initialized
+ERROR - 2025-08-19 06:45:16 --> Severity: Warning --> session_start(): Failed to decode session object. Session has been destroyed D:\Project\template-frontend-ci3\system\libraries\Session\Session.php 143
+INFO - 2025-08-19 06:45:16 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:16 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:16 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:45:16 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:45:16 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:45:16 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:45:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:45:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:45:16 --> Config Class Initialized
+INFO - 2025-08-19 06:45:16 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:16 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:16 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:16 --> URI Class Initialized
+INFO - 2025-08-19 06:45:16 --> Router Class Initialized
+INFO - 2025-08-19 06:45:16 --> Output Class Initialized
+INFO - 2025-08-19 06:45:16 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:16 --> Input Class Initialized
+INFO - 2025-08-19 06:45:16 --> Language Class Initialized
+INFO - 2025-08-19 06:45:16 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:16 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:16 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:16 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:16 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:45:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:45:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 06:45:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:45:16 --> Final output sent to browser
+DEBUG - 2025-08-19 06:45:16 --> Total execution time: 0.0661
+INFO - 2025-08-19 06:45:24 --> Config Class Initialized
+INFO - 2025-08-19 06:45:24 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:24 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:24 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:24 --> URI Class Initialized
+INFO - 2025-08-19 06:45:24 --> Router Class Initialized
+INFO - 2025-08-19 06:45:24 --> Output Class Initialized
+INFO - 2025-08-19 06:45:24 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:24 --> Input Class Initialized
+INFO - 2025-08-19 06:45:24 --> Language Class Initialized
+INFO - 2025-08-19 06:45:24 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:24 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:24 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:24 --> Controller Class Initialized
+DEBUG - 2025-08-19 06:45:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:45:24 --> Model "User_model" initialized
+INFO - 2025-08-19 06:45:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:45:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 06:45:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:45:24 --> Final output sent to browser
+DEBUG - 2025-08-19 06:45:24 --> Total execution time: 0.0311
+INFO - 2025-08-19 06:45:29 --> Config Class Initialized
+INFO - 2025-08-19 06:45:29 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:29 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:29 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:29 --> URI Class Initialized
+INFO - 2025-08-19 06:45:29 --> Router Class Initialized
+INFO - 2025-08-19 06:45:29 --> Output Class Initialized
+INFO - 2025-08-19 06:45:29 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:29 --> Input Class Initialized
+INFO - 2025-08-19 06:45:29 --> Language Class Initialized
+INFO - 2025-08-19 06:45:29 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:29 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:29 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:29 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:29 --> Controller Class Initialized
+DEBUG - 2025-08-19 06:45:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:45:29 --> Model "User_model" initialized
+INFO - 2025-08-19 06:45:29 --> Config Class Initialized
+INFO - 2025-08-19 06:45:29 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:29 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:29 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:29 --> URI Class Initialized
+INFO - 2025-08-19 06:45:29 --> Router Class Initialized
+INFO - 2025-08-19 06:45:29 --> Output Class Initialized
+INFO - 2025-08-19 06:45:29 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:29 --> Input Class Initialized
+INFO - 2025-08-19 06:45:29 --> Language Class Initialized
+INFO - 2025-08-19 06:45:29 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:29 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:29 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:29 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:29 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:45:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:45:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 06:45:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:45:29 --> Final output sent to browser
+DEBUG - 2025-08-19 06:45:29 --> Total execution time: 0.0690
+INFO - 2025-08-19 06:45:30 --> Config Class Initialized
+INFO - 2025-08-19 06:45:30 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:30 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:30 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:30 --> URI Class Initialized
+INFO - 2025-08-19 06:45:30 --> Router Class Initialized
+INFO - 2025-08-19 06:45:30 --> Output Class Initialized
+INFO - 2025-08-19 06:45:30 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:30 --> Input Class Initialized
+INFO - 2025-08-19 06:45:30 --> Language Class Initialized
+INFO - 2025-08-19 06:45:30 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:30 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:30 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:30 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:30 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:30 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:45:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:45:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:45:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 06:45:30 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:45:30 --> Final output sent to browser
+DEBUG - 2025-08-19 06:45:30 --> Total execution time: 0.0593
+INFO - 2025-08-19 06:45:31 --> Config Class Initialized
+INFO - 2025-08-19 06:45:31 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:31 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:31 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:31 --> URI Class Initialized
+INFO - 2025-08-19 06:45:31 --> Router Class Initialized
+INFO - 2025-08-19 06:45:31 --> Output Class Initialized
+INFO - 2025-08-19 06:45:31 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:31 --> Input Class Initialized
+INFO - 2025-08-19 06:45:31 --> Language Class Initialized
+INFO - 2025-08-19 06:45:31 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:31 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:31 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:31 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:31 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:31 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:45:31 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:45:31 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:45:31 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:45:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:45:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:45:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:45:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:45:31 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:45:31 --> Final output sent to browser
+DEBUG - 2025-08-19 06:45:31 --> Total execution time: 0.0557
+INFO - 2025-08-19 06:45:34 --> Config Class Initialized
+INFO - 2025-08-19 06:45:34 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:34 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:34 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:34 --> URI Class Initialized
+INFO - 2025-08-19 06:45:34 --> Router Class Initialized
+INFO - 2025-08-19 06:45:34 --> Output Class Initialized
+INFO - 2025-08-19 06:45:34 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:34 --> Input Class Initialized
+INFO - 2025-08-19 06:45:34 --> Language Class Initialized
+INFO - 2025-08-19 06:45:34 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:34 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:34 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:34 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:34 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:34 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:45:34 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:45:34 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:45:34 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:45:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:45:34 --> Config Class Initialized
+INFO - 2025-08-19 06:45:34 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:34 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:34 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:34 --> URI Class Initialized
+INFO - 2025-08-19 06:45:34 --> Router Class Initialized
+INFO - 2025-08-19 06:45:34 --> Output Class Initialized
+INFO - 2025-08-19 06:45:34 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:34 --> Input Class Initialized
+INFO - 2025-08-19 06:45:34 --> Language Class Initialized
+INFO - 2025-08-19 06:45:34 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:34 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:35 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:35 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:35 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:35 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:45:35 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:45:35 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:45:35 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:45:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:45:35 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:45:35 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:45:35 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:45:35 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:45:35 --> Final output sent to browser
+DEBUG - 2025-08-19 06:45:35 --> Total execution time: 0.0790
+INFO - 2025-08-19 06:45:38 --> Config Class Initialized
+INFO - 2025-08-19 06:45:38 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:38 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:38 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:38 --> URI Class Initialized
+INFO - 2025-08-19 06:45:38 --> Router Class Initialized
+INFO - 2025-08-19 06:45:38 --> Output Class Initialized
+INFO - 2025-08-19 06:45:38 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:38 --> Input Class Initialized
+INFO - 2025-08-19 06:45:38 --> Language Class Initialized
+INFO - 2025-08-19 06:45:38 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:38 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:38 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:38 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:38 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:38 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:45:38 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:45:38 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:45:38 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:45:38 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:45:38 --> Config Class Initialized
+INFO - 2025-08-19 06:45:38 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:38 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:38 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:38 --> URI Class Initialized
+INFO - 2025-08-19 06:45:38 --> Router Class Initialized
+INFO - 2025-08-19 06:45:38 --> Output Class Initialized
+INFO - 2025-08-19 06:45:38 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:38 --> Input Class Initialized
+INFO - 2025-08-19 06:45:38 --> Language Class Initialized
+INFO - 2025-08-19 06:45:38 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:38 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:38 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:38 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:38 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:38 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:45:38 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:45:38 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:45:38 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:45:38 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:45:38 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:45:38 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:45:38 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:45:38 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:45:38 --> Final output sent to browser
+DEBUG - 2025-08-19 06:45:38 --> Total execution time: 0.0758
+INFO - 2025-08-19 06:45:42 --> Config Class Initialized
+INFO - 2025-08-19 06:45:42 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:42 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:42 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:42 --> URI Class Initialized
+INFO - 2025-08-19 06:45:42 --> Router Class Initialized
+INFO - 2025-08-19 06:45:42 --> Output Class Initialized
+INFO - 2025-08-19 06:45:42 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:42 --> Input Class Initialized
+INFO - 2025-08-19 06:45:42 --> Language Class Initialized
+INFO - 2025-08-19 06:45:42 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:42 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:42 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:42 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:42 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:45:42 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:45:42 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:45:42 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:45:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:45:42 --> Config Class Initialized
+INFO - 2025-08-19 06:45:42 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:42 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:42 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:42 --> URI Class Initialized
+INFO - 2025-08-19 06:45:42 --> Router Class Initialized
+INFO - 2025-08-19 06:45:42 --> Output Class Initialized
+INFO - 2025-08-19 06:45:42 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:42 --> Input Class Initialized
+INFO - 2025-08-19 06:45:42 --> Language Class Initialized
+INFO - 2025-08-19 06:45:42 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:42 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:42 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:42 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:42 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:45:42 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:45:42 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:45:42 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:45:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:45:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:45:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:45:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:45:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:45:42 --> Final output sent to browser
+DEBUG - 2025-08-19 06:45:42 --> Total execution time: 0.0837
+INFO - 2025-08-19 06:45:49 --> Config Class Initialized
+INFO - 2025-08-19 06:45:49 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:49 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:49 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:49 --> URI Class Initialized
+INFO - 2025-08-19 06:45:49 --> Router Class Initialized
+INFO - 2025-08-19 06:45:49 --> Output Class Initialized
+INFO - 2025-08-19 06:45:49 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:49 --> Input Class Initialized
+INFO - 2025-08-19 06:45:49 --> Language Class Initialized
+INFO - 2025-08-19 06:45:49 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:49 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:49 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:49 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:49 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:49 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:45:49 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:45:49 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:45:49 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:45:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:45:49 --> Config Class Initialized
+INFO - 2025-08-19 06:45:49 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:49 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:49 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:49 --> URI Class Initialized
+INFO - 2025-08-19 06:45:49 --> Router Class Initialized
+INFO - 2025-08-19 06:45:49 --> Output Class Initialized
+INFO - 2025-08-19 06:45:49 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:49 --> Input Class Initialized
+INFO - 2025-08-19 06:45:49 --> Language Class Initialized
+INFO - 2025-08-19 06:45:49 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:49 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:49 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:49 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:49 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:49 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:45:49 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:45:49 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:45:49 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:45:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:45:49 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:45:49 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:45:49 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:45:49 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:45:49 --> Final output sent to browser
+DEBUG - 2025-08-19 06:45:49 --> Total execution time: 0.0758
+INFO - 2025-08-19 06:45:52 --> Config Class Initialized
+INFO - 2025-08-19 06:45:52 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:52 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:52 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:52 --> URI Class Initialized
+INFO - 2025-08-19 06:45:52 --> Router Class Initialized
+INFO - 2025-08-19 06:45:52 --> Output Class Initialized
+INFO - 2025-08-19 06:45:52 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:52 --> Input Class Initialized
+INFO - 2025-08-19 06:45:52 --> Language Class Initialized
+INFO - 2025-08-19 06:45:52 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:52 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:52 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:52 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:52 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:52 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:45:52 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:45:52 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:45:52 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:45:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:45:52 --> Config Class Initialized
+INFO - 2025-08-19 06:45:52 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:52 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:52 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:52 --> URI Class Initialized
+INFO - 2025-08-19 06:45:52 --> Router Class Initialized
+INFO - 2025-08-19 06:45:52 --> Output Class Initialized
+INFO - 2025-08-19 06:45:52 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:52 --> Input Class Initialized
+INFO - 2025-08-19 06:45:52 --> Language Class Initialized
+INFO - 2025-08-19 06:45:52 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:52 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:52 --> Database Driver Class Initialized
+ERROR - 2025-08-19 06:45:52 --> Severity: Warning --> session_start(): Failed to decode session object. Session has been destroyed D:\Project\template-frontend-ci3\system\libraries\Session\Session.php 143
+INFO - 2025-08-19 06:45:52 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:52 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:52 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:45:52 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:45:52 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:45:52 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:45:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:45:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:45:52 --> Config Class Initialized
+INFO - 2025-08-19 06:45:52 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:45:52 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:45:52 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:45:52 --> URI Class Initialized
+INFO - 2025-08-19 06:45:52 --> Router Class Initialized
+INFO - 2025-08-19 06:45:52 --> Output Class Initialized
+INFO - 2025-08-19 06:45:52 --> Security Class Initialized
+DEBUG - 2025-08-19 06:45:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:45:52 --> Input Class Initialized
+INFO - 2025-08-19 06:45:52 --> Language Class Initialized
+INFO - 2025-08-19 06:45:53 --> Loader Class Initialized
+INFO - 2025-08-19 06:45:53 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:45:53 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:45:53 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:45:53 --> Controller Class Initialized
+INFO - 2025-08-19 06:45:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:45:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:45:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 06:45:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:45:53 --> Final output sent to browser
+DEBUG - 2025-08-19 06:45:53 --> Total execution time: 0.0799
+INFO - 2025-08-19 06:49:35 --> Config Class Initialized
+INFO - 2025-08-19 06:49:35 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:49:35 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:49:35 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:49:35 --> URI Class Initialized
+INFO - 2025-08-19 06:49:35 --> Router Class Initialized
+INFO - 2025-08-19 06:49:35 --> Output Class Initialized
+INFO - 2025-08-19 06:49:35 --> Security Class Initialized
+DEBUG - 2025-08-19 06:49:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:49:35 --> Input Class Initialized
+INFO - 2025-08-19 06:49:35 --> Language Class Initialized
+INFO - 2025-08-19 06:49:35 --> Loader Class Initialized
+INFO - 2025-08-19 06:49:35 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:49:35 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:49:35 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:49:35 --> Controller Class Initialized
+DEBUG - 2025-08-19 06:49:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:49:35 --> Model "User_model" initialized
+INFO - 2025-08-19 06:49:35 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:49:35 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 06:49:35 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:49:35 --> Final output sent to browser
+DEBUG - 2025-08-19 06:49:35 --> Total execution time: 0.0486
+INFO - 2025-08-19 06:49:39 --> Config Class Initialized
+INFO - 2025-08-19 06:49:39 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:49:39 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:49:39 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:49:39 --> URI Class Initialized
+INFO - 2025-08-19 06:49:39 --> Router Class Initialized
+INFO - 2025-08-19 06:49:39 --> Output Class Initialized
+INFO - 2025-08-19 06:49:39 --> Security Class Initialized
+DEBUG - 2025-08-19 06:49:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:49:39 --> Input Class Initialized
+INFO - 2025-08-19 06:49:39 --> Language Class Initialized
+INFO - 2025-08-19 06:49:39 --> Loader Class Initialized
+INFO - 2025-08-19 06:49:39 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:49:39 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:49:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:49:39 --> Controller Class Initialized
+DEBUG - 2025-08-19 06:49:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:49:39 --> Model "User_model" initialized
+INFO - 2025-08-19 06:49:39 --> Config Class Initialized
+INFO - 2025-08-19 06:49:39 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:49:39 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:49:39 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:49:39 --> URI Class Initialized
+INFO - 2025-08-19 06:49:39 --> Router Class Initialized
+INFO - 2025-08-19 06:49:40 --> Output Class Initialized
+INFO - 2025-08-19 06:49:40 --> Security Class Initialized
+DEBUG - 2025-08-19 06:49:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:49:40 --> Input Class Initialized
+INFO - 2025-08-19 06:49:40 --> Language Class Initialized
+INFO - 2025-08-19 06:49:40 --> Loader Class Initialized
+INFO - 2025-08-19 06:49:40 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:49:40 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:49:40 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:49:40 --> Controller Class Initialized
+INFO - 2025-08-19 06:49:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:49:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:49:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 06:49:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:49:40 --> Final output sent to browser
+DEBUG - 2025-08-19 06:49:40 --> Total execution time: 0.0829
+INFO - 2025-08-19 06:49:42 --> Config Class Initialized
+INFO - 2025-08-19 06:49:42 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:49:42 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:49:42 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:49:42 --> URI Class Initialized
+INFO - 2025-08-19 06:49:42 --> Router Class Initialized
+INFO - 2025-08-19 06:49:42 --> Output Class Initialized
+INFO - 2025-08-19 06:49:42 --> Security Class Initialized
+DEBUG - 2025-08-19 06:49:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:49:42 --> Input Class Initialized
+INFO - 2025-08-19 06:49:42 --> Language Class Initialized
+INFO - 2025-08-19 06:49:42 --> Loader Class Initialized
+INFO - 2025-08-19 06:49:42 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:49:42 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:49:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:49:42 --> Controller Class Initialized
+INFO - 2025-08-19 06:49:42 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:49:42 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:49:42 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:49:42 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:49:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:49:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:49:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:49:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:49:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:49:42 --> Final output sent to browser
+DEBUG - 2025-08-19 06:49:42 --> Total execution time: 0.1012
+INFO - 2025-08-19 06:49:50 --> Config Class Initialized
+INFO - 2025-08-19 06:49:50 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:49:50 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:49:50 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:49:50 --> URI Class Initialized
+INFO - 2025-08-19 06:49:50 --> Router Class Initialized
+INFO - 2025-08-19 06:49:50 --> Output Class Initialized
+INFO - 2025-08-19 06:49:50 --> Security Class Initialized
+DEBUG - 2025-08-19 06:49:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:49:50 --> Input Class Initialized
+INFO - 2025-08-19 06:49:50 --> Language Class Initialized
+INFO - 2025-08-19 06:49:50 --> Loader Class Initialized
+INFO - 2025-08-19 06:49:50 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:49:50 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:49:50 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:49:50 --> Controller Class Initialized
+INFO - 2025-08-19 06:49:50 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:49:50 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:49:50 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:49:50 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:49:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:49:50 --> Config Class Initialized
+INFO - 2025-08-19 06:49:50 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:49:50 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:49:50 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:49:50 --> URI Class Initialized
+INFO - 2025-08-19 06:49:50 --> Router Class Initialized
+INFO - 2025-08-19 06:49:50 --> Output Class Initialized
+INFO - 2025-08-19 06:49:50 --> Security Class Initialized
+DEBUG - 2025-08-19 06:49:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:49:50 --> Input Class Initialized
+INFO - 2025-08-19 06:49:50 --> Language Class Initialized
+INFO - 2025-08-19 06:49:50 --> Loader Class Initialized
+INFO - 2025-08-19 06:49:50 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:49:50 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:49:50 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:49:50 --> Controller Class Initialized
+INFO - 2025-08-19 06:49:50 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:49:50 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:49:50 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:49:50 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:49:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:49:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:49:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:49:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:49:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:49:50 --> Final output sent to browser
+DEBUG - 2025-08-19 06:49:50 --> Total execution time: 0.0665
+INFO - 2025-08-19 06:49:59 --> Config Class Initialized
+INFO - 2025-08-19 06:49:59 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:49:59 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:49:59 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:49:59 --> URI Class Initialized
+INFO - 2025-08-19 06:49:59 --> Router Class Initialized
+INFO - 2025-08-19 06:49:59 --> Output Class Initialized
+INFO - 2025-08-19 06:49:59 --> Security Class Initialized
+DEBUG - 2025-08-19 06:49:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:49:59 --> Input Class Initialized
+INFO - 2025-08-19 06:49:59 --> Language Class Initialized
+INFO - 2025-08-19 06:49:59 --> Loader Class Initialized
+INFO - 2025-08-19 06:49:59 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:49:59 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:49:59 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:49:59 --> Controller Class Initialized
+INFO - 2025-08-19 06:49:59 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:49:59 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:49:59 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:49:59 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:49:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:49:59 --> Config Class Initialized
+INFO - 2025-08-19 06:49:59 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:49:59 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:49:59 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:49:59 --> URI Class Initialized
+INFO - 2025-08-19 06:49:59 --> Router Class Initialized
+INFO - 2025-08-19 06:49:59 --> Output Class Initialized
+INFO - 2025-08-19 06:49:59 --> Security Class Initialized
+DEBUG - 2025-08-19 06:49:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:49:59 --> Input Class Initialized
+INFO - 2025-08-19 06:49:59 --> Language Class Initialized
+INFO - 2025-08-19 06:49:59 --> Loader Class Initialized
+INFO - 2025-08-19 06:49:59 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:49:59 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:49:59 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:49:59 --> Controller Class Initialized
+INFO - 2025-08-19 06:49:59 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:49:59 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:49:59 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:49:59 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:49:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:49:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:49:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:49:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:49:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:49:59 --> Final output sent to browser
+DEBUG - 2025-08-19 06:49:59 --> Total execution time: 0.0681
+INFO - 2025-08-19 06:50:02 --> Config Class Initialized
+INFO - 2025-08-19 06:50:02 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:50:02 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:50:02 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:50:02 --> URI Class Initialized
+INFO - 2025-08-19 06:50:02 --> Router Class Initialized
+INFO - 2025-08-19 06:50:02 --> Output Class Initialized
+INFO - 2025-08-19 06:50:02 --> Security Class Initialized
+DEBUG - 2025-08-19 06:50:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:50:02 --> Input Class Initialized
+INFO - 2025-08-19 06:50:02 --> Language Class Initialized
+INFO - 2025-08-19 06:50:02 --> Loader Class Initialized
+INFO - 2025-08-19 06:50:02 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:50:02 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:50:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:50:02 --> Controller Class Initialized
+INFO - 2025-08-19 06:50:02 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:50:02 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:50:02 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:50:02 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:50:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:50:02 --> Config Class Initialized
+INFO - 2025-08-19 06:50:02 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:50:02 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:50:02 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:50:02 --> URI Class Initialized
+INFO - 2025-08-19 06:50:02 --> Router Class Initialized
+INFO - 2025-08-19 06:50:02 --> Output Class Initialized
+INFO - 2025-08-19 06:50:02 --> Security Class Initialized
+DEBUG - 2025-08-19 06:50:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:50:02 --> Input Class Initialized
+INFO - 2025-08-19 06:50:02 --> Language Class Initialized
+INFO - 2025-08-19 06:50:02 --> Loader Class Initialized
+INFO - 2025-08-19 06:50:02 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:50:02 --> Database Driver Class Initialized
+ERROR - 2025-08-19 06:50:02 --> Severity: Warning --> session_start(): Failed to decode session object. Session has been destroyed D:\Project\template-frontend-ci3\system\libraries\Session\Session.php 143
+INFO - 2025-08-19 06:50:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:50:02 --> Controller Class Initialized
+INFO - 2025-08-19 06:50:02 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:50:02 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:50:02 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:50:02 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:50:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:50:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:50:03 --> Config Class Initialized
+INFO - 2025-08-19 06:50:03 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:50:03 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:50:03 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:50:03 --> URI Class Initialized
+INFO - 2025-08-19 06:50:03 --> Router Class Initialized
+INFO - 2025-08-19 06:50:03 --> Output Class Initialized
+INFO - 2025-08-19 06:50:03 --> Security Class Initialized
+DEBUG - 2025-08-19 06:50:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:50:03 --> Input Class Initialized
+INFO - 2025-08-19 06:50:03 --> Language Class Initialized
+INFO - 2025-08-19 06:50:03 --> Loader Class Initialized
+INFO - 2025-08-19 06:50:03 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:50:03 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:50:03 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:50:03 --> Controller Class Initialized
+INFO - 2025-08-19 06:50:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:50:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:50:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 06:50:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:50:03 --> Final output sent to browser
+DEBUG - 2025-08-19 06:50:03 --> Total execution time: 0.0847
+INFO - 2025-08-19 06:51:52 --> Config Class Initialized
+INFO - 2025-08-19 06:51:52 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:51:52 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:51:52 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:51:52 --> URI Class Initialized
+INFO - 2025-08-19 06:51:52 --> Router Class Initialized
+INFO - 2025-08-19 06:51:52 --> Output Class Initialized
+INFO - 2025-08-19 06:51:52 --> Security Class Initialized
+DEBUG - 2025-08-19 06:51:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:51:52 --> Input Class Initialized
+INFO - 2025-08-19 06:51:52 --> Language Class Initialized
+INFO - 2025-08-19 06:51:52 --> Loader Class Initialized
+INFO - 2025-08-19 06:51:52 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:51:52 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:51:52 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:51:52 --> Controller Class Initialized
+DEBUG - 2025-08-19 06:51:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:51:52 --> Model "User_model" initialized
+INFO - 2025-08-19 06:51:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:51:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 06:51:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:51:52 --> Final output sent to browser
+DEBUG - 2025-08-19 06:51:52 --> Total execution time: 0.0312
+INFO - 2025-08-19 06:52:01 --> Config Class Initialized
+INFO - 2025-08-19 06:52:01 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:52:01 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:52:01 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:52:01 --> URI Class Initialized
+INFO - 2025-08-19 06:52:01 --> Router Class Initialized
+INFO - 2025-08-19 06:52:01 --> Output Class Initialized
+INFO - 2025-08-19 06:52:01 --> Security Class Initialized
+DEBUG - 2025-08-19 06:52:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:52:01 --> Input Class Initialized
+INFO - 2025-08-19 06:52:01 --> Language Class Initialized
+INFO - 2025-08-19 06:52:01 --> Loader Class Initialized
+INFO - 2025-08-19 06:52:01 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:52:01 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:52:01 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:52:01 --> Controller Class Initialized
+DEBUG - 2025-08-19 06:52:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:52:01 --> Model "User_model" initialized
+INFO - 2025-08-19 06:52:01 --> Config Class Initialized
+INFO - 2025-08-19 06:52:01 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:52:01 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:52:01 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:52:01 --> URI Class Initialized
+INFO - 2025-08-19 06:52:01 --> Router Class Initialized
+INFO - 2025-08-19 06:52:01 --> Output Class Initialized
+INFO - 2025-08-19 06:52:01 --> Security Class Initialized
+DEBUG - 2025-08-19 06:52:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:52:01 --> Input Class Initialized
+INFO - 2025-08-19 06:52:01 --> Language Class Initialized
+INFO - 2025-08-19 06:52:01 --> Loader Class Initialized
+INFO - 2025-08-19 06:52:01 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:52:01 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:52:01 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:52:01 --> Controller Class Initialized
+INFO - 2025-08-19 06:52:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:52:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:52:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 06:52:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:52:01 --> Final output sent to browser
+DEBUG - 2025-08-19 06:52:01 --> Total execution time: 0.0681
+INFO - 2025-08-19 06:52:03 --> Config Class Initialized
+INFO - 2025-08-19 06:52:03 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:52:03 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:52:03 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:52:03 --> URI Class Initialized
+INFO - 2025-08-19 06:52:03 --> Router Class Initialized
+INFO - 2025-08-19 06:52:03 --> Output Class Initialized
+INFO - 2025-08-19 06:52:03 --> Security Class Initialized
+DEBUG - 2025-08-19 06:52:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:52:03 --> Input Class Initialized
+INFO - 2025-08-19 06:52:03 --> Language Class Initialized
+INFO - 2025-08-19 06:52:03 --> Loader Class Initialized
+INFO - 2025-08-19 06:52:03 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:52:03 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:52:03 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:52:03 --> Controller Class Initialized
+INFO - 2025-08-19 06:52:03 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:52:03 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:52:03 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:52:03 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:52:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:52:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:52:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:52:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:52:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:52:03 --> Final output sent to browser
+DEBUG - 2025-08-19 06:52:03 --> Total execution time: 0.0780
+INFO - 2025-08-19 06:52:06 --> Config Class Initialized
+INFO - 2025-08-19 06:52:06 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:52:06 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:52:06 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:52:06 --> URI Class Initialized
+INFO - 2025-08-19 06:52:06 --> Router Class Initialized
+INFO - 2025-08-19 06:52:06 --> Output Class Initialized
+INFO - 2025-08-19 06:52:06 --> Security Class Initialized
+DEBUG - 2025-08-19 06:52:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:52:06 --> Input Class Initialized
+INFO - 2025-08-19 06:52:06 --> Language Class Initialized
+INFO - 2025-08-19 06:52:06 --> Loader Class Initialized
+INFO - 2025-08-19 06:52:06 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:52:06 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:52:06 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:52:06 --> Controller Class Initialized
+INFO - 2025-08-19 06:52:06 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:52:06 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:52:06 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:52:06 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:52:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:52:06 --> Config Class Initialized
+INFO - 2025-08-19 06:52:06 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:52:06 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:52:06 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:52:06 --> URI Class Initialized
+INFO - 2025-08-19 06:52:06 --> Router Class Initialized
+INFO - 2025-08-19 06:52:06 --> Output Class Initialized
+INFO - 2025-08-19 06:52:06 --> Security Class Initialized
+DEBUG - 2025-08-19 06:52:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:52:06 --> Input Class Initialized
+INFO - 2025-08-19 06:52:06 --> Language Class Initialized
+INFO - 2025-08-19 06:52:06 --> Loader Class Initialized
+INFO - 2025-08-19 06:52:06 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:52:06 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:52:06 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:52:06 --> Controller Class Initialized
+INFO - 2025-08-19 06:52:06 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:52:06 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:52:06 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:52:06 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:52:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:52:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:52:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:52:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:52:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:52:06 --> Final output sent to browser
+DEBUG - 2025-08-19 06:52:06 --> Total execution time: 0.0858
+INFO - 2025-08-19 06:52:13 --> Config Class Initialized
+INFO - 2025-08-19 06:52:13 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:52:13 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:52:13 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:52:13 --> URI Class Initialized
+INFO - 2025-08-19 06:52:13 --> Router Class Initialized
+INFO - 2025-08-19 06:52:13 --> Output Class Initialized
+INFO - 2025-08-19 06:52:13 --> Security Class Initialized
+DEBUG - 2025-08-19 06:52:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:52:13 --> Input Class Initialized
+INFO - 2025-08-19 06:52:13 --> Language Class Initialized
+INFO - 2025-08-19 06:52:13 --> Loader Class Initialized
+INFO - 2025-08-19 06:52:13 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:52:13 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:52:13 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:52:13 --> Controller Class Initialized
+INFO - 2025-08-19 06:52:13 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:52:13 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:52:13 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:52:13 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:52:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:52:13 --> Config Class Initialized
+INFO - 2025-08-19 06:52:13 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:52:13 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:52:13 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:52:13 --> URI Class Initialized
+INFO - 2025-08-19 06:52:13 --> Router Class Initialized
+INFO - 2025-08-19 06:52:13 --> Output Class Initialized
+INFO - 2025-08-19 06:52:13 --> Security Class Initialized
+DEBUG - 2025-08-19 06:52:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:52:13 --> Input Class Initialized
+INFO - 2025-08-19 06:52:13 --> Language Class Initialized
+INFO - 2025-08-19 06:52:13 --> Loader Class Initialized
+INFO - 2025-08-19 06:52:13 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:52:13 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:52:13 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:52:13 --> Controller Class Initialized
+INFO - 2025-08-19 06:52:13 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:52:13 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:52:13 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:52:13 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:52:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:52:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:52:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:52:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:52:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:52:13 --> Final output sent to browser
+DEBUG - 2025-08-19 06:52:13 --> Total execution time: 0.0625
+INFO - 2025-08-19 06:52:21 --> Config Class Initialized
+INFO - 2025-08-19 06:52:21 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:52:21 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:52:21 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:52:21 --> URI Class Initialized
+INFO - 2025-08-19 06:52:21 --> Router Class Initialized
+INFO - 2025-08-19 06:52:21 --> Output Class Initialized
+INFO - 2025-08-19 06:52:21 --> Security Class Initialized
+DEBUG - 2025-08-19 06:52:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:52:21 --> Input Class Initialized
+INFO - 2025-08-19 06:52:21 --> Language Class Initialized
+INFO - 2025-08-19 06:52:21 --> Loader Class Initialized
+INFO - 2025-08-19 06:52:21 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:52:21 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:52:21 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:52:21 --> Controller Class Initialized
+INFO - 2025-08-19 06:52:21 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:52:21 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:52:21 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:52:21 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:52:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:52:21 --> Config Class Initialized
+INFO - 2025-08-19 06:52:21 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:52:21 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:52:21 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:52:21 --> URI Class Initialized
+INFO - 2025-08-19 06:52:21 --> Router Class Initialized
+INFO - 2025-08-19 06:52:21 --> Output Class Initialized
+INFO - 2025-08-19 06:52:21 --> Security Class Initialized
+DEBUG - 2025-08-19 06:52:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:52:21 --> Input Class Initialized
+INFO - 2025-08-19 06:52:21 --> Language Class Initialized
+INFO - 2025-08-19 06:52:21 --> Loader Class Initialized
+INFO - 2025-08-19 06:52:21 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:52:21 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:52:21 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:52:21 --> Controller Class Initialized
+INFO - 2025-08-19 06:52:21 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:52:21 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:52:21 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:52:21 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:52:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:52:22 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:52:22 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:52:22 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:52:22 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:52:22 --> Final output sent to browser
+DEBUG - 2025-08-19 06:52:22 --> Total execution time: 0.0760
+INFO - 2025-08-19 06:52:24 --> Config Class Initialized
+INFO - 2025-08-19 06:52:24 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:52:24 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:52:24 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:52:24 --> URI Class Initialized
+INFO - 2025-08-19 06:52:24 --> Router Class Initialized
+INFO - 2025-08-19 06:52:24 --> Output Class Initialized
+INFO - 2025-08-19 06:52:24 --> Security Class Initialized
+DEBUG - 2025-08-19 06:52:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:52:24 --> Input Class Initialized
+INFO - 2025-08-19 06:52:24 --> Language Class Initialized
+INFO - 2025-08-19 06:52:24 --> Loader Class Initialized
+INFO - 2025-08-19 06:52:24 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:52:24 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:52:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:52:24 --> Controller Class Initialized
+INFO - 2025-08-19 06:52:24 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:52:24 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:52:24 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:52:24 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:52:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:52:24 --> Config Class Initialized
+INFO - 2025-08-19 06:52:24 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:52:24 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:52:24 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:52:24 --> URI Class Initialized
+INFO - 2025-08-19 06:52:24 --> Router Class Initialized
+INFO - 2025-08-19 06:52:24 --> Output Class Initialized
+INFO - 2025-08-19 06:52:24 --> Security Class Initialized
+DEBUG - 2025-08-19 06:52:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:52:24 --> Input Class Initialized
+INFO - 2025-08-19 06:52:24 --> Language Class Initialized
+INFO - 2025-08-19 06:52:24 --> Loader Class Initialized
+INFO - 2025-08-19 06:52:24 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:52:24 --> Database Driver Class Initialized
+ERROR - 2025-08-19 06:52:24 --> Severity: Warning --> session_start(): Failed to decode session object. Session has been destroyed D:\Project\template-frontend-ci3\system\libraries\Session\Session.php 143
+INFO - 2025-08-19 06:52:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:52:24 --> Controller Class Initialized
+INFO - 2025-08-19 06:52:24 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:52:24 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:52:24 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:52:24 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:52:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:52:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:52:24 --> Config Class Initialized
+INFO - 2025-08-19 06:52:24 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:52:24 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:52:24 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:52:24 --> URI Class Initialized
+INFO - 2025-08-19 06:52:24 --> Router Class Initialized
+INFO - 2025-08-19 06:52:24 --> Output Class Initialized
+INFO - 2025-08-19 06:52:24 --> Security Class Initialized
+DEBUG - 2025-08-19 06:52:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:52:24 --> Input Class Initialized
+INFO - 2025-08-19 06:52:24 --> Language Class Initialized
+INFO - 2025-08-19 06:52:24 --> Loader Class Initialized
+INFO - 2025-08-19 06:52:24 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:52:24 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:52:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:52:24 --> Controller Class Initialized
+INFO - 2025-08-19 06:52:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:52:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:52:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 06:52:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:52:24 --> Final output sent to browser
+DEBUG - 2025-08-19 06:52:24 --> Total execution time: 0.0608
+INFO - 2025-08-19 06:55:36 --> Config Class Initialized
+INFO - 2025-08-19 06:55:36 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:55:36 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:55:36 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:55:36 --> URI Class Initialized
+INFO - 2025-08-19 06:55:36 --> Router Class Initialized
+INFO - 2025-08-19 06:55:36 --> Output Class Initialized
+INFO - 2025-08-19 06:55:36 --> Security Class Initialized
+DEBUG - 2025-08-19 06:55:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:55:36 --> Input Class Initialized
+INFO - 2025-08-19 06:55:36 --> Language Class Initialized
+INFO - 2025-08-19 06:55:36 --> Loader Class Initialized
+INFO - 2025-08-19 06:55:36 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:55:36 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:55:36 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:55:36 --> Controller Class Initialized
+DEBUG - 2025-08-19 06:55:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:55:36 --> Model "User_model" initialized
+INFO - 2025-08-19 06:55:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:55:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 06:55:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:55:36 --> Final output sent to browser
+DEBUG - 2025-08-19 06:55:36 --> Total execution time: 0.0378
+INFO - 2025-08-19 06:55:40 --> Config Class Initialized
+INFO - 2025-08-19 06:55:40 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:55:40 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:55:40 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:55:40 --> URI Class Initialized
+INFO - 2025-08-19 06:55:40 --> Router Class Initialized
+INFO - 2025-08-19 06:55:40 --> Output Class Initialized
+INFO - 2025-08-19 06:55:40 --> Security Class Initialized
+DEBUG - 2025-08-19 06:55:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:55:40 --> Input Class Initialized
+INFO - 2025-08-19 06:55:40 --> Language Class Initialized
+INFO - 2025-08-19 06:55:40 --> Loader Class Initialized
+INFO - 2025-08-19 06:55:40 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:55:40 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:55:40 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:55:40 --> Controller Class Initialized
+DEBUG - 2025-08-19 06:55:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:55:40 --> Model "User_model" initialized
+INFO - 2025-08-19 06:55:40 --> Config Class Initialized
+INFO - 2025-08-19 06:55:40 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:55:40 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:55:40 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:55:40 --> URI Class Initialized
+INFO - 2025-08-19 06:55:40 --> Router Class Initialized
+INFO - 2025-08-19 06:55:40 --> Output Class Initialized
+INFO - 2025-08-19 06:55:40 --> Security Class Initialized
+DEBUG - 2025-08-19 06:55:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:55:40 --> Input Class Initialized
+INFO - 2025-08-19 06:55:40 --> Language Class Initialized
+INFO - 2025-08-19 06:55:40 --> Loader Class Initialized
+INFO - 2025-08-19 06:55:40 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:55:40 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:55:40 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:55:40 --> Controller Class Initialized
+INFO - 2025-08-19 06:55:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:55:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:55:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 06:55:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:55:40 --> Final output sent to browser
+DEBUG - 2025-08-19 06:55:40 --> Total execution time: 0.0698
+INFO - 2025-08-19 06:55:42 --> Config Class Initialized
+INFO - 2025-08-19 06:55:42 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:55:42 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:55:42 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:55:42 --> URI Class Initialized
+INFO - 2025-08-19 06:55:42 --> Router Class Initialized
+INFO - 2025-08-19 06:55:42 --> Output Class Initialized
+INFO - 2025-08-19 06:55:42 --> Security Class Initialized
+DEBUG - 2025-08-19 06:55:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:55:42 --> Input Class Initialized
+INFO - 2025-08-19 06:55:42 --> Language Class Initialized
+INFO - 2025-08-19 06:55:42 --> Loader Class Initialized
+INFO - 2025-08-19 06:55:42 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:55:42 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:55:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:55:42 --> Controller Class Initialized
+INFO - 2025-08-19 06:55:42 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:55:42 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:55:42 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:55:42 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:55:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:55:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:55:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:55:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:55:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:55:42 --> Final output sent to browser
+DEBUG - 2025-08-19 06:55:42 --> Total execution time: 0.0497
+INFO - 2025-08-19 06:56:16 --> Config Class Initialized
+INFO - 2025-08-19 06:56:16 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:56:16 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:56:16 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:56:16 --> URI Class Initialized
+INFO - 2025-08-19 06:56:16 --> Router Class Initialized
+INFO - 2025-08-19 06:56:16 --> Output Class Initialized
+INFO - 2025-08-19 06:56:16 --> Security Class Initialized
+DEBUG - 2025-08-19 06:56:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:56:16 --> Input Class Initialized
+INFO - 2025-08-19 06:56:16 --> Language Class Initialized
+INFO - 2025-08-19 06:56:16 --> Loader Class Initialized
+INFO - 2025-08-19 06:56:16 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:56:16 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:56:16 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:56:16 --> Controller Class Initialized
+INFO - 2025-08-19 06:56:16 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:56:16 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:56:16 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:56:16 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:56:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:56:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:56:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:56:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:56:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:56:16 --> Final output sent to browser
+DEBUG - 2025-08-19 06:56:16 --> Total execution time: 0.1245
+INFO - 2025-08-19 06:56:22 --> Config Class Initialized
+INFO - 2025-08-19 06:56:22 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:56:22 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:56:22 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:56:22 --> URI Class Initialized
+INFO - 2025-08-19 06:56:22 --> Router Class Initialized
+INFO - 2025-08-19 06:56:22 --> Output Class Initialized
+INFO - 2025-08-19 06:56:22 --> Security Class Initialized
+DEBUG - 2025-08-19 06:56:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:56:22 --> Input Class Initialized
+INFO - 2025-08-19 06:56:22 --> Language Class Initialized
+INFO - 2025-08-19 06:56:22 --> Loader Class Initialized
+INFO - 2025-08-19 06:56:22 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:56:22 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:56:22 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:56:22 --> Controller Class Initialized
+INFO - 2025-08-19 06:56:22 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:56:22 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:56:22 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:56:22 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:56:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:56:22 --> Config Class Initialized
+INFO - 2025-08-19 06:56:22 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:56:22 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:56:22 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:56:22 --> URI Class Initialized
+INFO - 2025-08-19 06:56:22 --> Router Class Initialized
+INFO - 2025-08-19 06:56:22 --> Output Class Initialized
+INFO - 2025-08-19 06:56:22 --> Security Class Initialized
+DEBUG - 2025-08-19 06:56:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:56:22 --> Input Class Initialized
+INFO - 2025-08-19 06:56:22 --> Language Class Initialized
+INFO - 2025-08-19 06:56:22 --> Loader Class Initialized
+INFO - 2025-08-19 06:56:23 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:56:23 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:56:23 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:56:23 --> Controller Class Initialized
+INFO - 2025-08-19 06:56:23 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:56:23 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:56:23 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:56:23 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:56:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:56:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:56:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:56:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:56:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:56:23 --> Final output sent to browser
+DEBUG - 2025-08-19 06:56:23 --> Total execution time: 0.0671
+INFO - 2025-08-19 06:56:25 --> Config Class Initialized
+INFO - 2025-08-19 06:56:25 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:56:25 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:56:25 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:56:25 --> URI Class Initialized
+INFO - 2025-08-19 06:56:25 --> Router Class Initialized
+INFO - 2025-08-19 06:56:25 --> Output Class Initialized
+INFO - 2025-08-19 06:56:25 --> Security Class Initialized
+DEBUG - 2025-08-19 06:56:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:56:25 --> Input Class Initialized
+INFO - 2025-08-19 06:56:25 --> Language Class Initialized
+INFO - 2025-08-19 06:56:25 --> Loader Class Initialized
+INFO - 2025-08-19 06:56:25 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:56:25 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:56:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:56:25 --> Controller Class Initialized
+INFO - 2025-08-19 06:56:25 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:56:25 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:56:25 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:56:25 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:56:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:56:25 --> Config Class Initialized
+INFO - 2025-08-19 06:56:25 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:56:25 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:56:25 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:56:25 --> URI Class Initialized
+INFO - 2025-08-19 06:56:25 --> Router Class Initialized
+INFO - 2025-08-19 06:56:25 --> Output Class Initialized
+INFO - 2025-08-19 06:56:25 --> Security Class Initialized
+DEBUG - 2025-08-19 06:56:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:56:25 --> Input Class Initialized
+INFO - 2025-08-19 06:56:25 --> Language Class Initialized
+INFO - 2025-08-19 06:56:25 --> Loader Class Initialized
+INFO - 2025-08-19 06:56:25 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:56:25 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:56:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:56:25 --> Controller Class Initialized
+INFO - 2025-08-19 06:56:25 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:56:25 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:56:25 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:56:25 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:56:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:56:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:56:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:56:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:56:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:56:25 --> Final output sent to browser
+DEBUG - 2025-08-19 06:56:25 --> Total execution time: 0.0681
+INFO - 2025-08-19 06:56:28 --> Config Class Initialized
+INFO - 2025-08-19 06:56:28 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:56:28 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:56:28 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:56:28 --> URI Class Initialized
+INFO - 2025-08-19 06:56:28 --> Router Class Initialized
+INFO - 2025-08-19 06:56:28 --> Output Class Initialized
+INFO - 2025-08-19 06:56:28 --> Security Class Initialized
+DEBUG - 2025-08-19 06:56:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:56:28 --> Input Class Initialized
+INFO - 2025-08-19 06:56:28 --> Language Class Initialized
+INFO - 2025-08-19 06:56:28 --> Loader Class Initialized
+INFO - 2025-08-19 06:56:28 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:56:28 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:56:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:56:28 --> Controller Class Initialized
+INFO - 2025-08-19 06:56:28 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:56:28 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:56:28 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:56:28 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:56:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:56:28 --> Config Class Initialized
+INFO - 2025-08-19 06:56:28 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:56:28 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:56:28 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:56:28 --> URI Class Initialized
+INFO - 2025-08-19 06:56:28 --> Router Class Initialized
+INFO - 2025-08-19 06:56:28 --> Output Class Initialized
+INFO - 2025-08-19 06:56:28 --> Security Class Initialized
+DEBUG - 2025-08-19 06:56:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:56:28 --> Input Class Initialized
+INFO - 2025-08-19 06:56:28 --> Language Class Initialized
+INFO - 2025-08-19 06:56:28 --> Loader Class Initialized
+INFO - 2025-08-19 06:56:28 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:56:28 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:56:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:56:28 --> Controller Class Initialized
+INFO - 2025-08-19 06:56:28 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:56:28 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:56:28 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:56:28 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:56:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:56:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:56:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:56:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:56:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:56:28 --> Final output sent to browser
+DEBUG - 2025-08-19 06:56:28 --> Total execution time: 0.0663
+INFO - 2025-08-19 06:57:02 --> Config Class Initialized
+INFO - 2025-08-19 06:57:02 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:57:02 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:57:02 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:57:02 --> URI Class Initialized
+INFO - 2025-08-19 06:57:02 --> Router Class Initialized
+INFO - 2025-08-19 06:57:02 --> Output Class Initialized
+INFO - 2025-08-19 06:57:02 --> Security Class Initialized
+DEBUG - 2025-08-19 06:57:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:57:02 --> Input Class Initialized
+INFO - 2025-08-19 06:57:02 --> Language Class Initialized
+INFO - 2025-08-19 06:57:02 --> Loader Class Initialized
+INFO - 2025-08-19 06:57:02 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:57:02 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:57:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:57:02 --> Controller Class Initialized
+INFO - 2025-08-19 06:57:02 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:57:02 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:57:02 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:57:02 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:57:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:57:02 --> Config Class Initialized
+INFO - 2025-08-19 06:57:02 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:57:02 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:57:02 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:57:02 --> URI Class Initialized
+INFO - 2025-08-19 06:57:02 --> Router Class Initialized
+INFO - 2025-08-19 06:57:02 --> Output Class Initialized
+INFO - 2025-08-19 06:57:02 --> Security Class Initialized
+DEBUG - 2025-08-19 06:57:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:57:02 --> Input Class Initialized
+INFO - 2025-08-19 06:57:02 --> Language Class Initialized
+INFO - 2025-08-19 06:57:02 --> Loader Class Initialized
+INFO - 2025-08-19 06:57:02 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:57:02 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:57:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:57:02 --> Controller Class Initialized
+INFO - 2025-08-19 06:57:02 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:57:02 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:57:02 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:57:02 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:57:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:57:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:57:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:57:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:57:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:57:02 --> Final output sent to browser
+DEBUG - 2025-08-19 06:57:02 --> Total execution time: 0.0717
+INFO - 2025-08-19 06:57:37 --> Config Class Initialized
+INFO - 2025-08-19 06:57:37 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:57:37 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:57:37 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:57:37 --> URI Class Initialized
+INFO - 2025-08-19 06:57:37 --> Router Class Initialized
+INFO - 2025-08-19 06:57:37 --> Output Class Initialized
+INFO - 2025-08-19 06:57:37 --> Security Class Initialized
+DEBUG - 2025-08-19 06:57:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:57:37 --> Input Class Initialized
+INFO - 2025-08-19 06:57:37 --> Language Class Initialized
+INFO - 2025-08-19 06:57:37 --> Loader Class Initialized
+INFO - 2025-08-19 06:57:37 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:57:37 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:57:37 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:57:37 --> Controller Class Initialized
+INFO - 2025-08-19 06:57:37 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:57:37 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:57:37 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:57:37 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:57:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:57:37 --> Config Class Initialized
+INFO - 2025-08-19 06:57:37 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:57:37 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:57:37 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:57:37 --> URI Class Initialized
+INFO - 2025-08-19 06:57:37 --> Router Class Initialized
+INFO - 2025-08-19 06:57:37 --> Output Class Initialized
+INFO - 2025-08-19 06:57:37 --> Security Class Initialized
+DEBUG - 2025-08-19 06:57:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:57:37 --> Input Class Initialized
+INFO - 2025-08-19 06:57:37 --> Language Class Initialized
+INFO - 2025-08-19 06:57:37 --> Loader Class Initialized
+INFO - 2025-08-19 06:57:37 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:57:37 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:57:37 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:57:37 --> Controller Class Initialized
+INFO - 2025-08-19 06:57:37 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:57:37 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:57:37 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:57:37 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:57:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:57:37 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:57:37 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:57:37 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:57:37 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:57:37 --> Final output sent to browser
+DEBUG - 2025-08-19 06:57:37 --> Total execution time: 0.0663
+INFO - 2025-08-19 06:57:44 --> Config Class Initialized
+INFO - 2025-08-19 06:57:44 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:57:44 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:57:44 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:57:44 --> URI Class Initialized
+INFO - 2025-08-19 06:57:44 --> Router Class Initialized
+INFO - 2025-08-19 06:57:44 --> Output Class Initialized
+INFO - 2025-08-19 06:57:44 --> Security Class Initialized
+DEBUG - 2025-08-19 06:57:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:57:44 --> Input Class Initialized
+INFO - 2025-08-19 06:57:44 --> Language Class Initialized
+INFO - 2025-08-19 06:57:44 --> Loader Class Initialized
+INFO - 2025-08-19 06:57:44 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:57:44 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:57:44 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:57:44 --> Controller Class Initialized
+INFO - 2025-08-19 06:57:44 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:57:44 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:57:44 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:57:44 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:57:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:57:44 --> Config Class Initialized
+INFO - 2025-08-19 06:57:44 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:57:44 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:57:44 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:57:44 --> URI Class Initialized
+INFO - 2025-08-19 06:57:44 --> Router Class Initialized
+INFO - 2025-08-19 06:57:44 --> Output Class Initialized
+INFO - 2025-08-19 06:57:44 --> Security Class Initialized
+DEBUG - 2025-08-19 06:57:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:57:44 --> Input Class Initialized
+INFO - 2025-08-19 06:57:44 --> Language Class Initialized
+INFO - 2025-08-19 06:57:44 --> Loader Class Initialized
+INFO - 2025-08-19 06:57:44 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:57:44 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:57:44 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:57:44 --> Controller Class Initialized
+INFO - 2025-08-19 06:57:44 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:57:44 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:57:44 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:57:44 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:57:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:57:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:57:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:57:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:57:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:57:44 --> Final output sent to browser
+DEBUG - 2025-08-19 06:57:44 --> Total execution time: 0.0828
+INFO - 2025-08-19 06:57:47 --> Config Class Initialized
+INFO - 2025-08-19 06:57:47 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:57:47 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:57:47 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:57:47 --> URI Class Initialized
+INFO - 2025-08-19 06:57:47 --> Router Class Initialized
+INFO - 2025-08-19 06:57:47 --> Output Class Initialized
+INFO - 2025-08-19 06:57:47 --> Security Class Initialized
+DEBUG - 2025-08-19 06:57:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:57:47 --> Input Class Initialized
+INFO - 2025-08-19 06:57:47 --> Language Class Initialized
+INFO - 2025-08-19 06:57:47 --> Loader Class Initialized
+INFO - 2025-08-19 06:57:47 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:57:47 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:57:47 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:57:47 --> Controller Class Initialized
+INFO - 2025-08-19 06:57:47 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:57:47 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:57:47 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:57:47 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:57:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:57:47 --> Config Class Initialized
+INFO - 2025-08-19 06:57:47 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:57:47 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:57:47 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:57:47 --> URI Class Initialized
+INFO - 2025-08-19 06:57:47 --> Router Class Initialized
+INFO - 2025-08-19 06:57:47 --> Output Class Initialized
+INFO - 2025-08-19 06:57:47 --> Security Class Initialized
+DEBUG - 2025-08-19 06:57:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:57:47 --> Input Class Initialized
+INFO - 2025-08-19 06:57:47 --> Language Class Initialized
+INFO - 2025-08-19 06:57:47 --> Loader Class Initialized
+INFO - 2025-08-19 06:57:47 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:57:47 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:57:47 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:57:47 --> Controller Class Initialized
+INFO - 2025-08-19 06:57:47 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:57:47 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:57:47 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:57:47 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:57:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:57:47 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:57:47 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:57:47 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:57:47 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:57:47 --> Final output sent to browser
+DEBUG - 2025-08-19 06:57:47 --> Total execution time: 0.0979
+INFO - 2025-08-19 06:58:05 --> Config Class Initialized
+INFO - 2025-08-19 06:58:05 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:58:05 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:58:05 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:58:05 --> URI Class Initialized
+INFO - 2025-08-19 06:58:05 --> Router Class Initialized
+INFO - 2025-08-19 06:58:05 --> Output Class Initialized
+INFO - 2025-08-19 06:58:05 --> Security Class Initialized
+DEBUG - 2025-08-19 06:58:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:58:05 --> Input Class Initialized
+INFO - 2025-08-19 06:58:05 --> Language Class Initialized
+INFO - 2025-08-19 06:58:05 --> Loader Class Initialized
+INFO - 2025-08-19 06:58:05 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:58:05 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:58:05 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:58:05 --> Controller Class Initialized
+INFO - 2025-08-19 06:58:05 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:58:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:58:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:58:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 06:58:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:58:05 --> Final output sent to browser
+DEBUG - 2025-08-19 06:58:05 --> Total execution time: 0.0472
+INFO - 2025-08-19 06:58:05 --> Config Class Initialized
+INFO - 2025-08-19 06:58:05 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:58:05 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:58:05 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:58:05 --> URI Class Initialized
+INFO - 2025-08-19 06:58:05 --> Router Class Initialized
+INFO - 2025-08-19 06:58:05 --> Output Class Initialized
+INFO - 2025-08-19 06:58:05 --> Security Class Initialized
+DEBUG - 2025-08-19 06:58:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:58:05 --> Input Class Initialized
+INFO - 2025-08-19 06:58:05 --> Language Class Initialized
+INFO - 2025-08-19 06:58:05 --> Loader Class Initialized
+INFO - 2025-08-19 06:58:05 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:58:05 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:58:05 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:58:05 --> Controller Class Initialized
+INFO - 2025-08-19 06:58:05 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:58:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:58:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:58:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 06:58:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:58:05 --> Final output sent to browser
+DEBUG - 2025-08-19 06:58:05 --> Total execution time: 0.0369
+INFO - 2025-08-19 06:58:06 --> Config Class Initialized
+INFO - 2025-08-19 06:58:06 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:58:06 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:58:06 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:58:06 --> URI Class Initialized
+INFO - 2025-08-19 06:58:06 --> Router Class Initialized
+INFO - 2025-08-19 06:58:06 --> Output Class Initialized
+INFO - 2025-08-19 06:58:06 --> Security Class Initialized
+DEBUG - 2025-08-19 06:58:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:58:06 --> Input Class Initialized
+INFO - 2025-08-19 06:58:06 --> Language Class Initialized
+INFO - 2025-08-19 06:58:06 --> Loader Class Initialized
+INFO - 2025-08-19 06:58:06 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:58:06 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:58:06 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:58:06 --> Controller Class Initialized
+INFO - 2025-08-19 06:58:06 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:58:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:58:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:58:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 06:58:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:58:06 --> Final output sent to browser
+DEBUG - 2025-08-19 06:58:06 --> Total execution time: 0.0386
+INFO - 2025-08-19 06:58:07 --> Config Class Initialized
+INFO - 2025-08-19 06:58:07 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:58:07 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:58:07 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:58:07 --> URI Class Initialized
+INFO - 2025-08-19 06:58:07 --> Router Class Initialized
+INFO - 2025-08-19 06:58:07 --> Output Class Initialized
+INFO - 2025-08-19 06:58:07 --> Security Class Initialized
+DEBUG - 2025-08-19 06:58:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:58:07 --> Input Class Initialized
+INFO - 2025-08-19 06:58:07 --> Language Class Initialized
+INFO - 2025-08-19 06:58:07 --> Loader Class Initialized
+INFO - 2025-08-19 06:58:07 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:58:07 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:58:07 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:58:07 --> Controller Class Initialized
+INFO - 2025-08-19 06:58:07 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:58:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:58:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:58:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 06:58:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:58:07 --> Final output sent to browser
+DEBUG - 2025-08-19 06:58:07 --> Total execution time: 0.0603
+INFO - 2025-08-19 06:58:07 --> Config Class Initialized
+INFO - 2025-08-19 06:58:07 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:58:07 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:58:07 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:58:07 --> URI Class Initialized
+INFO - 2025-08-19 06:58:07 --> Router Class Initialized
+INFO - 2025-08-19 06:58:07 --> Output Class Initialized
+INFO - 2025-08-19 06:58:07 --> Security Class Initialized
+DEBUG - 2025-08-19 06:58:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:58:07 --> Input Class Initialized
+INFO - 2025-08-19 06:58:07 --> Language Class Initialized
+INFO - 2025-08-19 06:58:07 --> Loader Class Initialized
+INFO - 2025-08-19 06:58:07 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:58:07 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:58:07 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:58:07 --> Controller Class Initialized
+INFO - 2025-08-19 06:58:07 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:58:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:58:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:58:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 06:58:07 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:58:07 --> Final output sent to browser
+DEBUG - 2025-08-19 06:58:07 --> Total execution time: 0.0431
+INFO - 2025-08-19 06:59:54 --> Config Class Initialized
+INFO - 2025-08-19 06:59:54 --> Hooks Class Initialized
+DEBUG - 2025-08-19 06:59:54 --> UTF-8 Support Enabled
+INFO - 2025-08-19 06:59:54 --> Utf8 Class Initialized
+INFO - 2025-08-19 06:59:54 --> URI Class Initialized
+INFO - 2025-08-19 06:59:54 --> Router Class Initialized
+INFO - 2025-08-19 06:59:54 --> Output Class Initialized
+INFO - 2025-08-19 06:59:54 --> Security Class Initialized
+DEBUG - 2025-08-19 06:59:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 06:59:54 --> Input Class Initialized
+INFO - 2025-08-19 06:59:54 --> Language Class Initialized
+INFO - 2025-08-19 06:59:54 --> Loader Class Initialized
+INFO - 2025-08-19 06:59:54 --> Helper loaded: url_helper
+INFO - 2025-08-19 06:59:54 --> Database Driver Class Initialized
+INFO - 2025-08-19 06:59:54 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 06:59:54 --> Controller Class Initialized
+INFO - 2025-08-19 06:59:54 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 06:59:54 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 06:59:54 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 06:59:54 --> Upload Class Initialized
+DEBUG - 2025-08-19 06:59:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 06:59:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 06:59:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 06:59:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 06:59:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 06:59:54 --> Final output sent to browser
+DEBUG - 2025-08-19 06:59:54 --> Total execution time: 0.0739
+INFO - 2025-08-19 07:00:18 --> Config Class Initialized
+INFO - 2025-08-19 07:00:18 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:00:18 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:00:18 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:00:18 --> URI Class Initialized
+INFO - 2025-08-19 07:00:18 --> Router Class Initialized
+INFO - 2025-08-19 07:00:18 --> Output Class Initialized
+INFO - 2025-08-19 07:00:18 --> Security Class Initialized
+DEBUG - 2025-08-19 07:00:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:00:18 --> Input Class Initialized
+INFO - 2025-08-19 07:00:18 --> Language Class Initialized
+INFO - 2025-08-19 07:00:18 --> Loader Class Initialized
+INFO - 2025-08-19 07:00:18 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:00:18 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:00:18 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:00:18 --> Controller Class Initialized
+INFO - 2025-08-19 07:00:18 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:00:18 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 07:00:18 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 07:00:18 --> Upload Class Initialized
+DEBUG - 2025-08-19 07:00:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 07:00:18 --> Config Class Initialized
+INFO - 2025-08-19 07:00:18 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:00:18 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:00:18 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:00:18 --> URI Class Initialized
+INFO - 2025-08-19 07:00:18 --> Router Class Initialized
+INFO - 2025-08-19 07:00:18 --> Output Class Initialized
+INFO - 2025-08-19 07:00:18 --> Security Class Initialized
+DEBUG - 2025-08-19 07:00:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:00:18 --> Input Class Initialized
+INFO - 2025-08-19 07:00:18 --> Language Class Initialized
+INFO - 2025-08-19 07:00:18 --> Loader Class Initialized
+INFO - 2025-08-19 07:00:18 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:00:18 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:00:18 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:00:18 --> Controller Class Initialized
+INFO - 2025-08-19 07:00:18 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:00:18 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 07:00:18 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 07:00:18 --> Upload Class Initialized
+DEBUG - 2025-08-19 07:00:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 07:00:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:00:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:00:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 07:00:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:00:18 --> Final output sent to browser
+DEBUG - 2025-08-19 07:00:18 --> Total execution time: 0.0749
+INFO - 2025-08-19 07:00:41 --> Config Class Initialized
+INFO - 2025-08-19 07:00:41 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:00:41 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:00:41 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:00:41 --> URI Class Initialized
+INFO - 2025-08-19 07:00:41 --> Router Class Initialized
+INFO - 2025-08-19 07:00:41 --> Output Class Initialized
+INFO - 2025-08-19 07:00:41 --> Security Class Initialized
+DEBUG - 2025-08-19 07:00:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:00:41 --> Input Class Initialized
+INFO - 2025-08-19 07:00:41 --> Language Class Initialized
+INFO - 2025-08-19 07:00:41 --> Loader Class Initialized
+INFO - 2025-08-19 07:00:41 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:00:41 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:00:41 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:00:41 --> Controller Class Initialized
+INFO - 2025-08-19 07:00:41 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:00:41 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 07:00:41 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 07:00:41 --> Upload Class Initialized
+DEBUG - 2025-08-19 07:00:41 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 07:00:41 --> Config Class Initialized
+INFO - 2025-08-19 07:00:41 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:00:41 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:00:41 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:00:41 --> URI Class Initialized
+INFO - 2025-08-19 07:00:41 --> Router Class Initialized
+INFO - 2025-08-19 07:00:41 --> Output Class Initialized
+INFO - 2025-08-19 07:00:41 --> Security Class Initialized
+DEBUG - 2025-08-19 07:00:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:00:41 --> Input Class Initialized
+INFO - 2025-08-19 07:00:41 --> Language Class Initialized
+INFO - 2025-08-19 07:00:41 --> Loader Class Initialized
+INFO - 2025-08-19 07:00:41 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:00:41 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:00:41 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:00:41 --> Controller Class Initialized
+INFO - 2025-08-19 07:00:41 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:00:41 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 07:00:41 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 07:00:41 --> Upload Class Initialized
+DEBUG - 2025-08-19 07:00:41 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 07:00:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:00:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:00:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 07:00:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:00:41 --> Final output sent to browser
+DEBUG - 2025-08-19 07:00:41 --> Total execution time: 0.0651
+INFO - 2025-08-19 07:01:01 --> Config Class Initialized
+INFO - 2025-08-19 07:01:01 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:01:01 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:01:01 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:01:01 --> URI Class Initialized
+INFO - 2025-08-19 07:01:01 --> Router Class Initialized
+INFO - 2025-08-19 07:01:01 --> Output Class Initialized
+INFO - 2025-08-19 07:01:01 --> Security Class Initialized
+DEBUG - 2025-08-19 07:01:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:01:01 --> Input Class Initialized
+INFO - 2025-08-19 07:01:01 --> Language Class Initialized
+INFO - 2025-08-19 07:01:01 --> Loader Class Initialized
+INFO - 2025-08-19 07:01:01 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:01:01 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:01:01 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:01:01 --> Controller Class Initialized
+INFO - 2025-08-19 07:01:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:01:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:01:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 07:01:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:01:01 --> Final output sent to browser
+DEBUG - 2025-08-19 07:01:01 --> Total execution time: 0.0741
+INFO - 2025-08-19 07:01:09 --> Config Class Initialized
+INFO - 2025-08-19 07:01:09 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:01:09 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:01:09 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:01:09 --> URI Class Initialized
+INFO - 2025-08-19 07:01:09 --> Router Class Initialized
+INFO - 2025-08-19 07:01:09 --> Output Class Initialized
+INFO - 2025-08-19 07:01:09 --> Security Class Initialized
+DEBUG - 2025-08-19 07:01:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:01:09 --> Input Class Initialized
+INFO - 2025-08-19 07:01:09 --> Language Class Initialized
+INFO - 2025-08-19 07:01:09 --> Loader Class Initialized
+INFO - 2025-08-19 07:01:09 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:01:09 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:01:09 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:01:09 --> Controller Class Initialized
+INFO - 2025-08-19 07:01:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:01:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:01:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 07:01:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:01:09 --> Final output sent to browser
+DEBUG - 2025-08-19 07:01:09 --> Total execution time: 0.0608
+INFO - 2025-08-19 07:01:17 --> Config Class Initialized
+INFO - 2025-08-19 07:01:17 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:01:17 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:01:17 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:01:17 --> URI Class Initialized
+INFO - 2025-08-19 07:01:17 --> Router Class Initialized
+INFO - 2025-08-19 07:01:17 --> Output Class Initialized
+INFO - 2025-08-19 07:01:17 --> Security Class Initialized
+DEBUG - 2025-08-19 07:01:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:01:17 --> Input Class Initialized
+INFO - 2025-08-19 07:01:17 --> Language Class Initialized
+INFO - 2025-08-19 07:01:17 --> Loader Class Initialized
+INFO - 2025-08-19 07:01:17 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:01:17 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:01:17 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:01:17 --> Controller Class Initialized
+INFO - 2025-08-19 07:01:17 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:01:17 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:01:17 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:01:17 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:01:17 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:01:17 --> Final output sent to browser
+DEBUG - 2025-08-19 07:01:17 --> Total execution time: 0.0467
+INFO - 2025-08-19 07:01:45 --> Config Class Initialized
+INFO - 2025-08-19 07:01:45 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:01:45 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:01:45 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:01:45 --> URI Class Initialized
+INFO - 2025-08-19 07:01:45 --> Router Class Initialized
+INFO - 2025-08-19 07:01:45 --> Output Class Initialized
+INFO - 2025-08-19 07:01:45 --> Security Class Initialized
+DEBUG - 2025-08-19 07:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:01:45 --> Input Class Initialized
+INFO - 2025-08-19 07:01:45 --> Language Class Initialized
+INFO - 2025-08-19 07:01:45 --> Loader Class Initialized
+INFO - 2025-08-19 07:01:45 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:01:45 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:01:45 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:01:45 --> Controller Class Initialized
+INFO - 2025-08-19 07:01:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:01:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:01:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 07:01:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:01:45 --> Final output sent to browser
+DEBUG - 2025-08-19 07:01:45 --> Total execution time: 0.0935
+INFO - 2025-08-19 07:02:17 --> Config Class Initialized
+INFO - 2025-08-19 07:02:17 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:02:17 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:02:17 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:02:17 --> URI Class Initialized
+INFO - 2025-08-19 07:02:17 --> Router Class Initialized
+INFO - 2025-08-19 07:02:17 --> Output Class Initialized
+INFO - 2025-08-19 07:02:17 --> Security Class Initialized
+DEBUG - 2025-08-19 07:02:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:02:17 --> Input Class Initialized
+INFO - 2025-08-19 07:02:17 --> Language Class Initialized
+INFO - 2025-08-19 07:02:17 --> Loader Class Initialized
+INFO - 2025-08-19 07:02:17 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:02:17 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:02:17 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:02:17 --> Controller Class Initialized
+INFO - 2025-08-19 07:02:17 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:02:17 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 07:02:17 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 07:02:17 --> Upload Class Initialized
+DEBUG - 2025-08-19 07:02:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 07:02:17 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:02:17 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:02:17 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 07:02:17 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:02:17 --> Final output sent to browser
+DEBUG - 2025-08-19 07:02:17 --> Total execution time: 0.0838
+INFO - 2025-08-19 07:02:19 --> Config Class Initialized
+INFO - 2025-08-19 07:02:19 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:02:19 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:02:19 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:02:19 --> URI Class Initialized
+INFO - 2025-08-19 07:02:19 --> Router Class Initialized
+INFO - 2025-08-19 07:02:19 --> Output Class Initialized
+INFO - 2025-08-19 07:02:19 --> Security Class Initialized
+DEBUG - 2025-08-19 07:02:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:02:19 --> Input Class Initialized
+INFO - 2025-08-19 07:02:19 --> Language Class Initialized
+INFO - 2025-08-19 07:02:19 --> Loader Class Initialized
+INFO - 2025-08-19 07:02:19 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:02:19 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:02:19 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:02:19 --> Controller Class Initialized
+INFO - 2025-08-19 07:02:19 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:02:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:02:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:02:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:02:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:02:19 --> Final output sent to browser
+DEBUG - 2025-08-19 07:02:19 --> Total execution time: 0.0326
+INFO - 2025-08-19 07:02:20 --> Config Class Initialized
+INFO - 2025-08-19 07:02:20 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:02:20 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:02:20 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:02:20 --> URI Class Initialized
+INFO - 2025-08-19 07:02:20 --> Router Class Initialized
+INFO - 2025-08-19 07:02:20 --> Output Class Initialized
+INFO - 2025-08-19 07:02:20 --> Security Class Initialized
+DEBUG - 2025-08-19 07:02:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:02:20 --> Input Class Initialized
+INFO - 2025-08-19 07:02:20 --> Language Class Initialized
+INFO - 2025-08-19 07:02:20 --> Loader Class Initialized
+INFO - 2025-08-19 07:02:20 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:02:20 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:02:20 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:02:20 --> Controller Class Initialized
+INFO - 2025-08-19 07:02:20 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:02:20 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:02:20 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:02:20 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:02:20 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:02:20 --> Final output sent to browser
+DEBUG - 2025-08-19 07:02:20 --> Total execution time: 0.0345
+INFO - 2025-08-19 07:02:21 --> Config Class Initialized
+INFO - 2025-08-19 07:02:21 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:02:21 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:02:21 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:02:21 --> URI Class Initialized
+INFO - 2025-08-19 07:02:21 --> Router Class Initialized
+INFO - 2025-08-19 07:02:21 --> Output Class Initialized
+INFO - 2025-08-19 07:02:21 --> Security Class Initialized
+DEBUG - 2025-08-19 07:02:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:02:21 --> Input Class Initialized
+INFO - 2025-08-19 07:02:21 --> Language Class Initialized
+INFO - 2025-08-19 07:02:21 --> Loader Class Initialized
+INFO - 2025-08-19 07:02:21 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:02:21 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:02:21 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:02:21 --> Controller Class Initialized
+INFO - 2025-08-19 07:02:21 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:02:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:02:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:02:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:02:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:02:21 --> Final output sent to browser
+DEBUG - 2025-08-19 07:02:21 --> Total execution time: 0.0324
+INFO - 2025-08-19 07:02:46 --> Config Class Initialized
+INFO - 2025-08-19 07:02:46 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:02:46 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:02:46 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:02:46 --> URI Class Initialized
+INFO - 2025-08-19 07:02:46 --> Router Class Initialized
+INFO - 2025-08-19 07:02:46 --> Output Class Initialized
+INFO - 2025-08-19 07:02:46 --> Security Class Initialized
+DEBUG - 2025-08-19 07:02:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:02:46 --> Input Class Initialized
+INFO - 2025-08-19 07:02:46 --> Language Class Initialized
+INFO - 2025-08-19 07:02:46 --> Loader Class Initialized
+INFO - 2025-08-19 07:02:46 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:02:46 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:02:46 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:02:46 --> Controller Class Initialized
+INFO - 2025-08-19 07:02:46 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:02:46 --> Upload Class Initialized
+INFO - 2025-08-19 07:02:46 --> Config Class Initialized
+INFO - 2025-08-19 07:02:46 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:02:46 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:02:46 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:02:46 --> URI Class Initialized
+INFO - 2025-08-19 07:02:46 --> Router Class Initialized
+INFO - 2025-08-19 07:02:46 --> Output Class Initialized
+INFO - 2025-08-19 07:02:46 --> Security Class Initialized
+DEBUG - 2025-08-19 07:02:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:02:46 --> Input Class Initialized
+INFO - 2025-08-19 07:02:46 --> Language Class Initialized
+INFO - 2025-08-19 07:02:46 --> Loader Class Initialized
+INFO - 2025-08-19 07:02:46 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:02:46 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:02:46 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:02:46 --> Controller Class Initialized
+INFO - 2025-08-19 07:02:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:02:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:02:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 07:02:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:02:46 --> Final output sent to browser
+DEBUG - 2025-08-19 07:02:46 --> Total execution time: 0.0679
+INFO - 2025-08-19 07:02:56 --> Config Class Initialized
+INFO - 2025-08-19 07:02:56 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:02:56 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:02:56 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:02:56 --> URI Class Initialized
+INFO - 2025-08-19 07:02:56 --> Router Class Initialized
+INFO - 2025-08-19 07:02:56 --> Output Class Initialized
+INFO - 2025-08-19 07:02:56 --> Security Class Initialized
+DEBUG - 2025-08-19 07:02:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:02:56 --> Input Class Initialized
+INFO - 2025-08-19 07:02:56 --> Language Class Initialized
+INFO - 2025-08-19 07:02:56 --> Loader Class Initialized
+INFO - 2025-08-19 07:02:56 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:02:56 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:02:56 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:02:56 --> Controller Class Initialized
+INFO - 2025-08-19 07:02:56 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:02:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:02:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:02:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:02:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:02:56 --> Final output sent to browser
+DEBUG - 2025-08-19 07:02:56 --> Total execution time: 0.0691
+INFO - 2025-08-19 07:29:00 --> Config Class Initialized
+INFO - 2025-08-19 07:29:00 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:29:00 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:29:00 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:29:00 --> URI Class Initialized
+INFO - 2025-08-19 07:29:00 --> Router Class Initialized
+INFO - 2025-08-19 07:29:00 --> Output Class Initialized
+INFO - 2025-08-19 07:29:00 --> Security Class Initialized
+DEBUG - 2025-08-19 07:29:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:29:00 --> Input Class Initialized
+INFO - 2025-08-19 07:29:00 --> Language Class Initialized
+INFO - 2025-08-19 07:29:00 --> Loader Class Initialized
+INFO - 2025-08-19 07:29:00 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:29:00 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:29:00 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:29:00 --> Controller Class Initialized
+INFO - 2025-08-19 07:29:00 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:29:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:29:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:29:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:29:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:29:00 --> Final output sent to browser
+DEBUG - 2025-08-19 07:29:00 --> Total execution time: 0.0384
+INFO - 2025-08-19 07:29:01 --> Config Class Initialized
+INFO - 2025-08-19 07:29:01 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:29:01 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:29:01 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:29:01 --> URI Class Initialized
+INFO - 2025-08-19 07:29:01 --> Router Class Initialized
+INFO - 2025-08-19 07:29:01 --> Output Class Initialized
+INFO - 2025-08-19 07:29:01 --> Security Class Initialized
+DEBUG - 2025-08-19 07:29:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:29:01 --> Input Class Initialized
+INFO - 2025-08-19 07:29:01 --> Language Class Initialized
+INFO - 2025-08-19 07:29:01 --> Loader Class Initialized
+INFO - 2025-08-19 07:29:01 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:29:01 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:29:01 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:29:01 --> Controller Class Initialized
+INFO - 2025-08-19 07:29:01 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:29:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:29:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:29:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:29:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:29:01 --> Final output sent to browser
+DEBUG - 2025-08-19 07:29:01 --> Total execution time: 0.0389
+INFO - 2025-08-19 07:29:02 --> Config Class Initialized
+INFO - 2025-08-19 07:29:02 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:29:02 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:29:02 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:29:02 --> URI Class Initialized
+INFO - 2025-08-19 07:29:02 --> Router Class Initialized
+INFO - 2025-08-19 07:29:02 --> Output Class Initialized
+INFO - 2025-08-19 07:29:02 --> Security Class Initialized
+DEBUG - 2025-08-19 07:29:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:29:02 --> Input Class Initialized
+INFO - 2025-08-19 07:29:02 --> Language Class Initialized
+INFO - 2025-08-19 07:29:02 --> Loader Class Initialized
+INFO - 2025-08-19 07:29:02 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:29:02 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:29:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:29:02 --> Controller Class Initialized
+INFO - 2025-08-19 07:29:02 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:29:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:29:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:29:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:29:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:29:02 --> Final output sent to browser
+DEBUG - 2025-08-19 07:29:02 --> Total execution time: 0.0370
+INFO - 2025-08-19 07:30:33 --> Config Class Initialized
+INFO - 2025-08-19 07:30:33 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:30:33 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:30:33 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:30:33 --> URI Class Initialized
+INFO - 2025-08-19 07:30:33 --> Router Class Initialized
+INFO - 2025-08-19 07:30:33 --> Output Class Initialized
+INFO - 2025-08-19 07:30:33 --> Security Class Initialized
+DEBUG - 2025-08-19 07:30:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:30:33 --> Input Class Initialized
+INFO - 2025-08-19 07:30:33 --> Language Class Initialized
+INFO - 2025-08-19 07:30:33 --> Loader Class Initialized
+INFO - 2025-08-19 07:30:33 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:30:33 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:30:33 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:30:33 --> Controller Class Initialized
+INFO - 2025-08-19 07:30:33 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:30:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:30:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:30:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:30:33 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:30:33 --> Final output sent to browser
+DEBUG - 2025-08-19 07:30:33 --> Total execution time: 0.0577
+INFO - 2025-08-19 07:30:34 --> Config Class Initialized
+INFO - 2025-08-19 07:30:34 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:30:34 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:30:34 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:30:34 --> URI Class Initialized
+INFO - 2025-08-19 07:30:34 --> Router Class Initialized
+INFO - 2025-08-19 07:30:34 --> Output Class Initialized
+INFO - 2025-08-19 07:30:34 --> Security Class Initialized
+DEBUG - 2025-08-19 07:30:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:30:34 --> Input Class Initialized
+INFO - 2025-08-19 07:30:34 --> Language Class Initialized
+INFO - 2025-08-19 07:30:34 --> Loader Class Initialized
+INFO - 2025-08-19 07:30:34 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:30:34 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:30:34 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:30:34 --> Controller Class Initialized
+INFO - 2025-08-19 07:30:34 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:30:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:30:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:30:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:30:34 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:30:34 --> Final output sent to browser
+DEBUG - 2025-08-19 07:30:34 --> Total execution time: 0.0312
+INFO - 2025-08-19 07:30:36 --> Config Class Initialized
+INFO - 2025-08-19 07:30:36 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:30:36 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:30:36 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:30:36 --> URI Class Initialized
+INFO - 2025-08-19 07:30:36 --> Router Class Initialized
+INFO - 2025-08-19 07:30:36 --> Output Class Initialized
+INFO - 2025-08-19 07:30:36 --> Security Class Initialized
+DEBUG - 2025-08-19 07:30:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:30:36 --> Input Class Initialized
+INFO - 2025-08-19 07:30:36 --> Language Class Initialized
+INFO - 2025-08-19 07:30:36 --> Loader Class Initialized
+INFO - 2025-08-19 07:30:36 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:30:36 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:30:36 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:30:36 --> Controller Class Initialized
+INFO - 2025-08-19 07:30:36 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:30:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:30:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:30:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:30:36 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:30:36 --> Final output sent to browser
+DEBUG - 2025-08-19 07:30:36 --> Total execution time: 0.0311
+INFO - 2025-08-19 07:30:55 --> Config Class Initialized
+INFO - 2025-08-19 07:30:55 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:30:55 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:30:55 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:30:55 --> URI Class Initialized
+INFO - 2025-08-19 07:30:55 --> Router Class Initialized
+INFO - 2025-08-19 07:30:55 --> Output Class Initialized
+INFO - 2025-08-19 07:30:55 --> Security Class Initialized
+DEBUG - 2025-08-19 07:30:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:30:55 --> Input Class Initialized
+INFO - 2025-08-19 07:30:55 --> Language Class Initialized
+INFO - 2025-08-19 07:30:55 --> Loader Class Initialized
+INFO - 2025-08-19 07:30:55 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:30:55 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:30:55 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:30:55 --> Controller Class Initialized
+INFO - 2025-08-19 07:30:55 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:30:55 --> Upload Class Initialized
+INFO - 2025-08-19 07:30:55 --> Config Class Initialized
+INFO - 2025-08-19 07:30:55 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:30:55 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:30:55 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:30:55 --> URI Class Initialized
+INFO - 2025-08-19 07:30:55 --> Router Class Initialized
+INFO - 2025-08-19 07:30:55 --> Output Class Initialized
+INFO - 2025-08-19 07:30:55 --> Security Class Initialized
+DEBUG - 2025-08-19 07:30:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:30:55 --> Input Class Initialized
+INFO - 2025-08-19 07:30:55 --> Language Class Initialized
+INFO - 2025-08-19 07:30:55 --> Loader Class Initialized
+INFO - 2025-08-19 07:30:55 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:30:55 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:30:55 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:30:55 --> Controller Class Initialized
+INFO - 2025-08-19 07:30:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:30:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:30:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 07:30:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:30:55 --> Final output sent to browser
+DEBUG - 2025-08-19 07:30:55 --> Total execution time: 0.0727
+INFO - 2025-08-19 07:38:46 --> Config Class Initialized
+INFO - 2025-08-19 07:38:46 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:38:46 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:38:46 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:38:46 --> URI Class Initialized
+INFO - 2025-08-19 07:38:46 --> Router Class Initialized
+INFO - 2025-08-19 07:38:46 --> Output Class Initialized
+INFO - 2025-08-19 07:38:46 --> Security Class Initialized
+DEBUG - 2025-08-19 07:38:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:38:46 --> Input Class Initialized
+INFO - 2025-08-19 07:38:46 --> Language Class Initialized
+INFO - 2025-08-19 07:38:46 --> Loader Class Initialized
+INFO - 2025-08-19 07:38:46 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:38:46 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:38:46 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:38:46 --> Controller Class Initialized
+INFO - 2025-08-19 07:38:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:38:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:38:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 07:38:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:38:46 --> Final output sent to browser
+DEBUG - 2025-08-19 07:38:46 --> Total execution time: 0.0637
+INFO - 2025-08-19 07:39:04 --> Config Class Initialized
+INFO - 2025-08-19 07:39:04 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:39:04 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:39:04 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:39:04 --> URI Class Initialized
+INFO - 2025-08-19 07:39:04 --> Router Class Initialized
+INFO - 2025-08-19 07:39:04 --> Output Class Initialized
+INFO - 2025-08-19 07:39:04 --> Security Class Initialized
+DEBUG - 2025-08-19 07:39:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:39:04 --> Input Class Initialized
+INFO - 2025-08-19 07:39:04 --> Language Class Initialized
+INFO - 2025-08-19 07:39:04 --> Loader Class Initialized
+INFO - 2025-08-19 07:39:04 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:39:04 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:39:04 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:39:04 --> Controller Class Initialized
+INFO - 2025-08-19 07:39:04 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:39:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:39:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:39:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:39:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:39:04 --> Final output sent to browser
+DEBUG - 2025-08-19 07:39:04 --> Total execution time: 0.0586
+INFO - 2025-08-19 07:47:42 --> Config Class Initialized
+INFO - 2025-08-19 07:47:42 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:47:42 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:47:42 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:47:42 --> URI Class Initialized
+INFO - 2025-08-19 07:47:42 --> Router Class Initialized
+INFO - 2025-08-19 07:47:42 --> Output Class Initialized
+INFO - 2025-08-19 07:47:42 --> Security Class Initialized
+DEBUG - 2025-08-19 07:47:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:47:42 --> Input Class Initialized
+INFO - 2025-08-19 07:47:42 --> Language Class Initialized
+INFO - 2025-08-19 07:47:42 --> Loader Class Initialized
+INFO - 2025-08-19 07:47:42 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:47:42 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:47:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:47:42 --> Controller Class Initialized
+INFO - 2025-08-19 07:47:42 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:47:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:47:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:47:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:47:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:47:42 --> Final output sent to browser
+DEBUG - 2025-08-19 07:47:42 --> Total execution time: 0.1020
+INFO - 2025-08-19 07:47:45 --> Config Class Initialized
+INFO - 2025-08-19 07:47:45 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:47:45 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:47:45 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:47:45 --> URI Class Initialized
+INFO - 2025-08-19 07:47:45 --> Router Class Initialized
+INFO - 2025-08-19 07:47:45 --> Output Class Initialized
+INFO - 2025-08-19 07:47:45 --> Security Class Initialized
+DEBUG - 2025-08-19 07:47:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:47:45 --> Input Class Initialized
+INFO - 2025-08-19 07:47:45 --> Language Class Initialized
+INFO - 2025-08-19 07:47:45 --> Loader Class Initialized
+INFO - 2025-08-19 07:47:45 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:47:45 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:47:45 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:47:45 --> Controller Class Initialized
+INFO - 2025-08-19 07:47:45 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:47:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:47:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:47:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:47:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:47:45 --> Final output sent to browser
+DEBUG - 2025-08-19 07:47:45 --> Total execution time: 0.0263
+INFO - 2025-08-19 07:47:46 --> Config Class Initialized
+INFO - 2025-08-19 07:47:46 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:47:46 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:47:46 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:47:46 --> URI Class Initialized
+INFO - 2025-08-19 07:47:46 --> Router Class Initialized
+INFO - 2025-08-19 07:47:46 --> Output Class Initialized
+INFO - 2025-08-19 07:47:46 --> Security Class Initialized
+DEBUG - 2025-08-19 07:47:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:47:46 --> Input Class Initialized
+INFO - 2025-08-19 07:47:46 --> Language Class Initialized
+INFO - 2025-08-19 07:47:46 --> Loader Class Initialized
+INFO - 2025-08-19 07:47:46 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:47:46 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:47:46 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:47:46 --> Controller Class Initialized
+INFO - 2025-08-19 07:47:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:47:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:47:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 07:47:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:47:46 --> Final output sent to browser
+DEBUG - 2025-08-19 07:47:46 --> Total execution time: 0.0444
+INFO - 2025-08-19 07:47:48 --> Config Class Initialized
+INFO - 2025-08-19 07:47:48 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:47:48 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:47:48 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:47:48 --> URI Class Initialized
+INFO - 2025-08-19 07:47:48 --> Router Class Initialized
+INFO - 2025-08-19 07:47:48 --> Output Class Initialized
+INFO - 2025-08-19 07:47:48 --> Security Class Initialized
+DEBUG - 2025-08-19 07:47:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:47:48 --> Input Class Initialized
+INFO - 2025-08-19 07:47:48 --> Language Class Initialized
+INFO - 2025-08-19 07:47:48 --> Loader Class Initialized
+INFO - 2025-08-19 07:47:48 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:47:48 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:47:48 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:47:48 --> Controller Class Initialized
+INFO - 2025-08-19 07:47:48 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:47:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:47:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:47:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:47:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:47:48 --> Final output sent to browser
+DEBUG - 2025-08-19 07:47:48 --> Total execution time: 0.0282
+INFO - 2025-08-19 07:52:08 --> Config Class Initialized
+INFO - 2025-08-19 07:52:08 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:52:08 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:52:08 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:52:08 --> URI Class Initialized
+INFO - 2025-08-19 07:52:08 --> Router Class Initialized
+INFO - 2025-08-19 07:52:08 --> Output Class Initialized
+INFO - 2025-08-19 07:52:08 --> Security Class Initialized
+DEBUG - 2025-08-19 07:52:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:52:08 --> Input Class Initialized
+INFO - 2025-08-19 07:52:08 --> Language Class Initialized
+INFO - 2025-08-19 07:52:08 --> Loader Class Initialized
+INFO - 2025-08-19 07:52:08 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:52:08 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:52:08 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:52:08 --> Controller Class Initialized
+INFO - 2025-08-19 07:52:08 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:52:08 --> Upload Class Initialized
+INFO - 2025-08-19 07:52:09 --> Config Class Initialized
+INFO - 2025-08-19 07:52:09 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:52:09 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:52:09 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:52:09 --> URI Class Initialized
+INFO - 2025-08-19 07:52:09 --> Router Class Initialized
+INFO - 2025-08-19 07:52:09 --> Output Class Initialized
+INFO - 2025-08-19 07:52:09 --> Security Class Initialized
+DEBUG - 2025-08-19 07:52:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:52:09 --> Input Class Initialized
+INFO - 2025-08-19 07:52:09 --> Language Class Initialized
+INFO - 2025-08-19 07:52:09 --> Loader Class Initialized
+INFO - 2025-08-19 07:52:09 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:52:09 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:52:09 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:52:09 --> Controller Class Initialized
+INFO - 2025-08-19 07:52:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:52:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:52:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 07:52:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:52:09 --> Final output sent to browser
+DEBUG - 2025-08-19 07:52:09 --> Total execution time: 0.0347
+INFO - 2025-08-19 07:52:11 --> Config Class Initialized
+INFO - 2025-08-19 07:52:11 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:52:11 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:52:11 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:52:11 --> URI Class Initialized
+INFO - 2025-08-19 07:52:11 --> Router Class Initialized
+INFO - 2025-08-19 07:52:11 --> Output Class Initialized
+INFO - 2025-08-19 07:52:11 --> Security Class Initialized
+DEBUG - 2025-08-19 07:52:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:52:11 --> Input Class Initialized
+INFO - 2025-08-19 07:52:11 --> Language Class Initialized
+INFO - 2025-08-19 07:52:11 --> Loader Class Initialized
+INFO - 2025-08-19 07:52:11 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:52:11 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:52:11 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:52:11 --> Controller Class Initialized
+INFO - 2025-08-19 07:52:11 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:52:11 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:52:11 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:52:11 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:52:11 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:52:11 --> Final output sent to browser
+DEBUG - 2025-08-19 07:52:11 --> Total execution time: 0.0224
+INFO - 2025-08-19 07:52:54 --> Config Class Initialized
+INFO - 2025-08-19 07:52:54 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:52:54 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:52:54 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:52:54 --> URI Class Initialized
+INFO - 2025-08-19 07:52:54 --> Router Class Initialized
+INFO - 2025-08-19 07:52:54 --> Output Class Initialized
+INFO - 2025-08-19 07:52:54 --> Security Class Initialized
+DEBUG - 2025-08-19 07:52:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:52:54 --> Input Class Initialized
+INFO - 2025-08-19 07:52:54 --> Language Class Initialized
+INFO - 2025-08-19 07:52:54 --> Loader Class Initialized
+INFO - 2025-08-19 07:52:54 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:52:54 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:52:54 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:52:54 --> Controller Class Initialized
+INFO - 2025-08-19 07:52:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:52:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:52:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 07:52:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:52:54 --> Final output sent to browser
+DEBUG - 2025-08-19 07:52:54 --> Total execution time: 0.0371
+INFO - 2025-08-19 07:52:55 --> Config Class Initialized
+INFO - 2025-08-19 07:52:55 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:52:55 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:52:55 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:52:55 --> URI Class Initialized
+INFO - 2025-08-19 07:52:55 --> Router Class Initialized
+INFO - 2025-08-19 07:52:55 --> Output Class Initialized
+INFO - 2025-08-19 07:52:55 --> Security Class Initialized
+DEBUG - 2025-08-19 07:52:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:52:55 --> Input Class Initialized
+INFO - 2025-08-19 07:52:55 --> Language Class Initialized
+INFO - 2025-08-19 07:52:55 --> Loader Class Initialized
+INFO - 2025-08-19 07:52:55 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:52:55 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:52:55 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:52:55 --> Controller Class Initialized
+INFO - 2025-08-19 07:52:55 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:52:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:52:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:52:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:52:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:52:55 --> Final output sent to browser
+DEBUG - 2025-08-19 07:52:55 --> Total execution time: 0.0286
+INFO - 2025-08-19 07:52:56 --> Config Class Initialized
+INFO - 2025-08-19 07:52:56 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:52:56 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:52:56 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:52:56 --> URI Class Initialized
+INFO - 2025-08-19 07:52:56 --> Router Class Initialized
+INFO - 2025-08-19 07:52:56 --> Output Class Initialized
+INFO - 2025-08-19 07:52:56 --> Security Class Initialized
+DEBUG - 2025-08-19 07:52:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:52:56 --> Input Class Initialized
+INFO - 2025-08-19 07:52:56 --> Language Class Initialized
+INFO - 2025-08-19 07:52:56 --> Loader Class Initialized
+INFO - 2025-08-19 07:52:56 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:52:56 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:52:56 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:52:56 --> Controller Class Initialized
+INFO - 2025-08-19 07:52:56 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:52:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:52:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:52:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:52:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:52:56 --> Final output sent to browser
+DEBUG - 2025-08-19 07:52:56 --> Total execution time: 0.0235
+INFO - 2025-08-19 07:54:15 --> Config Class Initialized
+INFO - 2025-08-19 07:54:15 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:54:15 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:54:15 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:54:15 --> URI Class Initialized
+INFO - 2025-08-19 07:54:15 --> Router Class Initialized
+INFO - 2025-08-19 07:54:15 --> Output Class Initialized
+INFO - 2025-08-19 07:54:15 --> Security Class Initialized
+DEBUG - 2025-08-19 07:54:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:54:15 --> Input Class Initialized
+INFO - 2025-08-19 07:54:15 --> Language Class Initialized
+INFO - 2025-08-19 07:54:15 --> Loader Class Initialized
+INFO - 2025-08-19 07:54:15 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:54:15 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:54:15 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:54:15 --> Controller Class Initialized
+INFO - 2025-08-19 07:54:15 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:54:15 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:54:15 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:54:15 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:54:15 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:54:15 --> Final output sent to browser
+DEBUG - 2025-08-19 07:54:15 --> Total execution time: 0.0540
+INFO - 2025-08-19 07:54:18 --> Config Class Initialized
+INFO - 2025-08-19 07:54:18 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:54:18 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:54:18 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:54:18 --> URI Class Initialized
+INFO - 2025-08-19 07:54:18 --> Router Class Initialized
+INFO - 2025-08-19 07:54:18 --> Output Class Initialized
+INFO - 2025-08-19 07:54:18 --> Security Class Initialized
+DEBUG - 2025-08-19 07:54:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:54:18 --> Input Class Initialized
+INFO - 2025-08-19 07:54:18 --> Language Class Initialized
+INFO - 2025-08-19 07:54:18 --> Loader Class Initialized
+INFO - 2025-08-19 07:54:18 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:54:18 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:54:18 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:54:18 --> Controller Class Initialized
+INFO - 2025-08-19 07:54:18 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:54:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:54:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:54:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:54:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:54:18 --> Final output sent to browser
+DEBUG - 2025-08-19 07:54:18 --> Total execution time: 0.0306
+INFO - 2025-08-19 07:54:27 --> Config Class Initialized
+INFO - 2025-08-19 07:54:27 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:54:27 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:54:27 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:54:27 --> URI Class Initialized
+INFO - 2025-08-19 07:54:27 --> Router Class Initialized
+INFO - 2025-08-19 07:54:27 --> Output Class Initialized
+INFO - 2025-08-19 07:54:27 --> Security Class Initialized
+DEBUG - 2025-08-19 07:54:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:54:27 --> Input Class Initialized
+INFO - 2025-08-19 07:54:27 --> Language Class Initialized
+INFO - 2025-08-19 07:54:27 --> Loader Class Initialized
+INFO - 2025-08-19 07:54:27 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:54:27 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:54:27 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:54:27 --> Controller Class Initialized
+INFO - 2025-08-19 07:54:27 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:54:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:54:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:54:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:54:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:54:27 --> Final output sent to browser
+DEBUG - 2025-08-19 07:54:27 --> Total execution time: 0.0420
+INFO - 2025-08-19 07:54:28 --> Config Class Initialized
+INFO - 2025-08-19 07:54:28 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:54:28 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:54:28 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:54:28 --> URI Class Initialized
+INFO - 2025-08-19 07:54:28 --> Router Class Initialized
+INFO - 2025-08-19 07:54:28 --> Output Class Initialized
+INFO - 2025-08-19 07:54:28 --> Security Class Initialized
+DEBUG - 2025-08-19 07:54:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:54:28 --> Input Class Initialized
+INFO - 2025-08-19 07:54:28 --> Language Class Initialized
+INFO - 2025-08-19 07:54:28 --> Loader Class Initialized
+INFO - 2025-08-19 07:54:28 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:54:28 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:54:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:54:28 --> Controller Class Initialized
+INFO - 2025-08-19 07:54:28 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:54:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:54:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:54:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:54:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:54:28 --> Final output sent to browser
+DEBUG - 2025-08-19 07:54:28 --> Total execution time: 0.0317
+INFO - 2025-08-19 07:54:29 --> Config Class Initialized
+INFO - 2025-08-19 07:54:29 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:54:29 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:54:29 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:54:29 --> URI Class Initialized
+INFO - 2025-08-19 07:54:29 --> Router Class Initialized
+INFO - 2025-08-19 07:54:29 --> Output Class Initialized
+INFO - 2025-08-19 07:54:29 --> Security Class Initialized
+DEBUG - 2025-08-19 07:54:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:54:29 --> Input Class Initialized
+INFO - 2025-08-19 07:54:29 --> Language Class Initialized
+INFO - 2025-08-19 07:54:29 --> Loader Class Initialized
+INFO - 2025-08-19 07:54:29 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:54:29 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:54:29 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:54:29 --> Controller Class Initialized
+INFO - 2025-08-19 07:54:29 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:54:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:54:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:54:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:54:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:54:29 --> Final output sent to browser
+DEBUG - 2025-08-19 07:54:29 --> Total execution time: 0.0271
+INFO - 2025-08-19 07:54:31 --> Config Class Initialized
+INFO - 2025-08-19 07:54:31 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:54:31 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:54:31 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:54:31 --> URI Class Initialized
+INFO - 2025-08-19 07:54:31 --> Router Class Initialized
+INFO - 2025-08-19 07:54:31 --> Output Class Initialized
+INFO - 2025-08-19 07:55:06 --> Config Class Initialized
+INFO - 2025-08-19 07:55:06 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:55:06 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:55:06 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:55:06 --> URI Class Initialized
+INFO - 2025-08-19 07:55:06 --> Router Class Initialized
+INFO - 2025-08-19 07:55:06 --> Output Class Initialized
+INFO - 2025-08-19 07:55:06 --> Security Class Initialized
+DEBUG - 2025-08-19 07:55:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:55:06 --> Input Class Initialized
+INFO - 2025-08-19 07:55:06 --> Language Class Initialized
+INFO - 2025-08-19 07:55:06 --> Loader Class Initialized
+INFO - 2025-08-19 07:55:06 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:55:06 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:55:06 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:55:06 --> Controller Class Initialized
+INFO - 2025-08-19 07:55:06 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:55:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:55:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:55:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:55:06 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:55:06 --> Final output sent to browser
+DEBUG - 2025-08-19 07:55:06 --> Total execution time: 0.0238
+INFO - 2025-08-19 07:55:08 --> Config Class Initialized
+INFO - 2025-08-19 07:55:08 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:55:08 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:55:08 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:55:08 --> URI Class Initialized
+INFO - 2025-08-19 07:55:08 --> Router Class Initialized
+INFO - 2025-08-19 07:55:08 --> Output Class Initialized
+INFO - 2025-08-19 07:55:08 --> Security Class Initialized
+DEBUG - 2025-08-19 07:55:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:55:08 --> Input Class Initialized
+INFO - 2025-08-19 07:55:08 --> Language Class Initialized
+INFO - 2025-08-19 07:55:08 --> Loader Class Initialized
+INFO - 2025-08-19 07:55:08 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:55:08 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:55:08 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:55:08 --> Controller Class Initialized
+INFO - 2025-08-19 07:55:08 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:55:08 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:55:08 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 07:55:08 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:55:08 --> Final output sent to browser
+DEBUG - 2025-08-19 07:55:08 --> Total execution time: 0.0308
+INFO - 2025-08-19 07:55:08 --> Config Class Initialized
+INFO - 2025-08-19 07:55:08 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:55:08 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:55:08 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:55:08 --> URI Class Initialized
+INFO - 2025-08-19 07:55:08 --> Router Class Initialized
+INFO - 2025-08-19 07:55:08 --> Output Class Initialized
+INFO - 2025-08-19 07:55:08 --> Security Class Initialized
+DEBUG - 2025-08-19 07:55:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:55:08 --> Input Class Initialized
+INFO - 2025-08-19 07:55:08 --> Language Class Initialized
+INFO - 2025-08-19 07:55:08 --> Loader Class Initialized
+INFO - 2025-08-19 07:55:08 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:55:08 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:55:08 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:55:08 --> Controller Class Initialized
+INFO - 2025-08-19 07:55:08 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:55:08 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:55:08 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:55:08 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:55:08 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:55:08 --> Final output sent to browser
+DEBUG - 2025-08-19 07:55:08 --> Total execution time: 0.0217
+INFO - 2025-08-19 07:55:39 --> Config Class Initialized
+INFO - 2025-08-19 07:55:39 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:55:39 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:55:39 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:55:39 --> URI Class Initialized
+INFO - 2025-08-19 07:55:39 --> Router Class Initialized
+INFO - 2025-08-19 07:55:39 --> Output Class Initialized
+INFO - 2025-08-19 07:55:39 --> Security Class Initialized
+DEBUG - 2025-08-19 07:55:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:55:39 --> Input Class Initialized
+INFO - 2025-08-19 07:55:39 --> Language Class Initialized
+INFO - 2025-08-19 07:55:39 --> Loader Class Initialized
+INFO - 2025-08-19 07:55:39 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:55:39 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:55:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:55:39 --> Controller Class Initialized
+INFO - 2025-08-19 07:55:39 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:55:39 --> Upload Class Initialized
+ERROR - 2025-08-19 07:55:40 --> Severity: 8192 --> urlencode(): Passing null to parameter #1 ($string) of type string is deprecated D:\Project\template-frontend-ci3\application\controllers\Admin.php 339
+INFO - 2025-08-19 07:55:40 --> Config Class Initialized
+INFO - 2025-08-19 07:55:40 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:55:40 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:55:40 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:55:40 --> URI Class Initialized
+INFO - 2025-08-19 07:55:40 --> Router Class Initialized
+INFO - 2025-08-19 07:55:40 --> Output Class Initialized
+INFO - 2025-08-19 07:55:40 --> Security Class Initialized
+DEBUG - 2025-08-19 07:55:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:55:40 --> Input Class Initialized
+INFO - 2025-08-19 07:55:40 --> Language Class Initialized
+INFO - 2025-08-19 07:55:40 --> Loader Class Initialized
+INFO - 2025-08-19 07:55:40 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:55:40 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:55:40 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:55:40 --> Controller Class Initialized
+INFO - 2025-08-19 07:55:40 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:55:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:55:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+ERROR - 2025-08-19 07:55:40 --> Severity: 8192 --> strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated D:\Project\template-frontend-ci3\application\views\admin.php 14
+INFO - 2025-08-19 07:55:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:55:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:55:40 --> Final output sent to browser
+DEBUG - 2025-08-19 07:55:40 --> Total execution time: 0.0381
+INFO - 2025-08-19 07:56:14 --> Config Class Initialized
+INFO - 2025-08-19 07:56:14 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:56:14 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:56:14 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:56:14 --> URI Class Initialized
+INFO - 2025-08-19 07:56:14 --> Router Class Initialized
+INFO - 2025-08-19 07:56:14 --> Output Class Initialized
+INFO - 2025-08-19 07:56:14 --> Security Class Initialized
+DEBUG - 2025-08-19 07:56:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:56:14 --> Input Class Initialized
+INFO - 2025-08-19 07:56:14 --> Language Class Initialized
+INFO - 2025-08-19 07:56:14 --> Loader Class Initialized
+INFO - 2025-08-19 07:56:14 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:56:14 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:56:14 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:56:14 --> Controller Class Initialized
+INFO - 2025-08-19 07:56:14 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:56:14 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:56:14 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+ERROR - 2025-08-19 07:56:14 --> Severity: 8192 --> strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated D:\Project\template-frontend-ci3\application\views\admin.php 14
+INFO - 2025-08-19 07:56:14 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:56:14 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:56:14 --> Final output sent to browser
+DEBUG - 2025-08-19 07:56:14 --> Total execution time: 0.0596
+INFO - 2025-08-19 07:56:16 --> Config Class Initialized
+INFO - 2025-08-19 07:56:16 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:56:16 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:56:16 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:56:16 --> URI Class Initialized
+INFO - 2025-08-19 07:56:16 --> Router Class Initialized
+INFO - 2025-08-19 07:56:16 --> Output Class Initialized
+INFO - 2025-08-19 07:56:16 --> Security Class Initialized
+DEBUG - 2025-08-19 07:56:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:56:16 --> Input Class Initialized
+INFO - 2025-08-19 07:56:16 --> Language Class Initialized
+INFO - 2025-08-19 07:56:16 --> Loader Class Initialized
+INFO - 2025-08-19 07:56:16 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:56:16 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:56:16 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:56:16 --> Controller Class Initialized
+INFO - 2025-08-19 07:56:16 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:56:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:56:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:56:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:56:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:56:16 --> Final output sent to browser
+DEBUG - 2025-08-19 07:56:16 --> Total execution time: 0.0219
+INFO - 2025-08-19 07:56:37 --> Config Class Initialized
+INFO - 2025-08-19 07:56:37 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:56:37 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:56:37 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:56:37 --> URI Class Initialized
+INFO - 2025-08-19 07:56:37 --> Router Class Initialized
+INFO - 2025-08-19 07:56:37 --> Output Class Initialized
+INFO - 2025-08-19 07:56:37 --> Security Class Initialized
+DEBUG - 2025-08-19 07:56:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:56:37 --> Input Class Initialized
+INFO - 2025-08-19 07:56:37 --> Language Class Initialized
+INFO - 2025-08-19 07:56:37 --> Loader Class Initialized
+INFO - 2025-08-19 07:56:37 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:56:37 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:56:37 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:56:37 --> Controller Class Initialized
+INFO - 2025-08-19 07:56:37 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:56:37 --> Upload Class Initialized
+INFO - 2025-08-19 07:56:37 --> Config Class Initialized
+INFO - 2025-08-19 07:56:37 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:56:37 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:56:37 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:56:37 --> URI Class Initialized
+INFO - 2025-08-19 07:56:37 --> Router Class Initialized
+INFO - 2025-08-19 07:56:37 --> Output Class Initialized
+INFO - 2025-08-19 07:56:37 --> Security Class Initialized
+DEBUG - 2025-08-19 07:56:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:56:37 --> Input Class Initialized
+INFO - 2025-08-19 07:56:37 --> Language Class Initialized
+INFO - 2025-08-19 07:56:37 --> Loader Class Initialized
+INFO - 2025-08-19 07:56:37 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:56:37 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:56:37 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:56:37 --> Controller Class Initialized
+INFO - 2025-08-19 07:56:37 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:56:37 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:56:37 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+ERROR - 2025-08-19 07:56:37 --> Severity: 8192 --> strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated D:\Project\template-frontend-ci3\application\views\admin.php 14
+INFO - 2025-08-19 07:56:37 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:56:37 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:56:37 --> Final output sent to browser
+DEBUG - 2025-08-19 07:56:37 --> Total execution time: 0.0365
+INFO - 2025-08-19 07:56:53 --> Config Class Initialized
+INFO - 2025-08-19 07:56:53 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:56:53 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:56:53 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:56:53 --> URI Class Initialized
+INFO - 2025-08-19 07:56:53 --> Router Class Initialized
+INFO - 2025-08-19 07:56:53 --> Output Class Initialized
+INFO - 2025-08-19 07:56:53 --> Security Class Initialized
+DEBUG - 2025-08-19 07:56:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:56:53 --> Input Class Initialized
+INFO - 2025-08-19 07:56:53 --> Language Class Initialized
+INFO - 2025-08-19 07:56:53 --> Loader Class Initialized
+INFO - 2025-08-19 07:56:53 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:56:53 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:56:53 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:56:53 --> Controller Class Initialized
+INFO - 2025-08-19 07:56:53 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:56:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:56:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+ERROR - 2025-08-19 07:56:53 --> Severity: 8192 --> strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated D:\Project\template-frontend-ci3\application\views\admin.php 14
+INFO - 2025-08-19 07:56:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:56:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:56:53 --> Final output sent to browser
+DEBUG - 2025-08-19 07:56:53 --> Total execution time: 0.0771
+INFO - 2025-08-19 07:56:55 --> Config Class Initialized
+INFO - 2025-08-19 07:56:55 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:56:55 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:56:55 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:56:55 --> URI Class Initialized
+INFO - 2025-08-19 07:56:55 --> Router Class Initialized
+INFO - 2025-08-19 07:56:55 --> Output Class Initialized
+INFO - 2025-08-19 07:56:55 --> Security Class Initialized
+DEBUG - 2025-08-19 07:56:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:56:55 --> Input Class Initialized
+INFO - 2025-08-19 07:56:55 --> Language Class Initialized
+INFO - 2025-08-19 07:56:55 --> Loader Class Initialized
+INFO - 2025-08-19 07:56:55 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:56:55 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:56:55 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:56:55 --> Controller Class Initialized
+INFO - 2025-08-19 07:56:55 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:56:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:56:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:56:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:56:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:56:55 --> Final output sent to browser
+DEBUG - 2025-08-19 07:56:55 --> Total execution time: 0.0234
+INFO - 2025-08-19 07:56:57 --> Config Class Initialized
+INFO - 2025-08-19 07:56:57 --> Hooks Class Initialized
+DEBUG - 2025-08-19 07:56:57 --> UTF-8 Support Enabled
+INFO - 2025-08-19 07:56:57 --> Utf8 Class Initialized
+INFO - 2025-08-19 07:56:57 --> URI Class Initialized
+INFO - 2025-08-19 07:56:57 --> Router Class Initialized
+INFO - 2025-08-19 07:56:57 --> Output Class Initialized
+INFO - 2025-08-19 07:56:57 --> Security Class Initialized
+DEBUG - 2025-08-19 07:56:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 07:56:57 --> Input Class Initialized
+INFO - 2025-08-19 07:56:57 --> Language Class Initialized
+INFO - 2025-08-19 07:56:57 --> Loader Class Initialized
+INFO - 2025-08-19 07:56:57 --> Helper loaded: url_helper
+INFO - 2025-08-19 07:56:57 --> Database Driver Class Initialized
+INFO - 2025-08-19 07:56:57 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 07:56:57 --> Controller Class Initialized
+INFO - 2025-08-19 07:56:57 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 07:56:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 07:56:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 07:56:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 07:56:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 07:56:57 --> Final output sent to browser
+DEBUG - 2025-08-19 07:56:57 --> Total execution time: 0.0257
+INFO - 2025-08-19 08:11:39 --> Config Class Initialized
+INFO - 2025-08-19 08:11:39 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:11:39 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:11:39 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:11:39 --> URI Class Initialized
+INFO - 2025-08-19 08:11:39 --> Router Class Initialized
+INFO - 2025-08-19 08:11:39 --> Output Class Initialized
+INFO - 2025-08-19 08:11:39 --> Security Class Initialized
+DEBUG - 2025-08-19 08:11:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:11:39 --> Input Class Initialized
+INFO - 2025-08-19 08:11:39 --> Language Class Initialized
+INFO - 2025-08-19 08:11:39 --> Loader Class Initialized
+INFO - 2025-08-19 08:11:39 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:11:39 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:11:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:11:39 --> Controller Class Initialized
+INFO - 2025-08-19 08:11:39 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:11:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:11:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:11:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 08:11:39 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:11:39 --> Final output sent to browser
+DEBUG - 2025-08-19 08:11:39 --> Total execution time: 0.0262
+INFO - 2025-08-19 08:11:44 --> Config Class Initialized
+INFO - 2025-08-19 08:11:44 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:11:44 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:11:44 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:11:44 --> URI Class Initialized
+INFO - 2025-08-19 08:11:44 --> Router Class Initialized
+INFO - 2025-08-19 08:11:44 --> Output Class Initialized
+INFO - 2025-08-19 08:11:44 --> Security Class Initialized
+DEBUG - 2025-08-19 08:11:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:11:44 --> Input Class Initialized
+INFO - 2025-08-19 08:11:44 --> Language Class Initialized
+ERROR - 2025-08-19 08:11:44 --> 404 Page Not Found: Admin/login
+INFO - 2025-08-19 08:11:47 --> Config Class Initialized
+INFO - 2025-08-19 08:11:47 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:11:47 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:11:47 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:11:47 --> URI Class Initialized
+INFO - 2025-08-19 08:11:47 --> Router Class Initialized
+INFO - 2025-08-19 08:11:47 --> Output Class Initialized
+INFO - 2025-08-19 08:11:47 --> Security Class Initialized
+DEBUG - 2025-08-19 08:11:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:11:47 --> Input Class Initialized
+INFO - 2025-08-19 08:11:47 --> Language Class Initialized
+ERROR - 2025-08-19 08:11:47 --> 404 Page Not Found: Admin/login
+INFO - 2025-08-19 08:11:48 --> Config Class Initialized
+INFO - 2025-08-19 08:11:48 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:11:48 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:11:48 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:11:48 --> URI Class Initialized
+INFO - 2025-08-19 08:11:48 --> Router Class Initialized
+INFO - 2025-08-19 08:11:48 --> Output Class Initialized
+INFO - 2025-08-19 08:11:48 --> Security Class Initialized
+DEBUG - 2025-08-19 08:11:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:11:48 --> Input Class Initialized
+INFO - 2025-08-19 08:11:48 --> Language Class Initialized
+ERROR - 2025-08-19 08:11:48 --> 404 Page Not Found: Admin/login
+INFO - 2025-08-19 08:11:48 --> Config Class Initialized
+INFO - 2025-08-19 08:11:48 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:11:48 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:11:48 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:11:48 --> URI Class Initialized
+INFO - 2025-08-19 08:11:48 --> Router Class Initialized
+INFO - 2025-08-19 08:11:48 --> Output Class Initialized
+INFO - 2025-08-19 08:11:48 --> Security Class Initialized
+DEBUG - 2025-08-19 08:11:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:11:48 --> Input Class Initialized
+INFO - 2025-08-19 08:11:48 --> Language Class Initialized
+ERROR - 2025-08-19 08:11:48 --> 404 Page Not Found: Admin/login
+INFO - 2025-08-19 08:11:49 --> Config Class Initialized
+INFO - 2025-08-19 08:11:49 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:11:49 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:11:49 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:11:49 --> URI Class Initialized
+INFO - 2025-08-19 08:11:49 --> Router Class Initialized
+INFO - 2025-08-19 08:11:49 --> Output Class Initialized
+INFO - 2025-08-19 08:11:49 --> Security Class Initialized
+DEBUG - 2025-08-19 08:11:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:11:49 --> Input Class Initialized
+INFO - 2025-08-19 08:11:49 --> Language Class Initialized
+ERROR - 2025-08-19 08:11:49 --> 404 Page Not Found: Admin/login
+INFO - 2025-08-19 08:11:49 --> Config Class Initialized
+INFO - 2025-08-19 08:11:49 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:11:49 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:11:49 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:11:49 --> URI Class Initialized
+INFO - 2025-08-19 08:11:49 --> Router Class Initialized
+INFO - 2025-08-19 08:11:49 --> Output Class Initialized
+INFO - 2025-08-19 08:11:49 --> Security Class Initialized
+DEBUG - 2025-08-19 08:11:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:11:49 --> Input Class Initialized
+INFO - 2025-08-19 08:11:49 --> Language Class Initialized
+ERROR - 2025-08-19 08:11:49 --> 404 Page Not Found: Admin/login
+INFO - 2025-08-19 08:11:49 --> Config Class Initialized
+INFO - 2025-08-19 08:11:49 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:11:49 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:11:49 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:11:49 --> URI Class Initialized
+INFO - 2025-08-19 08:11:49 --> Router Class Initialized
+INFO - 2025-08-19 08:11:49 --> Output Class Initialized
+INFO - 2025-08-19 08:11:49 --> Security Class Initialized
+DEBUG - 2025-08-19 08:11:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:11:49 --> Input Class Initialized
+INFO - 2025-08-19 08:11:49 --> Language Class Initialized
+ERROR - 2025-08-19 08:11:49 --> 404 Page Not Found: Admin/login
+INFO - 2025-08-19 08:11:49 --> Config Class Initialized
+INFO - 2025-08-19 08:11:49 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:11:49 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:11:49 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:11:49 --> URI Class Initialized
+INFO - 2025-08-19 08:11:49 --> Router Class Initialized
+INFO - 2025-08-19 08:11:49 --> Output Class Initialized
+INFO - 2025-08-19 08:11:49 --> Security Class Initialized
+DEBUG - 2025-08-19 08:11:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:11:49 --> Input Class Initialized
+INFO - 2025-08-19 08:11:49 --> Language Class Initialized
+ERROR - 2025-08-19 08:11:49 --> 404 Page Not Found: Admin/login
+INFO - 2025-08-19 08:11:53 --> Config Class Initialized
+INFO - 2025-08-19 08:11:53 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:11:53 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:11:53 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:11:53 --> URI Class Initialized
+INFO - 2025-08-19 08:11:53 --> Router Class Initialized
+INFO - 2025-08-19 08:11:53 --> Output Class Initialized
+INFO - 2025-08-19 08:11:53 --> Security Class Initialized
+DEBUG - 2025-08-19 08:11:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:11:53 --> Input Class Initialized
+INFO - 2025-08-19 08:11:53 --> Language Class Initialized
+ERROR - 2025-08-19 08:11:53 --> 404 Page Not Found: Admin/login
+INFO - 2025-08-19 08:11:58 --> Config Class Initialized
+INFO - 2025-08-19 08:11:58 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:11:58 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:11:58 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:11:58 --> URI Class Initialized
+INFO - 2025-08-19 08:11:58 --> Router Class Initialized
+INFO - 2025-08-19 08:11:58 --> Output Class Initialized
+INFO - 2025-08-19 08:11:58 --> Security Class Initialized
+DEBUG - 2025-08-19 08:11:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:11:58 --> Input Class Initialized
+INFO - 2025-08-19 08:11:58 --> Language Class Initialized
+INFO - 2025-08-19 08:11:58 --> Loader Class Initialized
+INFO - 2025-08-19 08:11:58 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:11:58 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:11:58 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:11:58 --> Controller Class Initialized
+DEBUG - 2025-08-19 08:11:58 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:11:58 --> Model "User_model" initialized
+INFO - 2025-08-19 08:11:58 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:11:58 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 08:11:58 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:11:58 --> Final output sent to browser
+DEBUG - 2025-08-19 08:11:58 --> Total execution time: 0.0196
+INFO - 2025-08-19 08:12:04 --> Config Class Initialized
+INFO - 2025-08-19 08:12:04 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:12:04 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:12:04 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:12:04 --> URI Class Initialized
+INFO - 2025-08-19 08:12:04 --> Router Class Initialized
+INFO - 2025-08-19 08:12:04 --> Output Class Initialized
+INFO - 2025-08-19 08:12:04 --> Security Class Initialized
+DEBUG - 2025-08-19 08:12:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:12:04 --> Input Class Initialized
+INFO - 2025-08-19 08:12:04 --> Language Class Initialized
+INFO - 2025-08-19 08:12:04 --> Loader Class Initialized
+INFO - 2025-08-19 08:12:04 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:12:04 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:12:04 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:12:04 --> Controller Class Initialized
+INFO - 2025-08-19 08:12:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:12:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:12:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 08:12:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:12:04 --> Final output sent to browser
+DEBUG - 2025-08-19 08:12:04 --> Total execution time: 0.0323
+INFO - 2025-08-19 08:12:08 --> Config Class Initialized
+INFO - 2025-08-19 08:12:08 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:12:08 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:12:08 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:12:08 --> URI Class Initialized
+INFO - 2025-08-19 08:12:08 --> Router Class Initialized
+INFO - 2025-08-19 08:12:08 --> Output Class Initialized
+INFO - 2025-08-19 08:12:08 --> Security Class Initialized
+DEBUG - 2025-08-19 08:12:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:12:08 --> Input Class Initialized
+INFO - 2025-08-19 08:12:08 --> Language Class Initialized
+INFO - 2025-08-19 08:12:08 --> Loader Class Initialized
+INFO - 2025-08-19 08:12:08 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:12:08 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:12:08 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:12:08 --> Controller Class Initialized
+DEBUG - 2025-08-19 08:12:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:12:08 --> Model "User_model" initialized
+INFO - 2025-08-19 08:12:08 --> Config Class Initialized
+INFO - 2025-08-19 08:12:08 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:12:08 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:12:08 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:12:08 --> URI Class Initialized
+INFO - 2025-08-19 08:12:08 --> Router Class Initialized
+INFO - 2025-08-19 08:12:08 --> Output Class Initialized
+INFO - 2025-08-19 08:12:08 --> Security Class Initialized
+DEBUG - 2025-08-19 08:12:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:12:08 --> Input Class Initialized
+INFO - 2025-08-19 08:12:08 --> Language Class Initialized
+INFO - 2025-08-19 08:12:08 --> Loader Class Initialized
+INFO - 2025-08-19 08:12:08 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:12:08 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:12:08 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:12:08 --> Controller Class Initialized
+DEBUG - 2025-08-19 08:12:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:12:08 --> Model "User_model" initialized
+INFO - 2025-08-19 08:12:08 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:12:08 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 08:12:08 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:12:08 --> Final output sent to browser
+DEBUG - 2025-08-19 08:12:08 --> Total execution time: 0.0215
+INFO - 2025-08-19 08:12:13 --> Config Class Initialized
+INFO - 2025-08-19 08:12:13 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:12:13 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:12:13 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:12:13 --> URI Class Initialized
+INFO - 2025-08-19 08:12:13 --> Router Class Initialized
+INFO - 2025-08-19 08:12:13 --> Output Class Initialized
+INFO - 2025-08-19 08:12:13 --> Security Class Initialized
+DEBUG - 2025-08-19 08:12:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:12:13 --> Input Class Initialized
+INFO - 2025-08-19 08:12:13 --> Language Class Initialized
+INFO - 2025-08-19 08:12:13 --> Loader Class Initialized
+INFO - 2025-08-19 08:12:13 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:12:13 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:12:13 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:12:13 --> Controller Class Initialized
+DEBUG - 2025-08-19 08:12:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:12:13 --> Model "User_model" initialized
+INFO - 2025-08-19 08:12:13 --> Config Class Initialized
+INFO - 2025-08-19 08:12:13 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:12:13 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:12:13 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:12:13 --> URI Class Initialized
+INFO - 2025-08-19 08:12:13 --> Router Class Initialized
+INFO - 2025-08-19 08:12:13 --> Output Class Initialized
+INFO - 2025-08-19 08:12:13 --> Security Class Initialized
+DEBUG - 2025-08-19 08:12:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:12:13 --> Input Class Initialized
+INFO - 2025-08-19 08:12:13 --> Language Class Initialized
+INFO - 2025-08-19 08:12:13 --> Loader Class Initialized
+INFO - 2025-08-19 08:12:13 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:12:13 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:12:13 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:12:13 --> Controller Class Initialized
+INFO - 2025-08-19 08:12:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:12:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:12:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 08:12:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:12:13 --> Final output sent to browser
+DEBUG - 2025-08-19 08:12:13 --> Total execution time: 0.0348
+INFO - 2025-08-19 08:12:17 --> Config Class Initialized
+INFO - 2025-08-19 08:12:17 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:12:17 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:12:17 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:12:17 --> URI Class Initialized
+INFO - 2025-08-19 08:12:17 --> Router Class Initialized
+INFO - 2025-08-19 08:12:17 --> Output Class Initialized
+INFO - 2025-08-19 08:12:17 --> Security Class Initialized
+DEBUG - 2025-08-19 08:12:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:12:17 --> Input Class Initialized
+INFO - 2025-08-19 08:12:17 --> Language Class Initialized
+INFO - 2025-08-19 08:12:17 --> Loader Class Initialized
+INFO - 2025-08-19 08:12:17 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:12:17 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:12:17 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:12:17 --> Controller Class Initialized
+DEBUG - 2025-08-19 08:12:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:12:17 --> Model "User_model" initialized
+INFO - 2025-08-19 08:12:17 --> Config Class Initialized
+INFO - 2025-08-19 08:12:17 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:12:17 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:12:17 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:12:17 --> URI Class Initialized
+INFO - 2025-08-19 08:12:17 --> Router Class Initialized
+INFO - 2025-08-19 08:12:17 --> Output Class Initialized
+INFO - 2025-08-19 08:12:17 --> Security Class Initialized
+DEBUG - 2025-08-19 08:12:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:12:17 --> Input Class Initialized
+INFO - 2025-08-19 08:12:17 --> Language Class Initialized
+INFO - 2025-08-19 08:12:17 --> Loader Class Initialized
+INFO - 2025-08-19 08:12:17 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:12:17 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:12:17 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:12:17 --> Controller Class Initialized
+DEBUG - 2025-08-19 08:12:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:12:17 --> Model "User_model" initialized
+INFO - 2025-08-19 08:12:17 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:12:17 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 08:12:17 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:12:17 --> Final output sent to browser
+DEBUG - 2025-08-19 08:12:17 --> Total execution time: 0.0238
+INFO - 2025-08-19 08:12:22 --> Config Class Initialized
+INFO - 2025-08-19 08:12:22 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:12:22 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:12:22 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:12:22 --> URI Class Initialized
+INFO - 2025-08-19 08:12:22 --> Router Class Initialized
+INFO - 2025-08-19 08:12:22 --> Output Class Initialized
+INFO - 2025-08-19 08:12:22 --> Security Class Initialized
+DEBUG - 2025-08-19 08:12:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:12:22 --> Input Class Initialized
+INFO - 2025-08-19 08:12:22 --> Language Class Initialized
+INFO - 2025-08-19 08:12:22 --> Loader Class Initialized
+INFO - 2025-08-19 08:12:22 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:12:22 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:12:22 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:12:22 --> Controller Class Initialized
+DEBUG - 2025-08-19 08:12:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:12:22 --> Model "User_model" initialized
+INFO - 2025-08-19 08:12:22 --> Config Class Initialized
+INFO - 2025-08-19 08:12:22 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:12:22 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:12:22 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:12:22 --> URI Class Initialized
+INFO - 2025-08-19 08:12:22 --> Router Class Initialized
+INFO - 2025-08-19 08:12:22 --> Output Class Initialized
+INFO - 2025-08-19 08:12:22 --> Security Class Initialized
+DEBUG - 2025-08-19 08:12:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:12:22 --> Input Class Initialized
+INFO - 2025-08-19 08:12:22 --> Language Class Initialized
+INFO - 2025-08-19 08:12:22 --> Loader Class Initialized
+INFO - 2025-08-19 08:12:22 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:12:22 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:12:22 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:12:22 --> Controller Class Initialized
+INFO - 2025-08-19 08:12:22 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:12:22 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:12:22 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 08:12:22 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:12:22 --> Final output sent to browser
+DEBUG - 2025-08-19 08:12:22 --> Total execution time: 0.0335
+INFO - 2025-08-19 08:12:25 --> Config Class Initialized
+INFO - 2025-08-19 08:12:25 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:12:25 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:12:25 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:12:25 --> URI Class Initialized
+INFO - 2025-08-19 08:12:25 --> Router Class Initialized
+INFO - 2025-08-19 08:12:25 --> Output Class Initialized
+INFO - 2025-08-19 08:12:25 --> Security Class Initialized
+DEBUG - 2025-08-19 08:12:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:12:25 --> Input Class Initialized
+INFO - 2025-08-19 08:12:25 --> Language Class Initialized
+INFO - 2025-08-19 08:12:25 --> Loader Class Initialized
+INFO - 2025-08-19 08:12:25 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:12:25 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:12:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:12:25 --> Controller Class Initialized
+INFO - 2025-08-19 08:12:25 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:12:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:12:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:12:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 08:12:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:12:25 --> Final output sent to browser
+DEBUG - 2025-08-19 08:12:25 --> Total execution time: 0.0239
+INFO - 2025-08-19 08:12:45 --> Config Class Initialized
+INFO - 2025-08-19 08:12:45 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:12:45 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:12:45 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:12:45 --> URI Class Initialized
+INFO - 2025-08-19 08:12:45 --> Router Class Initialized
+INFO - 2025-08-19 08:12:45 --> Output Class Initialized
+INFO - 2025-08-19 08:12:45 --> Security Class Initialized
+DEBUG - 2025-08-19 08:12:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:12:45 --> Input Class Initialized
+INFO - 2025-08-19 08:12:45 --> Language Class Initialized
+INFO - 2025-08-19 08:12:45 --> Loader Class Initialized
+INFO - 2025-08-19 08:12:45 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:12:45 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:12:45 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:12:45 --> Controller Class Initialized
+INFO - 2025-08-19 08:12:45 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:12:45 --> Upload Class Initialized
+INFO - 2025-08-19 08:12:45 --> Config Class Initialized
+INFO - 2025-08-19 08:12:45 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:12:45 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:12:45 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:12:45 --> URI Class Initialized
+INFO - 2025-08-19 08:12:45 --> Router Class Initialized
+INFO - 2025-08-19 08:12:45 --> Output Class Initialized
+INFO - 2025-08-19 08:12:45 --> Security Class Initialized
+DEBUG - 2025-08-19 08:12:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:12:45 --> Input Class Initialized
+INFO - 2025-08-19 08:12:45 --> Language Class Initialized
+INFO - 2025-08-19 08:12:45 --> Loader Class Initialized
+INFO - 2025-08-19 08:12:45 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:12:45 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:12:45 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:12:45 --> Controller Class Initialized
+INFO - 2025-08-19 08:12:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:12:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:12:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 08:12:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:12:45 --> Final output sent to browser
+DEBUG - 2025-08-19 08:12:45 --> Total execution time: 0.0369
+INFO - 2025-08-19 08:12:52 --> Config Class Initialized
+INFO - 2025-08-19 08:12:52 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:12:52 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:12:52 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:12:52 --> URI Class Initialized
+INFO - 2025-08-19 08:12:52 --> Router Class Initialized
+INFO - 2025-08-19 08:12:52 --> Output Class Initialized
+INFO - 2025-08-19 08:12:52 --> Security Class Initialized
+DEBUG - 2025-08-19 08:12:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:12:52 --> Input Class Initialized
+INFO - 2025-08-19 08:12:52 --> Language Class Initialized
+INFO - 2025-08-19 08:12:52 --> Loader Class Initialized
+INFO - 2025-08-19 08:12:52 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:12:52 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:12:52 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:12:52 --> Controller Class Initialized
+INFO - 2025-08-19 08:12:52 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:12:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:12:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:12:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 08:12:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:12:52 --> Final output sent to browser
+DEBUG - 2025-08-19 08:12:52 --> Total execution time: 0.0244
+INFO - 2025-08-19 08:12:55 --> Config Class Initialized
+INFO - 2025-08-19 08:12:55 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:12:55 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:12:55 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:12:55 --> URI Class Initialized
+INFO - 2025-08-19 08:12:55 --> Router Class Initialized
+INFO - 2025-08-19 08:12:55 --> Output Class Initialized
+INFO - 2025-08-19 08:12:55 --> Security Class Initialized
+DEBUG - 2025-08-19 08:12:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:12:55 --> Input Class Initialized
+INFO - 2025-08-19 08:12:55 --> Language Class Initialized
+INFO - 2025-08-19 08:12:55 --> Loader Class Initialized
+INFO - 2025-08-19 08:12:55 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:12:55 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:12:55 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:12:55 --> Controller Class Initialized
+INFO - 2025-08-19 08:12:55 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:12:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:12:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:12:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 08:12:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:12:55 --> Final output sent to browser
+DEBUG - 2025-08-19 08:12:55 --> Total execution time: 0.0229
+INFO - 2025-08-19 08:13:07 --> Config Class Initialized
+INFO - 2025-08-19 08:13:07 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:13:07 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:13:07 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:13:07 --> URI Class Initialized
+INFO - 2025-08-19 08:13:07 --> Router Class Initialized
+INFO - 2025-08-19 08:13:07 --> Output Class Initialized
+INFO - 2025-08-19 08:13:07 --> Security Class Initialized
+DEBUG - 2025-08-19 08:13:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:13:07 --> Input Class Initialized
+INFO - 2025-08-19 08:13:07 --> Language Class Initialized
+ERROR - 2025-08-19 08:13:07 --> 404 Page Not Found: Admin/login
+INFO - 2025-08-19 08:13:26 --> Config Class Initialized
+INFO - 2025-08-19 08:13:26 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:13:26 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:13:26 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:13:26 --> URI Class Initialized
+INFO - 2025-08-19 08:13:26 --> Router Class Initialized
+INFO - 2025-08-19 08:13:26 --> Output Class Initialized
+INFO - 2025-08-19 08:13:26 --> Security Class Initialized
+DEBUG - 2025-08-19 08:13:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:13:26 --> Input Class Initialized
+INFO - 2025-08-19 08:13:26 --> Language Class Initialized
+ERROR - 2025-08-19 08:13:26 --> 404 Page Not Found: Admin/login
+INFO - 2025-08-19 08:13:27 --> Config Class Initialized
+INFO - 2025-08-19 08:13:27 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:13:27 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:13:27 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:13:27 --> URI Class Initialized
+INFO - 2025-08-19 08:13:27 --> Router Class Initialized
+INFO - 2025-08-19 08:13:27 --> Output Class Initialized
+INFO - 2025-08-19 08:13:27 --> Security Class Initialized
+DEBUG - 2025-08-19 08:13:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:13:27 --> Input Class Initialized
+INFO - 2025-08-19 08:13:27 --> Language Class Initialized
+ERROR - 2025-08-19 08:13:27 --> 404 Page Not Found: Admin/login
+INFO - 2025-08-19 08:13:36 --> Config Class Initialized
+INFO - 2025-08-19 08:13:36 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:13:36 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:13:36 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:13:36 --> URI Class Initialized
+INFO - 2025-08-19 08:13:36 --> Router Class Initialized
+INFO - 2025-08-19 08:13:36 --> Output Class Initialized
+INFO - 2025-08-19 08:13:36 --> Security Class Initialized
+DEBUG - 2025-08-19 08:13:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:13:36 --> Input Class Initialized
+INFO - 2025-08-19 08:13:36 --> Language Class Initialized
+ERROR - 2025-08-19 08:13:36 --> 404 Page Not Found: Admin/login
+INFO - 2025-08-19 08:13:40 --> Config Class Initialized
+INFO - 2025-08-19 08:13:40 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:13:40 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:13:40 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:13:40 --> URI Class Initialized
+INFO - 2025-08-19 08:13:40 --> Router Class Initialized
+INFO - 2025-08-19 08:13:40 --> Output Class Initialized
+INFO - 2025-08-19 08:13:40 --> Security Class Initialized
+DEBUG - 2025-08-19 08:13:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:13:40 --> Input Class Initialized
+INFO - 2025-08-19 08:13:40 --> Language Class Initialized
+INFO - 2025-08-19 08:13:40 --> Loader Class Initialized
+INFO - 2025-08-19 08:13:40 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:13:40 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:13:40 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:13:40 --> Controller Class Initialized
+INFO - 2025-08-19 08:13:40 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:13:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:13:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:13:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 08:13:40 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:13:40 --> Final output sent to browser
+DEBUG - 2025-08-19 08:13:40 --> Total execution time: 0.0973
+INFO - 2025-08-19 08:13:41 --> Config Class Initialized
+INFO - 2025-08-19 08:13:41 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:13:41 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:13:41 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:13:41 --> URI Class Initialized
+INFO - 2025-08-19 08:13:41 --> Router Class Initialized
+INFO - 2025-08-19 08:13:41 --> Output Class Initialized
+INFO - 2025-08-19 08:13:41 --> Security Class Initialized
+DEBUG - 2025-08-19 08:13:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:13:41 --> Input Class Initialized
+INFO - 2025-08-19 08:13:41 --> Language Class Initialized
+INFO - 2025-08-19 08:13:41 --> Loader Class Initialized
+INFO - 2025-08-19 08:13:41 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:13:41 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:13:41 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:13:41 --> Controller Class Initialized
+INFO - 2025-08-19 08:13:41 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:13:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:13:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:13:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 08:13:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:13:41 --> Final output sent to browser
+DEBUG - 2025-08-19 08:13:41 --> Total execution time: 0.0242
+INFO - 2025-08-19 08:13:42 --> Config Class Initialized
+INFO - 2025-08-19 08:13:42 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:13:42 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:13:42 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:13:42 --> URI Class Initialized
+INFO - 2025-08-19 08:13:42 --> Router Class Initialized
+INFO - 2025-08-19 08:13:42 --> Output Class Initialized
+INFO - 2025-08-19 08:13:42 --> Security Class Initialized
+DEBUG - 2025-08-19 08:13:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:13:42 --> Input Class Initialized
+INFO - 2025-08-19 08:13:42 --> Language Class Initialized
+INFO - 2025-08-19 08:13:42 --> Loader Class Initialized
+INFO - 2025-08-19 08:13:42 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:13:42 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:13:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:13:42 --> Controller Class Initialized
+INFO - 2025-08-19 08:13:42 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:13:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:13:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:13:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 08:13:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:13:42 --> Final output sent to browser
+DEBUG - 2025-08-19 08:13:42 --> Total execution time: 0.0265
+INFO - 2025-08-19 08:13:42 --> Config Class Initialized
+INFO - 2025-08-19 08:13:42 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:13:42 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:13:42 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:13:42 --> URI Class Initialized
+INFO - 2025-08-19 08:13:42 --> Router Class Initialized
+INFO - 2025-08-19 08:13:42 --> Output Class Initialized
+INFO - 2025-08-19 08:13:42 --> Security Class Initialized
+DEBUG - 2025-08-19 08:13:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:13:42 --> Input Class Initialized
+INFO - 2025-08-19 08:13:42 --> Language Class Initialized
+INFO - 2025-08-19 08:13:42 --> Loader Class Initialized
+INFO - 2025-08-19 08:13:42 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:13:42 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:13:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:13:42 --> Controller Class Initialized
+INFO - 2025-08-19 08:13:42 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:13:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:13:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:13:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 08:13:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:13:42 --> Final output sent to browser
+DEBUG - 2025-08-19 08:13:42 --> Total execution time: 0.0287
+INFO - 2025-08-19 08:13:43 --> Config Class Initialized
+INFO - 2025-08-19 08:13:43 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:13:43 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:13:43 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:13:43 --> URI Class Initialized
+INFO - 2025-08-19 08:13:43 --> Router Class Initialized
+INFO - 2025-08-19 08:13:43 --> Output Class Initialized
+INFO - 2025-08-19 08:13:43 --> Security Class Initialized
+DEBUG - 2025-08-19 08:13:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:13:43 --> Input Class Initialized
+INFO - 2025-08-19 08:13:43 --> Language Class Initialized
+INFO - 2025-08-19 08:13:43 --> Loader Class Initialized
+INFO - 2025-08-19 08:13:43 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:13:43 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:13:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:13:43 --> Controller Class Initialized
+INFO - 2025-08-19 08:13:43 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:13:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:13:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:13:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 08:13:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:13:43 --> Final output sent to browser
+DEBUG - 2025-08-19 08:13:43 --> Total execution time: 0.0246
+INFO - 2025-08-19 08:13:47 --> Config Class Initialized
+INFO - 2025-08-19 08:13:47 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:13:47 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:13:47 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:13:47 --> URI Class Initialized
+INFO - 2025-08-19 08:13:47 --> Router Class Initialized
+INFO - 2025-08-19 08:13:47 --> Output Class Initialized
+INFO - 2025-08-19 08:13:47 --> Security Class Initialized
+DEBUG - 2025-08-19 08:13:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:13:47 --> Input Class Initialized
+INFO - 2025-08-19 08:13:47 --> Language Class Initialized
+ERROR - 2025-08-19 08:13:47 --> 404 Page Not Found: Admin/login
+INFO - 2025-08-19 08:13:52 --> Config Class Initialized
+INFO - 2025-08-19 08:13:52 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:13:52 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:13:52 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:13:52 --> URI Class Initialized
+INFO - 2025-08-19 08:13:52 --> Router Class Initialized
+INFO - 2025-08-19 08:13:52 --> Output Class Initialized
+INFO - 2025-08-19 08:13:52 --> Security Class Initialized
+DEBUG - 2025-08-19 08:13:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:13:52 --> Input Class Initialized
+INFO - 2025-08-19 08:13:52 --> Language Class Initialized
+INFO - 2025-08-19 08:13:52 --> Loader Class Initialized
+INFO - 2025-08-19 08:13:52 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:13:52 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:13:52 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:13:52 --> Controller Class Initialized
+INFO - 2025-08-19 08:13:52 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:13:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:13:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+ERROR - 2025-08-19 08:13:52 --> Severity: Warning --> Undefined variable $unit_kerja D:\Project\template-frontend-ci3\application\views\admin.php 10
+ERROR - 2025-08-19 08:13:52 --> Severity: Warning --> Undefined variable $unit_kerja D:\Project\template-frontend-ci3\application\views\admin.php 14
+ERROR - 2025-08-19 08:13:52 --> Severity: 8192 --> strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated D:\Project\template-frontend-ci3\application\views\admin.php 14
+INFO - 2025-08-19 08:13:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 08:13:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:13:52 --> Final output sent to browser
+DEBUG - 2025-08-19 08:13:52 --> Total execution time: 0.0419
+INFO - 2025-08-19 08:13:59 --> Config Class Initialized
+INFO - 2025-08-19 08:13:59 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:13:59 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:13:59 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:13:59 --> URI Class Initialized
+INFO - 2025-08-19 08:13:59 --> Router Class Initialized
+INFO - 2025-08-19 08:13:59 --> Output Class Initialized
+INFO - 2025-08-19 08:13:59 --> Security Class Initialized
+DEBUG - 2025-08-19 08:13:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:13:59 --> Input Class Initialized
+INFO - 2025-08-19 08:13:59 --> Language Class Initialized
+INFO - 2025-08-19 08:13:59 --> Loader Class Initialized
+INFO - 2025-08-19 08:13:59 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:13:59 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:13:59 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:13:59 --> Controller Class Initialized
+DEBUG - 2025-08-19 08:13:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:13:59 --> Model "User_model" initialized
+INFO - 2025-08-19 08:13:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:13:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 08:13:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:13:59 --> Final output sent to browser
+DEBUG - 2025-08-19 08:13:59 --> Total execution time: 0.0247
+INFO - 2025-08-19 08:14:10 --> Config Class Initialized
+INFO - 2025-08-19 08:14:10 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:14:10 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:14:10 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:14:10 --> URI Class Initialized
+INFO - 2025-08-19 08:14:10 --> Router Class Initialized
+INFO - 2025-08-19 08:14:10 --> Output Class Initialized
+INFO - 2025-08-19 08:14:10 --> Security Class Initialized
+DEBUG - 2025-08-19 08:14:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:14:10 --> Input Class Initialized
+INFO - 2025-08-19 08:14:10 --> Language Class Initialized
+INFO - 2025-08-19 08:14:10 --> Loader Class Initialized
+INFO - 2025-08-19 08:14:10 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:14:10 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:14:10 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:14:10 --> Controller Class Initialized
+DEBUG - 2025-08-19 08:14:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:14:10 --> Model "User_model" initialized
+INFO - 2025-08-19 08:14:10 --> Config Class Initialized
+INFO - 2025-08-19 08:14:10 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:14:10 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:14:10 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:14:10 --> URI Class Initialized
+INFO - 2025-08-19 08:14:10 --> Router Class Initialized
+INFO - 2025-08-19 08:14:10 --> Output Class Initialized
+INFO - 2025-08-19 08:14:10 --> Security Class Initialized
+DEBUG - 2025-08-19 08:14:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:14:10 --> Input Class Initialized
+INFO - 2025-08-19 08:14:10 --> Language Class Initialized
+INFO - 2025-08-19 08:14:10 --> Loader Class Initialized
+INFO - 2025-08-19 08:14:10 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:14:10 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:14:10 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:14:10 --> Controller Class Initialized
+INFO - 2025-08-19 08:14:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:14:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:14:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 08:14:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:14:10 --> Final output sent to browser
+DEBUG - 2025-08-19 08:14:10 --> Total execution time: 0.0373
+INFO - 2025-08-19 08:14:16 --> Config Class Initialized
+INFO - 2025-08-19 08:14:16 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:14:16 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:14:16 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:14:16 --> URI Class Initialized
+INFO - 2025-08-19 08:14:16 --> Router Class Initialized
+INFO - 2025-08-19 08:14:16 --> Output Class Initialized
+INFO - 2025-08-19 08:14:16 --> Security Class Initialized
+DEBUG - 2025-08-19 08:14:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:14:16 --> Input Class Initialized
+INFO - 2025-08-19 08:14:16 --> Language Class Initialized
+INFO - 2025-08-19 08:14:16 --> Loader Class Initialized
+INFO - 2025-08-19 08:14:16 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:14:16 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:14:16 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:14:16 --> Controller Class Initialized
+DEBUG - 2025-08-19 08:14:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:14:16 --> Model "User_model" initialized
+INFO - 2025-08-19 08:14:16 --> Config Class Initialized
+INFO - 2025-08-19 08:14:16 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:14:16 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:14:16 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:14:16 --> URI Class Initialized
+INFO - 2025-08-19 08:14:16 --> Router Class Initialized
+INFO - 2025-08-19 08:14:16 --> Output Class Initialized
+INFO - 2025-08-19 08:14:16 --> Security Class Initialized
+DEBUG - 2025-08-19 08:14:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:14:16 --> Input Class Initialized
+INFO - 2025-08-19 08:14:16 --> Language Class Initialized
+INFO - 2025-08-19 08:14:16 --> Loader Class Initialized
+INFO - 2025-08-19 08:14:16 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:14:16 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:14:16 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:14:16 --> Controller Class Initialized
+DEBUG - 2025-08-19 08:14:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:14:16 --> Model "User_model" initialized
+INFO - 2025-08-19 08:14:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:14:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 08:14:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:14:16 --> Final output sent to browser
+DEBUG - 2025-08-19 08:14:16 --> Total execution time: 0.0237
+INFO - 2025-08-19 08:14:42 --> Config Class Initialized
+INFO - 2025-08-19 08:14:42 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:14:42 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:14:42 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:14:42 --> URI Class Initialized
+INFO - 2025-08-19 08:14:42 --> Router Class Initialized
+INFO - 2025-08-19 08:14:42 --> Output Class Initialized
+INFO - 2025-08-19 08:14:42 --> Security Class Initialized
+DEBUG - 2025-08-19 08:14:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:14:42 --> Input Class Initialized
+INFO - 2025-08-19 08:14:42 --> Language Class Initialized
+INFO - 2025-08-19 08:14:42 --> Loader Class Initialized
+INFO - 2025-08-19 08:14:42 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:14:42 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:14:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:14:42 --> Controller Class Initialized
+DEBUG - 2025-08-19 08:14:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:14:42 --> Model "User_model" initialized
+INFO - 2025-08-19 08:14:42 --> Config Class Initialized
+INFO - 2025-08-19 08:14:42 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:14:42 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:14:42 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:14:42 --> URI Class Initialized
+INFO - 2025-08-19 08:14:42 --> Router Class Initialized
+INFO - 2025-08-19 08:14:42 --> Output Class Initialized
+INFO - 2025-08-19 08:14:42 --> Security Class Initialized
+DEBUG - 2025-08-19 08:14:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:14:42 --> Input Class Initialized
+INFO - 2025-08-19 08:14:42 --> Language Class Initialized
+INFO - 2025-08-19 08:14:42 --> Loader Class Initialized
+INFO - 2025-08-19 08:14:42 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:14:42 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:14:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:14:42 --> Controller Class Initialized
+INFO - 2025-08-19 08:14:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:14:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:14:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 08:14:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:14:42 --> Final output sent to browser
+DEBUG - 2025-08-19 08:14:42 --> Total execution time: 0.0349
+INFO - 2025-08-19 08:14:47 --> Config Class Initialized
+INFO - 2025-08-19 08:14:47 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:14:47 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:14:47 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:14:47 --> URI Class Initialized
+INFO - 2025-08-19 08:14:47 --> Router Class Initialized
+INFO - 2025-08-19 08:14:47 --> Output Class Initialized
+INFO - 2025-08-19 08:14:47 --> Security Class Initialized
+DEBUG - 2025-08-19 08:14:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:14:47 --> Input Class Initialized
+INFO - 2025-08-19 08:14:47 --> Language Class Initialized
+INFO - 2025-08-19 08:14:47 --> Loader Class Initialized
+INFO - 2025-08-19 08:14:47 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:14:47 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:14:47 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:14:47 --> Controller Class Initialized
+INFO - 2025-08-19 08:14:47 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:14:47 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:14:47 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:14:47 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 08:14:47 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:14:47 --> Final output sent to browser
+DEBUG - 2025-08-19 08:14:47 --> Total execution time: 0.0245
+INFO - 2025-08-19 08:14:47 --> Config Class Initialized
+INFO - 2025-08-19 08:14:47 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:14:47 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:14:47 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:14:47 --> URI Class Initialized
+INFO - 2025-08-19 08:14:47 --> Router Class Initialized
+INFO - 2025-08-19 08:14:47 --> Output Class Initialized
+INFO - 2025-08-19 08:14:47 --> Security Class Initialized
+DEBUG - 2025-08-19 08:14:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:14:47 --> Input Class Initialized
+INFO - 2025-08-19 08:14:47 --> Language Class Initialized
+INFO - 2025-08-19 08:14:47 --> Loader Class Initialized
+INFO - 2025-08-19 08:14:47 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:14:47 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:14:47 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:14:47 --> Controller Class Initialized
+INFO - 2025-08-19 08:14:47 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:14:47 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:14:47 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:14:47 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 08:14:47 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:14:47 --> Final output sent to browser
+DEBUG - 2025-08-19 08:14:47 --> Total execution time: 0.0245
+INFO - 2025-08-19 08:14:49 --> Config Class Initialized
+INFO - 2025-08-19 08:14:49 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:14:49 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:14:49 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:14:49 --> URI Class Initialized
+INFO - 2025-08-19 08:14:49 --> Router Class Initialized
+INFO - 2025-08-19 08:14:49 --> Output Class Initialized
+INFO - 2025-08-19 08:14:49 --> Security Class Initialized
+DEBUG - 2025-08-19 08:14:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:14:49 --> Input Class Initialized
+INFO - 2025-08-19 08:14:49 --> Language Class Initialized
+INFO - 2025-08-19 08:14:49 --> Loader Class Initialized
+INFO - 2025-08-19 08:14:49 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:14:49 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:14:49 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:14:49 --> Controller Class Initialized
+INFO - 2025-08-19 08:14:49 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:14:49 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:14:49 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:14:49 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 08:14:49 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:14:49 --> Final output sent to browser
+DEBUG - 2025-08-19 08:14:49 --> Total execution time: 0.0245
+INFO - 2025-08-19 08:14:50 --> Config Class Initialized
+INFO - 2025-08-19 08:14:50 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:14:50 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:14:50 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:14:50 --> URI Class Initialized
+INFO - 2025-08-19 08:14:50 --> Router Class Initialized
+INFO - 2025-08-19 08:14:50 --> Output Class Initialized
+INFO - 2025-08-19 08:14:50 --> Security Class Initialized
+DEBUG - 2025-08-19 08:14:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:14:50 --> Input Class Initialized
+INFO - 2025-08-19 08:14:50 --> Language Class Initialized
+INFO - 2025-08-19 08:14:50 --> Loader Class Initialized
+INFO - 2025-08-19 08:14:50 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:14:50 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:14:50 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:14:50 --> Controller Class Initialized
+INFO - 2025-08-19 08:14:50 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:14:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:14:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:14:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 08:14:50 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:14:50 --> Final output sent to browser
+DEBUG - 2025-08-19 08:14:50 --> Total execution time: 0.0290
+INFO - 2025-08-19 08:14:58 --> Config Class Initialized
+INFO - 2025-08-19 08:14:58 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:14:58 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:14:58 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:14:58 --> URI Class Initialized
+INFO - 2025-08-19 08:14:58 --> Router Class Initialized
+INFO - 2025-08-19 08:14:58 --> Output Class Initialized
+INFO - 2025-08-19 08:14:58 --> Security Class Initialized
+DEBUG - 2025-08-19 08:14:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:14:58 --> Input Class Initialized
+INFO - 2025-08-19 08:14:58 --> Language Class Initialized
+INFO - 2025-08-19 08:14:58 --> Loader Class Initialized
+INFO - 2025-08-19 08:14:58 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:14:58 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:14:58 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:14:58 --> Controller Class Initialized
+INFO - 2025-08-19 08:14:58 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:14:58 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:14:58 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 08:14:58 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:14:58 --> Final output sent to browser
+DEBUG - 2025-08-19 08:14:58 --> Total execution time: 0.0460
+INFO - 2025-08-19 08:15:01 --> Config Class Initialized
+INFO - 2025-08-19 08:15:01 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:15:01 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:15:01 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:15:01 --> URI Class Initialized
+INFO - 2025-08-19 08:15:01 --> Router Class Initialized
+INFO - 2025-08-19 08:15:01 --> Output Class Initialized
+INFO - 2025-08-19 08:15:01 --> Security Class Initialized
+DEBUG - 2025-08-19 08:15:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:15:01 --> Input Class Initialized
+INFO - 2025-08-19 08:15:01 --> Language Class Initialized
+INFO - 2025-08-19 08:15:01 --> Loader Class Initialized
+INFO - 2025-08-19 08:15:01 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:15:01 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:15:01 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:15:01 --> Controller Class Initialized
+INFO - 2025-08-19 08:15:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:15:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:15:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 08:15:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:15:01 --> Final output sent to browser
+DEBUG - 2025-08-19 08:15:01 --> Total execution time: 0.0397
+INFO - 2025-08-19 08:16:42 --> Config Class Initialized
+INFO - 2025-08-19 08:16:42 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:16:42 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:16:42 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:16:42 --> URI Class Initialized
+INFO - 2025-08-19 08:16:42 --> Router Class Initialized
+INFO - 2025-08-19 08:16:42 --> Output Class Initialized
+INFO - 2025-08-19 08:16:42 --> Security Class Initialized
+DEBUG - 2025-08-19 08:16:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:16:42 --> Input Class Initialized
+INFO - 2025-08-19 08:16:42 --> Language Class Initialized
+INFO - 2025-08-19 08:16:42 --> Loader Class Initialized
+INFO - 2025-08-19 08:16:42 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:16:42 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:16:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:16:42 --> Controller Class Initialized
+DEBUG - 2025-08-19 08:16:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:16:42 --> Model "User_model" initialized
+INFO - 2025-08-19 08:16:42 --> Config Class Initialized
+INFO - 2025-08-19 08:16:42 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:16:42 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:16:42 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:16:42 --> URI Class Initialized
+INFO - 2025-08-19 08:16:42 --> Router Class Initialized
+INFO - 2025-08-19 08:16:42 --> Output Class Initialized
+INFO - 2025-08-19 08:16:42 --> Security Class Initialized
+DEBUG - 2025-08-19 08:16:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:16:42 --> Input Class Initialized
+INFO - 2025-08-19 08:16:42 --> Language Class Initialized
+INFO - 2025-08-19 08:16:42 --> Loader Class Initialized
+INFO - 2025-08-19 08:16:42 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:16:42 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:16:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:16:42 --> Controller Class Initialized
+DEBUG - 2025-08-19 08:16:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:16:42 --> Model "User_model" initialized
+INFO - 2025-08-19 08:16:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:16:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 08:16:42 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:16:42 --> Final output sent to browser
+DEBUG - 2025-08-19 08:16:42 --> Total execution time: 0.0254
+INFO - 2025-08-19 08:16:53 --> Config Class Initialized
+INFO - 2025-08-19 08:16:53 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:16:53 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:16:53 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:16:53 --> URI Class Initialized
+INFO - 2025-08-19 08:16:53 --> Router Class Initialized
+INFO - 2025-08-19 08:16:53 --> Output Class Initialized
+INFO - 2025-08-19 08:16:53 --> Security Class Initialized
+DEBUG - 2025-08-19 08:16:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:16:53 --> Input Class Initialized
+INFO - 2025-08-19 08:16:53 --> Language Class Initialized
+INFO - 2025-08-19 08:16:53 --> Loader Class Initialized
+INFO - 2025-08-19 08:16:53 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:16:53 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:16:53 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:16:53 --> Controller Class Initialized
+DEBUG - 2025-08-19 08:16:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:16:53 --> Model "User_model" initialized
+INFO - 2025-08-19 08:16:53 --> Config Class Initialized
+INFO - 2025-08-19 08:16:53 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:16:53 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:16:53 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:16:53 --> URI Class Initialized
+INFO - 2025-08-19 08:16:53 --> Router Class Initialized
+INFO - 2025-08-19 08:16:53 --> Output Class Initialized
+INFO - 2025-08-19 08:16:53 --> Security Class Initialized
+DEBUG - 2025-08-19 08:16:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:16:53 --> Input Class Initialized
+INFO - 2025-08-19 08:16:53 --> Language Class Initialized
+INFO - 2025-08-19 08:16:53 --> Loader Class Initialized
+INFO - 2025-08-19 08:16:53 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:16:53 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:16:53 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:16:53 --> Controller Class Initialized
+INFO - 2025-08-19 08:16:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:16:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:16:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 08:16:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:16:53 --> Final output sent to browser
+DEBUG - 2025-08-19 08:16:53 --> Total execution time: 0.0362
+INFO - 2025-08-19 08:16:56 --> Config Class Initialized
+INFO - 2025-08-19 08:16:56 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:16:56 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:16:56 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:16:56 --> URI Class Initialized
+INFO - 2025-08-19 08:16:56 --> Router Class Initialized
+INFO - 2025-08-19 08:16:56 --> Output Class Initialized
+INFO - 2025-08-19 08:16:56 --> Security Class Initialized
+DEBUG - 2025-08-19 08:16:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:16:56 --> Input Class Initialized
+INFO - 2025-08-19 08:16:56 --> Language Class Initialized
+INFO - 2025-08-19 08:16:56 --> Loader Class Initialized
+INFO - 2025-08-19 08:16:56 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:16:56 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:16:56 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:16:56 --> Controller Class Initialized
+INFO - 2025-08-19 08:16:56 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:16:56 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 08:16:56 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 08:16:56 --> Upload Class Initialized
+DEBUG - 2025-08-19 08:16:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:16:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:16:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:16:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 08:16:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:16:56 --> Final output sent to browser
+DEBUG - 2025-08-19 08:16:56 --> Total execution time: 0.0359
+INFO - 2025-08-19 08:17:01 --> Config Class Initialized
+INFO - 2025-08-19 08:17:01 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:17:01 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:17:01 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:17:01 --> URI Class Initialized
+INFO - 2025-08-19 08:17:01 --> Router Class Initialized
+INFO - 2025-08-19 08:17:01 --> Output Class Initialized
+INFO - 2025-08-19 08:17:01 --> Security Class Initialized
+DEBUG - 2025-08-19 08:17:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:17:01 --> Input Class Initialized
+INFO - 2025-08-19 08:17:01 --> Language Class Initialized
+INFO - 2025-08-19 08:17:01 --> Loader Class Initialized
+INFO - 2025-08-19 08:17:01 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:17:01 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:17:01 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:17:01 --> Controller Class Initialized
+INFO - 2025-08-19 08:17:01 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:17:01 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 08:17:01 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 08:17:01 --> Upload Class Initialized
+DEBUG - 2025-08-19 08:17:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:17:01 --> Config Class Initialized
+INFO - 2025-08-19 08:17:01 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:17:01 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:17:01 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:17:01 --> URI Class Initialized
+INFO - 2025-08-19 08:17:01 --> Router Class Initialized
+INFO - 2025-08-19 08:17:01 --> Output Class Initialized
+INFO - 2025-08-19 08:17:01 --> Security Class Initialized
+DEBUG - 2025-08-19 08:17:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:17:01 --> Input Class Initialized
+INFO - 2025-08-19 08:17:01 --> Language Class Initialized
+INFO - 2025-08-19 08:17:01 --> Loader Class Initialized
+INFO - 2025-08-19 08:17:01 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:17:01 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:17:01 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:17:01 --> Controller Class Initialized
+INFO - 2025-08-19 08:17:01 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:17:01 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 08:17:01 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 08:17:01 --> Upload Class Initialized
+DEBUG - 2025-08-19 08:17:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:17:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:17:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:17:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 08:17:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:17:01 --> Final output sent to browser
+DEBUG - 2025-08-19 08:17:01 --> Total execution time: 0.0413
+INFO - 2025-08-19 08:17:04 --> Config Class Initialized
+INFO - 2025-08-19 08:17:04 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:17:04 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:17:04 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:17:04 --> URI Class Initialized
+INFO - 2025-08-19 08:17:04 --> Router Class Initialized
+INFO - 2025-08-19 08:17:04 --> Output Class Initialized
+INFO - 2025-08-19 08:17:04 --> Security Class Initialized
+DEBUG - 2025-08-19 08:17:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:17:04 --> Input Class Initialized
+INFO - 2025-08-19 08:17:04 --> Language Class Initialized
+INFO - 2025-08-19 08:17:04 --> Loader Class Initialized
+INFO - 2025-08-19 08:17:04 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:17:04 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:17:04 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:17:04 --> Controller Class Initialized
+INFO - 2025-08-19 08:17:04 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:17:04 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 08:17:04 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 08:17:04 --> Upload Class Initialized
+DEBUG - 2025-08-19 08:17:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:17:04 --> Config Class Initialized
+INFO - 2025-08-19 08:17:04 --> Hooks Class Initialized
+DEBUG - 2025-08-19 08:17:04 --> UTF-8 Support Enabled
+INFO - 2025-08-19 08:17:04 --> Utf8 Class Initialized
+INFO - 2025-08-19 08:17:04 --> URI Class Initialized
+INFO - 2025-08-19 08:17:04 --> Router Class Initialized
+INFO - 2025-08-19 08:17:04 --> Output Class Initialized
+INFO - 2025-08-19 08:17:04 --> Security Class Initialized
+DEBUG - 2025-08-19 08:17:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 08:17:04 --> Input Class Initialized
+INFO - 2025-08-19 08:17:04 --> Language Class Initialized
+INFO - 2025-08-19 08:17:04 --> Loader Class Initialized
+INFO - 2025-08-19 08:17:04 --> Helper loaded: url_helper
+INFO - 2025-08-19 08:17:04 --> Database Driver Class Initialized
+INFO - 2025-08-19 08:17:04 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 08:17:04 --> Controller Class Initialized
+INFO - 2025-08-19 08:17:04 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 08:17:04 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 08:17:04 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 08:17:04 --> Upload Class Initialized
+DEBUG - 2025-08-19 08:17:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 08:17:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 08:17:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 08:17:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 08:17:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 08:17:04 --> Final output sent to browser
+DEBUG - 2025-08-19 08:17:04 --> Total execution time: 0.0372
+INFO - 2025-08-19 09:27:43 --> Config Class Initialized
+INFO - 2025-08-19 09:27:43 --> Hooks Class Initialized
+DEBUG - 2025-08-19 09:27:43 --> UTF-8 Support Enabled
+INFO - 2025-08-19 09:27:43 --> Utf8 Class Initialized
+INFO - 2025-08-19 09:27:43 --> URI Class Initialized
+INFO - 2025-08-19 09:27:43 --> Router Class Initialized
+INFO - 2025-08-19 09:27:43 --> Output Class Initialized
+INFO - 2025-08-19 09:27:43 --> Security Class Initialized
+DEBUG - 2025-08-19 09:27:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 09:27:43 --> Input Class Initialized
+INFO - 2025-08-19 09:27:43 --> Language Class Initialized
+INFO - 2025-08-19 09:27:43 --> Loader Class Initialized
+INFO - 2025-08-19 09:27:43 --> Helper loaded: url_helper
+INFO - 2025-08-19 09:27:43 --> Database Driver Class Initialized
+INFO - 2025-08-19 09:27:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 09:27:43 --> Controller Class Initialized
+INFO - 2025-08-19 09:27:43 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 09:27:43 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 09:27:43 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 09:27:43 --> Upload Class Initialized
+DEBUG - 2025-08-19 09:27:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 09:27:43 --> Config Class Initialized
+INFO - 2025-08-19 09:27:43 --> Hooks Class Initialized
+DEBUG - 2025-08-19 09:27:43 --> UTF-8 Support Enabled
+INFO - 2025-08-19 09:27:43 --> Utf8 Class Initialized
+INFO - 2025-08-19 09:27:43 --> URI Class Initialized
+INFO - 2025-08-19 09:27:43 --> Router Class Initialized
+INFO - 2025-08-19 09:27:43 --> Output Class Initialized
+INFO - 2025-08-19 09:27:43 --> Security Class Initialized
+DEBUG - 2025-08-19 09:27:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 09:27:43 --> Input Class Initialized
+INFO - 2025-08-19 09:27:43 --> Language Class Initialized
+INFO - 2025-08-19 09:27:43 --> Loader Class Initialized
+INFO - 2025-08-19 09:27:43 --> Helper loaded: url_helper
+INFO - 2025-08-19 09:27:43 --> Database Driver Class Initialized
+INFO - 2025-08-19 09:27:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 09:27:43 --> Controller Class Initialized
+INFO - 2025-08-19 09:27:43 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 09:27:43 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 09:27:43 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 09:27:43 --> Upload Class Initialized
+DEBUG - 2025-08-19 09:27:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 09:27:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 09:27:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 09:27:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 09:27:43 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 09:27:43 --> Final output sent to browser
+DEBUG - 2025-08-19 09:27:43 --> Total execution time: 0.1085
+INFO - 2025-08-19 09:27:48 --> Config Class Initialized
+INFO - 2025-08-19 09:27:48 --> Hooks Class Initialized
+DEBUG - 2025-08-19 09:27:48 --> UTF-8 Support Enabled
+INFO - 2025-08-19 09:27:48 --> Utf8 Class Initialized
+INFO - 2025-08-19 09:27:48 --> URI Class Initialized
+INFO - 2025-08-19 09:27:48 --> Router Class Initialized
+INFO - 2025-08-19 09:27:48 --> Output Class Initialized
+INFO - 2025-08-19 09:27:48 --> Security Class Initialized
+DEBUG - 2025-08-19 09:27:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 09:27:48 --> Input Class Initialized
+INFO - 2025-08-19 09:27:48 --> Language Class Initialized
+INFO - 2025-08-19 09:27:48 --> Loader Class Initialized
+INFO - 2025-08-19 09:27:48 --> Helper loaded: url_helper
+INFO - 2025-08-19 09:27:48 --> Database Driver Class Initialized
+INFO - 2025-08-19 09:27:48 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 09:27:48 --> Controller Class Initialized
+INFO - 2025-08-19 09:27:48 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 09:27:48 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 09:27:48 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 09:27:48 --> Upload Class Initialized
+DEBUG - 2025-08-19 09:27:48 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 09:27:48 --> Config Class Initialized
+INFO - 2025-08-19 09:27:48 --> Hooks Class Initialized
+DEBUG - 2025-08-19 09:27:48 --> UTF-8 Support Enabled
+INFO - 2025-08-19 09:27:48 --> Utf8 Class Initialized
+INFO - 2025-08-19 09:27:48 --> URI Class Initialized
+INFO - 2025-08-19 09:27:48 --> Router Class Initialized
+INFO - 2025-08-19 09:27:48 --> Output Class Initialized
+INFO - 2025-08-19 09:27:48 --> Security Class Initialized
+DEBUG - 2025-08-19 09:27:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 09:27:48 --> Input Class Initialized
+INFO - 2025-08-19 09:27:48 --> Language Class Initialized
+INFO - 2025-08-19 09:27:48 --> Loader Class Initialized
+INFO - 2025-08-19 09:27:48 --> Helper loaded: url_helper
+INFO - 2025-08-19 09:27:48 --> Database Driver Class Initialized
+INFO - 2025-08-19 09:27:48 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 09:27:48 --> Controller Class Initialized
+INFO - 2025-08-19 09:27:48 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 09:27:48 --> Model "Dokumen_model" initialized
+INFO - 2025-08-19 09:27:48 --> Model "Laporan_model" initialized
+INFO - 2025-08-19 09:27:48 --> Upload Class Initialized
+DEBUG - 2025-08-19 09:27:48 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 09:27:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 09:27:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 09:27:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\data_laporan.php
+INFO - 2025-08-19 09:27:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 09:27:48 --> Final output sent to browser
+DEBUG - 2025-08-19 09:27:48 --> Total execution time: 0.0367
+INFO - 2025-08-19 09:27:54 --> Config Class Initialized
+INFO - 2025-08-19 09:27:54 --> Hooks Class Initialized
+DEBUG - 2025-08-19 09:27:54 --> UTF-8 Support Enabled
+INFO - 2025-08-19 09:27:54 --> Utf8 Class Initialized
+INFO - 2025-08-19 09:27:54 --> URI Class Initialized
+INFO - 2025-08-19 09:27:54 --> Router Class Initialized
+INFO - 2025-08-19 09:27:54 --> Output Class Initialized
+INFO - 2025-08-19 09:27:54 --> Security Class Initialized
+DEBUG - 2025-08-19 09:27:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 09:27:54 --> Input Class Initialized
+INFO - 2025-08-19 09:27:54 --> Language Class Initialized
+INFO - 2025-08-19 09:27:54 --> Loader Class Initialized
+INFO - 2025-08-19 09:27:54 --> Helper loaded: url_helper
+INFO - 2025-08-19 09:27:54 --> Database Driver Class Initialized
+INFO - 2025-08-19 09:27:54 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 09:27:54 --> Controller Class Initialized
+DEBUG - 2025-08-19 09:27:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 09:27:54 --> Model "User_model" initialized
+INFO - 2025-08-19 09:27:54 --> Config Class Initialized
+INFO - 2025-08-19 09:27:54 --> Hooks Class Initialized
+DEBUG - 2025-08-19 09:27:54 --> UTF-8 Support Enabled
+INFO - 2025-08-19 09:27:54 --> Utf8 Class Initialized
+INFO - 2025-08-19 09:27:54 --> URI Class Initialized
+INFO - 2025-08-19 09:27:54 --> Router Class Initialized
+INFO - 2025-08-19 09:27:54 --> Output Class Initialized
+INFO - 2025-08-19 09:27:54 --> Security Class Initialized
+DEBUG - 2025-08-19 09:27:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 09:27:54 --> Input Class Initialized
+INFO - 2025-08-19 09:27:54 --> Language Class Initialized
+INFO - 2025-08-19 09:27:54 --> Loader Class Initialized
+INFO - 2025-08-19 09:27:54 --> Helper loaded: url_helper
+INFO - 2025-08-19 09:27:54 --> Database Driver Class Initialized
+INFO - 2025-08-19 09:27:54 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 09:27:54 --> Controller Class Initialized
+DEBUG - 2025-08-19 09:27:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 09:27:54 --> Model "User_model" initialized
+INFO - 2025-08-19 09:27:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 09:27:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 09:27:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 09:27:54 --> Final output sent to browser
+DEBUG - 2025-08-19 09:27:54 --> Total execution time: 0.0409
+INFO - 2025-08-19 14:26:10 --> Config Class Initialized
+INFO - 2025-08-19 14:26:10 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:26:10 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:26:10 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:26:10 --> URI Class Initialized
+INFO - 2025-08-19 14:26:10 --> Router Class Initialized
+INFO - 2025-08-19 14:26:10 --> Output Class Initialized
+INFO - 2025-08-19 14:26:10 --> Security Class Initialized
+DEBUG - 2025-08-19 14:26:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:26:10 --> Input Class Initialized
+INFO - 2025-08-19 14:26:10 --> Language Class Initialized
+INFO - 2025-08-19 14:26:10 --> Loader Class Initialized
+INFO - 2025-08-19 14:26:10 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:26:10 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:26:10 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:26:10 --> Controller Class Initialized
+DEBUG - 2025-08-19 14:26:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 14:26:10 --> Model "User_model" initialized
+INFO - 2025-08-19 14:26:10 --> Config Class Initialized
+INFO - 2025-08-19 14:26:10 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:26:10 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:26:10 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:26:10 --> URI Class Initialized
+INFO - 2025-08-19 14:26:10 --> Router Class Initialized
+INFO - 2025-08-19 14:26:10 --> Output Class Initialized
+INFO - 2025-08-19 14:26:10 --> Security Class Initialized
+DEBUG - 2025-08-19 14:26:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:26:10 --> Input Class Initialized
+INFO - 2025-08-19 14:26:10 --> Language Class Initialized
+INFO - 2025-08-19 14:26:10 --> Loader Class Initialized
+INFO - 2025-08-19 14:26:10 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:26:10 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:26:10 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:26:10 --> Controller Class Initialized
+INFO - 2025-08-19 14:26:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:26:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:26:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:26:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:26:10 --> Final output sent to browser
+DEBUG - 2025-08-19 14:26:10 --> Total execution time: 0.0932
+INFO - 2025-08-19 14:26:13 --> Config Class Initialized
+INFO - 2025-08-19 14:26:13 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:26:13 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:26:13 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:26:13 --> URI Class Initialized
+INFO - 2025-08-19 14:26:13 --> Router Class Initialized
+INFO - 2025-08-19 14:26:13 --> Output Class Initialized
+INFO - 2025-08-19 14:26:13 --> Security Class Initialized
+DEBUG - 2025-08-19 14:26:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:26:13 --> Input Class Initialized
+INFO - 2025-08-19 14:26:13 --> Language Class Initialized
+INFO - 2025-08-19 14:26:13 --> Loader Class Initialized
+INFO - 2025-08-19 14:26:13 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:26:13 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:26:13 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:26:13 --> Controller Class Initialized
+INFO - 2025-08-19 14:26:13 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:26:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:26:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:26:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:26:13 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:26:13 --> Final output sent to browser
+DEBUG - 2025-08-19 14:26:13 --> Total execution time: 0.0886
+INFO - 2025-08-19 14:26:29 --> Config Class Initialized
+INFO - 2025-08-19 14:26:29 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:26:29 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:26:29 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:26:29 --> URI Class Initialized
+INFO - 2025-08-19 14:26:29 --> Router Class Initialized
+INFO - 2025-08-19 14:26:29 --> Output Class Initialized
+INFO - 2025-08-19 14:26:29 --> Security Class Initialized
+DEBUG - 2025-08-19 14:26:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:26:29 --> Input Class Initialized
+INFO - 2025-08-19 14:26:29 --> Language Class Initialized
+INFO - 2025-08-19 14:26:29 --> Loader Class Initialized
+INFO - 2025-08-19 14:26:29 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:26:29 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:26:29 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:26:29 --> Controller Class Initialized
+INFO - 2025-08-19 14:26:29 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:26:29 --> Upload Class Initialized
+INFO - 2025-08-19 14:26:29 --> Config Class Initialized
+INFO - 2025-08-19 14:26:29 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:26:29 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:26:29 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:26:29 --> URI Class Initialized
+INFO - 2025-08-19 14:26:29 --> Router Class Initialized
+INFO - 2025-08-19 14:26:29 --> Output Class Initialized
+INFO - 2025-08-19 14:26:29 --> Security Class Initialized
+DEBUG - 2025-08-19 14:26:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:26:29 --> Input Class Initialized
+INFO - 2025-08-19 14:26:29 --> Language Class Initialized
+INFO - 2025-08-19 14:26:29 --> Loader Class Initialized
+INFO - 2025-08-19 14:26:29 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:26:29 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:26:29 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:26:29 --> Controller Class Initialized
+INFO - 2025-08-19 14:26:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:26:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:26:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:26:29 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:26:29 --> Final output sent to browser
+DEBUG - 2025-08-19 14:26:29 --> Total execution time: 0.0628
+INFO - 2025-08-19 14:28:13 --> Config Class Initialized
+INFO - 2025-08-19 14:28:13 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:28:13 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:28:13 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:28:14 --> URI Class Initialized
+INFO - 2025-08-19 14:28:14 --> Router Class Initialized
+INFO - 2025-08-19 14:28:14 --> Output Class Initialized
+INFO - 2025-08-19 14:28:14 --> Security Class Initialized
+DEBUG - 2025-08-19 14:28:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:28:14 --> Input Class Initialized
+INFO - 2025-08-19 14:28:14 --> Language Class Initialized
+INFO - 2025-08-19 14:28:14 --> Loader Class Initialized
+INFO - 2025-08-19 14:28:14 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:28:14 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:28:14 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:28:14 --> Controller Class Initialized
+INFO - 2025-08-19 14:28:14 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:28:14 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:28:14 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:28:14 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:28:14 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:28:14 --> Final output sent to browser
+DEBUG - 2025-08-19 14:28:14 --> Total execution time: 0.0766
+INFO - 2025-08-19 14:28:32 --> Config Class Initialized
+INFO - 2025-08-19 14:28:32 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:28:32 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:28:32 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:28:32 --> URI Class Initialized
+INFO - 2025-08-19 14:28:32 --> Router Class Initialized
+INFO - 2025-08-19 14:28:32 --> Output Class Initialized
+INFO - 2025-08-19 14:28:32 --> Security Class Initialized
+DEBUG - 2025-08-19 14:28:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:28:32 --> Input Class Initialized
+INFO - 2025-08-19 14:28:32 --> Language Class Initialized
+INFO - 2025-08-19 14:28:32 --> Loader Class Initialized
+INFO - 2025-08-19 14:28:32 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:28:32 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:28:32 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:28:32 --> Controller Class Initialized
+INFO - 2025-08-19 14:28:32 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:28:32 --> Upload Class Initialized
+INFO - 2025-08-19 14:28:32 --> Config Class Initialized
+INFO - 2025-08-19 14:28:32 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:28:32 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:28:32 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:28:32 --> URI Class Initialized
+INFO - 2025-08-19 14:28:32 --> Router Class Initialized
+INFO - 2025-08-19 14:28:32 --> Output Class Initialized
+INFO - 2025-08-19 14:28:32 --> Security Class Initialized
+DEBUG - 2025-08-19 14:28:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:28:32 --> Input Class Initialized
+INFO - 2025-08-19 14:28:32 --> Language Class Initialized
+INFO - 2025-08-19 14:28:32 --> Loader Class Initialized
+INFO - 2025-08-19 14:28:32 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:28:32 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:28:32 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:28:32 --> Controller Class Initialized
+INFO - 2025-08-19 14:28:32 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:28:32 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:28:32 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:28:32 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:28:32 --> Final output sent to browser
+DEBUG - 2025-08-19 14:28:32 --> Total execution time: 0.0677
+INFO - 2025-08-19 14:28:47 --> Config Class Initialized
+INFO - 2025-08-19 14:28:47 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:28:47 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:28:47 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:28:47 --> URI Class Initialized
+INFO - 2025-08-19 14:28:47 --> Router Class Initialized
+INFO - 2025-08-19 14:28:47 --> Output Class Initialized
+INFO - 2025-08-19 14:28:47 --> Security Class Initialized
+DEBUG - 2025-08-19 14:28:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:28:47 --> Input Class Initialized
+INFO - 2025-08-19 14:28:47 --> Language Class Initialized
+INFO - 2025-08-19 14:28:47 --> Loader Class Initialized
+INFO - 2025-08-19 14:28:47 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:28:47 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:28:47 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:28:47 --> Controller Class Initialized
+INFO - 2025-08-19 14:28:47 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:28:47 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:28:47 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:28:47 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:28:47 --> Final output sent to browser
+DEBUG - 2025-08-19 14:28:47 --> Total execution time: 0.0694
+INFO - 2025-08-19 14:28:49 --> Config Class Initialized
+INFO - 2025-08-19 14:28:49 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:28:49 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:28:49 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:28:49 --> URI Class Initialized
+INFO - 2025-08-19 14:28:49 --> Router Class Initialized
+INFO - 2025-08-19 14:28:49 --> Output Class Initialized
+INFO - 2025-08-19 14:28:49 --> Security Class Initialized
+DEBUG - 2025-08-19 14:28:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:28:49 --> Input Class Initialized
+INFO - 2025-08-19 14:28:49 --> Language Class Initialized
+INFO - 2025-08-19 14:28:49 --> Loader Class Initialized
+INFO - 2025-08-19 14:28:49 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:28:49 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:28:49 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:28:49 --> Controller Class Initialized
+INFO - 2025-08-19 14:28:49 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:28:49 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:28:49 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:28:49 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:28:49 --> Final output sent to browser
+DEBUG - 2025-08-19 14:28:49 --> Total execution time: 0.0635
+INFO - 2025-08-19 14:28:51 --> Config Class Initialized
+INFO - 2025-08-19 14:28:51 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:28:51 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:28:51 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:28:51 --> URI Class Initialized
+INFO - 2025-08-19 14:28:51 --> Router Class Initialized
+INFO - 2025-08-19 14:28:51 --> Output Class Initialized
+INFO - 2025-08-19 14:28:51 --> Security Class Initialized
+DEBUG - 2025-08-19 14:28:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:28:51 --> Input Class Initialized
+INFO - 2025-08-19 14:28:51 --> Language Class Initialized
+INFO - 2025-08-19 14:28:51 --> Loader Class Initialized
+INFO - 2025-08-19 14:28:51 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:28:51 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:28:51 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:28:51 --> Controller Class Initialized
+INFO - 2025-08-19 14:28:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:28:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:28:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:28:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:28:51 --> Final output sent to browser
+DEBUG - 2025-08-19 14:28:51 --> Total execution time: 0.0637
+INFO - 2025-08-19 14:28:53 --> Config Class Initialized
+INFO - 2025-08-19 14:28:53 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:28:53 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:28:53 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:28:53 --> URI Class Initialized
+INFO - 2025-08-19 14:28:53 --> Router Class Initialized
+INFO - 2025-08-19 14:28:53 --> Output Class Initialized
+INFO - 2025-08-19 14:28:53 --> Security Class Initialized
+DEBUG - 2025-08-19 14:28:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:28:53 --> Input Class Initialized
+INFO - 2025-08-19 14:28:53 --> Language Class Initialized
+INFO - 2025-08-19 14:28:53 --> Loader Class Initialized
+INFO - 2025-08-19 14:28:53 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:28:53 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:28:53 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:28:53 --> Controller Class Initialized
+INFO - 2025-08-19 14:28:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:28:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:28:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:28:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:28:53 --> Final output sent to browser
+DEBUG - 2025-08-19 14:28:53 --> Total execution time: 0.0720
+INFO - 2025-08-19 14:28:53 --> Config Class Initialized
+INFO - 2025-08-19 14:28:53 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:28:53 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:28:53 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:28:53 --> URI Class Initialized
+INFO - 2025-08-19 14:28:53 --> Router Class Initialized
+INFO - 2025-08-19 14:28:53 --> Output Class Initialized
+INFO - 2025-08-19 14:28:53 --> Security Class Initialized
+DEBUG - 2025-08-19 14:28:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:28:53 --> Input Class Initialized
+INFO - 2025-08-19 14:28:53 --> Language Class Initialized
+INFO - 2025-08-19 14:28:53 --> Loader Class Initialized
+INFO - 2025-08-19 14:28:53 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:28:53 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:28:53 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:28:53 --> Controller Class Initialized
+INFO - 2025-08-19 14:28:53 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:28:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:28:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:28:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:28:53 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:28:53 --> Final output sent to browser
+DEBUG - 2025-08-19 14:28:53 --> Total execution time: 0.0392
+INFO - 2025-08-19 14:28:58 --> Config Class Initialized
+INFO - 2025-08-19 14:28:58 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:28:58 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:28:58 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:28:58 --> URI Class Initialized
+INFO - 2025-08-19 14:28:58 --> Router Class Initialized
+INFO - 2025-08-19 14:28:58 --> Output Class Initialized
+INFO - 2025-08-19 14:28:58 --> Security Class Initialized
+DEBUG - 2025-08-19 14:28:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:28:58 --> Input Class Initialized
+INFO - 2025-08-19 14:28:58 --> Language Class Initialized
+INFO - 2025-08-19 14:28:58 --> Loader Class Initialized
+INFO - 2025-08-19 14:28:58 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:28:58 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:28:58 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:28:58 --> Controller Class Initialized
+INFO - 2025-08-19 14:28:58 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:28:58 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:28:58 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:28:58 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:28:58 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:28:58 --> Final output sent to browser
+DEBUG - 2025-08-19 14:28:58 --> Total execution time: 0.0419
+INFO - 2025-08-19 14:29:00 --> Config Class Initialized
+INFO - 2025-08-19 14:29:00 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:29:00 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:29:00 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:29:00 --> URI Class Initialized
+INFO - 2025-08-19 14:29:00 --> Router Class Initialized
+INFO - 2025-08-19 14:29:00 --> Output Class Initialized
+INFO - 2025-08-19 14:29:00 --> Security Class Initialized
+DEBUG - 2025-08-19 14:29:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:29:00 --> Input Class Initialized
+INFO - 2025-08-19 14:29:00 --> Language Class Initialized
+INFO - 2025-08-19 14:29:00 --> Loader Class Initialized
+INFO - 2025-08-19 14:29:00 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:29:00 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:29:00 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:29:00 --> Controller Class Initialized
+INFO - 2025-08-19 14:29:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:29:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:29:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:29:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:29:00 --> Final output sent to browser
+DEBUG - 2025-08-19 14:29:00 --> Total execution time: 0.0905
+INFO - 2025-08-19 14:29:01 --> Config Class Initialized
+INFO - 2025-08-19 14:29:01 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:29:01 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:29:01 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:29:01 --> URI Class Initialized
+INFO - 2025-08-19 14:29:01 --> Router Class Initialized
+INFO - 2025-08-19 14:29:01 --> Output Class Initialized
+INFO - 2025-08-19 14:29:01 --> Security Class Initialized
+DEBUG - 2025-08-19 14:29:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:29:01 --> Input Class Initialized
+INFO - 2025-08-19 14:29:01 --> Language Class Initialized
+INFO - 2025-08-19 14:29:01 --> Loader Class Initialized
+INFO - 2025-08-19 14:29:01 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:29:01 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:29:01 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:29:01 --> Controller Class Initialized
+INFO - 2025-08-19 14:29:01 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:29:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:29:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:29:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:29:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:29:01 --> Final output sent to browser
+DEBUG - 2025-08-19 14:29:01 --> Total execution time: 0.0306
+INFO - 2025-08-19 14:29:28 --> Config Class Initialized
+INFO - 2025-08-19 14:29:28 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:29:28 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:29:28 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:29:28 --> URI Class Initialized
+INFO - 2025-08-19 14:29:28 --> Router Class Initialized
+INFO - 2025-08-19 14:29:28 --> Output Class Initialized
+INFO - 2025-08-19 14:29:28 --> Security Class Initialized
+DEBUG - 2025-08-19 14:29:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:29:28 --> Input Class Initialized
+INFO - 2025-08-19 14:29:28 --> Language Class Initialized
+INFO - 2025-08-19 14:29:28 --> Loader Class Initialized
+INFO - 2025-08-19 14:29:28 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:29:28 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:29:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:29:28 --> Controller Class Initialized
+INFO - 2025-08-19 14:29:28 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:29:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:29:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:29:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:29:28 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:29:28 --> Final output sent to browser
+DEBUG - 2025-08-19 14:29:28 --> Total execution time: 0.0491
+INFO - 2025-08-19 14:31:45 --> Config Class Initialized
+INFO - 2025-08-19 14:31:45 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:31:45 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:31:45 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:31:45 --> URI Class Initialized
+INFO - 2025-08-19 14:31:45 --> Router Class Initialized
+INFO - 2025-08-19 14:31:45 --> Output Class Initialized
+INFO - 2025-08-19 14:31:45 --> Security Class Initialized
+DEBUG - 2025-08-19 14:31:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:31:45 --> Input Class Initialized
+INFO - 2025-08-19 14:31:45 --> Language Class Initialized
+INFO - 2025-08-19 14:31:45 --> Loader Class Initialized
+INFO - 2025-08-19 14:31:45 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:31:45 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:31:45 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:31:45 --> Controller Class Initialized
+INFO - 2025-08-19 14:31:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:31:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:31:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:31:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:31:45 --> Final output sent to browser
+DEBUG - 2025-08-19 14:31:45 --> Total execution time: 0.0658
+INFO - 2025-08-19 14:31:46 --> Config Class Initialized
+INFO - 2025-08-19 14:31:46 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:31:46 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:31:46 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:31:46 --> URI Class Initialized
+INFO - 2025-08-19 14:31:46 --> Router Class Initialized
+INFO - 2025-08-19 14:31:46 --> Output Class Initialized
+INFO - 2025-08-19 14:31:46 --> Security Class Initialized
+DEBUG - 2025-08-19 14:31:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:31:46 --> Input Class Initialized
+INFO - 2025-08-19 14:31:46 --> Language Class Initialized
+INFO - 2025-08-19 14:31:46 --> Loader Class Initialized
+INFO - 2025-08-19 14:31:46 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:31:46 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:31:46 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:31:46 --> Controller Class Initialized
+INFO - 2025-08-19 14:31:46 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:31:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:31:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:31:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:31:46 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:31:46 --> Final output sent to browser
+DEBUG - 2025-08-19 14:31:46 --> Total execution time: 0.1180
+INFO - 2025-08-19 14:31:48 --> Config Class Initialized
+INFO - 2025-08-19 14:31:48 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:31:48 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:31:48 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:31:48 --> URI Class Initialized
+INFO - 2025-08-19 14:31:48 --> Router Class Initialized
+INFO - 2025-08-19 14:31:48 --> Output Class Initialized
+INFO - 2025-08-19 14:31:48 --> Security Class Initialized
+DEBUG - 2025-08-19 14:31:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:31:48 --> Input Class Initialized
+INFO - 2025-08-19 14:31:48 --> Language Class Initialized
+INFO - 2025-08-19 14:31:48 --> Loader Class Initialized
+INFO - 2025-08-19 14:31:48 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:31:48 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:31:48 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:31:48 --> Controller Class Initialized
+INFO - 2025-08-19 14:31:48 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:31:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:31:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:31:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:31:48 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:31:48 --> Final output sent to browser
+DEBUG - 2025-08-19 14:31:48 --> Total execution time: 0.0424
+INFO - 2025-08-19 14:31:51 --> Config Class Initialized
+INFO - 2025-08-19 14:31:51 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:31:51 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:31:51 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:31:51 --> URI Class Initialized
+INFO - 2025-08-19 14:31:51 --> Router Class Initialized
+INFO - 2025-08-19 14:31:51 --> Output Class Initialized
+INFO - 2025-08-19 14:31:51 --> Security Class Initialized
+DEBUG - 2025-08-19 14:31:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:31:51 --> Input Class Initialized
+INFO - 2025-08-19 14:31:51 --> Language Class Initialized
+INFO - 2025-08-19 14:31:51 --> Loader Class Initialized
+INFO - 2025-08-19 14:31:51 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:31:51 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:31:51 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:31:51 --> Controller Class Initialized
+INFO - 2025-08-19 14:31:51 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:31:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:31:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:31:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:31:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:31:51 --> Final output sent to browser
+DEBUG - 2025-08-19 14:31:51 --> Total execution time: 0.0450
+INFO - 2025-08-19 14:31:54 --> Config Class Initialized
+INFO - 2025-08-19 14:31:54 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:31:54 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:31:54 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:31:54 --> URI Class Initialized
+INFO - 2025-08-19 14:31:54 --> Router Class Initialized
+INFO - 2025-08-19 14:31:54 --> Output Class Initialized
+INFO - 2025-08-19 14:31:54 --> Security Class Initialized
+DEBUG - 2025-08-19 14:31:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:31:54 --> Input Class Initialized
+INFO - 2025-08-19 14:31:54 --> Language Class Initialized
+INFO - 2025-08-19 14:31:54 --> Loader Class Initialized
+INFO - 2025-08-19 14:31:54 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:31:54 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:31:54 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:31:54 --> Controller Class Initialized
+INFO - 2025-08-19 14:31:54 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:31:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:31:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:31:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:31:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:31:54 --> Final output sent to browser
+DEBUG - 2025-08-19 14:31:54 --> Total execution time: 0.0615
+INFO - 2025-08-19 14:32:16 --> Config Class Initialized
+INFO - 2025-08-19 14:32:16 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:32:16 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:32:16 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:32:16 --> URI Class Initialized
+INFO - 2025-08-19 14:32:16 --> Router Class Initialized
+INFO - 2025-08-19 14:32:16 --> Output Class Initialized
+INFO - 2025-08-19 14:32:16 --> Security Class Initialized
+DEBUG - 2025-08-19 14:32:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:32:16 --> Input Class Initialized
+INFO - 2025-08-19 14:32:16 --> Language Class Initialized
+INFO - 2025-08-19 14:32:16 --> Loader Class Initialized
+INFO - 2025-08-19 14:32:16 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:32:16 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:32:16 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:32:16 --> Controller Class Initialized
+INFO - 2025-08-19 14:32:16 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:32:16 --> Upload Class Initialized
+INFO - 2025-08-19 14:32:16 --> Config Class Initialized
+INFO - 2025-08-19 14:32:16 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:32:16 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:32:16 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:32:16 --> URI Class Initialized
+INFO - 2025-08-19 14:32:16 --> Router Class Initialized
+INFO - 2025-08-19 14:32:16 --> Output Class Initialized
+INFO - 2025-08-19 14:32:16 --> Security Class Initialized
+DEBUG - 2025-08-19 14:32:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:32:16 --> Input Class Initialized
+INFO - 2025-08-19 14:32:16 --> Language Class Initialized
+INFO - 2025-08-19 14:32:16 --> Loader Class Initialized
+INFO - 2025-08-19 14:32:16 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:32:16 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:32:16 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:32:16 --> Controller Class Initialized
+INFO - 2025-08-19 14:32:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:32:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:32:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:32:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:32:16 --> Final output sent to browser
+DEBUG - 2025-08-19 14:32:16 --> Total execution time: 0.0619
+INFO - 2025-08-19 14:32:19 --> Config Class Initialized
+INFO - 2025-08-19 14:32:19 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:32:19 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:32:19 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:32:19 --> URI Class Initialized
+INFO - 2025-08-19 14:32:19 --> Router Class Initialized
+INFO - 2025-08-19 14:32:19 --> Output Class Initialized
+INFO - 2025-08-19 14:32:19 --> Security Class Initialized
+DEBUG - 2025-08-19 14:32:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:32:19 --> Input Class Initialized
+INFO - 2025-08-19 14:32:19 --> Language Class Initialized
+INFO - 2025-08-19 14:32:19 --> Loader Class Initialized
+INFO - 2025-08-19 14:32:19 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:32:19 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:32:19 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:32:19 --> Controller Class Initialized
+INFO - 2025-08-19 14:32:19 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:32:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:32:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:32:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:32:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:32:19 --> Final output sent to browser
+DEBUG - 2025-08-19 14:32:19 --> Total execution time: 0.0417
+INFO - 2025-08-19 14:32:38 --> Config Class Initialized
+INFO - 2025-08-19 14:32:38 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:32:38 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:32:38 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:32:38 --> URI Class Initialized
+INFO - 2025-08-19 14:32:38 --> Router Class Initialized
+INFO - 2025-08-19 14:32:38 --> Output Class Initialized
+INFO - 2025-08-19 14:32:38 --> Security Class Initialized
+DEBUG - 2025-08-19 14:32:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:32:38 --> Input Class Initialized
+INFO - 2025-08-19 14:32:38 --> Language Class Initialized
+INFO - 2025-08-19 14:32:38 --> Loader Class Initialized
+INFO - 2025-08-19 14:32:38 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:32:38 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:32:38 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:32:38 --> Controller Class Initialized
+INFO - 2025-08-19 14:32:38 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:32:38 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:32:38 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:32:38 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:32:38 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:32:38 --> Final output sent to browser
+DEBUG - 2025-08-19 14:32:38 --> Total execution time: 0.0397
+INFO - 2025-08-19 14:32:40 --> Config Class Initialized
+INFO - 2025-08-19 14:32:40 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:32:40 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:32:40 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:32:40 --> URI Class Initialized
+INFO - 2025-08-19 14:32:40 --> Router Class Initialized
+INFO - 2025-08-19 14:32:40 --> Output Class Initialized
+INFO - 2025-08-19 14:32:40 --> Security Class Initialized
+DEBUG - 2025-08-19 14:32:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:32:40 --> Input Class Initialized
+INFO - 2025-08-19 14:32:40 --> Language Class Initialized
+INFO - 2025-08-19 14:32:40 --> Loader Class Initialized
+INFO - 2025-08-19 14:32:40 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:32:40 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:32:40 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:32:40 --> Controller Class Initialized
+INFO - 2025-08-19 14:32:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:32:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:32:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:32:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:32:41 --> Final output sent to browser
+DEBUG - 2025-08-19 14:32:41 --> Total execution time: 0.0548
+INFO - 2025-08-19 14:32:41 --> Config Class Initialized
+INFO - 2025-08-19 14:32:41 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:32:41 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:32:41 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:32:41 --> URI Class Initialized
+INFO - 2025-08-19 14:32:41 --> Router Class Initialized
+INFO - 2025-08-19 14:32:41 --> Output Class Initialized
+INFO - 2025-08-19 14:32:41 --> Security Class Initialized
+DEBUG - 2025-08-19 14:32:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:32:41 --> Input Class Initialized
+INFO - 2025-08-19 14:32:41 --> Language Class Initialized
+INFO - 2025-08-19 14:32:41 --> Loader Class Initialized
+INFO - 2025-08-19 14:32:41 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:32:41 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:32:41 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:32:41 --> Controller Class Initialized
+INFO - 2025-08-19 14:32:41 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:32:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:32:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:32:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:32:41 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:32:41 --> Final output sent to browser
+DEBUG - 2025-08-19 14:32:41 --> Total execution time: 0.0319
+INFO - 2025-08-19 14:33:51 --> Config Class Initialized
+INFO - 2025-08-19 14:33:51 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:33:51 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:33:51 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:33:51 --> URI Class Initialized
+INFO - 2025-08-19 14:33:51 --> Router Class Initialized
+INFO - 2025-08-19 14:33:51 --> Output Class Initialized
+INFO - 2025-08-19 14:33:51 --> Security Class Initialized
+DEBUG - 2025-08-19 14:33:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:33:51 --> Input Class Initialized
+INFO - 2025-08-19 14:33:51 --> Language Class Initialized
+INFO - 2025-08-19 14:33:51 --> Loader Class Initialized
+INFO - 2025-08-19 14:33:51 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:33:51 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:33:51 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:33:51 --> Controller Class Initialized
+INFO - 2025-08-19 14:33:51 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:33:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:33:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:33:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:33:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:33:51 --> Final output sent to browser
+DEBUG - 2025-08-19 14:33:51 --> Total execution time: 0.2043
+INFO - 2025-08-19 14:33:52 --> Config Class Initialized
+INFO - 2025-08-19 14:33:52 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:33:52 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:33:52 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:33:52 --> URI Class Initialized
+INFO - 2025-08-19 14:33:52 --> Router Class Initialized
+INFO - 2025-08-19 14:33:52 --> Output Class Initialized
+INFO - 2025-08-19 14:33:52 --> Security Class Initialized
+DEBUG - 2025-08-19 14:33:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:33:52 --> Input Class Initialized
+INFO - 2025-08-19 14:33:52 --> Language Class Initialized
+INFO - 2025-08-19 14:33:52 --> Loader Class Initialized
+INFO - 2025-08-19 14:33:52 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:33:52 --> Database Driver Class Initialized
+ERROR - 2025-08-19 14:33:52 --> Severity: Warning --> session_start(): Failed to decode session object. Session has been destroyed D:\Project\template-frontend-ci3\system\libraries\Session\Session.php 143
+INFO - 2025-08-19 14:33:52 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:33:52 --> Controller Class Initialized
+INFO - 2025-08-19 14:33:52 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:33:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:33:52 --> Config Class Initialized
+INFO - 2025-08-19 14:33:52 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:33:52 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:33:52 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:33:52 --> URI Class Initialized
+INFO - 2025-08-19 14:33:52 --> Router Class Initialized
+INFO - 2025-08-19 14:33:52 --> Output Class Initialized
+INFO - 2025-08-19 14:33:52 --> Security Class Initialized
+DEBUG - 2025-08-19 14:33:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:33:52 --> Input Class Initialized
+INFO - 2025-08-19 14:33:52 --> Language Class Initialized
+INFO - 2025-08-19 14:33:52 --> Loader Class Initialized
+INFO - 2025-08-19 14:33:52 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:33:52 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:33:52 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:33:52 --> Controller Class Initialized
+INFO - 2025-08-19 14:33:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:33:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:33:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:33:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:33:52 --> Final output sent to browser
+DEBUG - 2025-08-19 14:33:52 --> Total execution time: 0.0539
+INFO - 2025-08-19 14:33:57 --> Config Class Initialized
+INFO - 2025-08-19 14:33:57 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:33:57 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:33:57 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:33:57 --> URI Class Initialized
+INFO - 2025-08-19 14:33:57 --> Router Class Initialized
+INFO - 2025-08-19 14:33:57 --> Output Class Initialized
+INFO - 2025-08-19 14:33:57 --> Security Class Initialized
+DEBUG - 2025-08-19 14:33:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:33:57 --> Input Class Initialized
+INFO - 2025-08-19 14:33:57 --> Language Class Initialized
+INFO - 2025-08-19 14:33:57 --> Loader Class Initialized
+INFO - 2025-08-19 14:33:57 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:33:57 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:33:57 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:33:57 --> Controller Class Initialized
+DEBUG - 2025-08-19 14:33:57 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 14:33:57 --> Model "User_model" initialized
+INFO - 2025-08-19 14:33:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:33:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 14:33:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:33:57 --> Final output sent to browser
+DEBUG - 2025-08-19 14:33:57 --> Total execution time: 0.0367
+INFO - 2025-08-19 14:34:01 --> Config Class Initialized
+INFO - 2025-08-19 14:34:01 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:34:01 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:34:01 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:34:01 --> URI Class Initialized
+INFO - 2025-08-19 14:34:01 --> Router Class Initialized
+INFO - 2025-08-19 14:34:01 --> Output Class Initialized
+INFO - 2025-08-19 14:34:01 --> Security Class Initialized
+DEBUG - 2025-08-19 14:34:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:34:01 --> Input Class Initialized
+INFO - 2025-08-19 14:34:01 --> Language Class Initialized
+INFO - 2025-08-19 14:34:01 --> Loader Class Initialized
+INFO - 2025-08-19 14:34:01 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:34:01 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:34:01 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:34:01 --> Controller Class Initialized
+DEBUG - 2025-08-19 14:34:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 14:34:01 --> Model "User_model" initialized
+INFO - 2025-08-19 14:34:01 --> Config Class Initialized
+INFO - 2025-08-19 14:34:01 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:34:01 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:34:01 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:34:01 --> URI Class Initialized
+INFO - 2025-08-19 14:34:01 --> Router Class Initialized
+INFO - 2025-08-19 14:34:01 --> Output Class Initialized
+INFO - 2025-08-19 14:34:01 --> Security Class Initialized
+DEBUG - 2025-08-19 14:34:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:34:01 --> Input Class Initialized
+INFO - 2025-08-19 14:34:01 --> Language Class Initialized
+INFO - 2025-08-19 14:34:01 --> Loader Class Initialized
+INFO - 2025-08-19 14:34:01 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:34:01 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:34:01 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:34:01 --> Controller Class Initialized
+INFO - 2025-08-19 14:34:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:34:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:34:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:34:01 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:34:01 --> Final output sent to browser
+DEBUG - 2025-08-19 14:34:01 --> Total execution time: 0.0668
+INFO - 2025-08-19 14:34:03 --> Config Class Initialized
+INFO - 2025-08-19 14:34:03 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:34:03 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:34:03 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:34:03 --> URI Class Initialized
+INFO - 2025-08-19 14:34:03 --> Router Class Initialized
+INFO - 2025-08-19 14:34:03 --> Output Class Initialized
+INFO - 2025-08-19 14:34:03 --> Security Class Initialized
+DEBUG - 2025-08-19 14:34:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:34:03 --> Input Class Initialized
+INFO - 2025-08-19 14:34:03 --> Language Class Initialized
+INFO - 2025-08-19 14:34:03 --> Loader Class Initialized
+INFO - 2025-08-19 14:34:03 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:34:03 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:34:03 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:34:03 --> Controller Class Initialized
+INFO - 2025-08-19 14:34:03 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:34:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:34:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:34:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:34:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:34:03 --> Final output sent to browser
+DEBUG - 2025-08-19 14:34:03 --> Total execution time: 0.0459
+INFO - 2025-08-19 14:34:19 --> Config Class Initialized
+INFO - 2025-08-19 14:34:19 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:34:19 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:34:19 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:34:19 --> URI Class Initialized
+INFO - 2025-08-19 14:34:19 --> Router Class Initialized
+INFO - 2025-08-19 14:34:19 --> Output Class Initialized
+INFO - 2025-08-19 14:34:19 --> Security Class Initialized
+DEBUG - 2025-08-19 14:34:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:34:19 --> Input Class Initialized
+INFO - 2025-08-19 14:34:19 --> Language Class Initialized
+INFO - 2025-08-19 14:34:19 --> Loader Class Initialized
+INFO - 2025-08-19 14:34:19 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:34:19 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:34:19 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:34:19 --> Controller Class Initialized
+INFO - 2025-08-19 14:34:19 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:34:19 --> Upload Class Initialized
+INFO - 2025-08-19 14:34:19 --> Config Class Initialized
+INFO - 2025-08-19 14:34:19 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:34:19 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:34:19 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:34:19 --> URI Class Initialized
+INFO - 2025-08-19 14:34:19 --> Router Class Initialized
+INFO - 2025-08-19 14:34:19 --> Output Class Initialized
+INFO - 2025-08-19 14:34:19 --> Security Class Initialized
+DEBUG - 2025-08-19 14:34:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:34:19 --> Input Class Initialized
+INFO - 2025-08-19 14:34:19 --> Language Class Initialized
+INFO - 2025-08-19 14:34:19 --> Loader Class Initialized
+INFO - 2025-08-19 14:34:19 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:34:19 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:34:19 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:34:19 --> Controller Class Initialized
+INFO - 2025-08-19 14:34:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:34:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:34:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:34:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:34:19 --> Final output sent to browser
+DEBUG - 2025-08-19 14:34:19 --> Total execution time: 0.0858
+INFO - 2025-08-19 14:34:20 --> Config Class Initialized
+INFO - 2025-08-19 14:34:20 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:34:20 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:34:20 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:34:20 --> URI Class Initialized
+INFO - 2025-08-19 14:34:20 --> Router Class Initialized
+INFO - 2025-08-19 14:34:20 --> Output Class Initialized
+INFO - 2025-08-19 14:34:20 --> Security Class Initialized
+DEBUG - 2025-08-19 14:34:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:34:20 --> Input Class Initialized
+INFO - 2025-08-19 14:34:20 --> Language Class Initialized
+INFO - 2025-08-19 14:34:20 --> Loader Class Initialized
+INFO - 2025-08-19 14:34:20 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:34:20 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:34:20 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:34:20 --> Controller Class Initialized
+INFO - 2025-08-19 14:34:20 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:34:20 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:34:20 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:34:20 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:34:20 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:34:20 --> Final output sent to browser
+DEBUG - 2025-08-19 14:34:20 --> Total execution time: 0.0517
+INFO - 2025-08-19 14:34:21 --> Config Class Initialized
+INFO - 2025-08-19 14:34:21 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:34:21 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:34:21 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:34:21 --> URI Class Initialized
+INFO - 2025-08-19 14:34:21 --> Router Class Initialized
+INFO - 2025-08-19 14:34:21 --> Output Class Initialized
+INFO - 2025-08-19 14:34:21 --> Security Class Initialized
+DEBUG - 2025-08-19 14:34:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:34:21 --> Input Class Initialized
+INFO - 2025-08-19 14:34:21 --> Language Class Initialized
+INFO - 2025-08-19 14:34:21 --> Loader Class Initialized
+INFO - 2025-08-19 14:34:21 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:34:21 --> Database Driver Class Initialized
+ERROR - 2025-08-19 14:34:21 --> Severity: Warning --> session_start(): Failed to decode session object. Session has been destroyed D:\Project\template-frontend-ci3\system\libraries\Session\Session.php 143
+INFO - 2025-08-19 14:34:21 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:34:21 --> Controller Class Initialized
+INFO - 2025-08-19 14:34:21 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:34:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:34:21 --> Config Class Initialized
+INFO - 2025-08-19 14:34:21 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:34:21 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:34:21 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:34:21 --> URI Class Initialized
+INFO - 2025-08-19 14:34:21 --> Router Class Initialized
+INFO - 2025-08-19 14:34:21 --> Output Class Initialized
+INFO - 2025-08-19 14:34:21 --> Security Class Initialized
+DEBUG - 2025-08-19 14:34:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:34:21 --> Input Class Initialized
+INFO - 2025-08-19 14:34:21 --> Language Class Initialized
+INFO - 2025-08-19 14:34:21 --> Loader Class Initialized
+INFO - 2025-08-19 14:34:21 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:34:21 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:34:21 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:34:21 --> Controller Class Initialized
+INFO - 2025-08-19 14:34:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:34:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:34:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:34:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:34:21 --> Final output sent to browser
+DEBUG - 2025-08-19 14:34:21 --> Total execution time: 0.0634
+INFO - 2025-08-19 14:34:54 --> Config Class Initialized
+INFO - 2025-08-19 14:34:54 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:34:54 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:34:54 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:34:54 --> URI Class Initialized
+INFO - 2025-08-19 14:34:54 --> Router Class Initialized
+INFO - 2025-08-19 14:34:54 --> Output Class Initialized
+INFO - 2025-08-19 14:34:54 --> Security Class Initialized
+DEBUG - 2025-08-19 14:34:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:34:54 --> Input Class Initialized
+INFO - 2025-08-19 14:34:54 --> Language Class Initialized
+INFO - 2025-08-19 14:34:54 --> Loader Class Initialized
+INFO - 2025-08-19 14:34:54 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:34:54 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:34:54 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:34:54 --> Controller Class Initialized
+INFO - 2025-08-19 14:34:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:34:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:34:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:34:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:34:54 --> Final output sent to browser
+DEBUG - 2025-08-19 14:34:54 --> Total execution time: 0.0704
+INFO - 2025-08-19 14:34:55 --> Config Class Initialized
+INFO - 2025-08-19 14:34:55 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:34:55 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:34:55 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:34:55 --> URI Class Initialized
+INFO - 2025-08-19 14:34:55 --> Router Class Initialized
+INFO - 2025-08-19 14:34:55 --> Output Class Initialized
+INFO - 2025-08-19 14:34:55 --> Security Class Initialized
+DEBUG - 2025-08-19 14:34:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:34:55 --> Input Class Initialized
+INFO - 2025-08-19 14:34:55 --> Language Class Initialized
+INFO - 2025-08-19 14:34:55 --> Loader Class Initialized
+INFO - 2025-08-19 14:34:55 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:34:55 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:34:55 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:34:55 --> Controller Class Initialized
+INFO - 2025-08-19 14:34:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:34:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:34:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:34:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:34:55 --> Final output sent to browser
+DEBUG - 2025-08-19 14:34:55 --> Total execution time: 0.0882
+INFO - 2025-08-19 14:34:56 --> Config Class Initialized
+INFO - 2025-08-19 14:34:56 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:34:56 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:34:56 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:34:56 --> URI Class Initialized
+INFO - 2025-08-19 14:34:56 --> Router Class Initialized
+INFO - 2025-08-19 14:34:56 --> Output Class Initialized
+INFO - 2025-08-19 14:34:56 --> Security Class Initialized
+DEBUG - 2025-08-19 14:34:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:34:56 --> Input Class Initialized
+INFO - 2025-08-19 14:34:56 --> Language Class Initialized
+INFO - 2025-08-19 14:34:56 --> Loader Class Initialized
+INFO - 2025-08-19 14:34:56 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:34:56 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:34:56 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:34:56 --> Controller Class Initialized
+INFO - 2025-08-19 14:34:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:34:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:34:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:34:56 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:34:56 --> Final output sent to browser
+DEBUG - 2025-08-19 14:34:56 --> Total execution time: 0.0528
+INFO - 2025-08-19 14:34:59 --> Config Class Initialized
+INFO - 2025-08-19 14:34:59 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:34:59 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:34:59 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:34:59 --> URI Class Initialized
+INFO - 2025-08-19 14:34:59 --> Router Class Initialized
+INFO - 2025-08-19 14:34:59 --> Output Class Initialized
+INFO - 2025-08-19 14:34:59 --> Security Class Initialized
+DEBUG - 2025-08-19 14:34:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:34:59 --> Input Class Initialized
+INFO - 2025-08-19 14:34:59 --> Language Class Initialized
+INFO - 2025-08-19 14:34:59 --> Loader Class Initialized
+INFO - 2025-08-19 14:34:59 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:34:59 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:34:59 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:34:59 --> Controller Class Initialized
+DEBUG - 2025-08-19 14:34:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 14:34:59 --> Model "User_model" initialized
+INFO - 2025-08-19 14:34:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:34:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\login_view.php
+INFO - 2025-08-19 14:34:59 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:34:59 --> Final output sent to browser
+DEBUG - 2025-08-19 14:34:59 --> Total execution time: 0.0400
+INFO - 2025-08-19 14:35:03 --> Config Class Initialized
+INFO - 2025-08-19 14:35:03 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:35:03 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:35:03 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:35:03 --> URI Class Initialized
+INFO - 2025-08-19 14:35:03 --> Router Class Initialized
+INFO - 2025-08-19 14:35:03 --> Output Class Initialized
+INFO - 2025-08-19 14:35:03 --> Security Class Initialized
+DEBUG - 2025-08-19 14:35:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:35:03 --> Input Class Initialized
+INFO - 2025-08-19 14:35:03 --> Language Class Initialized
+INFO - 2025-08-19 14:35:03 --> Loader Class Initialized
+INFO - 2025-08-19 14:35:03 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:35:03 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:35:03 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:35:03 --> Controller Class Initialized
+DEBUG - 2025-08-19 14:35:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-08-19 14:35:03 --> Model "User_model" initialized
+INFO - 2025-08-19 14:35:03 --> Config Class Initialized
+INFO - 2025-08-19 14:35:03 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:35:03 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:35:03 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:35:03 --> URI Class Initialized
+INFO - 2025-08-19 14:35:03 --> Router Class Initialized
+INFO - 2025-08-19 14:35:03 --> Output Class Initialized
+INFO - 2025-08-19 14:35:03 --> Security Class Initialized
+DEBUG - 2025-08-19 14:35:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:35:03 --> Input Class Initialized
+INFO - 2025-08-19 14:35:03 --> Language Class Initialized
+INFO - 2025-08-19 14:35:03 --> Loader Class Initialized
+INFO - 2025-08-19 14:35:03 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:35:03 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:35:03 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:35:03 --> Controller Class Initialized
+INFO - 2025-08-19 14:35:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:35:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:35:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:35:03 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:35:03 --> Final output sent to browser
+DEBUG - 2025-08-19 14:35:03 --> Total execution time: 0.0740
+INFO - 2025-08-19 14:35:04 --> Config Class Initialized
+INFO - 2025-08-19 14:35:04 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:35:04 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:35:04 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:35:04 --> URI Class Initialized
+INFO - 2025-08-19 14:35:04 --> Router Class Initialized
+INFO - 2025-08-19 14:35:04 --> Output Class Initialized
+INFO - 2025-08-19 14:35:04 --> Security Class Initialized
+DEBUG - 2025-08-19 14:35:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:35:04 --> Input Class Initialized
+INFO - 2025-08-19 14:35:04 --> Language Class Initialized
+INFO - 2025-08-19 14:35:04 --> Loader Class Initialized
+INFO - 2025-08-19 14:35:04 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:35:04 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:35:04 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:35:04 --> Controller Class Initialized
+INFO - 2025-08-19 14:35:04 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:35:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:35:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:35:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:35:04 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:35:04 --> Final output sent to browser
+DEBUG - 2025-08-19 14:35:04 --> Total execution time: 0.0505
+INFO - 2025-08-19 14:35:05 --> Config Class Initialized
+INFO - 2025-08-19 14:35:05 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:35:05 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:35:05 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:35:05 --> URI Class Initialized
+INFO - 2025-08-19 14:35:05 --> Router Class Initialized
+INFO - 2025-08-19 14:35:05 --> Output Class Initialized
+INFO - 2025-08-19 14:35:05 --> Security Class Initialized
+DEBUG - 2025-08-19 14:35:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:35:05 --> Input Class Initialized
+INFO - 2025-08-19 14:35:05 --> Language Class Initialized
+INFO - 2025-08-19 14:35:05 --> Loader Class Initialized
+INFO - 2025-08-19 14:35:05 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:35:05 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:35:05 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:35:05 --> Controller Class Initialized
+INFO - 2025-08-19 14:35:05 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:35:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:35:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:35:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:35:05 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:35:05 --> Final output sent to browser
+DEBUG - 2025-08-19 14:35:05 --> Total execution time: 0.0457
+INFO - 2025-08-19 14:35:23 --> Config Class Initialized
+INFO - 2025-08-19 14:35:23 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:35:23 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:35:23 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:35:23 --> URI Class Initialized
+INFO - 2025-08-19 14:35:23 --> Router Class Initialized
+INFO - 2025-08-19 14:35:23 --> Output Class Initialized
+INFO - 2025-08-19 14:35:23 --> Security Class Initialized
+DEBUG - 2025-08-19 14:35:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:35:23 --> Input Class Initialized
+INFO - 2025-08-19 14:35:23 --> Language Class Initialized
+INFO - 2025-08-19 14:35:23 --> Loader Class Initialized
+INFO - 2025-08-19 14:35:23 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:35:23 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:35:23 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:35:23 --> Controller Class Initialized
+INFO - 2025-08-19 14:35:23 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:35:23 --> Upload Class Initialized
+INFO - 2025-08-19 14:35:23 --> Config Class Initialized
+INFO - 2025-08-19 14:35:23 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:35:23 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:35:23 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:35:23 --> URI Class Initialized
+INFO - 2025-08-19 14:35:23 --> Router Class Initialized
+INFO - 2025-08-19 14:35:23 --> Output Class Initialized
+INFO - 2025-08-19 14:35:23 --> Security Class Initialized
+DEBUG - 2025-08-19 14:35:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:35:23 --> Input Class Initialized
+INFO - 2025-08-19 14:35:23 --> Language Class Initialized
+INFO - 2025-08-19 14:35:23 --> Loader Class Initialized
+INFO - 2025-08-19 14:35:23 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:35:23 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:35:23 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:35:23 --> Controller Class Initialized
+INFO - 2025-08-19 14:35:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:35:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:35:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:35:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:35:24 --> Final output sent to browser
+DEBUG - 2025-08-19 14:35:24 --> Total execution time: 0.0755
+INFO - 2025-08-19 14:39:16 --> Config Class Initialized
+INFO - 2025-08-19 14:39:16 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:39:16 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:39:16 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:39:16 --> URI Class Initialized
+INFO - 2025-08-19 14:39:16 --> Router Class Initialized
+INFO - 2025-08-19 14:39:16 --> Output Class Initialized
+INFO - 2025-08-19 14:39:16 --> Security Class Initialized
+DEBUG - 2025-08-19 14:39:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:39:16 --> Input Class Initialized
+INFO - 2025-08-19 14:39:16 --> Language Class Initialized
+INFO - 2025-08-19 14:39:16 --> Loader Class Initialized
+INFO - 2025-08-19 14:39:16 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:39:16 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:39:16 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:39:16 --> Controller Class Initialized
+INFO - 2025-08-19 14:39:16 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:39:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:39:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:39:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:39:16 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:39:16 --> Final output sent to browser
+DEBUG - 2025-08-19 14:39:16 --> Total execution time: 0.1076
+INFO - 2025-08-19 14:39:18 --> Config Class Initialized
+INFO - 2025-08-19 14:39:18 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:39:18 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:39:18 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:39:18 --> URI Class Initialized
+INFO - 2025-08-19 14:39:18 --> Router Class Initialized
+INFO - 2025-08-19 14:39:18 --> Output Class Initialized
+INFO - 2025-08-19 14:39:18 --> Security Class Initialized
+DEBUG - 2025-08-19 14:39:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:39:18 --> Input Class Initialized
+INFO - 2025-08-19 14:39:18 --> Language Class Initialized
+INFO - 2025-08-19 14:39:18 --> Loader Class Initialized
+INFO - 2025-08-19 14:39:18 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:39:18 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:39:18 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:39:18 --> Controller Class Initialized
+INFO - 2025-08-19 14:39:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:39:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:39:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:39:18 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:39:18 --> Final output sent to browser
+DEBUG - 2025-08-19 14:39:18 --> Total execution time: 0.0660
+INFO - 2025-08-19 14:39:19 --> Config Class Initialized
+INFO - 2025-08-19 14:39:19 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:39:19 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:39:19 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:39:19 --> URI Class Initialized
+INFO - 2025-08-19 14:39:19 --> Router Class Initialized
+INFO - 2025-08-19 14:39:19 --> Output Class Initialized
+INFO - 2025-08-19 14:39:19 --> Security Class Initialized
+DEBUG - 2025-08-19 14:39:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:39:19 --> Input Class Initialized
+INFO - 2025-08-19 14:39:19 --> Language Class Initialized
+INFO - 2025-08-19 14:39:19 --> Loader Class Initialized
+INFO - 2025-08-19 14:39:19 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:39:19 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:39:19 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:39:19 --> Controller Class Initialized
+INFO - 2025-08-19 14:39:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:39:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:39:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:39:19 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:39:19 --> Final output sent to browser
+DEBUG - 2025-08-19 14:39:19 --> Total execution time: 0.0758
+INFO - 2025-08-19 14:39:20 --> Config Class Initialized
+INFO - 2025-08-19 14:39:20 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:39:20 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:39:20 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:39:20 --> URI Class Initialized
+INFO - 2025-08-19 14:39:20 --> Router Class Initialized
+INFO - 2025-08-19 14:39:20 --> Output Class Initialized
+INFO - 2025-08-19 14:39:20 --> Security Class Initialized
+DEBUG - 2025-08-19 14:39:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:39:20 --> Input Class Initialized
+INFO - 2025-08-19 14:39:20 --> Language Class Initialized
+INFO - 2025-08-19 14:39:20 --> Loader Class Initialized
+INFO - 2025-08-19 14:39:20 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:39:20 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:39:20 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:39:20 --> Controller Class Initialized
+INFO - 2025-08-19 14:39:20 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:39:20 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:39:20 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:39:20 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:39:20 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:39:20 --> Final output sent to browser
+DEBUG - 2025-08-19 14:39:20 --> Total execution time: 0.0388
+INFO - 2025-08-19 14:39:21 --> Config Class Initialized
+INFO - 2025-08-19 14:39:21 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:39:21 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:39:21 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:39:21 --> URI Class Initialized
+INFO - 2025-08-19 14:39:21 --> Router Class Initialized
+INFO - 2025-08-19 14:39:21 --> Output Class Initialized
+INFO - 2025-08-19 14:39:21 --> Security Class Initialized
+DEBUG - 2025-08-19 14:39:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:39:21 --> Input Class Initialized
+INFO - 2025-08-19 14:39:21 --> Language Class Initialized
+INFO - 2025-08-19 14:39:21 --> Loader Class Initialized
+INFO - 2025-08-19 14:39:21 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:39:21 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:39:21 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:39:21 --> Controller Class Initialized
+INFO - 2025-08-19 14:39:21 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:39:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:39:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:39:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:39:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:39:21 --> Final output sent to browser
+DEBUG - 2025-08-19 14:39:21 --> Total execution time: 0.0603
+INFO - 2025-08-19 14:39:21 --> Config Class Initialized
+INFO - 2025-08-19 14:39:21 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:39:21 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:39:21 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:39:21 --> URI Class Initialized
+INFO - 2025-08-19 14:39:21 --> Router Class Initialized
+INFO - 2025-08-19 14:39:21 --> Output Class Initialized
+INFO - 2025-08-19 14:39:21 --> Security Class Initialized
+DEBUG - 2025-08-19 14:39:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:39:21 --> Input Class Initialized
+INFO - 2025-08-19 14:39:21 --> Language Class Initialized
+INFO - 2025-08-19 14:39:21 --> Loader Class Initialized
+INFO - 2025-08-19 14:39:21 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:39:21 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:39:21 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:39:21 --> Controller Class Initialized
+INFO - 2025-08-19 14:39:21 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:39:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:39:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:39:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:39:21 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:39:21 --> Final output sent to browser
+DEBUG - 2025-08-19 14:39:21 --> Total execution time: 0.0358
+INFO - 2025-08-19 14:39:22 --> Config Class Initialized
+INFO - 2025-08-19 14:39:22 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:39:22 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:39:22 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:39:22 --> URI Class Initialized
+INFO - 2025-08-19 14:39:22 --> Router Class Initialized
+INFO - 2025-08-19 14:39:22 --> Output Class Initialized
+INFO - 2025-08-19 14:39:22 --> Security Class Initialized
+DEBUG - 2025-08-19 14:39:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:39:22 --> Input Class Initialized
+INFO - 2025-08-19 14:39:22 --> Language Class Initialized
+INFO - 2025-08-19 14:39:22 --> Loader Class Initialized
+INFO - 2025-08-19 14:39:22 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:39:22 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:39:22 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:39:22 --> Controller Class Initialized
+INFO - 2025-08-19 14:39:22 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:39:22 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:39:22 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:39:22 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:39:22 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:39:22 --> Final output sent to browser
+DEBUG - 2025-08-19 14:39:22 --> Total execution time: 0.0405
+INFO - 2025-08-19 14:39:23 --> Config Class Initialized
+INFO - 2025-08-19 14:39:23 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:39:23 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:39:23 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:39:23 --> URI Class Initialized
+INFO - 2025-08-19 14:39:23 --> Router Class Initialized
+INFO - 2025-08-19 14:39:23 --> Output Class Initialized
+INFO - 2025-08-19 14:39:23 --> Security Class Initialized
+DEBUG - 2025-08-19 14:39:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:39:23 --> Input Class Initialized
+INFO - 2025-08-19 14:39:23 --> Language Class Initialized
+INFO - 2025-08-19 14:39:23 --> Loader Class Initialized
+INFO - 2025-08-19 14:39:23 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:39:23 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:39:23 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:39:23 --> Controller Class Initialized
+INFO - 2025-08-19 14:39:23 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:39:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:39:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:39:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:39:23 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:39:23 --> Final output sent to browser
+DEBUG - 2025-08-19 14:39:23 --> Total execution time: 0.0571
+INFO - 2025-08-19 14:39:24 --> Config Class Initialized
+INFO - 2025-08-19 14:39:24 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:39:24 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:39:24 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:39:24 --> URI Class Initialized
+INFO - 2025-08-19 14:39:24 --> Router Class Initialized
+INFO - 2025-08-19 14:39:24 --> Output Class Initialized
+INFO - 2025-08-19 14:39:24 --> Security Class Initialized
+DEBUG - 2025-08-19 14:39:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:39:24 --> Input Class Initialized
+INFO - 2025-08-19 14:39:24 --> Language Class Initialized
+INFO - 2025-08-19 14:39:24 --> Loader Class Initialized
+INFO - 2025-08-19 14:39:24 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:39:24 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:39:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:39:24 --> Controller Class Initialized
+INFO - 2025-08-19 14:39:24 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:39:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:39:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:39:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:39:24 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:39:24 --> Final output sent to browser
+DEBUG - 2025-08-19 14:39:24 --> Total execution time: 0.0370
+INFO - 2025-08-19 14:39:25 --> Config Class Initialized
+INFO - 2025-08-19 14:39:25 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:39:25 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:39:25 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:39:25 --> URI Class Initialized
+INFO - 2025-08-19 14:39:25 --> Router Class Initialized
+INFO - 2025-08-19 14:39:25 --> Output Class Initialized
+INFO - 2025-08-19 14:39:25 --> Security Class Initialized
+DEBUG - 2025-08-19 14:39:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:39:25 --> Input Class Initialized
+INFO - 2025-08-19 14:39:25 --> Language Class Initialized
+INFO - 2025-08-19 14:39:25 --> Loader Class Initialized
+INFO - 2025-08-19 14:39:25 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:39:25 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:39:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:39:25 --> Controller Class Initialized
+INFO - 2025-08-19 14:39:25 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:39:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:39:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:39:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:39:25 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:39:25 --> Final output sent to browser
+DEBUG - 2025-08-19 14:39:25 --> Total execution time: 0.0327
+INFO - 2025-08-19 14:39:26 --> Config Class Initialized
+INFO - 2025-08-19 14:39:26 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:39:26 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:39:26 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:39:26 --> URI Class Initialized
+INFO - 2025-08-19 14:39:26 --> Router Class Initialized
+INFO - 2025-08-19 14:39:26 --> Output Class Initialized
+INFO - 2025-08-19 14:39:26 --> Security Class Initialized
+DEBUG - 2025-08-19 14:39:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:39:26 --> Input Class Initialized
+INFO - 2025-08-19 14:39:26 --> Language Class Initialized
+INFO - 2025-08-19 14:39:26 --> Loader Class Initialized
+INFO - 2025-08-19 14:39:26 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:39:26 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:39:26 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:39:26 --> Controller Class Initialized
+INFO - 2025-08-19 14:39:26 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:39:26 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:39:26 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:39:26 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:39:26 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:39:26 --> Final output sent to browser
+DEBUG - 2025-08-19 14:39:26 --> Total execution time: 0.0352
+INFO - 2025-08-19 14:39:27 --> Config Class Initialized
+INFO - 2025-08-19 14:39:27 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:39:27 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:39:27 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:39:27 --> URI Class Initialized
+INFO - 2025-08-19 14:39:27 --> Router Class Initialized
+INFO - 2025-08-19 14:39:27 --> Output Class Initialized
+INFO - 2025-08-19 14:39:27 --> Security Class Initialized
+DEBUG - 2025-08-19 14:39:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:39:27 --> Input Class Initialized
+INFO - 2025-08-19 14:39:27 --> Language Class Initialized
+INFO - 2025-08-19 14:39:27 --> Loader Class Initialized
+INFO - 2025-08-19 14:39:27 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:39:27 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:39:27 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:39:27 --> Controller Class Initialized
+INFO - 2025-08-19 14:39:27 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:39:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:39:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:39:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:39:27 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:39:27 --> Final output sent to browser
+DEBUG - 2025-08-19 14:39:27 --> Total execution time: 0.0408
+INFO - 2025-08-19 14:39:44 --> Config Class Initialized
+INFO - 2025-08-19 14:39:44 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:39:44 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:39:44 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:39:44 --> URI Class Initialized
+INFO - 2025-08-19 14:39:44 --> Router Class Initialized
+INFO - 2025-08-19 14:39:44 --> Output Class Initialized
+INFO - 2025-08-19 14:39:44 --> Security Class Initialized
+DEBUG - 2025-08-19 14:39:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:39:44 --> Input Class Initialized
+INFO - 2025-08-19 14:39:44 --> Language Class Initialized
+INFO - 2025-08-19 14:39:44 --> Loader Class Initialized
+INFO - 2025-08-19 14:39:44 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:39:44 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:39:44 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:39:44 --> Controller Class Initialized
+INFO - 2025-08-19 14:39:44 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:39:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:39:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:39:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:39:44 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:39:44 --> Final output sent to browser
+DEBUG - 2025-08-19 14:39:44 --> Total execution time: 0.0451
+INFO - 2025-08-19 14:39:45 --> Config Class Initialized
+INFO - 2025-08-19 14:39:45 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:39:45 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:39:45 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:39:45 --> URI Class Initialized
+INFO - 2025-08-19 14:39:45 --> Router Class Initialized
+INFO - 2025-08-19 14:39:45 --> Output Class Initialized
+INFO - 2025-08-19 14:39:45 --> Security Class Initialized
+DEBUG - 2025-08-19 14:39:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:39:45 --> Input Class Initialized
+INFO - 2025-08-19 14:39:45 --> Language Class Initialized
+INFO - 2025-08-19 14:39:45 --> Loader Class Initialized
+INFO - 2025-08-19 14:39:45 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:39:45 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:39:45 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:39:45 --> Controller Class Initialized
+INFO - 2025-08-19 14:39:45 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:39:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:39:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:39:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:39:45 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:39:45 --> Final output sent to browser
+DEBUG - 2025-08-19 14:39:45 --> Total execution time: 0.0310
+INFO - 2025-08-19 14:42:51 --> Config Class Initialized
+INFO - 2025-08-19 14:42:51 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:42:51 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:42:51 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:42:51 --> URI Class Initialized
+INFO - 2025-08-19 14:42:51 --> Router Class Initialized
+INFO - 2025-08-19 14:42:51 --> Output Class Initialized
+INFO - 2025-08-19 14:42:51 --> Security Class Initialized
+DEBUG - 2025-08-19 14:42:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:42:51 --> Input Class Initialized
+INFO - 2025-08-19 14:42:51 --> Language Class Initialized
+INFO - 2025-08-19 14:42:51 --> Loader Class Initialized
+INFO - 2025-08-19 14:42:51 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:42:51 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:42:51 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:42:51 --> Controller Class Initialized
+INFO - 2025-08-19 14:42:51 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:42:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:42:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:42:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:42:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:42:51 --> Final output sent to browser
+DEBUG - 2025-08-19 14:42:51 --> Total execution time: 0.1720
+INFO - 2025-08-19 14:43:00 --> Config Class Initialized
+INFO - 2025-08-19 14:43:00 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:43:00 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:43:00 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:43:00 --> URI Class Initialized
+INFO - 2025-08-19 14:43:00 --> Router Class Initialized
+INFO - 2025-08-19 14:43:00 --> Output Class Initialized
+INFO - 2025-08-19 14:43:00 --> Security Class Initialized
+DEBUG - 2025-08-19 14:43:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:43:00 --> Input Class Initialized
+INFO - 2025-08-19 14:43:00 --> Language Class Initialized
+INFO - 2025-08-19 14:43:00 --> Loader Class Initialized
+INFO - 2025-08-19 14:43:00 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:43:00 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:43:00 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:43:00 --> Controller Class Initialized
+INFO - 2025-08-19 14:43:00 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:43:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:43:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:43:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:43:00 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:43:00 --> Final output sent to browser
+DEBUG - 2025-08-19 14:43:00 --> Total execution time: 0.0480
+INFO - 2025-08-19 14:43:02 --> Config Class Initialized
+INFO - 2025-08-19 14:43:02 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:43:02 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:43:02 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:43:02 --> URI Class Initialized
+INFO - 2025-08-19 14:43:02 --> Router Class Initialized
+INFO - 2025-08-19 14:43:02 --> Output Class Initialized
+INFO - 2025-08-19 14:43:02 --> Security Class Initialized
+DEBUG - 2025-08-19 14:43:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:43:02 --> Input Class Initialized
+INFO - 2025-08-19 14:43:02 --> Language Class Initialized
+INFO - 2025-08-19 14:43:02 --> Loader Class Initialized
+INFO - 2025-08-19 14:43:02 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:43:02 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:43:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:43:02 --> Controller Class Initialized
+INFO - 2025-08-19 14:43:02 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:43:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:43:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:43:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:43:02 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:43:02 --> Final output sent to browser
+DEBUG - 2025-08-19 14:43:02 --> Total execution time: 0.0412
+INFO - 2025-08-19 14:45:51 --> Config Class Initialized
+INFO - 2025-08-19 14:45:51 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:45:51 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:45:51 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:45:51 --> URI Class Initialized
+INFO - 2025-08-19 14:45:51 --> Router Class Initialized
+INFO - 2025-08-19 14:45:51 --> Output Class Initialized
+INFO - 2025-08-19 14:45:51 --> Security Class Initialized
+DEBUG - 2025-08-19 14:45:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:45:51 --> Input Class Initialized
+INFO - 2025-08-19 14:45:51 --> Language Class Initialized
+INFO - 2025-08-19 14:45:51 --> Loader Class Initialized
+INFO - 2025-08-19 14:45:51 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:45:51 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:45:51 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:45:51 --> Controller Class Initialized
+INFO - 2025-08-19 14:45:51 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:45:51 --> Upload Class Initialized
+INFO - 2025-08-19 14:45:51 --> Config Class Initialized
+INFO - 2025-08-19 14:45:51 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:45:51 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:45:51 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:45:51 --> URI Class Initialized
+INFO - 2025-08-19 14:45:51 --> Router Class Initialized
+INFO - 2025-08-19 14:45:51 --> Output Class Initialized
+INFO - 2025-08-19 14:45:51 --> Security Class Initialized
+DEBUG - 2025-08-19 14:45:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:45:51 --> Input Class Initialized
+INFO - 2025-08-19 14:45:51 --> Language Class Initialized
+INFO - 2025-08-19 14:45:51 --> Loader Class Initialized
+INFO - 2025-08-19 14:45:51 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:45:51 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:45:51 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:45:51 --> Controller Class Initialized
+INFO - 2025-08-19 14:45:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:45:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:45:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:45:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:45:51 --> Final output sent to browser
+DEBUG - 2025-08-19 14:45:51 --> Total execution time: 0.0726
+INFO - 2025-08-19 14:45:55 --> Config Class Initialized
+INFO - 2025-08-19 14:45:55 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:45:55 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:45:55 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:45:55 --> URI Class Initialized
+INFO - 2025-08-19 14:45:55 --> Router Class Initialized
+INFO - 2025-08-19 14:45:55 --> Output Class Initialized
+INFO - 2025-08-19 14:45:55 --> Security Class Initialized
+DEBUG - 2025-08-19 14:45:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:45:55 --> Input Class Initialized
+INFO - 2025-08-19 14:45:55 --> Language Class Initialized
+INFO - 2025-08-19 14:45:55 --> Loader Class Initialized
+INFO - 2025-08-19 14:45:55 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:45:55 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:45:55 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:45:55 --> Controller Class Initialized
+INFO - 2025-08-19 14:45:55 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:45:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:45:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:45:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:45:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:45:55 --> Final output sent to browser
+DEBUG - 2025-08-19 14:45:55 --> Total execution time: 0.0392
+INFO - 2025-08-19 14:48:50 --> Config Class Initialized
+INFO - 2025-08-19 14:48:50 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:48:50 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:48:50 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:48:50 --> URI Class Initialized
+INFO - 2025-08-19 14:48:50 --> Router Class Initialized
+INFO - 2025-08-19 14:48:50 --> Output Class Initialized
+INFO - 2025-08-19 14:48:50 --> Security Class Initialized
+DEBUG - 2025-08-19 14:48:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:48:50 --> Input Class Initialized
+INFO - 2025-08-19 14:48:50 --> Language Class Initialized
+INFO - 2025-08-19 14:48:50 --> Loader Class Initialized
+INFO - 2025-08-19 14:48:50 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:48:50 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:48:50 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:48:50 --> Controller Class Initialized
+INFO - 2025-08-19 14:48:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:48:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:48:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:48:51 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:48:51 --> Final output sent to browser
+DEBUG - 2025-08-19 14:48:51 --> Total execution time: 0.1600
+INFO - 2025-08-19 14:48:52 --> Config Class Initialized
+INFO - 2025-08-19 14:48:52 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:48:52 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:48:52 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:48:52 --> URI Class Initialized
+INFO - 2025-08-19 14:48:52 --> Router Class Initialized
+INFO - 2025-08-19 14:48:52 --> Output Class Initialized
+INFO - 2025-08-19 14:48:52 --> Security Class Initialized
+DEBUG - 2025-08-19 14:48:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:48:52 --> Input Class Initialized
+INFO - 2025-08-19 14:48:52 --> Language Class Initialized
+INFO - 2025-08-19 14:48:52 --> Loader Class Initialized
+INFO - 2025-08-19 14:48:52 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:48:52 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:48:52 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:48:52 --> Controller Class Initialized
+INFO - 2025-08-19 14:48:52 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:48:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:48:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:48:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:48:52 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:48:52 --> Final output sent to browser
+DEBUG - 2025-08-19 14:48:52 --> Total execution time: 0.0340
+INFO - 2025-08-19 14:48:54 --> Config Class Initialized
+INFO - 2025-08-19 14:48:54 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:48:54 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:48:54 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:48:54 --> URI Class Initialized
+INFO - 2025-08-19 14:48:54 --> Router Class Initialized
+INFO - 2025-08-19 14:48:54 --> Output Class Initialized
+INFO - 2025-08-19 14:48:54 --> Security Class Initialized
+DEBUG - 2025-08-19 14:48:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:48:54 --> Input Class Initialized
+INFO - 2025-08-19 14:48:54 --> Language Class Initialized
+INFO - 2025-08-19 14:48:54 --> Loader Class Initialized
+INFO - 2025-08-19 14:48:54 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:48:54 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:48:54 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:48:54 --> Controller Class Initialized
+INFO - 2025-08-19 14:48:54 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:48:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:48:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:48:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:48:54 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:48:54 --> Final output sent to browser
+DEBUG - 2025-08-19 14:48:54 --> Total execution time: 0.0462
+INFO - 2025-08-19 14:48:55 --> Config Class Initialized
+INFO - 2025-08-19 14:48:55 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:48:55 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:48:55 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:48:55 --> URI Class Initialized
+INFO - 2025-08-19 14:48:55 --> Router Class Initialized
+INFO - 2025-08-19 14:48:55 --> Output Class Initialized
+INFO - 2025-08-19 14:48:55 --> Security Class Initialized
+DEBUG - 2025-08-19 14:48:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:48:55 --> Input Class Initialized
+INFO - 2025-08-19 14:48:55 --> Language Class Initialized
+INFO - 2025-08-19 14:48:55 --> Loader Class Initialized
+INFO - 2025-08-19 14:48:55 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:48:55 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:48:55 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:48:55 --> Controller Class Initialized
+INFO - 2025-08-19 14:48:55 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:48:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:48:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:48:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:48:55 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:48:55 --> Final output sent to browser
+DEBUG - 2025-08-19 14:48:55 --> Total execution time: 0.0401
+INFO - 2025-08-19 14:48:57 --> Config Class Initialized
+INFO - 2025-08-19 14:48:57 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:48:57 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:48:57 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:48:57 --> URI Class Initialized
+INFO - 2025-08-19 14:48:57 --> Router Class Initialized
+INFO - 2025-08-19 14:48:57 --> Output Class Initialized
+INFO - 2025-08-19 14:48:57 --> Security Class Initialized
+DEBUG - 2025-08-19 14:48:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:48:57 --> Input Class Initialized
+INFO - 2025-08-19 14:48:57 --> Language Class Initialized
+INFO - 2025-08-19 14:48:57 --> Loader Class Initialized
+INFO - 2025-08-19 14:48:57 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:48:57 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:48:57 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:48:57 --> Controller Class Initialized
+INFO - 2025-08-19 14:48:57 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:48:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:48:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:48:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:48:57 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:48:57 --> Final output sent to browser
+DEBUG - 2025-08-19 14:48:57 --> Total execution time: 0.0361
+INFO - 2025-08-19 14:49:08 --> Config Class Initialized
+INFO - 2025-08-19 14:49:08 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:49:08 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:49:08 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:49:08 --> URI Class Initialized
+INFO - 2025-08-19 14:49:08 --> Router Class Initialized
+INFO - 2025-08-19 14:49:08 --> Output Class Initialized
+INFO - 2025-08-19 14:49:08 --> Security Class Initialized
+DEBUG - 2025-08-19 14:49:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:49:08 --> Input Class Initialized
+INFO - 2025-08-19 14:49:08 --> Language Class Initialized
+INFO - 2025-08-19 14:49:08 --> Loader Class Initialized
+INFO - 2025-08-19 14:49:08 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:49:08 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:49:08 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:49:08 --> Controller Class Initialized
+INFO - 2025-08-19 14:49:08 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:49:08 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:49:08 --> File loaded: D:\Project\template-frontend-ci3\application\views\dashboard_kinerja.php
+INFO - 2025-08-19 14:49:08 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:49:08 --> Final output sent to browser
+DEBUG - 2025-08-19 14:49:08 --> Total execution time: 0.0906
+INFO - 2025-08-19 14:49:09 --> Config Class Initialized
+INFO - 2025-08-19 14:49:09 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:49:09 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:49:09 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:49:09 --> URI Class Initialized
+INFO - 2025-08-19 14:49:09 --> Router Class Initialized
+INFO - 2025-08-19 14:49:09 --> Output Class Initialized
+INFO - 2025-08-19 14:49:09 --> Security Class Initialized
+DEBUG - 2025-08-19 14:49:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:49:09 --> Input Class Initialized
+INFO - 2025-08-19 14:49:09 --> Language Class Initialized
+INFO - 2025-08-19 14:49:09 --> Loader Class Initialized
+INFO - 2025-08-19 14:49:09 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:49:09 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:49:09 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:49:09 --> Controller Class Initialized
+INFO - 2025-08-19 14:49:09 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:49:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:49:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:49:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:49:09 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:49:09 --> Final output sent to browser
+DEBUG - 2025-08-19 14:49:09 --> Total execution time: 0.0349
+INFO - 2025-08-19 14:49:10 --> Config Class Initialized
+INFO - 2025-08-19 14:49:10 --> Hooks Class Initialized
+DEBUG - 2025-08-19 14:49:10 --> UTF-8 Support Enabled
+INFO - 2025-08-19 14:49:10 --> Utf8 Class Initialized
+INFO - 2025-08-19 14:49:10 --> URI Class Initialized
+INFO - 2025-08-19 14:49:10 --> Router Class Initialized
+INFO - 2025-08-19 14:49:10 --> Output Class Initialized
+INFO - 2025-08-19 14:49:10 --> Security Class Initialized
+DEBUG - 2025-08-19 14:49:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-19 14:49:10 --> Input Class Initialized
+INFO - 2025-08-19 14:49:10 --> Language Class Initialized
+INFO - 2025-08-19 14:49:10 --> Loader Class Initialized
+INFO - 2025-08-19 14:49:10 --> Helper loaded: url_helper
+INFO - 2025-08-19 14:49:10 --> Database Driver Class Initialized
+INFO - 2025-08-19 14:49:10 --> Session: Class initialized using 'files' driver.
+INFO - 2025-08-19 14:49:10 --> Controller Class Initialized
+INFO - 2025-08-19 14:49:10 --> Model "Sasaran_model" initialized
+INFO - 2025-08-19 14:49:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_header.php
+INFO - 2025-08-19 14:49:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_nav.php
+INFO - 2025-08-19 14:49:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\admin.php
+INFO - 2025-08-19 14:49:10 --> File loaded: D:\Project\template-frontend-ci3\application\views\layout/lay_footer.php
+INFO - 2025-08-19 14:49:10 --> Final output sent to browser
+DEBUG - 2025-08-19 14:49:10 --> Total execution time: 0.0465

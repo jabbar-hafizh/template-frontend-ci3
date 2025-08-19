@@ -27,54 +27,60 @@ class Laporan extends CI_Controller
 		$this->load->view('layout/lay_footer');
 	}
 
-	public function simpan_data()
+
+	public function upload()
 	{
-		$periode = $this->input->post('periode', true);
-		$tahun = $this->input->post('tahun', true);
+		$unit_kerja = $this->input->post('unit_kerja');
+		$periode = $this->input->post('periode');
+		$tahun = $this->input->post('tahun_periode');
+		$user_id = $this->session->userdata('user_id');
 
-		// Mulai transaksi database
-		$this->db->trans_start();
-
-		foreach ($this->input->post() as $key => $value) {
-			if (strpos($key, 'indikator_') === 0) {
-				$indikator_id = str_replace('indikator_', '', $key);
-				$nilai = trim($value) === '' ? null : (float) $value; // Pastikan nilai kosong jadi NULL
-
-				// Cek apakah data indikator dengan periode & tahun sudah ada
-				$cek = $this->db
-					->where('indikator_kinerja_id', $indikator_id)
-					->where('periode', $periode)
-					->where('tahun', $tahun)
-					->get('indikator_data')
-					->row();
-
-				if ($cek) {
-					// Update nilai
-					$this->db->where('id', $cek->id);
-					$this->db->update('indikator_data', [
-						'nilai' => $nilai,
-						'updated_at' => date('Y-m-d H:i:s')
-					]);
-				} else {
-					// Insert data baru
-					$this->db->insert('indikator_data', [
-						'indikator_kinerja_id' => $indikator_id,
-						'periode' => $periode,
-						'tahun' => $tahun,
-						'nilai' => $nilai,
-						'created_at' => date('Y-m-d H:i:s')
-					]);
-				}
-			}
+		// Pastikan folder upload ada
+		$upload_path = './uploads/laporan/';
+		if (!is_dir($upload_path)) {
+			mkdir($upload_path, 0777, true);
 		}
 
-		// Selesaikan transaksi
-		$this->db->trans_complete();
+		if (!empty($_FILES['file_pendukung']['name'][0])) {
+			$files = $_FILES;
+			$count = count($_FILES['file_pendukung']['name']);
 
-		if ($this->db->trans_status() === false) {
-			$this->session->set_flashdata('error', 'Terjadi kesalahan saat menyimpan data.');
+			for ($i = 0; $i < $count; $i++) {
+				$_FILES['file_pendukung']['name'] = $files['file_pendukung']['name'][$i];
+				$_FILES['file_pendukung']['type'] = $files['file_pendukung']['type'][$i];
+				$_FILES['file_pendukung']['tmp_name'] = $files['file_pendukung']['tmp_name'][$i];
+				$_FILES['file_pendukung']['error'] = $files['file_pendukung']['error'][$i];
+				$_FILES['file_pendukung']['size'] = $files['file_pendukung']['size'][$i];
+
+				$config['upload_path'] = $upload_path;
+				$config['allowed_types'] = 'pdf|zip|rar|jpg|jpeg|png|gif';
+				$config['max_size'] = 20000; // 20 MB
+				$config['encrypt_name'] = TRUE;
+
+				$this->upload->initialize($config);
+
+				if ($this->upload->do_upload('file_pendukung')) {
+					$uploadData = $this->upload->data();
+
+					// simpan ke database
+					$this->db->insert('dokumen_laporan', [
+						'unit_kerja' => $unit_kerja,
+						'periode' => $periode,
+						'tahun' => $tahun,
+						'url' => base_url('uploads/laporan/' . $uploadData['file_name']),
+						'created_at' => date('Y-m-d H:i:s'),
+						'user_id' => $user_id
+					]);
+
+				} else {
+					$this->session->set_flashdata('error', $this->upload->display_errors());
+					redirect('laporan');
+				}
+			}
+
+			$this->session->set_flashdata('success', 'File laporan berhasil diupload.');
 		} else {
-			$this->session->set_flashdata('success', 'Data berhasil disimpan.');
+			$this->session->set_flashdata('error', 'Tidak ada file yang dipilih.');
 		}
 
 		redirect('laporan');
@@ -82,12 +88,31 @@ class Laporan extends CI_Controller
 
 	public function hapus($id)
 	{
-		// Hapus data di database
-		$this->db->where('id', $id);
-		$this->db->delete('dokumen_laporan'); // ganti dengan nama tabel
+		// Cek dulu apakah user masih login
+		if (!$this->session->userdata('user_id')) {
+			$this->session->set_flashdata('error', 'Sesi anda sudah habis, silakan login kembali.');
+			redirect('auth/login');
+		}
 
-		// Redirect kembali dengan pesan
-		$this->session->set_flashdata('success', 'Data berhasil dihapus');
+		// Ambil data dulu sebelum dihapus (untuk tahu lokasi file)
+		$dokumen = $this->db->get_where('dokumen_laporan', ['id' => $id])->row();
+
+		if ($dokumen) {
+			// Hapus file fisik jika ada
+			$file_path = str_replace(base_url(), FCPATH, $dokumen->url);
+			if (file_exists($file_path)) {
+				unlink($file_path);
+			}
+
+			// Hapus data dari database
+			$this->db->where('id', $id);
+			$this->db->delete('dokumen_laporan');
+
+			$this->session->set_flashdata('success', 'Data dan file berhasil dihapus.');
+		} else {
+			$this->session->set_flashdata('error', 'Data tidak ditemukan.');
+		}
+
 		redirect('laporan');
 	}
 

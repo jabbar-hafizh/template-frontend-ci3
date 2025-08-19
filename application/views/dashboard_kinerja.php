@@ -12,28 +12,47 @@
         <!-- Dropdown Tahun & Periode di kanan -->
         <div class="col-lg-6 col-md-12 d-flex justify-content-lg-end flex-wrap">
 
-          <!-- Tahun -->
-          <div class="mr-2 mb-2">
-            <label class="font-weight-bold mr-2 d-block d-lg-inline">Tahun</label>
-            <select name="tahun_periode" class="custom-select custom-select-sm w-auto">
-              <option value="2025">2025</option>
-              <option value="2024">2024</option>
-            </select>
-          </div>
+          <?php
+          $tahunList = range(date('Y'), 2020); // Tahun dari sekarang mundur ke 2020
+          $periodeList = [
+            "Triwulan I",
+            "Triwulan II",
+            "Triwulan III",
+            "Triwulan IV",
+            "Semester I",
+            "Semester II",
+            "Tahunan"
+          ];
 
-          <!-- Periode -->
-          <div class="mb-2">
-            <label class="font-weight-bold mr-2 d-block d-lg-inline">Periode</label>
-            <select name="periode" class="custom-select custom-select-sm w-auto">
-              <option value="Triwulan I">Triwulan I</option>
-              <option value="Triwulan II">Triwulan II</option>
-              <option value="Triwulan III">Triwulan III</option>
-              <option value="Triwulan IV">Triwulan IV</option>
-              <option value="Semester I">Semester I</option>
-              <option value="Semester II">Semester II</option>
-              <option value="Tahunan">Tahunan</option>
-            </select>
-          </div>
+          // ambil query string biar bisa set default value dropdown
+          $currentTahun = $_GET['tahun'] ?? date('Y');
+          $currentPeriode = $_GET['periode'] ?? "Tahunan";
+          ?>
+
+          <form id="filterForm" class="form-inline">
+            <div class="mr-2 mb-2">
+              <label class="font-weight-bold mr-2 d-block d-lg-inline">Tahun</label>
+              <select name="tahun" class="custom-select custom-select-sm w-auto">
+                <?php foreach ($tahunList as $t): ?>
+                  <option value="<?= $t ?>" <?= ($currentTahun == $t) ? 'selected' : '' ?>>
+                    <?= $t ?>
+                  </option>
+                <?php endforeach; ?>
+              </select>
+            </div>
+
+            <div class="mb-2">
+              <label class="font-weight-bold mr-2 d-block d-lg-inline">Periode</label>
+              <select name="periode" class="custom-select custom-select-sm w-auto">
+                <?php foreach ($periodeList as $p): ?>
+                  <option value="<?= $p ?>" <?= ($currentPeriode == $p) ? 'selected' : '' ?>>
+                    <?= $p ?>
+                  </option>
+                <?php endforeach; ?>
+              </select>
+            </div>
+          </form>
+
         </div>
       </div>
       <div class="card-header bg-gradient-primary" style="border-radius: 0.35rem;">
@@ -77,17 +96,32 @@
                   </span>
                 </h7>
 
-                <p class="small mb-0 ml-2 float-right"> <?= $ik->persentase ?? 0 ?>%</p>
+                <?php if ($ik->tipe_target === 'persentase'): ?>
+                  <!-- Jika persentase -->
+                  <p class="small mb-0 ml-2 float-right">
+                    <?= number_format($ik->persentase, 2) ?>%
+                  </p>
+                <?php else: ?>
+                  <!-- Jika jumlah / target -->
+                  <p class="small mb-0 ml-2 float-right">
+                    <?= $ik->hasil ?> / <?= $ik->target ?>
+                  </p>
+                <?php endif; ?>
+
                 <div class="progress mb-2">
-                  <div
-                    class="progress-bar 
-                    <?= ($ik->persentase >= 80) ? 'bg-success' : (($ik->persentase >= 50) ? 'bg-warning' : 'bg-danger') ?>"
-                    role="progressbar" style="width: <?= $ik->persentase ?? 0 ?>%"
+                  <div class="progress-bar 
+    <?= ($ik->persentase >= 100) ? 'bg-success'
+      : (($ik->persentase >= 60) ? 'bg-info'
+        : (($ik->persentase >= 40) ? 'bg-primary'
+          : (($ik->persentase >= 20) ? 'bg-warning'
+            : 'bg-danger'))) ?>" role="progressbar" style="width: <?= $ik->persentase ?? 0 ?>%"
                     aria-valuenow="<?= $ik->persentase ?? 0 ?>" aria-valuemin="0" aria-valuemax="100">
                   </div>
                 </div>
 
+
                 <!-- Detail data indikator -->
+
                 <?php foreach ($ik->data_indikator as $data): ?>
                   <p class="small mb-0">
                     <?= $data->nama ?> : <?= !empty($data->nilai) ? $data->nilai : '0' ?>
@@ -104,4 +138,21 @@
     <?php endforeach; ?>
 
   </div>
+
+  <script>
+    // Ambil semua dropdown dalam form
+    document.querySelectorAll('#filterForm select').forEach(el => {
+      el.addEventListener('change', function () {
+        const params = new URLSearchParams(window.location.search);
+
+        // update query sesuai dropdown yg dipilih
+        params.set(this.name, this.value);
+
+        // reload halaman dengan query yg sudah diupdate
+        window.location.search = params.toString();
+      });
+    });
+  </script>
+
+
 </div>

@@ -40,4 +40,36 @@ class Sasaran_model extends CI_Model
 
         return $sasaran;
     }
+
+    public function get_with_indikator($tahun, $periode)
+    {
+        // Ambil semua sasaran program
+        $sasaran = $this->db->get('sasaran_program')->result();
+
+        foreach ($sasaran as &$sp) {
+            // Ambil indikator kinerja per sasaran
+            $sp->indikator = $this->db->where('sasaran_program_id', $sp->id)
+                ->get('indikator_kinerja')
+                ->result();
+
+            foreach ($sp->indikator as &$ik) {
+                // Cari hasil dari tabel indikator_hasil sesuai tahun & periode
+                $hasil = $this->db->where('indikator_kinerja_id', $ik->id)
+                    ->where('tahun', $tahun)
+                    ->where('periode', $periode)
+                    ->get('indikator_hasil')
+                    ->row();
+
+                // Persentase = hasil langsung (kalau null → 0)
+                $ik->persentase = $hasil ? (float) $hasil->hasil : 0;
+
+                // Ambil data indikator (detail)
+                $ik->data_indikator = $this->db->where('indikator_kinerja_id', $ik->id)
+                    ->get('indikator_data')
+                    ->result();
+            }
+        }
+
+        return $sasaran;
+    }
 }

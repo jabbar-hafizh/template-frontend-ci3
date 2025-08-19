@@ -62,34 +62,8 @@
 <!-- Page level custom scripts -->
 <script src="<?= base_url('assets/'); ?>js/demo/datatables-demo.js"></script>
 
-<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
 
-<!-- SweetAlert2 for delete confirmation -->
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    document.querySelectorAll('.btn-delete').forEach(function (button) {
-      button.addEventListener('click', function () {
-        let id = this.getAttribute('data-id');
-
-        Swal.fire({
-          title: 'Yakin ingin menghapus?',
-          text: "Data yang dihapus tidak dapat dikembalikan!",
-          icon: 'warning',
-          showCancelButton: true,
-          confirmButtonColor: '#d33',
-          cancelButtonColor: '#3085d6',
-          confirmButtonText: 'Ya, hapus!',
-          cancelButtonText: 'Batal'
-        }).then((result) => {
-          if (result.isConfirmed) {
-            window.location.href = "<?= base_url('laporan/hapus/') ?>" + id;
-          }
-        });
-      });
-    });
-  });
-</script>
 </body>
 
 </html>
