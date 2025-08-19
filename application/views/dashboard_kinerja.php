@@ -13,7 +13,7 @@
         <div class="col-lg-6 col-md-12 d-flex justify-content-lg-end flex-wrap">
 
           <?php
-          $tahunList = range(date('Y'), 2020); // Tahun dari sekarang mundur ke 2020
+          $tahunList = range(date('Y'), 2024); // Tahun dari sekarang mundur ke 2020
           $periodeList = [
             "Triwulan I",
             "Triwulan II",

@@ -23,15 +23,22 @@
       <div class="col-md-6">
         <label class="font-weight-bold m-2">Tahun Periode</label>
         <select name="tahun_periode" class="custom-select custom-select-sm">
-          <option value="2025" <?= (isset($_POST['tahun_periode']) && $_POST['tahun_periode'] == '2025') ? 'selected' : '' ?>>2025</option>
-          <option value="2024" <?= (isset($_POST['tahun_periode']) && $_POST['tahun_periode'] == '2024') ? 'selected' : '' ?>>2024</option>
+          <?php
+          $tahunList = range(date('Y'), 2024); // Tahun dari sekarang mundur ke 2020
+          $currentTahun = $_GET['tahun_periode'] ?? date('Y');
+          ?>
+          <?php foreach ($tahunList as $t): ?>
+            <option value="<?= $t ?>" <?= ($currentTahun == $t) ? 'selected' : '' ?>>
+              <?= $t ?>
+            </option>
+          <?php endforeach; ?>
         </select>
       </div>
 
       <!-- Periode -->
       <div class="col-md-6">
         <label class="font-weight-bold m-2">Periode</label>
-        <select name="periode" id="filterPeriode" class="custom-select custom-select-sm">
+        <select name="periode" class="custom-select custom-select-sm">
           <?php
           $periode_options = ['Triwulan I', 'Triwulan II', 'Triwulan III', 'Triwulan IV', 'Semester I', 'Semester II', 'Tahunan'];
           $selected_periode = $_POST['periode'] ?? $periode_options[0];
@@ -93,24 +100,21 @@
 
   </form>
 
-  <script>
-    const filterSelect = document.getElementById('filterPeriode');
-
-    function filterCards() {
-      const selected = filterSelect.value;
-      document.querySelectorAll('.card[data-periode]').forEach(card => {
-        if (card.getAttribute('data-periode') === selected) {
-          card.style.display = '';
-        } else {
-          card.style.display = 'none';
-        }
+  <!-- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <?php
+  $success = $this->session->flashdata('success');
+  if ($success): ?>
+    <script>
+      Swal.fire({
+        icon: 'success',
+        title: 'Berhasil',
+        text: '<?= $success ?>',
+        showConfirmButton: false,
+        timer: 2000
       });
-    }
+    </script>
+  <?php endif; ?> -->
 
-    filterSelect.addEventListener('change', filterCards);
 
-    // Jalankan filter saat halaman load
-    document.addEventListener('DOMContentLoaded', filterCards);
-  </script>
 
 </div>
