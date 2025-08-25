@@ -331,9 +331,9 @@ class Admin extends CI_Controller
         $this->db->trans_complete();
 
         if ($this->db->trans_status() === false) {
-            $this->session->set_flashdata('error', 'Gagal menyimpan data.');
+            $this->session->set_flashdata('error_simpan', 'Gagal menyimpan data.');
         } else {
-            $this->session->set_flashdata('success', 'Data berhasil disimpan.');
+            $this->session->set_flashdata('success_simpan', 'Data berhasil disimpan.');
         }
 
         redirect('dashboard');

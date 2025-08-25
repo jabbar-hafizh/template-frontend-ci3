@@ -40,7 +40,7 @@
         <label class="font-weight-bold m-2">Periode</label>
         <select name="periode" class="custom-select custom-select-sm">
           <?php
-          $periode_options = ['Triwulan I', 'Triwulan II', 'Triwulan III', 'Triwulan IV', 'Semester I', 'Semester II', 'Tahunan'];
+          $periode_options = ['Triwulan I', 'Triwulan II', 'Triwulan III', 'Triwulan IV'];
           $selected_periode = $_POST['periode'] ?? $periode_options[0];
           foreach ($periode_options as $opt):
             ?>
@@ -100,20 +100,7 @@
 
   </form>
 
-  <!-- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-  <?php
-  $success = $this->session->flashdata('success');
-  if ($success): ?>
-    <script>
-      Swal.fire({
-        icon: 'success',
-        title: 'Berhasil',
-        text: '<?= $success ?>',
-        showConfirmButton: false,
-        timer: 2000
-      });
-    </script>
-  <?php endif; ?> -->
+  
 
 
 

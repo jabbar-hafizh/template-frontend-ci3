@@ -127,6 +127,8 @@ class Dashboard extends CI_Controller
             'periode' => $periode
         ];
 
+
+
         // Layout
         $this->load->view('layout/lay_header', $data);
         $this->load->view('layout/lay_nav', $data);

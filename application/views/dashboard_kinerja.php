@@ -154,5 +154,39 @@
     });
   </script>
 
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+  <?php
+  $successSimpan = $this->session->flashdata('success_simpan');
+  $errorSimpan = $this->session->flashdata('error_simpan');
+  ?>
+
+  <?php if (!empty($successSimpan)): ?>
+    <script>
+      Swal.fire({
+        icon: 'success',
+        title: 'Berhasil',
+        text: '<?= $successSimpan ?>',
+        showConfirmButton: false,
+        timer: 2000
+      });
+    </script>
+  <?php endif; ?>
+
+  <?php if (!empty($errorSimpan)): ?>
+    <script>
+      Swal.fire({
+        icon: 'error',
+        title: 'Gagal',
+        text: '<?= $error ?>',
+        showConfirmButton: true
+      });
+    </script>
+  <?php endif; ?>
+
+  <?php
+  // cukup hapus key success & error
+  $this->session->unset_userdata(['success_simpan', 'error_simpan']);
+  ?>
 
 </div>
